@@ -1414,5 +1414,167 @@
       Address: Rt. 4, Box 403, Soperton, Treutlen, GA 30457-9200]]></description>
         <Point><coordinates>-82.4659527777778,32.4253604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS10397-A</name>
+        <description><![CDATA[Date: 7/8/25 11:46 AM
+      Site Name: Benoit
+      AGL: 341
+      Tower Type: Guyed
+      Address: 2941 Highway 1, Benoit, Bolivar, MS 38725]]></description>
+        <Point><coordinates>-90.9846607777778,33.7032416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13287-A</name>
+        <description><![CDATA[Date: 7/8/25 11:55 AM
+      Site Name: HWY 32 -1
+      AGL: 345
+      Tower Type: Guyed
+      Address: 13626 New Offenburg Rd., St. Genevieve, Ste. Genevieve, MO 63670]]></description>
+        <Point><coordinates>-90.2039694444445,37.9057888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08653-A</name>
+        <description><![CDATA[Date: 7/8/25 11:56 AM
+      Site Name: Brevard
+      AGL: 150
+      Tower Type: Monopole
+      Address: 144 W. Jordan Street, Brevard, Transylvania, NC 28712-3649]]></description>
+        <Point><coordinates>-82.7367802222222,35.2340107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07246-A</name>
+        <description><![CDATA[Date: 7/8/25 11:55 AM
+      Site Name: Saddlewood - Hardin
+      AGL: 311
+      Tower Type: Guyed
+      Address: 40 Saddlewood Lane, Hardin, Marshall, KY 42048]]></description>
+        <Point><coordinates>-88.3115027777778,36.7628361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20776-A</name>
+        <description><![CDATA[Date: 7/8/25 11:42 AM
+      Site Name: Rocheport
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12121 OLD ROCHEPORT ROAD, Rocheport, BOONE, MO 65279]]></description>
+        <Point><coordinates>-92.5220187777778,38.9792048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08653-A</name>
+        <description><![CDATA[Date: 7/8/25 11:55 AM
+      Site Name: Brevard
+      AGL: 150
+      Tower Type: Monopole
+      Address: 144 W. Jordan Street, Brevard, Transylvania, NC 28712-3649]]></description>
+        <Point><coordinates>-82.7367802222222,35.2340107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22485-A</name>
+        <description><![CDATA[Date: 7/8/25 11:55 AM
+      Site Name: W Teutopolis
+      AGL: 196
+      Tower Type: Self Support
+      Address: 18861 US Hwy 40, Teutopolis, Effingham, IL 62467]]></description>
+        <Point><coordinates>-88.4537222222222,39.134958,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK47571-A</name>
+        <description><![CDATA[Date: 7/8/25 11:51 AM
+      Site Name: Bob White & Sooner
+      AGL: 150
+      Tower Type: Monopole
+      Address: 575 E Simmons Rd, Edmond, Logan, OK 73034]]></description>
+        <Point><coordinates>-97.4205743333333,35.7395635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46168-A</name>
+        <description><![CDATA[Date: 7/8/25 11:57 AM
+      Site Name: Longwood Stor-it
+      AGL: 125
+      Tower Type: Monopole
+      Address: 1178 West SR 434, Longwood, Seminole, FL 32750]]></description>
+        <Point><coordinates>-81.3681937777778,28.6964441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41895-T</name>
+        <description><![CDATA[Date: 7/8/25 11:57 AM
+      Site Name: Techni Kote
+      AGL: 150
+      Tower Type: Monopole
+      Address: 9105 2/3 Ley Rd., Houston, Harris, TX 77078]]></description>
+        <Point><coordinates>-95.2548611111111,29.8330271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00208-S</name>
+        <description><![CDATA[Date: 7/8/25 11:58 AM
+      Site Name: Sandhill Lake
+      AGL: 325
+      Tower Type: Guyed
+      Address: I-16 and CR15/Sandhill Lake Road, Soperton, Treutlen, GA 30457]]></description>
+        <Point><coordinates>-82.5938718888889,32.4420552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE08977-A</name>
+        <description><![CDATA[Date: 7/8/25 11:58 AM
+      Site Name: Bellevue 2 NE
+      AGL: 160
+      Tower Type: Monopole
+      Address: 3496 Schneekloth Rd., Bellevue, Sarpy, NE 68123]]></description>
+        <Point><coordinates>-95.964425,41.094408,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02841-B</name>
+        <description><![CDATA[Date: 7/8/25 11:58 AM
+      Site Name: Vienna 2 GA
+      AGL: 300
+      Tower Type: Guyed
+      Address: 345 Christmas Drive, Vienna, Dooly, GA 31092-7539]]></description>
+        <Point><coordinates>-83.7707493333333,32.0820604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22521-A</name>
+        <description><![CDATA[Date: 7/8/25 11:55 AM
+      Site Name: Factory St
+      AGL: 126
+      Tower Type: Monopole
+      Address: 805 N. Griffin Street, Danville, Vermilion, IL 61832]]></description>
+        <Point><coordinates>-87.5992607777778,40.1363746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13561-B</name>
+        <description><![CDATA[Date: 7/8/25 12:03 PM
+      Site Name: Cazenovia
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
+        <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10387-A</name>
+        <description><![CDATA[Date: 7/8/25 12:16 PM
+      Site Name: Furlow 2 AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8100 Hwy 89 South, Lonoke, Lonoke, AR 72086]]></description>
+        <Point><coordinates>-91.9853996666667,34.8726826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX42001-T</name>
+        <description><![CDATA[Date: 7/8/25 12:07 PM
+      Site Name: Sheep 2 TX
+      AGL: 300
+      Tower Type: Self Support
+      Address: 10091 Giraffe Road, Gilmer, Upshur, TX 75644]]></description>
+        <Point><coordinates>-95.0934385555556,32.8512638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/8/25 12:09 PM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

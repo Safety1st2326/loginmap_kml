@@ -1576,5 +1576,14 @@
       Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
         <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL28173-S</name>
+        <description><![CDATA[Date: 7/8/25 12:27 PM
+      Site Name: Macomb Relo
+      AGL: 400
+      Tower Type: Guyed
+      Address: 385 105th Street, Roseville, Warren, IL 61473]]></description>
+        <Point><coordinates>-90.586308,40.6870163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

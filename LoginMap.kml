@@ -1585,5 +1585,176 @@
       Address: 385 105th Street, Roseville, Warren, IL 61473]]></description>
         <Point><coordinates>-90.586308,40.6870163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02828-B</name>
+        <description><![CDATA[Date: 7/8/25 12:34 PM
+      Site Name: Orland
+      AGL: 324
+      Tower Type: Guyed
+      Address: 227 Knox Mill Road, Soperton, Treutlen, GA 30457]]></description>
+        <Point><coordinates>-82.6804437777778,32.4300632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40327-A</name>
+        <description><![CDATA[Date: 7/8/25 12:35 PM
+      Site Name: Grizzly Ridge
+      AGL: 280
+      Tower Type: Guyed
+      Address: 535 FM 1156, Jacksboro, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.0227215555556,33.1874718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX42008-T</name>
+        <description><![CDATA[Date: 7/8/25 12:37 PM
+      Site Name: Ambassador
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3359 N. Carribou Rd, Gilmer, Upshur, TX 75644]]></description>
+        <Point><coordinates>-95.0470736666667,32.763725,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41898-T</name>
+        <description><![CDATA[Date: 7/8/25 12:37 PM
+      Site Name: Baker 2 TX
+      AGL: 90
+      Tower Type: Monopole
+      Address: 7510 2/3 Tremont St , Houston, Harris, TX 77028]]></description>
+        <Point><coordinates>-95.2797382222222,29.8309243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40542-T</name>
+        <description><![CDATA[Date: 7/8/25 12:24 PM
+      Site Name: Tang Enterprises
+      AGL: 55
+      Tower Type: Monopole Tree
+      Address: 18423 N. 19th Ave., Phoenix, Maricopa, AZ 85023]]></description>
+        <Point><coordinates>-112.098221888889,33.6536111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02896-B</name>
+        <description><![CDATA[Date: 7/8/25 12:55 PM
+      Site Name: Valdosta
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1525 Baymeadows Dr., Valdosta, Lowndes, GA 31601-2908]]></description>
+        <Point><coordinates>-83.2567972222222,30.8578611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02319-S</name>
+        <description><![CDATA[Date: 7/8/25 1:04 PM
+      Site Name: Blue Spring
+      AGL: 400
+      Tower Type: Guyed
+      Address: 1930 Minter Blue Springs Road, Rockledge, Laurens, GA 30454-1254]]></description>
+        <Point><coordinates>-82.7248243333333,32.4457135555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/8/25 1:02 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16587-S</name>
+        <description><![CDATA[Date: 7/8/25 1:16 PM
+      Site Name: Lutz Rd
+      AGL: 160
+      Tower Type: Self Support
+      Address: 1015 Lutz Road, Lima, Allen, OH 45801]]></description>
+        <Point><coordinates>-84.0876607777778,40.8036416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21848-A</name>
+        <description><![CDATA[Date: 7/8/25 1:16 PM
+      Site Name: Boyle MS Tower
+      AGL: 255
+      Tower Type: Self Support
+      Address: 104 Peavine Road, Boyle, Bolivar, MS 38730]]></description>
+        <Point><coordinates>-90.7104555555556,33.7046,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05131-B</name>
+        <description><![CDATA[Date: 7/8/25 1:18 PM
+      Site Name: Southeast Columbia
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3626 Old Hwy 31 S, Columbia, Maury, TN 38401]]></description>
+        <Point><coordinates>-87.0573583333333,35.5223771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02689-S</name>
+        <description><![CDATA[Date: 7/8/25 1:18 PM
+      Site Name: Cape Coral North 2 Fl
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3501 Burnt Store Road, Cape Coral, Lee, FL 33993-9016]]></description>
+        <Point><coordinates>-82.0372552222222,26.7150888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02689-S</name>
+        <description><![CDATA[Date: 7/8/25 1:19 PM
+      Site Name: Cape Coral North 2 Fl
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3501 Burnt Store Road, Cape Coral, Lee, FL 33993-9016]]></description>
+        <Point><coordinates>-82.0372552222222,26.7150888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN10042-B</name>
+        <description><![CDATA[Date: 7/8/25 1:25 PM
+      Site Name: Grand Rapids North MN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 33454 Fern Leaf Lane, Grand Rapids, Itasca, MN 55744]]></description>
+        <Point><coordinates>-93.5601666666667,47.3245826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40671-T</name>
+        <description><![CDATA[Date: 7/8/25 1:25 PM
+      Site Name: IE939 Red Fox New
+      AGL: 66
+      Tower Type: Monopole Tree
+      Address: 3140 N. E Street, San Bernardino, San Bernardino, CA 92405]]></description>
+        <Point><coordinates>-117.294794111111,34.1481776666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02896-B</name>
+        <description><![CDATA[Date: 7/8/25 1:22 PM
+      Site Name: Valdosta
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1525 Baymeadows Dr., Valdosta, Lowndes, GA 31601-2908]]></description>
+        <Point><coordinates>-83.2567972222222,30.8578611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05867-S</name>
+        <description><![CDATA[Date: 7/8/25 1:22 PM
+      Site Name: Airbase
+      AGL: 261
+      Tower Type: Self Support
+      Address: 15401-A Hwy 5, Cabot, Pulaski, AR 72023-9298]]></description>
+        <Point><coordinates>-92.0740937777778,35.0058472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02030-S</name>
+        <description><![CDATA[Date: 7/8/25 1:33 PM
+      Site Name: Pughes Creek
+      AGL: 300
+      Tower Type: Guyed
+      Address: 700 Bush Rd., East Dublin, Laurens, GA 31027-1659]]></description>
+        <Point><coordinates>-82.7985552222222,32.469166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46996-A</name>
+        <description><![CDATA[Date: 7/8/25 1:22 PM
+      Site Name: Belgrade
+      AGL: 188
+      Tower Type: Self Support
+      Address: 21757 Farmcrest Road , Belgrade, Stearns, MN 56312]]></description>
+        <Point><coordinates>-94.9842746666667,45.4381691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

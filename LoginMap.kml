@@ -1756,5 +1756,140 @@
       Address: 21757 Farmcrest Road , Belgrade, Stearns, MN 56312]]></description>
         <Point><coordinates>-94.9842746666667,45.4381691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX15136-A</name>
+        <description><![CDATA[Date: 7/8/25 1:37 PM
+      Site Name: Childress
+      AGL: 321
+      Tower Type: Guyed
+      Address: 100 Industrial Circle, Childress, Childress, TX 79201]]></description>
+        <Point><coordinates>-100.238021888889,34.4415135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA04256-S</name>
+        <description><![CDATA[Date: 7/8/25 1:32 PM
+      Site Name: Tate
+      AGL: 250
+      Tower Type: Self Support
+      Address: 686 Pea Ridge Road, Ball Ground, Pickens, GA 30107-5623]]></description>
+        <Point><coordinates>-84.3231521111111,34.4124055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41456-T</name>
+        <description><![CDATA[Date: 7/8/25 1:52 PM
+      Site Name: South Jersey Sports Acad
+      AGL: 121
+      Tower Type: Monopole
+      Address: 120 Sewell Road, Washington, Gloucester, NJ 08080]]></description>
+        <Point><coordinates>-75.1107861111111,39.7637805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12086-B</name>
+        <description><![CDATA[Date: 7/8/25 1:46 PM
+      Site Name: Ford River
+      AGL: 150
+      Tower Type: Self Support
+      Address: 2577 Highway M-35, Bark River, Delta, MI 49807]]></description>
+        <Point><coordinates>-87.1960885555556,45.6412413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA20602-A</name>
+        <description><![CDATA[Date: 7/8/25 2:01 PM
+      Site Name: Boone South
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1201 QUILL ROAD, BOONE, BOONE, IA 50036]]></description>
+        <Point><coordinates>-93.8541888888889,42.0335274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02840-B</name>
+        <description><![CDATA[Date: 7/8/25 1:47 PM
+      Site Name: Unadilla 2 GA
+      AGL: 280
+      Tower Type: Self Support
+      Address: 1221 Taylor Rd., Unadilla, Dooly, GA 31091]]></description>
+        <Point><coordinates>-83.7418885555556,32.2431135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45189-A</name>
+        <description><![CDATA[Date: 7/8/25 2:07 PM
+      Site Name: Hwy 132 East
+      AGL: 100
+      Tower Type: Monopole
+      Address: 9323 Dusty Lane , Modesto, Stanislaus, CA 95357]]></description>
+        <Point><coordinates>-120.820166,37.6626944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10147-A</name>
+        <description><![CDATA[Date: 7/8/25 2:07 PM
+      Site Name: Bryson West
+      AGL: 300
+      Tower Type: Guyed
+      Address: 7536 US Highway 380 West, Jacksboro, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.2910135555556,33.177041,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO22109-A</name>
+        <description><![CDATA[Date: 7/8/25 2:07 PM
+      Site Name: Berger
+      AGL: 301
+      Tower Type: Self Support
+      Address: 422 Market St., Berger, Franklin, MO 63014]]></description>
+        <Point><coordinates>-91.342758,38.6722798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15813-B</name>
+        <description><![CDATA[Date: 7/8/25 2:04 PM
+      Site Name: Cape Coral Zenoni
+      AGL: 148
+      Tower Type: Stealth Monopole
+      Address: 3316 Andalusia Blvd., Cape Coral, Lee, FL 33909]]></description>
+        <Point><coordinates>-81.9576138888889,26.7169554444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45189-A</name>
+        <description><![CDATA[Date: 7/8/25 2:11 PM
+      Site Name: Hwy 132 East
+      AGL: 100
+      Tower Type: Monopole
+      Address: 9323 Dusty Lane , Modesto, Stanislaus, CA 95357]]></description>
+        <Point><coordinates>-120.820166,37.6626944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV16686-A</name>
+        <description><![CDATA[Date: 7/8/25 2:15 PM
+      Site Name: Frankford
+      AGL: 195
+      Tower Type: Self Support
+      Address: 385 McMillan Road, Renick, Greenbrier, WV 24966]]></description>
+        <Point><coordinates>-80.3850274444444,37.9517083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22013-A</name>
+        <description><![CDATA[Date: 7/8/25 2:28 PM
+      Site Name: Campo Verde
+      AGL: 93
+      Tower Type: Monopole
+      Address: 3814 South Quartz Street, Gilbert, Maricopa, AZ 85297]]></description>
+        <Point><coordinates>-111.760408861111,33.2811282222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00052-B</name>
+        <description><![CDATA[Date: 7/8/25 2:31 PM
+      Site Name: Unadilla
+      AGL: 320
+      Tower Type: Guyed
+      Address: 0 Busby Road, Unadilla, Dooly, GA 31091]]></description>
+        <Point><coordinates>-83.7636944444444,32.2836691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO17776-A</name>
+        <description><![CDATA[Date: 7/8/25 2:49 PM
+      Site Name: Poplar Bluff SW
+      AGL: 192
+      Tower Type: Self Support
+      Address: 315 Highway M, Poplar Bluff Township, Butler, MO 63901]]></description>
+        <Point><coordinates>-90.4631805555556,36.7305576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

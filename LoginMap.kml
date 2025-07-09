@@ -1630,5 +1630,23 @@
       Address: 5650 Melrose Lane, Naples, Collier, FL 34114]]></description>
         <Point><coordinates>-81.6827743333333,26.0977941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02854-B</name>
+        <description><![CDATA[Date: 7/9/25 12:42 PM
+      Site Name: Ocmulgee
+      AGL: 250
+      Tower Type: Self Support
+      Address: Rt. 1, Box 5610, Hawkinsville, Pulaski, GA 31036]]></description>
+        <Point><coordinates>-83.5278576666667,32.3236826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO17956-A</name>
+        <description><![CDATA[Date: 7/9/25 12:46 PM
+      Site Name: Hurricane
+      AGL: 301
+      Tower Type: Self Support
+      Address: RR1 Box 553, Marble Hill, Bollinger, MO 63764]]></description>
+        <Point><coordinates>-90.0420635555556,37.4195826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1306,5 +1306,86 @@
       Address: 13772 Old Route 8 N, Titusville, Crawford, PA 16354]]></description>
         <Point><coordinates>-79.7240548888889,41.6666388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA46424-A</name>
+        <description><![CDATA[Date: 7/9/25 11:31 AM
+      Site Name: Ankeny
+      AGL: 139
+      Tower Type: Stealth
+      Address: 508 Southwest Pleasant St, Ankeny, Polk, IA 50023]]></description>
+        <Point><coordinates>-93.6051166666667,41.7272937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI22400-A</name>
+        <description><![CDATA[Date: 7/9/25 11:31 AM
+      Site Name: Chicago St Depere
+      AGL: 126
+      Tower Type: Monopole
+      Address: 3681 Monroe Road, De Pere, Brown, WI 54115]]></description>
+        <Point><coordinates>-88.0132805555556,44.4329215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12517-A</name>
+        <description><![CDATA[Date: 7/9/25 11:31 AM
+      Site Name: Blundale
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2753 Old Hwy 1 N, Swainsboro, Emanuel, GA 30401]]></description>
+        <Point><coordinates>-82.3937024444444,32.745933,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13622-A</name>
+        <description><![CDATA[Date: 7/9/25 11:22 AM
+      Site Name: Bay Lake 2 FL
+      AGL: 261
+      Tower Type: Self Support
+      Address: 9050 State Road 33, Groveland, Lake, FL 34736]]></description>
+        <Point><coordinates>-81.8342774444444,28.478916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13622-A</name>
+        <description><![CDATA[Date: 7/9/25 11:22 AM
+      Site Name: Bay Lake 2 FL
+      AGL: 261
+      Tower Type: Self Support
+      Address: 9050 State Road 33, Groveland, Lake, FL 34736]]></description>
+        <Point><coordinates>-81.8342774444444,28.478916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL06463-A</name>
+        <description><![CDATA[Date: 7/9/25 11:34 AM
+      Site Name: Jupiter Industrial Park
+      AGL: 149
+      Tower Type: Monopole
+      Address: 509 Commerce Way West, Jupiter, Palm Beach, FL 33458-5809]]></description>
+        <Point><coordinates>-80.1208882222222,26.9290548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10327-A</name>
+        <description><![CDATA[Date: 7/9/25 11:34 AM
+      Site Name: G'ville South (Elite)
+      AGL: 203
+      Tower Type: Self Support
+      Address: 902 S. Main Street, Gainesville, Alachua, FL 32601]]></description>
+        <Point><coordinates>-82.3259104444444,29.6432191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14507-A</name>
+        <description><![CDATA[Date: 7/9/25 11:22 AM
+      Site Name: Hale
+      AGL: 268
+      Tower Type: Guyed
+      Address: 486 Majestic Valley Road, Lebanon, Russell, VA 24266]]></description>
+        <Point><coordinates>-82.0073388888889,36.9091833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/9/25 11:37 AM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

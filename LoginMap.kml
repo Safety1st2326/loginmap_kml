@@ -1198,5 +1198,23 @@
       Address: 42 Clarence Finelyson Road, Hawkinsville, PULASKI, GA 31036]]></description>
         <Point><coordinates>-83.5450691111111,32.1521583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46237-A</name>
+        <description><![CDATA[Date: 7/9/25 10:57 AM
+      Site Name: Burns Road 2 FL
+      AGL: 126
+      Tower Type: Monopole
+      Address: 4115 Lilac St., Palm Beach Gardens, Palm Beach, FL 33410]]></description>
+        <Point><coordinates>-80.0985191111111,26.8281771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC14504-A</name>
+        <description><![CDATA[Date: 7/9/25 10:58 AM
+      Site Name: Saluda-Johnson
+      AGL: 196
+      Tower Type: Self Support
+      Address: 3 Judds Peak Road, Saluda, Henderson, NC 28773]]></description>
+        <Point><coordinates>-82.3677132222222,35.2266965555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

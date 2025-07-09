@@ -2152,5 +2152,50 @@
       Address: 6135 S. Hwy 1651, Pine Knot, McCreary, KY 42635]]></description>
         <Point><coordinates>-84.4433913333333,36.6625777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/9/25 4:21 PM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/9/25 4:21 PM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21398-A</name>
+        <description><![CDATA[Date: 7/9/25 4:21 PM
+      Site Name: Douglass 2 TX
+      AGL: 298
+      Tower Type: Guyed
+      Address: 14709 STATE HIGHWAY 21 WEST, DOUGLASS, NACOGDOCHES, TX 75943]]></description>
+        <Point><coordinates>-94.8719326666667,31.6705382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47852-A</name>
+        <description><![CDATA[Date: 7/9/25 4:22 PM
+      Site Name: Mcclendon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 5543 State Hwy 79 South, Wichita Falls, Wichita, TX 76310]]></description>
+        <Point><coordinates>-98.5537777777778,33.8082777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21374-A</name>
+        <description><![CDATA[Date: 7/9/25 4:19 PM
+      Site Name: Hillister
+      AGL: 320
+      Tower Type: Guyed
+      Address: 5341 US Hwy 69 South, Woodville, Tyler, TX 75979]]></description>
+        <Point><coordinates>-94.3993885555555,30.699583,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

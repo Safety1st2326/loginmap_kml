@@ -2197,5 +2197,23 @@
       Address: 5341 US Hwy 69 South, Woodville, Tyler, TX 75979]]></description>
         <Point><coordinates>-94.3993885555555,30.699583,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/9/25 4:33 PM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00046-B</name>
+        <description><![CDATA[Date: 7/9/25 4:33 PM
+      Site Name: Buckeye
+      AGL: 222
+      Tower Type: Self Support
+      Address: 2316 N. US Hwy 41, Perry, Houston, GA 31069-9787]]></description>
+        <Point><coordinates>-83.7281326666667,32.5120833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

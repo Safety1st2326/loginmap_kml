@@ -1945,5 +1945,59 @@
       Address: 671 Sullivan Road, Ft. Valley, Peach, GA 31030]]></description>
         <Point><coordinates>-83.7337496666667,32.5877746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL06636-A</name>
+        <description><![CDATA[Date: 7/9/25 2:44 PM
+      Site Name: Quint
+      AGL: 298
+      Tower Type: Self Support
+      Address: 3963 BENTON RD., METROPOLIS, MASSAC, IL 62960-3500]]></description>
+        <Point><coordinates>-88.7415746666667,37.274216,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM47262-A</name>
+        <description><![CDATA[Date: 7/9/25 2:40 PM
+      Site Name: Carizozo - Mark Hammond-Zuni Co
+      AGL: 94
+      Tower Type: Monopole
+      Address: 304 13th Street, Carrizozo, Lincoln, NM 88301]]></description>
+        <Point><coordinates>-105.874041,33.6428413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06771-B</name>
+        <description><![CDATA[Date: 7/9/25 2:46 PM
+      Site Name: Morgan Humnoke
+      AGL: 300
+      Tower Type: Self Support
+      Address: 510 WILSON ROAD, HUMNOKE, Lonoke, AR 72072-8623]]></description>
+        <Point><coordinates>-91.7657,34.5408496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06771-B</name>
+        <description><![CDATA[Date: 7/9/25 2:46 PM
+      Site Name: Morgan Humnoke
+      AGL: 300
+      Tower Type: Self Support
+      Address: 510 WILSON ROAD, HUMNOKE, Lonoke, AR 72072-8623]]></description>
+        <Point><coordinates>-91.7657,34.5408496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12380-A</name>
+        <description><![CDATA[Date: 7/9/25 2:49 PM
+      Site Name: Weedonia
+      AGL: 190
+      Tower Type: Guyed
+      Address: 6007 KY 419, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.7792826666667,38.5742993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48148-A</name>
+        <description><![CDATA[Date: 7/9/25 2:49 PM
+      Site Name: Keebler - Por644
+      AGL: 99
+      Tower Type: Monopole
+      Address: 4605 NW Pacific Rim Blvd, Camas, Clark, WA 98607]]></description>
+        <Point><coordinates>-122.456166666667,45.6015555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

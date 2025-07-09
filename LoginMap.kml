@@ -1162,5 +1162,41 @@
       Address: 166 Stone Ridge Trail, Anniston, Calhoun, AL 36201]]></description>
         <Point><coordinates>-85.6871302222222,33.7847541111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48003-A</name>
+        <description><![CDATA[Date: 7/9/25 10:46 AM
+      Site Name: Rio Rancho-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 10830 West Road , Houston, Harris, TX 77064]]></description>
+        <Point><coordinates>-95.5784798888889,29.9116222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40578-A</name>
+        <description><![CDATA[Date: 7/9/25 10:46 AM
+      Site Name: Mariposa
+      AGL: 73
+      Tower Type: Monopole Tree
+      Address: 5441 Hwy 140, Mariposa, Mariposa, CA 95338]]></description>
+        <Point><coordinates>-119.969482333333,37.5079,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46203-A</name>
+        <description><![CDATA[Date: 7/9/25 10:47 AM
+      Site Name: Golden Gate-north
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1014 Whippoorwill Lane, Naples, Collier, FL 34105]]></description>
+        <Point><coordinates>-81.7406496666667,26.2096861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21112-A</name>
+        <description><![CDATA[Date: 7/9/25 10:47 AM
+      Site Name: Pineview Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 42 Clarence Finelyson Road, Hawkinsville, PULASKI, GA 31036]]></description>
+        <Point><coordinates>-83.5450691111111,32.1521583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

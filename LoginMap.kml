@@ -1864,5 +1864,32 @@
       Address: 18020 N. Walker Butte, Florence, Pinal, AZ 85222]]></description>
         <Point><coordinates>-111.480943777778,33.0442496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47677-A</name>
+        <description><![CDATA[Date: 7/9/25 2:04 PM
+      Site Name: Graystone
+      AGL: 176
+      Tower Type: Monopole
+      Address: 763 Industrial Court, Cherryville, Northampton, PA 18035]]></description>
+        <Point><coordinates>-75.538333,40.7594444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ11250-A</name>
+        <description><![CDATA[Date: 7/9/25 2:01 PM
+      Site Name: Pecan Promenade
+      AGL: 56
+      Tower Type: Tree
+      Address: 9830 W. Lower Buckeye Road, Phoenix, Maricopa, AZ 85353]]></description>
+        <Point><coordinates>-112.269052111111,33.4229993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20532-A</name>
+        <description><![CDATA[Date: 7/9/25 2:06 PM
+      Site Name: OLD DIVIDE ROAD
+      AGL: 190
+      Tower Type: Self Support
+      Address: 2100 W. HWY. 80, BISBEE, COCHISE, AZ 85603]]></description>
+        <Point><coordinates>-109.950666666667,31.4660277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

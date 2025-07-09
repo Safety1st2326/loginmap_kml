@@ -1153,5 +1153,14 @@
       Address: 4306 S. County Line Road, Yoder, Allen, IN 46798-9507]]></description>
         <Point><coordinates>-85.1909663333333,40.9180632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL21780-A</name>
+        <description><![CDATA[Date: 7/9/25 10:40 AM
+      Site Name: White Plains
+      AGL: 300
+      Tower Type: Guyed
+      Address: 166 Stone Ridge Trail, Anniston, Calhoun, AL 36201]]></description>
+        <Point><coordinates>-85.6871302222222,33.7847541111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

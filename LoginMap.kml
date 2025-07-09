@@ -1216,5 +1216,32 @@
       Address: 3 Judds Peak Road, Saluda, Henderson, NC 28773]]></description>
         <Point><coordinates>-82.3677132222222,35.2266965555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46203-A</name>
+        <description><![CDATA[Date: 7/9/25 10:49 AM
+      Site Name: Golden Gate-north
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1014 Whippoorwill Lane, Naples, Collier, FL 34105]]></description>
+        <Point><coordinates>-81.7406496666667,26.2096861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06718-S</name>
+        <description><![CDATA[Date: 7/9/25 10:52 AM
+      Site Name: Wilsonville 2 PA
+      AGL: 252
+      Tower Type: Guyed
+      Address: 251 Bear Run Road, Tafton, Pike, PA 18464]]></description>
+        <Point><coordinates>-75.1552222222222,41.4575277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12904-A</name>
+        <description><![CDATA[Date: 7/9/25 11:07 AM
+      Site Name: Irvine 2 CA
+      AGL: 46
+      Tower Type: Monopine
+      Address: 5200 Irvine Boulevard, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.753994444444,33.7051166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

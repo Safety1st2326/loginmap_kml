@@ -2035,5 +2035,14 @@
       Address: 150 Raymond Road, Nottingham, Rockingham, NH 03290-5017]]></description>
         <Point><coordinates>-71.1250882222222,43.077541,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS13690-A</name>
+        <description><![CDATA[Date: 7/9/25 3:21 PM
+      Site Name: Sylvan Grove
+      AGL: 252
+      Tower Type: Guyed
+      Address: 558 E. Highway 18, Sylvan Grove, Lincoln, KS 67481]]></description>
+        <Point><coordinates>-98.3994996666667,39.0320993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

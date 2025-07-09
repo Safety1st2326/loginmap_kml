@@ -1522,5 +1522,23 @@
       Address: 5559 Golden Gate Parkway, Naples, Collier, FL 34116]]></description>
         <Point><coordinates>-81.7012222222222,26.175166,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00472-S</name>
+        <description><![CDATA[Date: 7/9/25 12:01 PM
+      Site Name: Jupiter
+      AGL: 150
+      Tower Type: Monopole
+      Address: 17967 Federal Highway, Jupiter, Martin, FL 33469-1745]]></description>
+        <Point><coordinates>-80.0919718888889,26.9853885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21699-A</name>
+        <description><![CDATA[Date: 7/9/25 12:03 PM
+      Site Name: Hawkinsville North
+      AGL: 250
+      Tower Type: Self Support
+      Address: 139 Crock Way, Hawkinsville, Pulaski, GA 31036]]></description>
+        <Point><coordinates>-83.4725346111111,32.3077486111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

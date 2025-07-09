@@ -1891,5 +1891,1535 @@
       Address: 315 Highway M, Poplar Bluff Township, Butler, MO 63901]]></description>
         <Point><coordinates>-90.4631805555556,36.7305576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41922-T</name>
+        <description><![CDATA[Date: 7/8/25 2:51 PM
+      Site Name: Hays Hills Baptist Church
+      AGL: 150
+      Tower Type: Monopole
+      Address: 401 Hardin Loop, Buda, Hays, TX 78610]]></description>
+        <Point><coordinates>-97.8750965555555,30.1185604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40886-T</name>
+        <description><![CDATA[Date: 7/8/25 2:52 PM
+      Site Name: Connor's Lake
+      AGL: 100
+      Tower Type: Monopole
+      Address: 100 THORNHILL ROAD, AUBURNDALE, Polk, FL 33825]]></description>
+        <Point><coordinates>-81.815581,28.051378,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20510-A</name>
+        <description><![CDATA[Date: 7/8/25 2:51 PM
+      Site Name: BUCK MOUNTAIN
+      AGL: 195
+      Tower Type: Self Support
+      Address: 15769 South Old Haviland Station Road, Yucca, Mohave, AZ 86438]]></description>
+        <Point><coordinates>-114.187916333333,34.7723882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10180-A</name>
+        <description><![CDATA[Date: 7/8/25 2:52 PM
+      Site Name: Pike County
+      AGL: 300
+      Tower Type: Guyed
+      Address: 44 Dingler Road, Amity, Pike, AR 71921]]></description>
+        <Point><coordinates>-93.6428913333333,34.2636222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15139-A</name>
+        <description><![CDATA[Date: 7/8/25 3:07 PM
+      Site Name: Quanah
+      AGL: 320
+      Tower Type: Guyed
+      Address: 1309 East 8th Street, Quanah, Hardeman, TX 79252]]></description>
+        <Point><coordinates>-99.7252798888889,34.2909968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20445-A</name>
+        <description><![CDATA[Date: 7/8/25 2:57 PM
+      Site Name: Geneva 3 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
+        <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20510-A</name>
+        <description><![CDATA[Date: 7/8/25 2:54 PM
+      Site Name: BUCK MOUNTAIN
+      AGL: 195
+      Tower Type: Self Support
+      Address: 15769 South Old Haviland Station Road, Yucca, Mohave, AZ 86438]]></description>
+        <Point><coordinates>-114.187916333333,34.7723882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40028-T</name>
+        <description><![CDATA[Date: 7/8/25 3:01 PM
+      Site Name: Bashas Center
+      AGL: 65
+      Tower Type: Monopole
+      Address: 5130 W Peoria Ave, Glendale, Maricopa, AZ 85304]]></description>
+        <Point><coordinates>-112.169832666667,33.5832493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20445-A</name>
+        <description><![CDATA[Date: 7/8/25 2:57 PM
+      Site Name: Geneva 3 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
+        <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02837-B</name>
+        <description><![CDATA[Date: 7/8/25 3:07 PM
+      Site Name: S Dublin
+      AGL: 250
+      Tower Type: Self Support
+      Address: 826 Honeysuckle Rd., Dublin, Laurens, GA 31021-2659]]></description>
+        <Point><coordinates>-82.9434191111111,32.4931246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02514-A</name>
+        <description><![CDATA[Date: 7/8/25 3:18 PM
+      Site Name: Ft Myers
+      AGL: 180
+      Tower Type: Self Support
+      Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
+        <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20510-A</name>
+        <description><![CDATA[Date: 7/8/25 3:25 PM
+      Site Name: BUCK MOUNTAIN
+      AGL: 195
+      Tower Type: Self Support
+      Address: 15769 South Old Haviland Station Road, Yucca, Mohave, AZ 86438]]></description>
+        <Point><coordinates>-114.187916333333,34.7723882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12369-A</name>
+        <description><![CDATA[Date: 7/8/25 3:25 PM
+      Site Name: Elihu
+      AGL: 191
+      Tower Type: Guyed
+      Address: 150 Rose Hill Road, Somerset, Pulaski, KY 42501]]></description>
+        <Point><coordinates>-84.5682354444444,37.0685548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20510-A</name>
+        <description><![CDATA[Date: 7/8/25 3:25 PM
+      Site Name: BUCK MOUNTAIN
+      AGL: 195
+      Tower Type: Self Support
+      Address: 15769 South Old Haviland Station Road, Yucca, Mohave, AZ 86438]]></description>
+        <Point><coordinates>-114.187916333333,34.7723882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME08747-A</name>
+        <description><![CDATA[Date: 7/8/25 3:22 PM
+      Site Name: Wells
+      AGL: 190
+      Tower Type: Self Support
+      Address: 739 Sandford Road, Wells, York, ME 04090]]></description>
+        <Point><coordinates>-70.6114027777778,43.3310882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS12552-A</name>
+        <description><![CDATA[Date: 7/8/25 3:22 PM
+      Site Name: Ruleville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 683 East Floyce Street, Ruleville, Sunflower, MS 38771]]></description>
+        <Point><coordinates>-90.5409996666667,33.7238937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02848-B</name>
+        <description><![CDATA[Date: 7/8/25 3:22 PM
+      Site Name: Henderson 4 GA
+      AGL: 300
+      Tower Type: Guyed
+      Address: 193 Blackstock Rd., Elko, Houston, GA 31025-2108]]></description>
+        <Point><coordinates>-83.7699576666667,32.3426468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/8/25 3:28 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40530-T</name>
+        <description><![CDATA[Date: 7/8/25 3:52 PM
+      Site Name: Desideri Strip Mall
+      AGL: 55
+      Tower Type: Monopalm
+      Address: 6028 N. 43rd Ave, Glendale, Maricopa, AZ 85013]]></description>
+        <Point><coordinates>-112.152194444444,33.5251937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12886-A</name>
+        <description><![CDATA[Date: 7/8/25 3:48 PM
+      Site Name: South El Monte
+      AGL: 68
+      Tower Type: Monopine
+      Address: 2446 Lee Avenue, South El Monte, Los Angeles, CA 91733]]></description>
+        <Point><coordinates>-118.066583333333,34.0566111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10149-A</name>
+        <description><![CDATA[Date: 7/8/25 3:48 PM
+      Site Name: Grace (Jacksboro)
+      AGL: 292
+      Tower Type: Guyed
+      Address: 600 Block Faxhall, Jacksboro, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.1682215555556,33.2114666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11972-A</name>
+        <description><![CDATA[Date: 7/8/25 3:49 PM
+      Site Name: Hollywood Soncy
+      AGL: 177
+      Tower Type: Self Support
+      Address: 7515 S. Soncy Road, Amarillo, Randall, TX 79110]]></description>
+        <Point><coordinates>-101.936160777778,35.1309132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15082-S</name>
+        <description><![CDATA[Date: 7/8/25 3:49 PM
+      Site Name: Oil Creek Twsp
+      AGL: 250
+      Tower Type: Self Support
+      Address: 13772 Old Route 8 N, Titusville, Crawford, PA 16354]]></description>
+        <Point><coordinates>-79.7240548888889,41.6666388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME11632-S</name>
+        <description><![CDATA[Date: 7/8/25 3:55 PM
+      Site Name: Whittemore ME 
+      AGL: 191
+      Tower Type: Self Support
+      Address: 1939 North Berwick Rd, Route 9, Wells, York, ME 04090]]></description>
+        <Point><coordinates>-70.6973607777778,43.3062027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21250-A</name>
+        <description><![CDATA[Date: 7/8/25 3:55 PM
+      Site Name: Faribault
+      AGL: 199
+      Tower Type: Monopole
+      Address: 515 Fowler Street, Faribault, Rice, MN 55021]]></description>
+        <Point><coordinates>-93.2652555555556,44.2858163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45060-A</name>
+        <description><![CDATA[Date: 7/8/25 3:57 PM
+      Site Name: Orbital
+      AGL: 66
+      Tower Type: Monopole
+      Address: 4497 S. Alma School Road, Chandler, Maricopa, AZ 85224]]></description>
+        <Point><coordinates>-111.8625,33.2388885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL21775-A</name>
+        <description><![CDATA[Date: 7/8/25 4:04 PM
+      Site Name: County Road 47
+      AGL: 300
+      Tower Type: Self Support
+      Address: 7622 Chelsea Road, Columbiana, Shelby, AL 35051]]></description>
+        <Point><coordinates>-86.6180990555555,33.292753,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/8/25 4:04 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46204-A</name>
+        <description><![CDATA[Date: 7/8/25 4:30 PM
+      Site Name: Eastwood 2 FL
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4052 Colonial Boulevard, Fort Meyers, Lee, FL 33966]]></description>
+        <Point><coordinates>-81.8275465555556,26.6016555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05300-S</name>
+        <description><![CDATA[Date: 7/8/25 4:30 PM
+      Site Name: Williamstown 3 NY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
+        <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21689-A</name>
+        <description><![CDATA[Date: 7/8/25 4:25 PM
+      Site Name: Horsehead Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1629 Whitehouse Road, Montezuma, Macon, GA 31063]]></description>
+        <Point><coordinates>-83.9740326666667,32.3006416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41182-T</name>
+        <description><![CDATA[Date: 7/8/25 4:24 PM
+      Site Name: Rough1
+      AGL: 250
+      Tower Type: Self Support
+      Address: Leo Bowls Rd, Breckinridge Southwe, Breckinridge, KY 40119]]></description>
+        <Point><coordinates>-86.4666611111111,37.6434218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14533-A</name>
+        <description><![CDATA[Date: 7/8/25 4:43 PM
+      Site Name: Chillicothe 4 TX
+      AGL: 317
+      Tower Type: Guyed
+      Address: 403 CR 108, Chillicothe, Hardeman, TX 79225]]></description>
+        <Point><coordinates>-99.500975,34.2561777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10145-A</name>
+        <description><![CDATA[Date: 7/8/25 4:55 PM
+      Site Name: Antelope 4 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 20200 U.S. Highway 281 North, Windthorst, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.3722548888889,33.4280521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/8/25 5:06 PM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 7/8/25 5:15 PM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10399-A</name>
+        <description><![CDATA[Date: 7/8/25 5:26 PM
+      Site Name: Doddsville
+      AGL: 341
+      Tower Type: Guyed
+      Address: 216 McCarty Road, Doddsville, Sunflower, MS 38771]]></description>
+        <Point><coordinates>-90.5024722222222,33.6751771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA20556-A</name>
+        <description><![CDATA[Date: 7/8/25 5:33 PM
+      Site Name: Riverbank
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3312 Patterson Road, Riverbank, STANISLAUS, CA 95367]]></description>
+        <Point><coordinates>-120.934999666667,37.7308604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17219-A</name>
+        <description><![CDATA[Date: 7/8/25 5:36 PM
+      Site Name: Necedah II
+      AGL: 86
+      Tower Type: Monopole
+      Address: 412C S Sheridan St, Necedah, Juneau, WI 54646]]></description>
+        <Point><coordinates>-90.0720298888889,44.0227548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20446-A</name>
+        <description><![CDATA[Date: 7/8/25 5:47 PM
+      Site Name: SOUTH BEND 1
+      AGL: 180
+      Tower Type: Guyed
+      Address: 59520 LINDEN RD, SOUTH BEND, St. Joseph, IN 46614]]></description>
+        <Point><coordinates>-86.2723521111111,41.6283604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45126-A</name>
+        <description><![CDATA[Date: 7/8/25 6:01 PM
+      Site Name: Alma School
+      AGL: 60
+      Tower Type: Stealth
+      Address: 1400 N. Alma School Road, Chandler, Maricopa, AZ 85224]]></description>
+        <Point><coordinates>-111.859641666667,33.329591,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21648-A</name>
+        <description><![CDATA[Date: 7/8/25 6:13 PM
+      Site Name: Lynnville North
+      AGL: 280
+      Tower Type: Self Support
+      Address: 17201 Columbia Highway, Lynnville, Giles, TN 38472]]></description>
+        <Point><coordinates>-87.0379524444444,35.4271826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18061-A</name>
+        <description><![CDATA[Date: 7/8/25 6:18 PM
+      Site Name: Alico Rd
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 18940 Green Meadow Rd, Ft. Myers, Lee, FL 33913]]></description>
+        <Point><coordinates>-81.7137611111111,26.495533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22011-A</name>
+        <description><![CDATA[Date: 7/8/25 6:27 PM
+      Site Name: ATL
+      AGL: 50
+      Tower Type: Monopalm
+      Address: 70 West Warner Road, Chandler, Maricopa, AZ 85225]]></description>
+        <Point><coordinates>-111.843391,33.3356736388889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45125-A</name>
+        <description><![CDATA[Date: 7/8/25 7:12 PM
+      Site Name: Vineyard 3 AZ
+      AGL: 39
+      Tower Type: Stealth
+      Address: 601 S. Cooper Road, Gilbert, Maricopa, AZ 85233]]></description>
+        <Point><coordinates>-111.806,33.3392774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20446-A</name>
+        <description><![CDATA[Date: 7/8/25 6:46 PM
+      Site Name: SOUTH BEND 1
+      AGL: 180
+      Tower Type: Guyed
+      Address: 59520 LINDEN RD, SOUTH BEND, St. Joseph, IN 46614]]></description>
+        <Point><coordinates>-86.2723521111111,41.6283604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40528-T</name>
+        <description><![CDATA[Date: 7/8/25 7:57 PM
+      Site Name: Commerce Monopalm
+      AGL: 65
+      Tower Type: Monopalm
+      Address: 5229 S. Saranac Street, Mesa, Maricopa, AZ 85212]]></description>
+        <Point><coordinates>-111.683471666667,33.3208053333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41181-T</name>
+        <description><![CDATA[Date: 7/8/25 8:01 PM
+      Site Name: Madisonville West
+      AGL: 220
+      Tower Type: Self Support
+      Address: 4114 Nebo Rd , Madisonville, Hopkins, KY 42431]]></description>
+        <Point><coordinates>-87.563375,37.3648916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45047-A</name>
+        <description><![CDATA[Date: 7/8/25 7:52 PM
+      Site Name: Western Skies
+      AGL: 65
+      Tower Type: Monopole
+      Address: 12247 S. Gilbert Road, Gilbert, Maricopa, AZ 85234]]></description>
+        <Point><coordinates>-111.789333,33.336333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11902-A</name>
+        <description><![CDATA[Date: 7/8/25 8:48 PM
+      Site Name: Oilton DT
+      AGL: 300
+      Tower Type: Guyed
+      Address: 53876 Cemetery Road, Oilton, Creek, OK 74052]]></description>
+        <Point><coordinates>-96.5948357777778,36.0835024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22507-A</name>
+        <description><![CDATA[Date: 7/8/25 9:15 PM
+      Site Name: Little America
+      AGL: 250
+      Tower Type: Self Support
+      Address: 23202 Highway 24, Lewiston, Fulton, IL 61542]]></description>
+        <Point><coordinates>-90.0058,40.4197132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV10451-A</name>
+        <description><![CDATA[Date: 7/9/25 4:48 AM
+      Site Name: Grindstone
+      AGL: 67
+      Tower Type: Self Support
+      Address: 133 Road Mount Diablo, Elko, Elko, NV 89801]]></description>
+        <Point><coordinates>-115.902186111111,40.7005472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02838-B</name>
+        <description><![CDATA[Date: 7/9/25 4:39 AM
+      Site Name: Dublin
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1714 Claxton-Dairy Rd., Dublin, Laurens, GA 31021-4948]]></description>
+        <Point><coordinates>-82.9380691111111,32.5583777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10705-A</name>
+        <description><![CDATA[Date: 7/9/25 5:04 AM
+      Site Name: North Dublin
+      AGL: 301
+      Tower Type: Self Support
+      Address: 135 Holly Ridge Road, Dublin, Laurens, GA 31021]]></description>
+        <Point><coordinates>-82.9913191111111,32.6201993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA24338-A</name>
+        <description><![CDATA[Date: 7/9/25 5:22 AM
+      Site Name: Nichelsville
+      AGL: 256
+      Tower Type: Self Support
+      Address: 150 Southern Bell Tower Road, Dublin, Laurens, GA 31021]]></description>
+        <Point><coordinates>-83.0298048888889,32.6543055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14103-A</name>
+        <description><![CDATA[Date: 7/9/25 5:45 AM
+      Site Name: George's Tavern
+      AGL: 195
+      Tower Type: Self Support
+      Address: 5260 Old Columbia Road, Goochland, Goochland, VA 23063]]></description>
+        <Point><coordinates>-78.0642805555556,37.7524416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02836-B</name>
+        <description><![CDATA[Date: 7/9/25 6:01 AM
+      Site Name: Dudly
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1669 Whipples Crossing Rd., Dudley, Laurens, GA 31022-2208]]></description>
+        <Point><coordinates>-83.084933,32.5212298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46541-A</name>
+        <description><![CDATA[Date: 7/9/25 6:03 AM
+      Site Name: North Summit
+      AGL: 68
+      Tower Type: Monopole
+      Address: 5311 S Harlem Ave, Chicago, Cook, IL 60638]]></description>
+        <Point><coordinates>-87.8012222222222,41.7956385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/9/25 6:04 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/9/25 6:04 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/9/25 6:04 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02834-B</name>
+        <description><![CDATA[Date: 7/9/25 6:18 AM
+      Site Name: Allentown 3 GA
+      AGL: 300
+      Tower Type: Guyed
+      Address: RR 1 Box 268, Danville, Bleckley, GA 31017-9517]]></description>
+        <Point><coordinates>-83.2332382222222,32.5731715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14627-A</name>
+        <description><![CDATA[Date: 7/9/25 6:07 AM
+      Site Name: Virtz Corner
+      AGL: 125
+      Tower Type: Monopine
+      Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
+        <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46348-A</name>
+        <description><![CDATA[Date: 7/9/25 6:21 AM
+      Site Name: Meadwood
+      AGL: 147
+      Tower Type: Monopole
+      Address: 5495 Hillandale Drive, Lithonia, Dekalb, GA 30058]]></description>
+        <Point><coordinates>-84.1671937777778,33.7044166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/9/25 6:33 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA09553-A</name>
+        <description><![CDATA[Date: 7/9/25 6:37 AM
+      Site Name: Deer Range
+      AGL: 304
+      Tower Type: Guyed
+      Address: 18940 Highway 23, Myrtle Grove, Plaquemines, LA 70764]]></description>
+        <Point><coordinates>-89.9122694444444,29.6141555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05300-S</name>
+        <description><![CDATA[Date: 7/9/25 6:37 AM
+      Site Name: Williamstown 3 NY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
+        <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00830-S</name>
+        <description><![CDATA[Date: 7/9/25 6:40 AM
+      Site Name: Highway 27
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3365 Martha Berry Highway, Rome, Floyd, GA 30165-8653]]></description>
+        <Point><coordinates>-85.1751493333333,34.3183437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21685-A</name>
+        <description><![CDATA[Date: 7/9/25 6:36 AM
+      Site Name: Montezuma Tower
+      AGL: 200
+      Tower Type: Guyed
+      Address: 5033 Hwy 49 N, Montezuma, Macon, GA 31063]]></description>
+        <Point><coordinates>-84.0203754444444,32.3454649444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH03147-B</name>
+        <description><![CDATA[Date: 7/9/25 6:42 AM
+      Site Name: Gettysburg
+      AGL: 170
+      Tower Type: Self Support
+      Address: 8058 Eaton-Gettysburg Road, New Paris, Preble, OH 45347]]></description>
+        <Point><coordinates>-84.7188048888889,39.8363885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21237-A</name>
+        <description><![CDATA[Date: 7/9/25 6:42 AM
+      Site Name: Danville Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 214 Lucy Chapel Exchange, Danville, Twiggs, GA 31017]]></description>
+        <Point><coordinates>-83.3200104444444,32.6008388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20508-A</name>
+        <description><![CDATA[Date: 7/9/25 6:30 AM
+      Site Name: GADSDEN
+      AGL: 150
+      Tower Type: Self Support
+      Address: HWY. 95-2, GADSDEN, YUMA, AZ 85336]]></description>
+        <Point><coordinates>-114.786471888889,32.5486385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX22426-A</name>
+        <description><![CDATA[Date: 7/9/25 6:53 AM
+      Site Name: Zacaweista
+      AGL: 321
+      Tower Type: Guyed
+      Address: US Hwy 183, Vernon, Wilbarger, TX 76384]]></description>
+        <Point><coordinates>-99.226791,33.9952691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16497-A</name>
+        <description><![CDATA[Date: 7/9/25 6:55 AM
+      Site Name: Berlin 7 NY
+      AGL: 150
+      Tower Type: Monopole
+      Address: 17295 State Route 22, Berlin, Rensselaer, NY 12040]]></description>
+        <Point><coordinates>-73.3623111111111,42.631191,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00712-B</name>
+        <description><![CDATA[Date: 7/9/25 6:55 AM
+      Site Name: Lackey Rd
+      AGL: 250
+      Tower Type: Self Support
+      Address: 920 Lackey Road, Roswell, Fulton, GA 30075-6404]]></description>
+        <Point><coordinates>-84.3907052222222,34.1045694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21285-A</name>
+        <description><![CDATA[Date: 7/9/25 6:57 AM
+      Site Name: Redwood Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: N9868 HWY 151, Trenton, Dodge, WI 53916]]></description>
+        <Point><coordinates>-88.7798003333333,43.5497471666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11873-B</name>
+        <description><![CDATA[Date: 7/9/25 6:57 AM
+      Site Name: Thatcher Rd
+      AGL: 121
+      Tower Type: Monopole
+      Address: 676 West Thatcher Road, Quakertown, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2983802222222,40.4563194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD41249-T</name>
+        <description><![CDATA[Date: 7/9/25 6:57 AM
+      Site Name: Martinson Property
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4007 Accokeek Rd., BrandyWIe, Prince George's, MD 20613]]></description>
+        <Point><coordinates>-76.938083,38.6782215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13638-A</name>
+        <description><![CDATA[Date: 7/9/25 6:57 AM
+      Site Name: Moriczville
+      AGL: 280
+      Tower Type: Self Support
+      Address: 6520 Paul Buchman Hwy, Plant City, Hillsborough, FL 33565]]></description>
+        <Point><coordinates>-82.142083,28.1026111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC03613-S</name>
+        <description><![CDATA[Date: 7/9/25 7:01 AM
+      Site Name: Coddle Creek
+      AGL: 241
+      Tower Type: Self Support
+      Address: 1692 Coddle Creek Highway, Mooresville, Iredell, NC 28115-7702]]></description>
+        <Point><coordinates>-80.7741715555556,35.5421691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13165-A</name>
+        <description><![CDATA[Date: 7/9/25 7:01 AM
+      Site Name: Burnside 2
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1155 Hill Road, Somerset, Pulaski, KY 42501]]></description>
+        <Point><coordinates>-84.581666,37.0180548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13093-A</name>
+        <description><![CDATA[Date: 7/9/25 7:07 AM
+      Site Name: Sharpsburg-Turin
+      AGL: 250
+      Tower Type: Guyed
+      Address: 61 George Revell Street, Turin, Coweta, GA 30289]]></description>
+        <Point><coordinates>-84.6376663333333,33.3288882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA20602-A</name>
+        <description><![CDATA[Date: 7/9/25 7:07 AM
+      Site Name: Boone South
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1201 QUILL ROAD, BOONE, BOONE, IA 50036]]></description>
+        <Point><coordinates>-93.8541888888889,42.0335274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05330-B</name>
+        <description><![CDATA[Date: 7/9/25 7:02 AM
+      Site Name: Corey
+      AGL: 150
+      Tower Type: Monopole
+      Address: 101 Corey Street, Plains, Luzerne, PA 18702-1833]]></description>
+        <Point><coordinates>-75.8400941111111,41.2906774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08723-A</name>
+        <description><![CDATA[Date: 7/9/25 7:03 AM
+      Site Name: Waterloo 4 IN
+      AGL: 302
+      Tower Type: Self Support
+      Address: 200 Executive Drive, Waterloo, Dekalb, IN 46793-9448]]></description>
+        <Point><coordinates>-85.0445357777778,41.4363996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS07015-B</name>
+        <description><![CDATA[Date: 7/9/25 7:09 AM
+      Site Name: Grenada Lake
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1957 Fort Hill Road, Grenada, Grenada, MS 38901]]></description>
+        <Point><coordinates>-89.739108,33.7686854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04894-S</name>
+        <description><![CDATA[Date: 7/9/25 7:09 AM
+      Site Name: Hampton Springs
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5820 W. U.S. 98, Perry, Taylor, FL 32347-6912]]></description>
+        <Point><coordinates>-83.6693048888889,30.0845274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/9/25 7:19 AM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07252-A</name>
+        <description><![CDATA[Date: 7/9/25 7:19 AM
+      Site Name: W Murray
+      AGL: 311
+      Tower Type: Guyed
+      Address: 424 Hudson Rd., Murray, Calloway, KY 42071]]></description>
+        <Point><coordinates>-88.3697715555555,36.6090305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02833-B</name>
+        <description><![CDATA[Date: 7/9/25 7:12 AM
+      Site Name: District Path
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1500 Hill & Dale Rd., Jeffersonville, Twiggs, GA 31044-8142]]></description>
+        <Point><coordinates>-83.3528333333333,32.6121305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03282-A</name>
+        <description><![CDATA[Date: 7/9/25 7:12 AM
+      Site Name: N Bypass
+      AGL: 165
+      Tower Type: Monopole
+      Address: 2760 North Bypass, Dalton, Whitfield, GA 30721]]></description>
+        <Point><coordinates>-84.9150222222222,34.7825826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC05720-A</name>
+        <description><![CDATA[Date: 7/9/25 7:21 AM
+      Site Name: Burns Road
+      AGL: 240
+      Tower Type: Self Support
+      Address: 740 Burns Road, Greer, Spartanburg, SC 29651-7298]]></description>
+        <Point><coordinates>-82.1662805555556,34.8426607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC05720-A</name>
+        <description><![CDATA[Date: 7/9/25 7:21 AM
+      Site Name: Burns Road
+      AGL: 240
+      Tower Type: Self Support
+      Address: 740 Burns Road, Greer, Spartanburg, SC 29651-7298]]></description>
+        <Point><coordinates>-82.1662805555556,34.8426607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/9/25 7:12 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40966-T</name>
+        <description><![CDATA[Date: 7/9/25 7:28 AM
+      Site Name: Hinesville NW
+      AGL: 185
+      Tower Type: Monopole
+      Address: 613 E.G. Miles Parkway, Hinesville, Liberty, GA 31313]]></description>
+        <Point><coordinates>-81.6098,31.8354135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46681-A</name>
+        <description><![CDATA[Date: 7/9/25 7:28 AM
+      Site Name: Crawford Truck Sales
+      AGL: 146
+      Tower Type: Tree
+      Address: 2176 Main Street, Lancaster, Worcester, MA 01523]]></description>
+        <Point><coordinates>-71.7037944444444,42.481966,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04973-A</name>
+        <description><![CDATA[Date: 7/9/25 7:28 AM
+      Site Name: I-30 Truck Stop
+      AGL: 251
+      Tower Type: Self Support
+      Address: 9550 Old Military Rd., Benton, Saline, AR 72019]]></description>
+        <Point><coordinates>-92.7294937777778,34.4813771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12456-A</name>
+        <description><![CDATA[Date: 7/9/25 7:31 AM
+      Site Name: Leto
+      AGL: 145
+      Tower Type: Monopole
+      Address: 6909 Asphalt Dr., Tampa, Hillsborough, FL 33614]]></description>
+        <Point><coordinates>-82.5234521111111,28.0127583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18071-A</name>
+        <description><![CDATA[Date: 7/9/25 7:31 AM
+      Site Name: South Seas
+      AGL: 158
+      Tower Type: Monopole
+      Address: 1061 South Seas Plantation Road, Captiva Island, Lee, FL 33924]]></description>
+        <Point><coordinates>-82.1951413333333,26.5417107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12456-A</name>
+        <description><![CDATA[Date: 7/9/25 7:31 AM
+      Site Name: Leto
+      AGL: 145
+      Tower Type: Monopole
+      Address: 6909 Asphalt Dr., Tampa, Hillsborough, FL 33614]]></description>
+        <Point><coordinates>-82.5234521111111,28.0127583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12857-A</name>
+        <description><![CDATA[Date: 7/9/25 7:31 AM
+      Site Name: McBean 2 GA
+      AGL: 400
+      Tower Type: Guyed
+      Address: 972 River Road, McBean, Burke, GA 30830]]></description>
+        <Point><coordinates>-81.9206743333333,33.2371135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21681-A</name>
+        <description><![CDATA[Date: 7/9/25 7:31 AM
+      Site Name: OGLETHORPE TOWER
+      AGL: 250
+      Tower Type: Guyed
+      Address: 185 Jake Smith Road, Oglethorpe, Macon, GA 31068]]></description>
+        <Point><coordinates>-84.0802001666667,32.2875507777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA17485-A</name>
+        <description><![CDATA[Date: 7/9/25 7:33 AM
+      Site Name: Hendricks Lake
+      AGL: 190
+      Tower Type: Guyed
+      Address: 307 Albert Jenkins Road, Dry Branch, Twiggs, GA 31020]]></description>
+        <Point><coordinates>-83.4442996666667,32.5225021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13286-A</name>
+        <description><![CDATA[Date: 7/9/25 7:39 AM
+      Site Name: Midrivers- Mexico
+      AGL: 90
+      Tower Type: MonoCross
+      Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
+        <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40966-T</name>
+        <description><![CDATA[Date: 7/9/25 7:39 AM
+      Site Name: Hinesville NW
+      AGL: 185
+      Tower Type: Monopole
+      Address: 613 E.G. Miles Parkway, Hinesville, Liberty, GA 31313]]></description>
+        <Point><coordinates>-81.6098,31.8354135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17667-A</name>
+        <description><![CDATA[Date: 7/9/25 7:39 AM
+      Site Name: Mellen Relo
+      AGL: 291
+      Tower Type: Self Support
+      Address: 71567 Kornstead Road, Mellen, Ashland, WI 54546]]></description>
+        <Point><coordinates>-90.6826237777778,46.3273646111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL00651-B</name>
+        <description><![CDATA[Date: 7/9/25 7:40 AM
+      Site Name: Foxwood
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1649 Ray Thorington Rd, Montgomery, Montgomery, AL 36117]]></description>
+        <Point><coordinates>-86.1280576666667,32.3177382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13940-A</name>
+        <description><![CDATA[Date: 7/9/25 7:40 AM
+      Site Name: Tyler Mountain
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
+        <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41821-T</name>
+        <description><![CDATA[Date: 7/9/25 7:46 AM
+      Site Name: Liberty Tire
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2901 2/3 Berry Rd, Houston, Harris, TX 77093]]></description>
+        <Point><coordinates>-95.3409163333333,29.8386107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20446-A</name>
+        <description><![CDATA[Date: 7/9/25 7:42 AM
+      Site Name: SOUTH BEND 1
+      AGL: 180
+      Tower Type: Self Support
+      Address: 59520 LINDEN RD, SOUTH BEND, St. Joseph, IN 46614]]></description>
+        <Point><coordinates>-86.2721493333333,41.6283576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20446-A</name>
+        <description><![CDATA[Date: 7/9/25 7:42 AM
+      Site Name: SOUTH BEND 1
+      AGL: 180
+      Tower Type: Guyed
+      Address: 59520 LINDEN RD, SOUTH BEND, St. Joseph, IN 46614]]></description>
+        <Point><coordinates>-86.2723521111111,41.6283604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/9/25 7:36 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/9/25 7:48 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17636-A</name>
+        <description><![CDATA[Date: 7/9/25 7:36 AM
+      Site Name: Big Horn
+      AGL: 276
+      Tower Type: Self Support
+      Address: 923 11th Avenue, Arkdale, Adams, WI 54613]]></description>
+        <Point><coordinates>-89.8002633333333,44.1235379444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/9/25 7:46 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06512-B</name>
+        <description><![CDATA[Date: 7/9/25 7:36 AM
+      Site Name: Bassler
+      AGL: 190
+      Tower Type: Self Support
+      Address: 235 Moss Glen Road, Brockton, Schuylkill, PA 17925]]></description>
+        <Point><coordinates>-76.0766382222222,40.7599166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41821-T</name>
+        <description><![CDATA[Date: 7/9/25 7:46 AM
+      Site Name: Liberty Tire
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2901 2/3 Berry Rd, Houston, Harris, TX 77093]]></description>
+        <Point><coordinates>-95.3409163333333,29.8386107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/9/25 7:51 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02853-B</name>
+        <description><![CDATA[Date: 7/9/25 7:55 AM
+      Site Name: Hardwick 2 GA
+      AGL: 250
+      Tower Type: Self Support
+      Address: 161 S. Edwards St. SE, Milledgeville, Baldwin, GA 31061]]></description>
+        <Point><coordinates>-83.219041,33.0559111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK47567-A</name>
+        <description><![CDATA[Date: 7/9/25 8:02 AM
+      Site Name: Sunnylane
+      AGL: 160
+      Tower Type: Monopole
+      Address: South Sunnylane Rd, Oklahoma City, Cleveland, OK 73165]]></description>
+        <Point><coordinates>-97.439883,35.3368135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX18172-A</name>
+        <description><![CDATA[Date: 7/9/25 8:02 AM
+      Site Name: Electra
+      AGL: 332
+      Tower Type: Guyed
+      Address: 690 Hwy 287, West Electra, Wichita, TX 76360]]></description>
+        <Point><coordinates>-98.9195743333333,34.0460774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04448-B</name>
+        <description><![CDATA[Date: 7/9/25 7:55 AM
+      Site Name: Sandy Springs
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
+        <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21680-A</name>
+        <description><![CDATA[Date: 7/9/25 8:04 AM
+      Site Name: Longstreet Church
+      AGL: 250
+      Tower Type: Guyed
+      Address: Route  4, Box 276, Cochran, Bleckley, GA 31014]]></description>
+        <Point><coordinates>-83.3845291111111,32.4603477777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11972-A</name>
+        <description><![CDATA[Date: 7/9/25 8:04 AM
+      Site Name: Hollywood Soncy
+      AGL: 177
+      Tower Type: Self Support
+      Address: 7515 S. Soncy Road, Amarillo, Randall, TX 79110]]></description>
+        <Point><coordinates>-101.936160777778,35.1309132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13863-A</name>
+        <description><![CDATA[Date: 7/9/25 8:13 AM
+      Site Name: Porterfield
+      AGL: 281
+      Tower Type: Self Support
+      Address: 2463 Clock Creek Rd, Cornersville, Giles, TN 37047]]></description>
+        <Point><coordinates>-86.8722771111111,35.2856941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48017-A</name>
+        <description><![CDATA[Date: 7/9/25 8:13 AM
+      Site Name: Burnet-tx
+      AGL: 116
+      Tower Type: Monopole
+      Address: 9323 Burnet Rd., Austin, Travis, TX 78758]]></description>
+        <Point><coordinates>-97.7248632222222,30.3770271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04803-A</name>
+        <description><![CDATA[Date: 7/9/25 8:21 AM
+      Site Name: Fairfield Glade 2 TN
+      AGL: 307
+      Tower Type: Self Support
+      Address: 129 Dartmoor Drive, Crossville, Cumberland, TN 38558-6211]]></description>
+        <Point><coordinates>-84.8919941111111,36.0124805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15138-A</name>
+        <description><![CDATA[Date: 7/9/25 8:28 AM
+      Site Name: Mabelle
+      AGL: 341
+      Tower Type: Guyed
+      Address: 155 County Rd. 230, Seymour, Baylor, TX 76380]]></description>
+        <Point><coordinates>-99.1404191111111,33.6804632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO17877-A</name>
+        <description><![CDATA[Date: 7/9/25 8:28 AM
+      Site Name: Del Norte
+      AGL: 49
+      Tower Type: Monopole
+      Address: 206 County Road 14, Del Norte, Rio Grande, CO 81132]]></description>
+        <Point><coordinates>-106.360455555556,37.6755048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI48220-A</name>
+        <description><![CDATA[Date: 7/9/25 8:28 AM
+      Site Name: Butte Des Morts
+      AGL: 190
+      Tower Type: Self Support
+      Address: 3865 County Rd FF, Omro, Winnebago, WI 54963]]></description>
+        <Point><coordinates>-88.6753465555556,44.0320382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20655-A</name>
+        <description><![CDATA[Date: 7/9/25 8:28 AM
+      Site Name: 57 Junction
+      AGL: 240
+      Tower Type: Self Support
+      Address: 10271 Day Road, Marion, Williamson, IL 62959]]></description>
+        <Point><coordinates>-88.9895218888889,37.6144694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 7/9/25 8:19 AM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL18152-A</name>
+        <description><![CDATA[Date: 7/9/25 8:33 AM
+      Site Name: Downers Grove
+      AGL: 160
+      Tower Type: Guyed
+      Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
+        <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20521-A</name>
+        <description><![CDATA[Date: 7/9/25 8:41 AM
+      Site Name: Kearsage Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 3700 Buena Vista Avenue, Lake Havasu City, Mohave, AZ 86404]]></description>
+        <Point><coordinates>-114.268138222222,34.4643611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47613-A</name>
+        <description><![CDATA[Date: 7/9/25 8:31 AM
+      Site Name: Siskiyou - Search Ring
+      AGL: 175
+      Tower Type: Self Support
+      Address: 12095 Old Highway 99 S, Ashland, Jackson, OR 97520]]></description>
+        <Point><coordinates>-122.599124666667,42.0514722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22865-S</name>
+        <description><![CDATA[Date: 7/9/25 8:38 AM
+      Site Name: Bradley Junction
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7070 Highway 37 South, Mulberry, Polk, FL 33860]]></description>
+        <Point><coordinates>-81.9835610555556,27.7893199444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL18152-A</name>
+        <description><![CDATA[Date: 7/9/25 8:38 AM
+      Site Name: Downers Grove
+      AGL: 160
+      Tower Type: Guyed
+      Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
+        <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21679-A</name>
+        <description><![CDATA[Date: 7/9/25 8:38 AM
+      Site Name: Cochran North
+      AGL: 250
+      Tower Type: Guyed
+      Address: 270 Lucas Road, Cochran, Bleckley, GA 31014]]></description>
+        <Point><coordinates>-83.3386135555556,32.4130611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01899-B</name>
+        <description><![CDATA[Date: 7/9/25 8:44 AM
+      Site Name: Garden City
+      AGL: 300
+      Tower Type: Self Support
+      Address: 116 Cox Road, Blackstone, Nottoway, VA 23824]]></description>
+        <Point><coordinates>-77.9019055555556,37.1432024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO40167-T</name>
+        <description><![CDATA[Date: 7/9/25 8:44 AM
+      Site Name: Premium Lawns
+      AGL: 60
+      Tower Type: Stealth
+      Address: 819 Caulks Hill Rd., St. Charles, St. Charles, MO 63304]]></description>
+        <Point><coordinates>-90.5772048888889,38.7245104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 7/9/25 8:40 AM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 7/9/25 8:40 AM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/9/25 8:46 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06607-B</name>
+        <description><![CDATA[Date: 7/9/25 8:46 AM
+      Site Name: North Springfield
+      AGL: 192
+      Tower Type: Self Support
+      Address: Route 5 & Route 215 Junction, North Springfield, Erie, PA 16411]]></description>
+        <Point><coordinates>-80.4259687777778,41.9867191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12741-A</name>
+        <description><![CDATA[Date: 7/9/25 8:46 AM
+      Site Name: Americus
+      AGL: 251
+      Tower Type: Self Support
+      Address: 1039 Fetner Drive, Americus, Sumter, GA 31709]]></description>
+        <Point><coordinates>-84.2193576666667,32.0719382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15887-A</name>
+        <description><![CDATA[Date: 7/9/25 8:52 AM
+      Site Name: Beneva
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1111 Beneva Road, Sarasota, Sarasota, FL 34232]]></description>
+        <Point><coordinates>-82.4958088333333,27.3243007222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/9/25 8:52 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12363-A</name>
+        <description><![CDATA[Date: 7/9/25 8:58 AM
+      Site Name: Alpine
+      AGL: 301
+      Tower Type: Guyed
+      Address: 510 Heath Road, Burnside, Pulaski, KY 42519]]></description>
+        <Point><coordinates>-84.5236687777778,36.9361774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY11221-A</name>
+        <description><![CDATA[Date: 7/9/25 8:49 AM
+      Site Name: Nassau 2 NY
+      AGL: 195
+      Tower Type: Self Support
+      Address: 3017 US Rte 20, Nassau, Rensselaer, NY 12123]]></description>
+        <Point><coordinates>-73.5848052222222,42.5125555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21064-A</name>
+        <description><![CDATA[Date: 7/9/25 9:04 AM
+      Site Name: United Drive
+      AGL: 125
+      Tower Type: Monopole
+      Address: 9100 United Drive, Austin, Travis, TX 73301]]></description>
+        <Point><coordinates>-97.7320298888889,30.3769548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/9/25 8:55 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13164-A</name>
+        <description><![CDATA[Date: 7/9/25 9:12 AM
+      Site Name: Burnside 1
+      AGL: 251
+      Tower Type: Self Support
+      Address: 1025 Hill Road, Somerset, Pulaski, KY 42501]]></description>
+        <Point><coordinates>-84.5786715555556,37.0201993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS20678-A</name>
+        <description><![CDATA[Date: 7/9/25 9:07 AM
+      Site Name: Rush County
+      AGL: 435
+      Tower Type: Guyed
+      Address: 2437 Avenue P, La Crosse, Rush, KS 67545]]></description>
+        <Point><coordinates>-99.3184965555556,38.4833524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13561-B</name>
+        <description><![CDATA[Date: 7/9/25 9:01 AM
+      Site Name: Cazenovia
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
+        <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10364-A</name>
+        <description><![CDATA[Date: 7/9/25 9:13 AM
+      Site Name: Woodchuck
+      AGL: 110
+      Tower Type: Flagpole
+      Address: 24065 Waterfall Drive, Bonita Springs, Lee, FL 34135]]></description>
+        <Point><coordinates>-81.7732632222222,26.3883496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10364-A</name>
+        <description><![CDATA[Date: 7/9/25 9:13 AM
+      Site Name: Woodchuck
+      AGL: 110
+      Tower Type: Flagpole
+      Address: 24065 Waterfall Drive, Bonita Springs, Lee, FL 34135]]></description>
+        <Point><coordinates>-81.7732632222222,26.3883496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21688-A</name>
+        <description><![CDATA[Date: 7/9/25 9:16 AM
+      Site Name: COCHRAN SOUTH TOWER
+      AGL: 250
+      Tower Type: Guyed
+      Address: 442 Mac Thompson Road, Cochran, Bleckley, GA 31014]]></description>
+        <Point><coordinates>-83.3441421666667,32.3606041666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/9/25 9:16 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL13016-A</name>
+        <description><![CDATA[Date: 7/9/25 9:16 AM
+      Site Name: Weogufka
+      AGL: 250
+      Tower Type: Self Support
+      Address: Route 2, CR56, Rockford, Coosa, AL 35136]]></description>
+        <Point><coordinates>-86.2341052222222,33.0387607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN00554-B</name>
+        <description><![CDATA[Date: 7/9/25 9:18 AM
+      Site Name: Cardiff
+      AGL: 275
+      Tower Type: Self Support
+      Address: 180 Martin Road, Harriman, Roane, TN 37748-7618]]></description>
+        <Point><coordinates>-84.6106888888889,35.9071388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13654-A</name>
+        <description><![CDATA[Date: 7/9/25 9:28 AM
+      Site Name: Valrico
+      AGL: 146
+      Tower Type: Monopole
+      Address: 2135 Kirkeby Rd, Valrico, Hillsborough, FL 33594]]></description>
+        <Point><coordinates>-82.2502888888889,27.9485218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00511-B</name>
+        <description><![CDATA[Date: 7/9/25 9:28 AM
+      Site Name: Ludowici
+      AGL: 325
+      Tower Type: Guyed
+      Address: 226 NE Doyle Durrence Lane, Ludowici, Long, GA 31316]]></description>
+        <Point><coordinates>-81.711575,31.7343413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00363-S</name>
+        <description><![CDATA[Date: 7/9/25 9:31 AM
+      Site Name: North Port Charlotte
+      AGL: 250
+      Tower Type: Self Support
+      Address: 470 Bamboo Drive, Port Charlotte, Charlotte, FL 33954]]></description>
+        <Point><coordinates>-82.1884441111111,27.023166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15326-A</name>
+        <description><![CDATA[Date: 7/9/25 9:34 AM
+      Site Name: Mount Olive Church II MS
+      AGL: 300
+      Tower Type: Guyed
+      Address: 22294 Hwy 45 North, Aberdeen, Monroe, MS 69730]]></description>
+        <Point><coordinates>-88.5924218888889,33.9221798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM47259-A</name>
+        <description><![CDATA[Date: 7/9/25 9:31 AM
+      Site Name: Petroglyph
+      AGL: 61
+      Tower Type: Monopole
+      Address: 5101 Homestead Circle Nw, Albuquerque, Bernalillo, NM 87120]]></description>
+        <Point><coordinates>-106.697566333333,35.1625,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01314-A</name>
+        <description><![CDATA[Date: 7/9/25 9:37 AM
+      Site Name: Luten
+      AGL: 201
+      Tower Type: Self Support
+      Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
+        <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46206-A</name>
+        <description><![CDATA[Date: 7/9/25 9:37 AM
+      Site Name: Metro Miami North
+      AGL: 115
+      Tower Type: Monopole
+      Address: 141 NE 20th Street, Miami, Miami-Dade, FL 33137]]></description>
+        <Point><coordinates>-80.191658,25.7959774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46712-A</name>
+        <description><![CDATA[Date: 7/9/25 9:25 AM
+      Site Name: WESTON POLICE STATION
+      AGL: 96
+      Tower Type: Stealth
+      Address: 180 Boston Post Road, Weston, Middlesex, MA 02193]]></description>
+        <Point><coordinates>-71.3066722222222,42.36385,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46235-A</name>
+        <description><![CDATA[Date: 7/9/25 9:25 AM
+      Site Name: Okeechobee Park
+      AGL: 149
+      Tower Type: Monopole
+      Address: 3079 Nw 8th St , Okeechobee, Okeechobee, FL 34972]]></description>
+        <Point><coordinates>-80.8568722222222,27.2514444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21673-A</name>
+        <description><![CDATA[Date: 7/9/25 9:25 AM
+      Site Name: Standifer Gap Park
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2441 Maplewood Drive, Chattanooga, Hamilton, TN 37421]]></description>
+        <Point><coordinates>-85.1040472222222,35.0330326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2116,5 +2116,23 @@
       Address: 1503 Fleming Road, Maysville, Mason, KY 41056]]></description>
         <Point><coordinates>-83.7633472222222,38.6129277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05026-A</name>
+        <description><![CDATA[Date: 7/9/25 4:06 PM
+      Site Name: Stuttgart
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1525 Hwy 79, Stuttgart, Arkansas, AR 72160-5601]]></description>
+        <Point><coordinates>-91.5752187777778,34.495158,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ28610-A</name>
+        <description><![CDATA[Date: 7/9/25 4:02 PM
+      Site Name: Fort Tuthill
+      AGL: 119
+      Tower Type: Monopine
+      Address: Sec.6, T.20 N., R.7 E, Gila and Salt River Meridian, Flagstaff, Coconino, AZ 86005]]></description>
+        <Point><coordinates>-111.691580222222,35.1402496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

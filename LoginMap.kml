@@ -2233,5 +2233,32 @@
       Address: 219 Salt Flat, Holliday, Archer, TX 76366]]></description>
         <Point><coordinates>-98.6705715555556,33.8283743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL15886-A</name>
+        <description><![CDATA[Date: 7/9/25 5:33 PM
+      Site Name: Ave Maria
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI40450-T</name>
+        <description><![CDATA[Date: 7/9/25 5:36 PM
+      Site Name: Sommerset North Kukowski
+      AGL: 150
+      Tower Type: Monopole
+      Address: 14 State Hwy 35, Osceola, Polk, WI 54020]]></description>
+        <Point><coordinates>-92.6861941111111,45.2123888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15886-A</name>
+        <description><![CDATA[Date: 7/9/25 5:36 PM
+      Site Name: Ave Maria
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

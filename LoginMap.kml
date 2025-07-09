@@ -2026,5 +2026,14 @@
       Address: 259 E. Garden Dr , Waco, McLennan, TX 76706]]></description>
         <Point><coordinates>-97.0964691111111,31.5384135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH03523-S</name>
+        <description><![CDATA[Date: 7/9/25 3:10 PM
+      Site Name: Nottingham 3 NH
+      AGL: 180
+      Tower Type: Monopole
+      Address: 150 Raymond Road, Nottingham, Rockingham, NH 03290-5017]]></description>
+        <Point><coordinates>-71.1250882222222,43.077541,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

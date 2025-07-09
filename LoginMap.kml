@@ -2008,5 +2008,23 @@
       Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
         <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12221-A</name>
+        <description><![CDATA[Date: 7/9/25 3:07 PM
+      Site Name: Norwell
+      AGL: 149
+      Tower Type: Flagpole
+      Address: 156 Forest Street, Norwell, Plymouth, MA 02061-2121]]></description>
+        <Point><coordinates>-70.804075,42.1571277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41872-T</name>
+        <description><![CDATA[Date: 7/9/25 3:04 PM
+      Site Name: Chen
+      AGL: 150
+      Tower Type: Monopole
+      Address: 259 E. Garden Dr , Waco, McLennan, TX 76706]]></description>
+        <Point><coordinates>-97.0964691111111,31.5384135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

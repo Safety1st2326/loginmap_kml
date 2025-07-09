@@ -1927,5 +1927,23 @@
       Address: 8531 Coleman Road, Archer City, Archer, TX 76351]]></description>
         <Point><coordinates>-98.6009444444444,33.7074166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45136-A</name>
+        <description><![CDATA[Date: 7/9/25 2:34 PM
+      Site Name: Holy Shepherd Lutheran Church
+      AGL: 50
+      Tower Type: Monopine
+      Address: 10347 Mason Ave, Chatsworth, Los Angeles, CA 91311]]></description>
+        <Point><coordinates>-118.580788222222,34.2581972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03273-A</name>
+        <description><![CDATA[Date: 7/9/25 2:37 PM
+      Site Name: Sullivan Rd
+      AGL: 197
+      Tower Type: Self Support
+      Address: 671 Sullivan Road, Ft. Valley, Peach, GA 31030]]></description>
+        <Point><coordinates>-83.7337496666667,32.5877746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

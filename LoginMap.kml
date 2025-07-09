@@ -2044,5 +2044,14 @@
       Address: 558 E. Highway 18, Sylvan Grove, Lincoln, KS 67481]]></description>
         <Point><coordinates>-98.3994996666667,39.0320993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02846-B</name>
+        <description><![CDATA[Date: 7/9/25 3:36 PM
+      Site Name: Mossy Creek
+      AGL: 190
+      Tower Type: Monopole
+      Address: 284 Sod Farm Rd., Fort Valley, Peach, GA 31030-6131]]></description>
+        <Point><coordinates>-83.7431941111111,32.5423885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

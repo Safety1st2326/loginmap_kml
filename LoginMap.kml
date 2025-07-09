@@ -1387,5 +1387,41 @@
       Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
         <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13625-A</name>
+        <description><![CDATA[Date: 7/9/25 11:43 AM
+      Site Name: Coronado Fire Station
+      AGL: 129
+      Tower Type: Flagpole
+      Address: 4741 Golden Gate Pkwy, Naples, Collier, FL 34116]]></description>
+        <Point><coordinates>-81.7042194444444,26.1825021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21650-A</name>
+        <description><![CDATA[Date: 7/9/25 11:39 AM
+      Site Name: RIVERSBURG
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6000 Columbia Highway, Pulaski, Giles, TN 38478]]></description>
+        <Point><coordinates>-87.0383885555556,35.2720548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC10626-A</name>
+        <description><![CDATA[Date: 7/9/25 11:39 AM
+      Site Name: Chocowinity
+      AGL: 260
+      Tower Type: Guyed
+      Address: 4305 US Hwy 17 S, Chocowinity, Beaufort, NC 27817]]></description>
+        <Point><coordinates>-77.1005138888889,35.5041833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08709-A</name>
+        <description><![CDATA[Date: 7/9/25 11:49 AM
+      Site Name: Hebron 2 IN
+      AGL: 301
+      Tower Type: Guyed
+      Address: 552 County Rd 600 W., Hebron, Porter, IN 46341]]></description>
+        <Point><coordinates>-87.185208,41.3537138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

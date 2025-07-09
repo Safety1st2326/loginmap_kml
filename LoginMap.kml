@@ -2224,5 +2224,14 @@
       Address: 499 Cobb Lane, Pulaski, Giles, TN 38478-7247]]></description>
         <Point><coordinates>-86.9462663333333,35.187308,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX18173-A</name>
+        <description><![CDATA[Date: 7/9/25 5:15 PM
+      Site Name: Holliday
+      AGL: 333
+      Tower Type: Guyed
+      Address: 219 Salt Flat, Holliday, Archer, TX 76366]]></description>
+        <Point><coordinates>-98.6705715555556,33.8283743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

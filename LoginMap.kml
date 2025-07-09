@@ -1540,5 +1540,50 @@
       Address: 139 Crock Way, Hawkinsville, Pulaski, GA 31036]]></description>
         <Point><coordinates>-83.4725346111111,32.3077486111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WY16934-A</name>
+        <description><![CDATA[Date: 7/9/25 12:16 PM
+      Site Name: Rafter J
+      AGL: 62
+      Tower Type: Monopole
+      Address: 3150 Adams Canyon Rd., Jackson, Teton, WY 83001]]></description>
+        <Point><coordinates>-110.783210166667,43.435104,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS12792-A</name>
+        <description><![CDATA[Date: 7/9/25 12:16 PM
+      Site Name: Olpe -2
+      AGL: 260
+      Tower Type: Guyed
+      Address: 1087 Road 80, Olpe, Lyon, KS 66865]]></description>
+        <Point><coordinates>-96.1729798888889,38.2734104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02833-B</name>
+        <description><![CDATA[Date: 7/9/25 12:22 PM
+      Site Name: District Path
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1500 Hill & Dale Rd., Jeffersonville, Twiggs, GA 31044-8142]]></description>
+        <Point><coordinates>-83.3528333333333,32.6121305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46192-A</name>
+        <description><![CDATA[Date: 7/9/25 12:22 PM
+      Site Name: Hobe Sound 2 FL
+      AGL: 148
+      Tower Type: Monopole
+      Address: 8829 Se Robwyn St, Hobe Sound, Martin, FL 33455]]></description>
+        <Point><coordinates>-80.1357218888889,27.0625277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02862-B</name>
+        <description><![CDATA[Date: 7/9/25 12:22 PM
+      Site Name: Big Indian
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2007 Hwy 247 S., Kathleen, Houston, GA 31047]]></description>
+        <Point><coordinates>-83.5683326666667,32.4031111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

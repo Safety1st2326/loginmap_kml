@@ -1585,5 +1585,50 @@
       Address: 2007 Hwy 247 S., Kathleen, Houston, GA 31047]]></description>
         <Point><coordinates>-83.5683326666667,32.4031111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ17717-B</name>
+        <description><![CDATA[Date: 7/9/25 12:36 PM
+      Site Name: Magnolia AZ
+      AGL: 74
+      Tower Type: Monopine
+      Address: 1926 South 203rd Avenue, Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.496749666667,33.4299993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04977-A</name>
+        <description><![CDATA[Date: 7/9/25 12:36 PM
+      Site Name: Kerr Road
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4900 South Kerr Road, Scott, Lonoke, AR 72142-9081]]></description>
+        <Point><coordinates>-92.0621944444444,34.7940218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47850-A</name>
+        <description><![CDATA[Date: 7/9/25 12:36 PM
+      Site Name: Sheppard North
+      AGL: 110
+      Tower Type: Monopole
+      Address: 5548 Burkburnett Rd, Wichita Falls, Wichita, TX 76306]]></description>
+        <Point><coordinates>-98.5202687777778,33.9857774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12723-A</name>
+        <description><![CDATA[Date: 7/9/25 12:36 PM
+      Site Name: Bacon Tower
+      AGL: 191
+      Tower Type: Guyed
+      Address: Bacon Switch Road, Wichita Falls, Wichita, TX 76305]]></description>
+        <Point><coordinates>-98.532166,33.9966857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16089-S</name>
+        <description><![CDATA[Date: 7/9/25 12:24 PM
+      Site Name: Lely
+      AGL: 150
+      Tower Type: Monopole
+      Address: 5650 Melrose Lane, Naples, Collier, FL 34114]]></description>
+        <Point><coordinates>-81.6827743333333,26.0977941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

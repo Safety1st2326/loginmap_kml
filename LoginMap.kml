@@ -2215,5 +2215,14 @@
       Address: 2316 N. US Hwy 41, Perry, Houston, GA 31069-9787]]></description>
         <Point><coordinates>-83.7281326666667,32.5120833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN06412-A</name>
+        <description><![CDATA[Date: 7/9/25 5:03 PM
+      Site Name: Tarpley
+      AGL: 190
+      Tower Type: Self Support
+      Address: 499 Cobb Lane, Pulaski, Giles, TN 38478-7247]]></description>
+        <Point><coordinates>-86.9462663333333,35.187308,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

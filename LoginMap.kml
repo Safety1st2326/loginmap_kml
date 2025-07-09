@@ -1891,5 +1891,41 @@
       Address: 2100 W. HWY. 80, BISBEE, COCHISE, AZ 85603]]></description>
         <Point><coordinates>-109.950666666667,31.4660277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL14733-A</name>
+        <description><![CDATA[Date: 7/9/25 2:21 PM
+      Site Name: Palm City
+      AGL: 440
+      Tower Type: Guyed
+      Address: 4130 SW Citrus Blvd, Palm City, Martin, FL 34990]]></description>
+        <Point><coordinates>-80.3200104444444,27.1552777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41179-T</name>
+        <description><![CDATA[Date: 7/9/25 2:21 PM
+      Site Name: Dunn Store Road
+      AGL: 220
+      Tower Type: Self Support
+      Address: 180 T-Mobile Lane, Morgantown, Butler, KY 42261]]></description>
+        <Point><coordinates>-86.6844496666667,37.1612194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA46028-A</name>
+        <description><![CDATA[Date: 7/9/25 2:18 PM
+      Site Name: National City Plaza
+      AGL: 43
+      Tower Type: Tree
+      Address: 2323 East Division Street , National City, San Diego, CA 91950]]></description>
+        <Point><coordinates>-117.085971888889,32.6898607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX06171-S</name>
+        <description><![CDATA[Date: 7/9/25 2:25 PM
+      Site Name: Highway 79
+      AGL: 310
+      Tower Type: Guyed
+      Address: 8531 Coleman Road, Archer City, Archer, TX 76351]]></description>
+        <Point><coordinates>-98.6009444444444,33.7074166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

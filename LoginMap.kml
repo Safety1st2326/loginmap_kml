@@ -1702,5 +1702,32 @@
       Address: 5548 Burkburnett Rd, Wichita Falls, Wichita, TX 76306]]></description>
         <Point><coordinates>-98.5202687777778,33.9857774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45080-A</name>
+        <description><![CDATA[Date: 7/9/25 1:22 PM
+      Site Name: Perryville 2 AZ
+      AGL: 99
+      Tower Type: Monopole
+      Address: 17425 W. Broadway Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.435721888889,33.4058333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16959-A</name>
+        <description><![CDATA[Date: 7/9/25 1:24 PM
+      Site Name: Krimiko
+      AGL: 121
+      Tower Type: Monopine
+      Address: 5475 SE Ault Avenue, Stuart, Martin, FL 34997]]></description>
+        <Point><coordinates>-80.2369468888889,27.1396246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47849-A</name>
+        <description><![CDATA[Date: 7/9/25 1:28 PM
+      Site Name: Sheppard
+      AGL: 58
+      Tower Type: Monopole
+      Address: 1628 Pearlie Drive, Wichita Falls, Wichita, TX 76306]]></description>
+        <Point><coordinates>-98.5159397222222,33.9645163888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

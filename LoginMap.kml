@@ -1774,5 +1774,59 @@
       Address: 308 State Highway 25 W, Archer City, Archer, TX 76251]]></description>
         <Point><coordinates>-98.6444052222222,33.598483,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45241-A</name>
+        <description><![CDATA[Date: 7/9/25 1:40 PM
+      Site Name: Escalon
+      AGL: 119
+      Tower Type: Monopole
+      Address: 1055 Escalon-Bellota Road , Escalon, San Joaquin, CA 95320]]></description>
+        <Point><coordinates>-120.997874666667,37.8036527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47851-A</name>
+        <description><![CDATA[Date: 7/9/25 1:43 PM
+      Site Name: Riordan-sheppard Afb
+      AGL: 30
+      Tower Type: Stealth
+      Address: 3400 Armstrong Drive, Wichita Falls, Wichita, TX 76305]]></description>
+        <Point><coordinates>-98.4921246666667,33.9563694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17654-A</name>
+        <description><![CDATA[Date: 7/9/25 1:43 PM
+      Site Name: Hansen
+      AGL: 276
+      Tower Type: Self Support
+      Address: +/-5183 Jefferson Road, Vesper, Wood, WI 54489]]></description>
+        <Point><coordinates>-89.9767187777778,44.4603277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02859-B</name>
+        <description><![CDATA[Date: 7/9/25 1:42 PM
+      Site Name: Peach
+      AGL: 250
+      Tower Type: Self Support
+      Address: 155 Country Club Road, Fort Valley, Peach, GA 31030-7901]]></description>
+        <Point><coordinates>-83.858,32.5856941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20520-A</name>
+        <description><![CDATA[Date: 7/9/25 1:34 PM
+      Site Name: Rock Lane
+      AGL: 105
+      Tower Type: Monopole
+      Address: 969 SYCAMORE PLACE, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.295166333333,34.5238326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10331-A</name>
+        <description><![CDATA[Date: 7/9/25 1:49 PM
+      Site Name: Osceola 3 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2712 Lithia Pinecrest Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2550222222222,27.905325,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

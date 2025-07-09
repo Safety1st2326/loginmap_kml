@@ -2134,5 +2134,23 @@
       Address: Sec.6, T.20 N., R.7 E, Gila and Salt River Meridian, Flagstaff, Coconino, AZ 86005]]></description>
         <Point><coordinates>-111.691580222222,35.1402496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA06601-B</name>
+        <description><![CDATA[Date: 7/9/25 4:12 PM
+      Site Name: Berwick
+      AGL: 190
+      Tower Type: Self Support
+      Address: 300 Freas Avenue, Berwick, Columbia, PA 18603]]></description>
+        <Point><coordinates>-76.248408,41.0616805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12961-A</name>
+        <description><![CDATA[Date: 7/9/25 4:15 PM
+      Site Name: Pine Knot KY
+      AGL: 252
+      Tower Type: Self Support
+      Address: 6135 S. Hwy 1651, Pine Knot, McCreary, KY 42635]]></description>
+        <Point><coordinates>-84.4433913333333,36.6625777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

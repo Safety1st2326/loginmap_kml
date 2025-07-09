@@ -1999,5 +1999,14 @@
       Address: 4605 NW Pacific Rim Blvd, Camas, Clark, WA 98607]]></description>
         <Point><coordinates>-122.456166666667,45.6015555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/9/25 2:54 PM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

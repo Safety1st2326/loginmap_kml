@@ -2053,5 +2053,41 @@
       Address: 284 Sod Farm Rd., Fort Valley, Peach, GA 31030-6131]]></description>
         <Point><coordinates>-83.7431941111111,32.5423885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN41306-T</name>
+        <description><![CDATA[Date: 7/9/25 3:40 PM
+      Site Name: Robin Machine
+      AGL: 100
+      Tower Type: Monopole
+      Address: 15605 32nd Ave North, Plymouth, Hennepin, MN 55447]]></description>
+        <Point><coordinates>-93.4781882222222,45.0151666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21806-A</name>
+        <description><![CDATA[Date: 7/9/25 3:42 PM
+      Site Name: Sixshooter
+      AGL: 350
+      Tower Type: Guyed
+      Address: 5142 E. INTERSTATE HIGHWAY 10, FORT STOCKTON, PECOS, TX 79735]]></description>
+        <Point><coordinates>-102.541391333333,30.8588027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21806-A</name>
+        <description><![CDATA[Date: 7/9/25 3:42 PM
+      Site Name: Sixshooter
+      AGL: 350
+      Tower Type: Guyed
+      Address: 5142 E. INTERSTATE HIGHWAY 10, FORT STOCKTON, PECOS, TX 79735]]></description>
+        <Point><coordinates>-102.541391333333,30.8588027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10148-A</name>
+        <description><![CDATA[Date: 7/9/25 3:48 PM
+      Site Name: Evans 2 TX
+      AGL: 253
+      Tower Type: Self Support
+      Address: 5930 US Highway 281 South, Scotland, Archer, TX 76366]]></description>
+        <Point><coordinates>-98.4829937777778,33.75065,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

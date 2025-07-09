@@ -1423,5 +1423,104 @@
       Address: 552 County Rd 600 W., Hebron, Porter, IN 46341]]></description>
         <Point><coordinates>-87.185208,41.3537138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13169-A</name>
+        <description><![CDATA[Date: 7/9/25 11:46 AM
+      Site Name: Sloans Valley
+      AGL: 301
+      Tower Type: Self Support
+      Address: 246 Old Keno Road, Burnside, Pulaski, KY 42519]]></description>
+        <Point><coordinates>-84.567916,36.9455274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21237-A</name>
+        <description><![CDATA[Date: 7/9/25 11:46 AM
+      Site Name: Danville Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 214 Lucy Chapel Exchange, Danville, Twiggs, GA 31017]]></description>
+        <Point><coordinates>-83.3200104444444,32.6008388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02847-B</name>
+        <description><![CDATA[Date: 7/9/25 11:46 AM
+      Site Name: Hawkinsville
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1 Red Devil Drive, Hawkinsville, Pulaski, GA 31036-1467]]></description>
+        <Point><coordinates>-83.4924718888889,32.2790271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22527-A</name>
+        <description><![CDATA[Date: 7/9/25 11:52 AM
+      Site Name: Pecatonica
+      AGL: 195
+      Tower Type: Self Support
+      Address: 100 Taylor Street, Pecatonica, Winnebago, IL 61063]]></description>
+        <Point><coordinates>-89.35615,42.3147972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46285-A</name>
+        <description><![CDATA[Date: 7/9/25 11:52 AM
+      Site Name: Lakeland
+      AGL: 151
+      Tower Type: Monopole
+      Address: 301 Edwards Avenue, Lakeland, Polk, FL 33802]]></description>
+        <Point><coordinates>-81.9951663333333,28.038833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41576-T</name>
+        <description><![CDATA[Date: 7/9/25 11:55 AM
+      Site Name: Iezzi Property
+      AGL: 118
+      Tower Type: Monopole
+      Address: 4414 Indianola AV, Columbus, Franklin, OH 43214]]></description>
+        <Point><coordinates>-82.9995996666667,40.05465,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46169-A</name>
+        <description><![CDATA[Date: 7/9/25 11:58 AM
+      Site Name: EW Burch
+      AGL: 112
+      Tower Type: Monopole
+      Address: 301 SW 37th Street, Gainesville, Alachua, FL 32602]]></description>
+        <Point><coordinates>-82.3782687777778,29.6486857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11973-A</name>
+        <description><![CDATA[Date: 7/9/25 11:58 AM
+      Site Name: Mathews Jail House
+      AGL: 196
+      Tower Type: Monopole
+      Address: 5514-C NW Freeway, Wichita Falls, Wichita, TX 79305]]></description>
+        <Point><coordinates>-98.5711048888889,33.9545722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21063-A</name>
+        <description><![CDATA[Date: 7/9/25 11:58 AM
+      Site Name: Mankins
+      AGL: 300
+      Tower Type: Guyed
+      Address: 330 Mankins Road, Mankins, Archer, TX 76366]]></description>
+        <Point><coordinates>-98.7956663333333,33.7788326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46172-A</name>
+        <description><![CDATA[Date: 7/9/25 11:58 AM
+      Site Name: Santa Barbara Mall
+      AGL: 77
+      Tower Type: Stealth
+      Address: 5559 Golden Gate Parkway, Naples, Collier, FL 34116]]></description>
+        <Point><coordinates>-81.7179048888889,26.1751548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46172-A</name>
+        <description><![CDATA[Date: 7/9/25 11:58 AM
+      Site Name: Santa Barbara Mall
+      AGL: 78
+      Tower Type: Monopole
+      Address: 5559 Golden Gate Parkway, Naples, Collier, FL 34116]]></description>
+        <Point><coordinates>-81.7012222222222,26.175166,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

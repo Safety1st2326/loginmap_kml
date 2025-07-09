@@ -1243,5 +1243,14 @@
       Address: 5200 Irvine Boulevard, Irvine, Orange, CA 92620]]></description>
         <Point><coordinates>-117.753994444444,33.7051166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA00102-A</name>
+        <description><![CDATA[Date: 7/9/25 11:18 AM
+      Site Name: Scrub Oak Mountain
+      AGL: 255
+      Tower Type: Self Support
+      Address: Long Swamp Rd., Roaring Brook Township, Lackawanna, PA 18444]]></description>
+        <Point><coordinates>-75.5936135555555,41.3807604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

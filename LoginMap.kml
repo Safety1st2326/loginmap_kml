@@ -1684,5 +1684,23 @@
       Address: 6491 SE Federal Hwy, Stuart, Martin, FL 34997-8312]]></description>
         <Point><coordinates>-80.1932218888889,27.1263882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02861-B</name>
+        <description><![CDATA[Date: 7/9/25 1:10 PM
+      Site Name: Hayneville
+      AGL: 250
+      Tower Type: Self Support
+      Address: 677 Grovania Road, Hawkinsville, Houston, GA 31036-9651]]></description>
+        <Point><coordinates>-83.6433968888889,32.3851691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47850-A</name>
+        <description><![CDATA[Date: 7/9/25 1:16 PM
+      Site Name: Sheppard North
+      AGL: 110
+      Tower Type: Monopole
+      Address: 5548 Burkburnett Rd, Wichita Falls, Wichita, TX 76306]]></description>
+        <Point><coordinates>-98.5202687777778,33.9857774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

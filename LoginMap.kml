@@ -1090,5 +1090,68 @@
       Address: 3112 Chapel Hill Road, Columbia, Boone, MO 65201]]></description>
         <Point><coordinates>-92.3839774444444,38.934458,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY12365-A</name>
+        <description><![CDATA[Date: 7/9/25 10:31 AM
+      Site Name: Burnside Island
+      AGL: 282
+      Tower Type: Guyed
+      Address: 380 Race Track Road, Burnside, Pulaski, KY 42519]]></description>
+        <Point><coordinates>-84.5902357777778,36.9777854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46741-A</name>
+        <description><![CDATA[Date: 7/9/25 10:31 AM
+      Site Name: Berry Road-calvary Gospel
+      AGL: 97
+      Tower Type: Flagpole
+      Address: 11154 Berry Road, Waldorf, Charles, MD 20603]]></description>
+        <Point><coordinates>-76.923566,38.638333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40973-T</name>
+        <description><![CDATA[Date: 7/9/25 10:31 AM
+      Site Name: Lombard
+      AGL: 199
+      Tower Type: Monopole
+      Address: 2400 Block (TBD) US Hwy 1 South, Twin City, Emanuel, GA 30471]]></description>
+        <Point><coordinates>-82.3008111111111,32.4497024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46741-A</name>
+        <description><![CDATA[Date: 7/9/25 10:32 AM
+      Site Name: Berry Road-calvary Gospel
+      AGL: 97
+      Tower Type: Flagpole
+      Address: 11154 Berry Road, Waldorf, Charles, MD 20603]]></description>
+        <Point><coordinates>-76.923566,38.638333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46741-A</name>
+        <description><![CDATA[Date: 7/9/25 10:31 AM
+      Site Name: Berry Road-calvary Gospel
+      AGL: 97
+      Tower Type: Flagpole
+      Address: 11154 Berry Road, Waldorf, Charles, MD 20603]]></description>
+        <Point><coordinates>-76.923566,38.638333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO17771-A</name>
+        <description><![CDATA[Date: 7/9/25 10:25 AM
+      Site Name: Doe Run 2 MO
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3054 Hwy 221 Doe Run, Doe Run, St. Francois, MO 63637]]></description>
+        <Point><coordinates>-90.5029694444444,37.7388857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03192-B</name>
+        <description><![CDATA[Date: 7/9/25 10:23 AM
+      Site Name: Ossian
+      AGL: 222
+      Tower Type: Self Support
+      Address: 4306 S. County Line Road, Yoder, Allen, IN 46798-9507]]></description>
+        <Point><coordinates>-85.1909663333333,40.9180632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

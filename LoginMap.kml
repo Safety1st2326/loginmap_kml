@@ -1072,5 +1072,23 @@
       Address: 2441 Maplewood Drive, Chattanooga, Hamilton, TN 37421]]></description>
         <Point><coordinates>-85.1040472222222,35.0330326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO17771-A</name>
+        <description><![CDATA[Date: 7/9/25 10:26 AM
+      Site Name: Doe Run 2 MO
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3054 Hwy 221 Doe Run, Doe Run, St. Francois, MO 63637]]></description>
+        <Point><coordinates>-90.5029694444444,37.7388857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20806-A</name>
+        <description><![CDATA[Date: 7/9/25 10:28 AM
+      Site Name: Country Wood
+      AGL: 134
+      Tower Type: Monopole
+      Address: 3112 Chapel Hill Road, Columbia, Boone, MO 65201]]></description>
+        <Point><coordinates>-92.3839774444444,38.934458,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

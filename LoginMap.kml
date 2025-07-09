@@ -1252,5 +1252,59 @@
       Address: Long Swamp Rd., Roaring Brook Township, Lackawanna, PA 18444]]></description>
         <Point><coordinates>-75.5936135555555,41.3807604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22369-S</name>
+        <description><![CDATA[Date: 7/9/25 11:20 AM
+      Site Name: Naples 6 FL
+      AGL: 147
+      Tower Type: Monopine
+      Address: 4111 Green Boulevard, Naples, Collier, FL 34116]]></description>
+        <Point><coordinates>-81.6896202222222,26.2004586111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/9/25 11:15 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21690-A</name>
+        <description><![CDATA[Date: 7/9/25 11:11 AM
+      Site Name: Hawkinsville South - 271-027 A
+      AGL: 250
+      Tower Type: Guyed
+      Address: 103 Fire Tower Road, Hawkinsville, Pulaski, GA 31036]]></description>
+        <Point><coordinates>-83.4825215555556,32.2556805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21279-A</name>
+        <description><![CDATA[Date: 7/9/25 11:24 AM
+      Site Name: Town Of Polk
+      AGL: 195
+      Tower Type: Self Support
+      Address: 3230 Pioneer Road, Richfield, WASHINGTON, WI 53076]]></description>
+        <Point><coordinates>-88.199183,43.2852913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK14018-S</name>
+        <description><![CDATA[Date: 7/9/25 11:24 AM
+      Site Name: Norman 12th & Robinson
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1498 East Main Street, Norman, Cleveland, OK 73071]]></description>
+        <Point><coordinates>-97.4202521111111,35.2238604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15082-S</name>
+        <description><![CDATA[Date: 7/9/25 11:11 AM
+      Site Name: Oil Creek Twsp
+      AGL: 250
+      Tower Type: Self Support
+      Address: 13772 Old Route 8 N, Titusville, Crawford, PA 16354]]></description>
+        <Point><coordinates>-79.7240548888889,41.6666388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

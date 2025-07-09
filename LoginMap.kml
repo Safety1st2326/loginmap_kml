@@ -1729,5 +1729,50 @@
       Address: 1628 Pearlie Drive, Wichita Falls, Wichita, TX 76306]]></description>
         <Point><coordinates>-98.5159397222222,33.9645163888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21547-A</name>
+        <description><![CDATA[Date: 7/9/25 1:31 PM
+      Site Name: Cedartown
+      AGL: 331
+      Tower Type: Guyed
+      Address: 616 Lovvorn, Cedartown, Polk, GA 30125]]></description>
+        <Point><coordinates>-85.2282743333333,33.9847052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06772-B</name>
+        <description><![CDATA[Date: 7/9/25 1:31 PM
+      Site Name: Scott
+      AGL: 250
+      Tower Type: Self Support
+      Address: 12332 Hwy 165, Scott, Lonoke, AR 72142-9249]]></description>
+        <Point><coordinates>-92.091308,34.6904191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13162-A</name>
+        <description><![CDATA[Date: 7/9/25 1:31 PM
+      Site Name: Cumberland
+      AGL: 252
+      Tower Type: Self Support
+      Address: 165 Highway 90, Parkers Lake, McCreary, KY 42634]]></description>
+        <Point><coordinates>-84.4789437777778,36.8408607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10146-A</name>
+        <description><![CDATA[Date: 7/9/25 1:36 PM
+      Site Name: Archer City 2 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 308 State Highway 25 W, Archer City, Archer, TX 76251]]></description>
+        <Point><coordinates>-98.6444052222222,33.598483,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10146-A</name>
+        <description><![CDATA[Date: 7/9/25 1:36 PM
+      Site Name: Archer City 2 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 308 State Highway 25 W, Archer City, Archer, TX 76251]]></description>
+        <Point><coordinates>-98.6444052222222,33.598483,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

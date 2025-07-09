@@ -2260,5 +2260,14 @@
       Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
         <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20499-A</name>
+        <description><![CDATA[Date: 7/9/25 5:52 PM
+      Site Name: Limousine
+      AGL: 145
+      Tower Type: Monopole
+      Address: 22439 N. 163rd Avenue, Sun City West, Maricopa, AZ 85375]]></description>
+        <Point><coordinates>-112.401694444444,33.6926941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

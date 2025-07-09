@@ -2269,5 +2269,23 @@
       Address: 22439 N. 163rd Avenue, Sun City West, Maricopa, AZ 85375]]></description>
         <Point><coordinates>-112.401694444444,33.6926941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40559-A</name>
+        <description><![CDATA[Date: 7/9/25 6:33 PM
+      Site Name: Milton Road
+      AGL: 120
+      Tower Type: Monopole
+      Address: 21113 Milton Road, Farmington, Stanislaus, CA 95230]]></description>
+        <Point><coordinates>-120.843246666667,37.9457826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ17719-B</name>
+        <description><![CDATA[Date: 7/9/25 6:33 PM
+      Site Name: Remington
+      AGL: 63
+      Tower Type: Monopalm
+      Address: 20206 North Shadow Mountain Drive, Surprise, Maricopa, AZ 85374]]></description>
+        <Point><coordinates>-112.411916666667,33.6685271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

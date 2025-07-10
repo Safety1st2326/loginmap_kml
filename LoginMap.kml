@@ -2179,5 +2179,23 @@
       Address: 9458 Highway 90 Alt, Seguin, Guadalupe, TX 78155]]></description>
         <Point><coordinates>-97.8177604444444,29.5684382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45378-A</name>
+        <description><![CDATA[Date: 7/10/25 4:13 PM
+      Site Name: Nestor
+      AGL: 60
+      Tower Type: Monopalm
+      Address: 1366 1/2 30th Street, San Diego, San Diego, CA 92154]]></description>
+        <Point><coordinates>-117.069268777778,32.5717687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01296-A</name>
+        <description><![CDATA[Date: 7/10/25 4:15 PM
+      Site Name: Martinez
+      AGL: 197
+      Tower Type: Self Support
+      Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
+        <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

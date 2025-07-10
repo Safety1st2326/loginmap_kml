@@ -1882,5 +1882,23 @@
       Address: 550 SW Wilshire Blvd., Burleson, Johnson, TX 76028]]></description>
         <Point><coordinates>-97.3358552222222,32.5381274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR04947-A</name>
+        <description><![CDATA[Date: 7/10/25 1:52 PM
+      Site Name: Dixon Family
+      AGL: 190
+      Tower Type: Monopole
+      Address: 31 Shamburger Lane, Little Rock, Pulaski, AR 72206]]></description>
+        <Point><coordinates>-92.265425,34.6741076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10679-A</name>
+        <description><![CDATA[Date: 7/10/25 1:57 PM
+      Site Name: Neals Creek
+      AGL: 351
+      Tower Type: Guyed
+      Address: 3201 US Highway 27 South, Stanford, Lincoln, KY 40484]]></description>
+        <Point><coordinates>-84.6494052222222,37.4886941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

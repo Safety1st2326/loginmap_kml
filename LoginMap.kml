@@ -2377,5 +2377,14 @@
       Address: 5495 Hillandale Drive, Lithonia, Dekalb, GA 30058]]></description>
         <Point><coordinates>-84.1671937777778,33.7044166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/10/25 5:52 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

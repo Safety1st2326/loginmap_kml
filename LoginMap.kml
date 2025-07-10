@@ -2692,5 +2692,95 @@
       Address: 116 Cox Road, Blackstone, Nottoway, VA 23824]]></description>
         <Point><coordinates>-77.9019055555556,37.1432024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN08723-A</name>
+        <description><![CDATA[Date: 7/10/25 7:15 AM
+      Site Name: Waterloo 4 IN
+      AGL: 302
+      Tower Type: Self Support
+      Address: 200 Executive Drive, Waterloo, Dekalb, IN 46793-9448]]></description>
+        <Point><coordinates>-85.0445357777778,41.4363996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46175-A</name>
+        <description><![CDATA[Date: 7/10/25 7:15 AM
+      Site Name: Devils Garden
+      AGL: 350
+      Tower Type: Guyed
+      Address: 20120 Cr 846, Immokalee, Hendry, FL 34142]]></description>
+        <Point><coordinates>-81.2387218888889,26.4452274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24242-A</name>
+        <description><![CDATA[Date: 7/10/25 7:15 AM
+      Site Name: St Helena Island
+      AGL: 787
+      Tower Type: Guyed
+      Address: 500 John Gay Farm Rd., St. Helena Island, Beaufort, SC 29920]]></description>
+        <Point><coordinates>-80.4749343333333,32.4196932222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/10/25 7:21 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21621-A</name>
+        <description><![CDATA[Date: 7/10/25 7:21 AM
+      Site Name: Ardmore I-65 Exit 6
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1175 Bryson Road, Ardmore, Giles, TN 38449]]></description>
+        <Point><coordinates>-86.8856496666667,35.0829854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/10/25 7:21 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/10/25 7:22 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA23586-A</name>
+        <description><![CDATA[Date: 7/10/25 7:28 AM
+      Site Name: Thoreau MS
+      AGL: 110
+      Tower Type: Monopine
+      Address: 2505A Cedar Lane, Vienna, Fairfax, VA 22180]]></description>
+        <Point><coordinates>-77.2398746666667,38.8875607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02618-A</name>
+        <description><![CDATA[Date: 7/10/25 7:24 AM
+      Site Name: Plant Mitchell
+      AGL: 460
+      Tower Type: Guyed
+      Address: 5200-B Radium Springs Road, Albany, Dougherty, GA 31705-6134]]></description>
+        <Point><coordinates>-84.1311382222222,31.4457774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11873-B</name>
+        <description><![CDATA[Date: 7/10/25 7:24 AM
+      Site Name: Thatcher Rd
+      AGL: 121
+      Tower Type: Monopole
+      Address: 676 West Thatcher Road, Quakertown, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2983802222222,40.4563194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

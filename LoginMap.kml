@@ -1468,5 +1468,32 @@
       Address: 33555 E. 152nd Ave., Brighton, Adams, CO 80601]]></description>
         <Point><coordinates>-104.593008,39.9732326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/10/25 11:31 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA07799-A</name>
+        <description><![CDATA[Date: 7/10/25 11:28 AM
+      Site Name: Bunkie 4 LA
+      AGL: 195
+      Tower Type: Self Support
+      Address: 105 East Pine Street, Bunkie, Avoyelles, LA 71322-1310]]></description>
+        <Point><coordinates>-92.1804382222222,30.9524638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10836-A</name>
+        <description><![CDATA[Date: 7/10/25 11:34 AM
+      Site Name: Ellsworth 3 KS
+      AGL: 344
+      Tower Type: Guyed
+      Address: 1666 Avenue C, Ellsworth, Ellsworth, KS 67439]]></description>
+        <Point><coordinates>-98.1958691111111,38.8403691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

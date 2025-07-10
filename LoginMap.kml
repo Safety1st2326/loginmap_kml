@@ -1441,5 +1441,32 @@
       Address: 1155 S. Horne, Mesa, Maricopa, AZ 85204]]></description>
         <Point><coordinates>-111.813444444444,33.3938885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL18152-A</name>
+        <description><![CDATA[Date: 7/10/25 11:22 AM
+      Site Name: Downers Grove
+      AGL: 160
+      Tower Type: Guyed
+      Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
+        <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12626-A</name>
+        <description><![CDATA[Date: 7/10/25 11:11 AM
+      Site Name: Hackberry
+      AGL: 181
+      Tower Type: Self Support
+      Address: 102 Devall Road, Hackberry, Cameron, LA 70645]]></description>
+        <Point><coordinates>-93.3575944444444,29.9940135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO16924-A</name>
+        <description><![CDATA[Date: 7/10/25 11:25 AM
+      Site Name: Imboden
+      AGL: 100
+      Tower Type: Monopole
+      Address: 33555 E. 152nd Ave., Brighton, Adams, CO 80601]]></description>
+        <Point><coordinates>-104.593008,39.9732326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

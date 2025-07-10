@@ -2035,5 +2035,23 @@
       Address: 10107 Hilaro Springs, Little Rock, Pulaski, AR 72206-4552]]></description>
         <Point><coordinates>-92.3226326666667,34.6548583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45746-A</name>
+        <description><![CDATA[Date: 7/10/25 3:12 PM
+      Site Name: Berry 2 CA
+      AGL: 30
+      Tower Type: Tree
+      Address: 2045 Leon Avenue, San Diego, San Diego, CA 92154]]></description>
+        <Point><coordinates>-117.089721888889,32.5655555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT12385-A</name>
+        <description><![CDATA[Date: 7/10/25 3:19 PM
+      Site Name: Gunnison Mesa
+      AGL: 195
+      Tower Type: Self Support
+      Address: 11050 West 6830 South, Gunnison, Sanpete, UT 84634]]></description>
+        <Point><coordinates>-111.836166333333,39.1664944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

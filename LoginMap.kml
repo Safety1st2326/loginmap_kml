@@ -1999,5 +1999,14 @@
       Address: 2404 Frederick Road, Opelika, Lee, AL 36801]]></description>
         <Point><coordinates>-85.41225,32.6234521111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO22651-A</name>
+        <description><![CDATA[Date: 7/10/25 2:46 PM
+      Site Name: St Robert
+      AGL: 181
+      Tower Type: Monopole
+      Address: 115 Plattner Avenue, St. Robert, Pulaski, MO 65584]]></description>
+        <Point><coordinates>-92.1649666666667,37.821466,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

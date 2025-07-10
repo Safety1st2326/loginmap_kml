@@ -2323,5 +2323,14 @@
       Address: 27 Hollowberry Rd., Louisburg, Dallas, MO 65685]]></description>
         <Point><coordinates>-93.1437746666667,37.7525777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN04049-S</name>
+        <description><![CDATA[Date: 7/9/25 7:28 PM
+      Site Name: Flat Rock 3 IN
+      AGL: 250
+      Tower Type: Self Support
+      Address: 711 W. 450 South, Rushville, Rush, IN 46173]]></description>
+        <Point><coordinates>-85.4555277777778,39.5459718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

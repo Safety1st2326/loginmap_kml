@@ -991,5 +991,104 @@
       Address: 429 West Franklin Road, Clinton, Lenawee, MI 49236]]></description>
         <Point><coordinates>-83.9775271111111,42.0702771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/10/25 9:19 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22373-S</name>
+        <description><![CDATA[Date: 7/10/25 9:19 AM
+      Site Name: Douglas Ferry
+      AGL: 260
+      Tower Type: Self Support
+      Address: 4173 Douglas Ferry Road, Caryville, Washington, FL 32427]]></description>
+        <Point><coordinates>-85.7379282777778,30.7105036111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/10/25 9:19 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/10/25 9:19 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/10/25 9:28 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/10/25 9:34 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40533-T</name>
+        <description><![CDATA[Date: 7/10/25 9:34 AM
+      Site Name: Chandler Dobson Monopalm
+      AGL: 50
+      Tower Type: Monopalm
+      Address: 2199 W. Chandler Blvd, Chandler, Maricopa, AZ 85224]]></description>
+        <Point><coordinates>-111.880332333333,33.3045,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/10/25 9:34 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45199-A</name>
+        <description><![CDATA[Date: 7/10/25 9:37 AM
+      Site Name: Wayland 2 CA
+      AGL: 74
+      Tower Type: Tree
+      Address: 5398 Laird Road, Loomis, Placer, CA 95650]]></description>
+        <Point><coordinates>-121.173054888889,38.7899163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41131-T</name>
+        <description><![CDATA[Date: 7/10/25 9:37 AM
+      Site Name: Anthony & Carole Swinney
+      AGL: 194
+      Tower Type: Monopole
+      Address: 529 S Co Rd 700 W, Holton, Ripley, IN 47023]]></description>
+        <Point><coordinates>-85.3832937777778,39.0667882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13561-B</name>
+        <description><![CDATA[Date: 7/10/25 9:38 AM
+      Site Name: Cazenovia
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
+        <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

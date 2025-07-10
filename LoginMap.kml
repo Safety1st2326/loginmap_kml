@@ -2359,5 +2359,14 @@
       Address: 133 Road Mount Diablo, Elko, Elko, NV 89801]]></description>
         <Point><coordinates>-115.902186111111,40.7005472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK05111-A</name>
+        <description><![CDATA[Date: 7/10/25 12:15 AM
+      Site Name: Svendsen
+      AGL: 300
+      Tower Type: Self Support
+      Address: 307 West Ray Fine Blvd., Roland, Sequoyah, OK 74954]]></description>
+        <Point><coordinates>-94.5212882222222,35.4070777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

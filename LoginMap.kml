@@ -3250,5 +3250,95 @@
       Address: 2473 WICE CHURCH RD., BOAZ, GRAVES, KY 42027-8524]]></description>
         <Point><coordinates>-88.6552944444445,36.9320021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/10/25 9:07 AM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA46424-A</name>
+        <description><![CDATA[Date: 7/10/25 9:14 AM
+      Site Name: Ankeny
+      AGL: 139
+      Tower Type: Stealth
+      Address: 508 Southwest Pleasant St, Ankeny, Polk, IA 50023]]></description>
+        <Point><coordinates>-93.6051166666667,41.7272937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/10/25 9:14 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC02723-S</name>
+        <description><![CDATA[Date: 7/10/25 9:14 AM
+      Site Name: Jonesville
+      AGL: 250
+      Tower Type: Self Support
+      Address: 104 Spears Lane, Jonesville, Union, SC 29353]]></description>
+        <Point><coordinates>-81.6840552222222,34.8265298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10908-S</name>
+        <description><![CDATA[Date: 7/10/25 9:14 AM
+      Site Name: Bauxite
+      AGL: 281
+      Tower Type: Self Support
+      Address: 4515 Silica Heights Road, Benton, Saline, AR 72018]]></description>
+        <Point><coordinates>-92.5331604444444,34.5511194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO40167-T</name>
+        <description><![CDATA[Date: 7/10/25 9:01 AM
+      Site Name: Premium Lawns
+      AGL: 60
+      Tower Type: Stealth
+      Address: 819 Caulks Hill Rd., St. Charles, St. Charles, MO 63304]]></description>
+        <Point><coordinates>-90.5772048888889,38.7245104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08797-A</name>
+        <description><![CDATA[Date: 7/10/25 9:10 AM
+      Site Name: Fairmount 2 IN
+      AGL: 251
+      Tower Type: Self Support
+      Address: 8719 S E 00 W, Fairmount, Grant, IN 46928]]></description>
+        <Point><coordinates>-85.6715048888889,40.426491,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13161-A</name>
+        <description><![CDATA[Date: 7/10/25 9:10 AM
+      Site Name: Orangeburg
+      AGL: 299
+      Tower Type: Guyed
+      Address: 1503 Fleming Road, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.7633472222222,38.6129277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01226-A</name>
+        <description><![CDATA[Date: 7/10/25 9:16 AM
+      Site Name: Apopka
+      AGL: 280
+      Tower Type: Guyed
+      Address: 215 W. Fourth Street, Apopka, Orange, FL 32703-5140]]></description>
+        <Point><coordinates>-81.516525,28.6738854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/10/25 9:16 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

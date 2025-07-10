@@ -1738,5 +1738,41 @@
       Address: N4156 WOLF ROAD, OAKFIELD, FOND DU LAC, WI 53065]]></description>
         <Point><coordinates>-88.6133416666667,43.6920607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN15596-B</name>
+        <description><![CDATA[Date: 7/10/25 12:52 PM
+      Site Name: Gin Road
+      AGL: 280
+      Tower Type: Guyed
+      Address: 230 Gin Road, Minor Hill, Giles, TN 38473]]></description>
+        <Point><coordinates>-87.1532722222222,35.0543833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40578-A</name>
+        <description><![CDATA[Date: 7/10/25 12:58 PM
+      Site Name: Mariposa
+      AGL: 73
+      Tower Type: Monopole Tree
+      Address: 5441 Hwy 140, Mariposa, Mariposa, CA 95338]]></description>
+        <Point><coordinates>-119.969482333333,37.5079,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45962-A</name>
+        <description><![CDATA[Date: 7/10/25 12:58 PM
+      Site Name: San Diego Country Club
+      AGL: 63
+      Tower Type: Tree
+      Address: 88 L STREET , CHULA VISTA, SAN DIEGO, CA 919110000]]></description>
+        <Point><coordinates>-117.059166666667,32.616666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA06640-A</name>
+        <description><![CDATA[Date: 7/10/25 12:58 PM
+      Site Name: South Main
+      AGL: 285
+      Tower Type: Self Support
+      Address: 746 DR H J Kaufman Ave, Cottonport, Avoyelles, LA 71327]]></description>
+        <Point><coordinates>-92.0567055555556,30.9841107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

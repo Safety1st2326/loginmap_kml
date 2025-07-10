@@ -1837,5 +1837,14 @@
       Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
         <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY12371-A</name>
+        <description><![CDATA[Date: 7/10/25 1:22 PM
+      Site Name: Fernleaf
+      AGL: 191
+      Tower Type: Guyed
+      Address: 4771 KY 435, Dover, Mason, KY 41034]]></description>
+        <Point><coordinates>-83.9148527777778,38.6607583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

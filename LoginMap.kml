@@ -2935,5 +2935,23 @@
       Address: 693 New Bullard Road, Dry Branch, Twiggs, GA 31020]]></description>
         <Point><coordinates>-83.5171182222222,32.6417013333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY12957-A</name>
+        <description><![CDATA[Date: 7/10/25 7:49 AM
+      Site Name: Greenwood 6 KY
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1301 Liz Worley Circle, Parkers Lake, Pulaski, KY 42634]]></description>
+        <Point><coordinates>-84.5139027777778,36.8996163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46789-A</name>
+        <description><![CDATA[Date: 7/10/25 8:01 AM
+      Site Name: Hamilton 2 - Northville
+      AGL: 166
+      Tower Type: Monopole
+      Address: 6400 Five Mile Road (c), Northville, Washtenaw, MI 48167]]></description>
+        <Point><coordinates>-83.6362968888889,42.3876135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

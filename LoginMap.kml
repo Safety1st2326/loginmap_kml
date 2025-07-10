@@ -2413,5 +2413,50 @@
       Address: 10830 West Road , Houston, Harris, TX 77064]]></description>
         <Point><coordinates>-95.5784798888889,29.9116222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL04894-S</name>
+        <description><![CDATA[Date: 7/10/25 6:10 AM
+      Site Name: Hampton Springs
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5820 W. U.S. 98, Perry, Taylor, FL 32347-6912]]></description>
+        <Point><coordinates>-83.6693048888889,30.0845274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14103-A</name>
+        <description><![CDATA[Date: 7/10/25 6:13 AM
+      Site Name: George's Tavern
+      AGL: 195
+      Tower Type: Self Support
+      Address: 5260 Old Columbia Road, Goochland, Goochland, VA 23063]]></description>
+        <Point><coordinates>-78.0642805555556,37.7524416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08338-B</name>
+        <description><![CDATA[Date: 7/10/25 6:13 AM
+      Site Name: Blythewood
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
+        <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02843-B</name>
+        <description><![CDATA[Date: 7/10/25 6:13 AM
+      Site Name: Perry 2 GA
+      AGL: 196
+      Tower Type: Monopole
+      Address: 629 Gen. Courtney Hodges Blvd, Perry, Houston, GA 31069-3271]]></description>
+        <Point><coordinates>-83.7414441111111,32.4549444444445,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06607-B</name>
+        <description><![CDATA[Date: 7/10/25 6:18 AM
+      Site Name: North Springfield
+      AGL: 192
+      Tower Type: Self Support
+      Address: Route 5 & Route 215 Junction, North Springfield, Erie, PA 16411]]></description>
+        <Point><coordinates>-80.4259687777778,41.9867191111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

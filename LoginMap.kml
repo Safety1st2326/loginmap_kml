@@ -2611,5 +2611,86 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA10619-A</name>
+        <description><![CDATA[Date: 7/10/25 7:12 AM
+      Site Name: Roberts Cove
+      AGL: 301
+      Tower Type: Guyed
+      Address: 332 Coast Road, Rayne, Acadia, LA 70578]]></description>
+        <Point><coordinates>-92.3582055555555,30.3335774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21989-S</name>
+        <description><![CDATA[Date: 7/10/25 7:13 AM
+      Site Name: Loop 281 Longview
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3020 Hackney Street, Longview, Harrison, TX 75602]]></description>
+        <Point><coordinates>-94.6725548888889,32.4560944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02832-B</name>
+        <description><![CDATA[Date: 7/10/25 7:13 AM
+      Site Name: Bullard
+      AGL: 340
+      Tower Type: Guyed
+      Address: 7007 Bullard Road, Jeffersonville, Twiggs, GA 31044]]></description>
+        <Point><coordinates>-83.4592333333333,32.6479246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05330-B</name>
+        <description><![CDATA[Date: 7/10/25 7:04 AM
+      Site Name: Corey
+      AGL: 150
+      Tower Type: Monopole
+      Address: 101 Corey Street, Plains, Luzerne, PA 18702-1833]]></description>
+        <Point><coordinates>-75.8400941111111,41.2906774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO41406-T</name>
+        <description><![CDATA[Date: 7/10/25 7:18 AM
+      Site Name: Hwy 15-Wilson
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1415 Audrain Road 381, Mexico, Audrain, MO 65275]]></description>
+        <Point><coordinates>-91.9512027777778,39.3193021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00926-B</name>
+        <description><![CDATA[Date: 7/10/25 7:18 AM
+      Site Name: McBean
+      AGL: 285
+      Tower Type: Guyed
+      Address: 1064 Crenshaw Road, Hephzibah, Richmond, GA 30815]]></description>
+        <Point><coordinates>-81.9649722222222,33.3125555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00027-A</name>
+        <description><![CDATA[Date: 7/10/25 7:04 AM
+      Site Name: Jax Airport
+      AGL: 244
+      Tower Type: Self Support
+      Address: 546 Owens Road, Jacksonville, Duval, FL 32218-1725]]></description>
+        <Point><coordinates>-81.6350941111111,30.4896441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/10/25 7:19 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01899-B</name>
+        <description><![CDATA[Date: 7/10/25 7:04 AM
+      Site Name: Garden City
+      AGL: 300
+      Tower Type: Self Support
+      Address: 116 Cox Road, Blackstone, Nottoway, VA 23824]]></description>
+        <Point><coordinates>-77.9019055555556,37.1432024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

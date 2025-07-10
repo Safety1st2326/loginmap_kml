@@ -2863,5 +2863,59 @@
       Address: 216 Industrial Park, Durant, Holmes, MS 39063]]></description>
         <Point><coordinates>-89.8979996666667,33.1002666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC00956-S</name>
+        <description><![CDATA[Date: 7/10/25 7:43 AM
+      Site Name: Tarboro
+      AGL: 276
+      Tower Type: Self Support
+      Address: 2214 Howard Ave., Tarboro, Edgecombe, NC 27886]]></description>
+        <Point><coordinates>-77.5745021111111,35.8987468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 7/10/25 7:45 AM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL21436-A</name>
+        <description><![CDATA[Date: 7/10/25 7:45 AM
+      Site Name: Nine Mile 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
+        <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/10/25 7:45 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/10/25 7:46 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA00105-A</name>
+        <description><![CDATA[Date: 7/10/25 7:46 AM
+      Site Name: Penobscot Mountain
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1219 Sterling St, Hanover Township, Luzerne, PA 18706]]></description>
+        <Point><coordinates>-75.8687882222222,41.183066,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

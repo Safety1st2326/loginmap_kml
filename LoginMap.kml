@@ -2476,5 +2476,68 @@
       Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
         <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07249-A</name>
+        <description><![CDATA[Date: 7/10/25 6:30 AM
+      Site Name: Husband's Road
+      AGL: 331
+      Tower Type: Guyed
+      Address: 2030 W. HOVEKAMP RD. NORTH, PADUCAH, McCRACKEN, KY 42003-9027]]></description>
+        <Point><coordinates>-88.5948302222222,37.0484885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12363-A</name>
+        <description><![CDATA[Date: 7/10/25 6:28 AM
+      Site Name: Alpine
+      AGL: 301
+      Tower Type: Guyed
+      Address: 510 Heath Road, Burnside, Pulaski, KY 42519]]></description>
+        <Point><coordinates>-84.5236687777778,36.9361774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11471-B</name>
+        <description><![CDATA[Date: 7/10/25 6:33 AM
+      Site Name: Perry Parkway
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1901 Highway 127, Perry, Houston, GA 31069]]></description>
+        <Point><coordinates>-83.7023611111111,32.4777493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00830-S</name>
+        <description><![CDATA[Date: 7/10/25 6:39 AM
+      Site Name: Highway 27
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3365 Martha Berry Highway, Rome, Floyd, GA 30165-8653]]></description>
+        <Point><coordinates>-85.1751493333333,34.3183437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46143-A</name>
+        <description><![CDATA[Date: 7/10/25 6:39 AM
+      Site Name: Burlington - Avon Landfill
+      AGL: 131
+      Tower Type: Monopole
+      Address: 277 Huckleberry Hill Road, Avon, Hartford/Avon, CT 06013]]></description>
+        <Point><coordinates>-72.9182529444444,41.7881321666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06818-B</name>
+        <description><![CDATA[Date: 7/10/25 6:39 AM
+      Site Name: Wrightsville
+      AGL: 300
+      Tower Type: Self Support
+      Address: 719 Sherman Hill Rd, Freehold Township, Warren, PA 16402]]></description>
+        <Point><coordinates>-79.4483496666667,41.9287798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06818-B</name>
+        <description><![CDATA[Date: 7/10/25 6:39 AM
+      Site Name: Wrightsville
+      AGL: 300
+      Tower Type: Self Support
+      Address: 719 Sherman Hill Rd, Freehold Township, Warren, PA 16402]]></description>
+        <Point><coordinates>-79.4483496666667,41.9287798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

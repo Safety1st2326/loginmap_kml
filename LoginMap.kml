@@ -2350,5 +2350,14 @@
       Address: 25203 N 123rd Ave, Peoria, Maricopa, AZ 85383]]></description>
         <Point><coordinates>-112.324941,33.7131888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV10451-A</name>
+        <description><![CDATA[Date: 7/9/25 11:48 PM
+      Site Name: Grindstone
+      AGL: 67
+      Tower Type: Self Support
+      Address: 133 Road Mount Diablo, Elko, Elko, NV 89801]]></description>
+        <Point><coordinates>-115.902186111111,40.7005472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

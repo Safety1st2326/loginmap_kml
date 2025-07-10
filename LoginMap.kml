@@ -1495,5 +1495,41 @@
       Address: 1666 Avenue C, Ellsworth, Ellsworth, KS 67439]]></description>
         <Point><coordinates>-98.1958691111111,38.8403691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX42088-A</name>
+        <description><![CDATA[Date: 7/10/25 11:43 AM
+      Site Name: Forest Hill Water Tank
+      AGL: 100
+      Tower Type: Water Tower
+      Address: 5715 Forest Hills Drive, Forest Hill, Tarrant, TX 76140]]></description>
+        <Point><coordinates>-97.2748715555555,32.6739271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/10/25 11:43 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA10455-A</name>
+        <description><![CDATA[Date: 7/10/25 11:49 AM
+      Site Name: Stockton Term
+      AGL: 147
+      Tower Type: Self Support
+      Address: 1821 East Dr. Martin Luther King Jr. Boulevard, Stockton, San Joaquin, CA 95205]]></description>
+        <Point><coordinates>-121.2641,37.945283,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA10455-A</name>
+        <description><![CDATA[Date: 7/10/25 11:49 AM
+      Site Name: Stockton Term
+      AGL: 147
+      Tower Type: Self Support
+      Address: 1821 East Dr. Martin Luther King Jr. Boulevard, Stockton, San Joaquin, CA 95205]]></description>
+        <Point><coordinates>-121.2641,37.945283,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

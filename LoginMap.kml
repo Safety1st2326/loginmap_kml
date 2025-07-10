@@ -3070,5 +3070,23 @@
       Address: 4561 Loch Laurel Rd., Valdosta, Lowndes, GA 31601-2505]]></description>
         <Point><coordinates>-83.2332243333333,30.6884052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/10/25 8:04 AM
+      Site Name: Titusville
+      AGL: 251
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923163333333,41.6142583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40529-T</name>
+        <description><![CDATA[Date: 7/10/25 8:33 AM
+      Site Name: Lindsay Mini Storage
+      AGL: 70
+      Tower Type: Stealth
+      Address: 18412 S. Lindsay Rd, Gilbert, Maricopa, AZ 85296]]></description>
+        <Point><coordinates>-111.774443777778,33.2811382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

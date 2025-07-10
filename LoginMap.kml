@@ -2017,5 +2017,23 @@
       Address: 7070 Highway 37 South, Mulberry, Polk, FL 33860]]></description>
         <Point><coordinates>-81.9835610555556,27.7893199444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10678-A</name>
+        <description><![CDATA[Date: 7/10/25 3:02 PM
+      Site Name: Monticello 4 KY
+      AGL: 124
+      Tower Type: Guyed
+      Address: Old Highway 90, Monticello, Wayne, KY 42633]]></description>
+        <Point><coordinates>-84.825791,36.8614416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04964-A</name>
+        <description><![CDATA[Date: 7/10/25 3:07 PM
+      Site Name: Hilaro Springs
+      AGL: 250
+      Tower Type: Guyed
+      Address: 10107 Hilaro Springs, Little Rock, Pulaski, AR 72206-4552]]></description>
+        <Point><coordinates>-92.3226326666667,34.6548583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

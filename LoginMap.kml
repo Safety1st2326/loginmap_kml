@@ -2053,5 +2053,41 @@
       Address: 11050 West 6830 South, Gunnison, Sanpete, UT 84634]]></description>
         <Point><coordinates>-111.836166333333,39.1664944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20981-A</name>
+        <description><![CDATA[Date: 7/10/25 3:09 PM
+      Site Name: Baker-Kingsbury
+      AGL: 259
+      Tower Type: Self Support
+      Address: 4901 FM 1104, KINGSBURY, GUADALUPE, TX 78638]]></description>
+        <Point><coordinates>-97.7770771111111,29.6189437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN22234-A</name>
+        <description><![CDATA[Date: 7/10/25 3:09 PM
+      Site Name: Rochester 5 MN
+      AGL: 990
+      Tower Type: Guyed
+      Address: 2003 70th Avenue NE CR 119, Rochester, Olmsted, MN 55906]]></description>
+        <Point><coordinates>-92.340408,44.0411468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10669-A</name>
+        <description><![CDATA[Date: 7/10/25 3:27 PM
+      Site Name: Johnson Bridge
+      AGL: 340
+      Tower Type: Guyed
+      Address: 6748 US  68, Mays Lick, Mason, KY 41055]]></description>
+        <Point><coordinates>-83.8479246666667,38.4972274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47975-A</name>
+        <description><![CDATA[Date: 7/10/25 3:27 PM
+      Site Name: North Bisbee-tx
+      AGL: 91
+      Tower Type: Monopole
+      Address: 7670 Mansfield Hwy, Kennedale, Tarrant, TX 76060]]></description>
+        <Point><coordinates>-97.1950274444444,32.6211937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

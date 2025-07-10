@@ -2323,5 +2323,14 @@
       Address: 3747 East Southern Avenue, Phoenix, Maricopa, AZ 85040]]></description>
         <Point><coordinates>-111.998003,33.3914088333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ11374-S</name>
+        <description><![CDATA[Date: 7/10/25 6:15 PM
+      Site Name: Jefferson & 12th
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1301 East Harrison Street, Phoenix, Maricopa, AZ 85034]]></description>
+        <Point><coordinates>-112.055333333333,33.4414718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2332,5 +2332,14 @@
       Address: 711 W. 450 South, Rushville, Rush, IN 46173]]></description>
         <Point><coordinates>-85.4555277777778,39.5459718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA10390-A</name>
+        <description><![CDATA[Date: 7/9/25 8:03 PM
+      Site Name: Pine Island
+      AGL: 305
+      Tower Type: Self Support
+      Address: 22020 LA Hwy 26, Jennings, Jefferson Davis, LA 70546]]></description>
+        <Point><coordinates>-92.669666,30.3506916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

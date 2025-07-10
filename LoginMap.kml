@@ -2782,5 +2782,86 @@
       Address: 676 West Thatcher Road, Quakertown, Bucks, PA 18951]]></description>
         <Point><coordinates>-75.2983802222222,40.4563194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/10/25 7:31 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/10/25 7:31 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD41249-T</name>
+        <description><![CDATA[Date: 7/10/25 7:31 AM
+      Site Name: Martinson Property
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4007 Accokeek Rd., BrandyWIe, Prince George's, MD 20613]]></description>
+        <Point><coordinates>-76.938083,38.6782215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40070-T</name>
+        <description><![CDATA[Date: 7/10/25 7:34 AM
+      Site Name: Daniels
+      AGL: 149
+      Tower Type: Monopole
+      Address: 649 N. Combee Rd., Lakeland, Polk, FL 33801]]></description>
+        <Point><coordinates>-81.9057888888889,28.0493107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21761-A</name>
+        <description><![CDATA[Date: 7/10/25 7:34 AM
+      Site Name: Stanley
+      AGL: 300
+      Tower Type: Self Support
+      Address: W11780 Willow Road, Stanley, Clark, WI 54768]]></description>
+        <Point><coordinates>-90.9063305555556,44.9597777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/10/25 7:34 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18064-A</name>
+        <description><![CDATA[Date: 7/10/25 7:34 AM
+      Site Name: Gateway Elementary
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 13280 Griffin Dr., Ft. Myers, Lee, FL 33913]]></description>
+        <Point><coordinates>-81.7349635555556,26.5764937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/10/25 7:39 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04561-B</name>
+        <description><![CDATA[Date: 7/10/25 7:39 AM
+      Site Name: Durant
+      AGL: 320
+      Tower Type: Guyed
+      Address: 216 Industrial Park, Durant, Holmes, MS 39063]]></description>
+        <Point><coordinates>-89.8979996666667,33.1002666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

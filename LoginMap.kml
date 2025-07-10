@@ -1900,5 +1900,32 @@
       Address: 3201 US Highway 27 South, Stanford, Lincoln, KY 40484]]></description>
         <Point><coordinates>-84.6494052222222,37.4886941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05015-A</name>
+        <description><![CDATA[Date: 7/10/25 2:04 PM
+      Site Name: Rt 45 E Fayetteville
+      AGL: 210
+      Tower Type: Self Support
+      Address: 4317 E Mission, Fayetteville, Washington, AR 72703-4392]]></description>
+        <Point><coordinates>-94.0987524444444,36.0964052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO17427-A</name>
+        <description><![CDATA[Date: 7/10/25 2:06 PM
+      Site Name: South Providence
+      AGL: 100
+      Tower Type: Monopine
+      Address: 2401 South Providence Road ?Cell?, Columbia, Boone, MO 65203]]></description>
+        <Point><coordinates>-92.3397968888889,38.924416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48018-A</name>
+        <description><![CDATA[Date: 7/10/25 1:54 PM
+      Site Name: West Braker-tx
+      AGL: 115
+      Tower Type: Monopole
+      Address: 1108 Kramer Road, Austin, Travis, TX 78758]]></description>
+        <Point><coordinates>-97.6925413333333,30.3835607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -3223,5 +3223,32 @@
       Address: 890 Fort Road, Henderson, Sibley, MN 56044]]></description>
         <Point><coordinates>-93.9144611111111,44.5286993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/10/25 9:04 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 7/10/25 9:05 AM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07256-A</name>
+        <description><![CDATA[Date: 7/10/25 9:07 AM
+      Site Name: Leader Hill
+      AGL: 310
+      Tower Type: Guyed
+      Address: 2473 WICE CHURCH RD., BOAZ, GRAVES, KY 42027-8524]]></description>
+        <Point><coordinates>-88.6552944444445,36.9320021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -3007,5 +3007,68 @@
       Address: 3865 County Rd FF, Omro, Winnebago, WI 54963]]></description>
         <Point><coordinates>-88.6753465555556,44.0320382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN04448-B</name>
+        <description><![CDATA[Date: 7/10/25 8:22 AM
+      Site Name: Sandy Springs
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
+        <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20711-A</name>
+        <description><![CDATA[Date: 7/10/25 8:22 AM
+      Site Name: Dequincy
+      AGL: 260
+      Tower Type: Self Support
+      Address: 922 Anise Street, Dequincy, Calcasieu, LA 70633]]></description>
+        <Point><coordinates>-93.424691,30.4599555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40082-A</name>
+        <description><![CDATA[Date: 7/10/25 8:26 AM
+      Site Name: Star Pond
+      AGL: 146
+      Tower Type: Monopole
+      Address: 580 Buddy West Rd., Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.7986941111111,33.4447496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10804-A</name>
+        <description><![CDATA[Date: 7/10/25 8:26 AM
+      Site Name: Jewellville
+      AGL: 262
+      Tower Type: Self Support
+      Address: 293 Partain Road, Carnesville, Banks, GA 30521]]></description>
+        <Point><coordinates>-83.3904135555556,34.3908357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46250-A</name>
+        <description><![CDATA[Date: 7/10/25 8:28 AM
+      Site Name: Airport Plaza-Dade
+      AGL: 52
+      Tower Type: Monopole
+      Address: 1250 NW 57th Ave., Miami, Miami-Dade, FL 33126]]></description>
+        <Point><coordinates>-80.2894274444444,25.7834441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02892-B</name>
+        <description><![CDATA[Date: 7/10/25 8:28 AM
+      Site Name: Lake Park 2 GA
+      AGL: 302
+      Tower Type: Self Support
+      Address: 4561 Loch Laurel Rd., Valdosta, Lowndes, GA 31601-2505]]></description>
+        <Point><coordinates>-83.2332243333333,30.6884052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02892-B</name>
+        <description><![CDATA[Date: 7/10/25 8:28 AM
+      Site Name: Lake Park 2 GA
+      AGL: 302
+      Tower Type: Self Support
+      Address: 4561 Loch Laurel Rd., Valdosta, Lowndes, GA 31601-2505]]></description>
+        <Point><coordinates>-83.2332243333333,30.6884052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

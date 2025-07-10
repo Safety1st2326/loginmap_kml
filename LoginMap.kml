@@ -2143,5 +2143,32 @@
       Address: 1809 W. Southern Ave., Phoenix, Maricopa, AZ 85041]]></description>
         <Point><coordinates>-112.097146888889,33.3918607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13156-A</name>
+        <description><![CDATA[Date: 7/10/25 3:50 PM
+      Site Name: Ewing
+      AGL: 191
+      Tower Type: Self Support
+      Address: 84 Dogwood Dr., Ewing, Fleming, KY 81039]]></description>
+        <Point><coordinates>-83.9346135555556,38.4629944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45058-A</name>
+        <description><![CDATA[Date: 7/10/25 3:50 PM
+      Site Name: Tri-City Mall
+      AGL: 55
+      Tower Type: Monopole
+      Address: 430 N. Dobson Road, Mesa, Maricopa, AZ 85201]]></description>
+        <Point><coordinates>-111.875719333333,33.4230537777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24208-A</name>
+        <description><![CDATA[Date: 7/10/25 3:51 PM
+      Site Name: Smoaks Tower
+      AGL: 301
+      Tower Type: Guyed
+      Address: 30162 Lowcountry Highway, Smoaks, Colleton, SC 29481]]></description>
+        <Point><coordinates>-80.8092361111111,33.123041,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

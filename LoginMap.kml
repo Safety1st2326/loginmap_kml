@@ -1531,5 +1531,23 @@
       Address: 1821 East Dr. Martin Luther King Jr. Boulevard, Stockton, San Joaquin, CA 95205]]></description>
         <Point><coordinates>-121.2641,37.945283,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK17894-A</name>
+        <description><![CDATA[Date: 7/10/25 11:46 AM
+      Site Name: Danforth & Western
+      AGL: 110
+      Tower Type: Monopole
+      Address: 18910 N Western Ave., Oklahoma City, Oklahoma, OK 73012]]></description>
+        <Point><coordinates>-97.5311854444444,35.6637944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL27994-S</name>
+        <description><![CDATA[Date: 7/10/25 11:52 AM
+      Site Name: Defuniak Springs
+      AGL: 124
+      Tower Type: Monopine
+      Address: 1226 Freeport Highway, Defuniak Springs, Walton, FL 32435]]></description>
+        <Point><coordinates>-86.125366,30.7054138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

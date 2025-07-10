@@ -2314,5 +2314,14 @@
       Address: 4 Boonshill Petersburg Rd, Petersburg, Lincoln, TN 37144]]></description>
         <Point><coordinates>-86.7255798888889,35.208275,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ17714-B</name>
+        <description><![CDATA[Date: 7/10/25 5:51 PM
+      Site Name: Braemar
+      AGL: 54
+      Tower Type: Monopine
+      Address: 3747 East Southern Avenue, Phoenix, Maricopa, AZ 85040]]></description>
+        <Point><coordinates>-111.998003,33.3914088333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

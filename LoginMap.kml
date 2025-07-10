@@ -1855,5 +1855,32 @@
       Address: 15150 Lost Lake Lane, Lithia, Hillsborough, FL 33547]]></description>
         <Point><coordinates>-82.1501083333333,27.7655722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09257-A</name>
+        <description><![CDATA[Date: 7/10/25 1:40 PM
+      Site Name: Stephenville B
+      AGL: 79
+      Tower Type: Monopole
+      Address: 599 W. Vanderbilt Street, Stephenville, Erath, TX 76401]]></description>
+        <Point><coordinates>-98.2086944444444,32.2221243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/10/25 1:43 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14845-A</name>
+        <description><![CDATA[Date: 7/10/25 1:48 PM
+      Site Name: Burleson Wilshire Blvd
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 550 SW Wilshire Blvd., Burleson, Johnson, TX 76028]]></description>
+        <Point><coordinates>-97.3358552222222,32.5381274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

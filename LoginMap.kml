@@ -2314,5 +2314,14 @@
       Address: 7505 US Higway 61, Jackson, Cape Girardeau, MO 63755]]></description>
         <Point><coordinates>-89.6438302222222,37.46381,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO13762-A</name>
+        <description><![CDATA[Date: 7/9/25 7:15 PM
+      Site Name: Louisberg
+      AGL: 302
+      Tower Type: Guyed
+      Address: 27 Hollowberry Rd., Louisburg, Dallas, MO 65685]]></description>
+        <Point><coordinates>-93.1437746666667,37.7525777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

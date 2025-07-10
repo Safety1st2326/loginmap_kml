@@ -1810,5 +1810,32 @@
       Address: 826 Honeysuckle Rd., Dublin, Laurens, GA 31021-2659]]></description>
         <Point><coordinates>-82.9434191111111,32.4931246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO12816-A</name>
+        <description><![CDATA[Date: 7/10/25 1:11 PM
+      Site Name: KC Independence
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1002 East US Hwy 24, Independence, Jackson, MO 64050]]></description>
+        <Point><coordinates>-94.4004833333333,39.1043555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21075-A</name>
+        <description><![CDATA[Date: 7/10/25 1:12 PM
+      Site Name: FLORENCE 2 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1210 N. Patterson Ave., Florence, Williamson, TX 76257]]></description>
+        <Point><coordinates>-97.8001388888889,30.8583888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/10/25 1:18 PM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

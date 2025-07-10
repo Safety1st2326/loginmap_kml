@@ -1189,5 +1189,41 @@
       Address: 1085 Hortman Mill Rd., Roberta, Crawford, GA 31078]]></description>
         <Point><coordinates>-83.9942288333333,32.7094663888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/10/25 9:56 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12904-A</name>
+        <description><![CDATA[Date: 7/10/25 9:56 AM
+      Site Name: Irvine 2 CA
+      AGL: 46
+      Tower Type: Monopine
+      Address: 5200 Irvine Boulevard, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.753994444444,33.7051166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20462-A</name>
+        <description><![CDATA[Date: 7/10/25 9:56 AM
+      Site Name: Millgrove Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2172 LINCOLN RD., ALLEGAN, ALLEGAN, MI 49010]]></description>
+        <Point><coordinates>-85.917641,42.5763271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI11086-A</name>
+        <description><![CDATA[Date: 7/10/25 10:09 AM
+      Site Name: Freeway RV
+      AGL: 114
+      Tower Type: Monopole
+      Address: 1983 Airport Road, Midland, Midland, MI 48642]]></description>
+        <Point><coordinates>-84.2914691111111,43.6577222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2917,5 +2917,23 @@
       Address: 1219 Sterling St, Hanover Township, Luzerne, PA 18706]]></description>
         <Point><coordinates>-75.8687882222222,41.183066,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/10/25 7:51 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21712-A</name>
+        <description><![CDATA[Date: 7/10/25 7:43 AM
+      Site Name: Bullard 3 GA
+      AGL: 250
+      Tower Type: Guyed
+      Address: 693 New Bullard Road, Dry Branch, Twiggs, GA 31020]]></description>
+        <Point><coordinates>-83.5171182222222,32.6417013333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

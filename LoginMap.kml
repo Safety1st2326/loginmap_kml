@@ -1549,5 +1549,50 @@
       Address: 1226 Freeport Highway, Defuniak Springs, Walton, FL 32435]]></description>
         <Point><coordinates>-86.125366,30.7054138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10105-A</name>
+        <description><![CDATA[Date: 7/10/25 11:54 AM
+      Site Name: Bryant South
+      AGL: 119
+      Tower Type: Monopole
+      Address: 103 Southwest 1st Street, Bryant, Saline, AR 72022]]></description>
+        <Point><coordinates>-92.489783,34.5940191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA22596-A</name>
+        <description><![CDATA[Date: 7/10/25 11:54 AM
+      Site Name: Hopwood
+      AGL: 196
+      Tower Type: Monopole
+      Address: 117 Pine Knob Road, Hopwood, Fayette, PA 15445]]></description>
+        <Point><coordinates>-79.6980496666667,39.8672271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40532-T</name>
+        <description><![CDATA[Date: 7/10/25 12:02 PM
+      Site Name: Twin Butte Baptist
+      AGL: 65
+      Tower Type: Stealth
+      Address: 7202 S 48th St, Phoenix, Maricopa, AZ 85040]]></description>
+        <Point><coordinates>-111.978888222222,33.3816382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT16926-A</name>
+        <description><![CDATA[Date: 7/10/25 12:07 PM
+      Site Name: Lakeside 3 MT
+      AGL: 151
+      Tower Type: Self Support
+      Address: 6599 Rising Moon Road, Helena, Lewis and Clark, MT 59602]]></description>
+        <Point><coordinates>-111.738869111111,46.638508,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13790-A</name>
+        <description><![CDATA[Date: 7/10/25 12:07 PM
+      Site Name: Alden South (0504)
+      AGL: 150
+      Tower Type: Monopole
+      Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
+        <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

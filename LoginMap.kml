@@ -1252,5 +1252,41 @@
       Address: 1225 Old Hot Springs Rd., Benton, Saline, AR 72015]]></description>
         <Point><coordinates>-92.5896024444444,34.5755687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10801-A</name>
+        <description><![CDATA[Date: 7/10/25 10:22 AM
+      Site Name: Fannin 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 168 Highland Circle, Blue Ridge, Fannin, GA 30513]]></description>
+        <Point><coordinates>-84.3708493333333,34.90655,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03192-B</name>
+        <description><![CDATA[Date: 7/10/25 10:22 AM
+      Site Name: Ossian
+      AGL: 222
+      Tower Type: Self Support
+      Address: 4306 S. County Line Road, Yoder, Allen, IN 46798-9507]]></description>
+        <Point><coordinates>-85.1909663333333,40.9180632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07240-A</name>
+        <description><![CDATA[Date: 7/10/25 10:28 AM
+      Site Name: Key Properties
+      AGL: 314
+      Tower Type: Guyed
+      Address: 2068 State Route 121 South, Murray, Calloway, KY 42071]]></description>
+        <Point><coordinates>-88.2930635555555,36.5857135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46265-A</name>
+        <description><![CDATA[Date: 7/10/25 10:17 AM
+      Site Name: Labelle
+      AGL: 132
+      Tower Type: Monopole
+      Address: 999 W Cowboy Way, LaBelle, Hendry, FL 33935]]></description>
+        <Point><coordinates>-81.4537583333333,26.7453024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

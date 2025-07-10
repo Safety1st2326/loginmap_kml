@@ -1099,5 +1099,50 @@
       Address: 1493 Prospect Elkton Road, Prospect, Giles, TN 38477]]></description>
         <Point><coordinates>-86.9145555555556,35.0446663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI20462-A</name>
+        <description><![CDATA[Date: 7/10/25 9:43 AM
+      Site Name: Millgrove Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2172 LINCOLN RD., ALLEGAN, ALLEGAN, MI 49010]]></description>
+        <Point><coordinates>-85.917641,42.5763271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA09735-A</name>
+        <description><![CDATA[Date: 7/10/25 9:43 AM
+      Site Name: Marksville South
+      AGL: 150
+      Tower Type: Monopole
+      Address: 156-A Moreau Lane, Mansura, Avoyelles Parish, LA 71350]]></description>
+        <Point><coordinates>-92.0499163333333,31.0930302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/10/25 9:40 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20462-A</name>
+        <description><![CDATA[Date: 7/10/25 9:46 AM
+      Site Name: Millgrove Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2172 LINCOLN RD., ALLEGAN, ALLEGAN, MI 49010]]></description>
+        <Point><coordinates>-85.917641,42.5763271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41685-T</name>
+        <description><![CDATA[Date: 7/10/25 9:46 AM
+      Site Name: Dustin
+      AGL: 350
+      Tower Type: Guyed
+      Address: 8920 E 1225 Rd , Dustin, Hughes, OK 74839]]></description>
+        <Point><coordinates>-96.0847724444444,35.2400652222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

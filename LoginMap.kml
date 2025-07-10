@@ -1594,5 +1594,23 @@
       Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
         <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07258-A</name>
+        <description><![CDATA[Date: 7/10/25 12:19 PM
+      Site Name: Harvey
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1709 Lee Burd Road, Benton, Marshall, KY 42025]]></description>
+        <Point><coordinates>-88.4762604444444,36.8230687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10969-A</name>
+        <description><![CDATA[Date: 7/10/25 12:19 PM
+      Site Name: Bell 2 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 7871 McGregor Park Rd., Temple, Bell, TX 76502]]></description>
+        <Point><coordinates>-97.4575305555556,31.2051638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

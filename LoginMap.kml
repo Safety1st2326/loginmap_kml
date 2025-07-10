@@ -3196,5 +3196,32 @@
       Address: 30431 Old Highway 41, Okolona, Monroe, MS 38860]]></description>
         <Point><coordinates>-88.6251382222222,33.9882496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ40534-T</name>
+        <description><![CDATA[Date: 7/10/25 8:58 AM
+      Site Name: Apache Powder Company
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1436 Apache Powder road, Benson, Cochise, AZ 85630]]></description>
+        <Point><coordinates>-110.235166333333,31.8893607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/10/25 8:58 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN10246-A</name>
+        <description><![CDATA[Date: 7/10/25 8:58 AM
+      Site Name: Henderson 5 MN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 890 Fort Road, Henderson, Sibley, MN 56044]]></description>
+        <Point><coordinates>-93.9144611111111,44.5286993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

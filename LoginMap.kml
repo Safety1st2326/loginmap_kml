@@ -2170,5 +2170,14 @@
       Address: 30162 Lowcountry Highway, Smoaks, Colleton, SC 29481]]></description>
         <Point><coordinates>-80.8092361111111,33.123041,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40303-A</name>
+        <description><![CDATA[Date: 7/10/25 4:06 PM
+      Site Name: Lackorn
+      AGL: 300
+      Tower Type: Guyed
+      Address: 9458 Highway 90 Alt, Seguin, Guadalupe, TX 78155]]></description>
+        <Point><coordinates>-97.8177604444444,29.5684382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

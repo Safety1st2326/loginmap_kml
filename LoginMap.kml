@@ -1432,5 +1432,14 @@
       Address: 59 Johnson Road, Musella, Crawford, GA 31066]]></description>
         <Point><coordinates>-84.0117916666667,32.7631666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45122-A</name>
+        <description><![CDATA[Date: 7/10/25 11:04 AM
+      Site Name: Ironhorse
+      AGL: 60
+      Tower Type: Monopole
+      Address: 1155 S. Horne, Mesa, Maricopa, AZ 85204]]></description>
+        <Point><coordinates>-111.813444444444,33.3938885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

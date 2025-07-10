@@ -1612,5 +1612,32 @@
       Address: 7871 McGregor Park Rd., Temple, Bell, TX 76502]]></description>
         <Point><coordinates>-97.4575305555556,31.2051638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV11258-A</name>
+        <description><![CDATA[Date: 7/10/25 12:21 PM
+      Site Name: Point Pleasant 2 WV
+      AGL: 186
+      Tower Type: Monopole
+      Address: 498 Lewis Street, Point Pleasant, Mason, WV 25550]]></description>
+        <Point><coordinates>-82.1268632222222,38.8459774444445,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY04777-A</name>
+        <description><![CDATA[Date: 7/10/25 12:16 PM
+      Site Name: Maysville
+      AGL: 198
+      Tower Type: Self Support
+      Address: 1910 Dutch Ridge Rd., Augusta, Bracken, KY 41002]]></description>
+        <Point><coordinates>-83.984858,38.724191,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH40215-T</name>
+        <description><![CDATA[Date: 7/10/25 12:27 PM
+      Site Name: Shelby High School
+      AGL: 150
+      Tower Type: Monopole
+      Address: 39 S. Gamble St., Shelby, Richland, OH 44875]]></description>
+        <Point><coordinates>-82.6610166666667,40.8789993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

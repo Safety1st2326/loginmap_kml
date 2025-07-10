@@ -2125,5 +2125,23 @@
       Address: 815 W Lathrop Rd, Manteca, San Joaquin, CA 95336]]></description>
         <Point><coordinates>-121.231371333333,37.8283413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR17874-A</name>
+        <description><![CDATA[Date: 7/10/25 3:40 PM
+      Site Name: Parker Iron Springs
+      AGL: 225
+      Tower Type: Self Support
+      Address: 4024 Willow Springs Road, Little Rock, Pulaski, AR 72206]]></description>
+        <Point><coordinates>-92.327316,34.6252354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40027-T</name>
+        <description><![CDATA[Date: 7/10/25 3:40 PM
+      Site Name: Coin Op
+      AGL: 65
+      Tower Type: Monopole
+      Address: 1809 W. Southern Ave., Phoenix, Maricopa, AZ 85041]]></description>
+        <Point><coordinates>-112.097146888889,33.3918607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

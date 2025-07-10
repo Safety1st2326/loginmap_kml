@@ -1090,5 +1090,14 @@
       Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
         <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN13856-A</name>
+        <description><![CDATA[Date: 7/10/25 9:39 AM
+      Site Name: Elkton 3 TN
+      AGL: 282
+      Tower Type: Self Support
+      Address: 1493 Prospect Elkton Road, Prospect, Giles, TN 38477]]></description>
+        <Point><coordinates>-86.9145555555556,35.0446663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

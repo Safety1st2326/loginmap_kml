@@ -2458,5 +2458,23 @@
       Address: Route 5 & Route 215 Junction, North Springfield, Erie, PA 16411]]></description>
         <Point><coordinates>-80.4259687777778,41.9867191111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14627-A</name>
+        <description><![CDATA[Date: 7/10/25 6:21 AM
+      Site Name: Virtz Corner
+      AGL: 125
+      Tower Type: Monopine
+      Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
+        <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05300-S</name>
+        <description><![CDATA[Date: 7/10/25 6:24 AM
+      Site Name: Williamstown 3 NY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
+        <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

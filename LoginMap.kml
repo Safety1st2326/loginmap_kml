@@ -2296,5 +2296,23 @@
       Address: 9241 South Avenida Del Yagui, Guadalupe, Maricopa, AZ 85283]]></description>
         <Point><coordinates>-111.960638888889,33.3628333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 7/10/25 5:40 PM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11538-S</name>
+        <description><![CDATA[Date: 7/10/25 5:42 PM
+      Site Name: Boonshill
+      AGL: 310
+      Tower Type: Guyed
+      Address: 4 Boonshill Petersburg Rd, Petersburg, Lincoln, TN 37144]]></description>
+        <Point><coordinates>-86.7255798888889,35.208275,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

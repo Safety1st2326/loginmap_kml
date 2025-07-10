@@ -2341,5 +2341,14 @@
       Address: 22020 LA Hwy 26, Jennings, Jefferson Davis, LA 70546]]></description>
         <Point><coordinates>-92.669666,30.3506916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45088-A</name>
+        <description><![CDATA[Date: 7/9/25 8:39 PM
+      Site Name: Bunker Peak
+      AGL: 107
+      Tower Type: Monopole
+      Address: 25203 N 123rd Ave, Peoria, Maricopa, AZ 85383]]></description>
+        <Point><coordinates>-112.324941,33.7131888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

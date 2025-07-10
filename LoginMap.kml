@@ -2368,5 +2368,14 @@
       Address: 307 West Ray Fine Blvd., Roland, Sequoyah, OK 74954]]></description>
         <Point><coordinates>-94.5212882222222,35.4070777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46348-A</name>
+        <description><![CDATA[Date: 7/10/25 5:02 AM
+      Site Name: Meadwood
+      AGL: 147
+      Tower Type: Monopole
+      Address: 5495 Hillandale Drive, Lithonia, Dekalb, GA 30058]]></description>
+        <Point><coordinates>-84.1671937777778,33.7044166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

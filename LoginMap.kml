@@ -2215,5 +2215,14 @@
       Address: 26143 Highway 12, Lexington, Holmes, MS 39095]]></description>
         <Point><coordinates>-89.9749576666667,33.1039888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN05553-A</name>
+        <description><![CDATA[Date: 7/10/25 4:30 PM
+      Site Name: Shilo-Lowry
+      AGL: 198
+      Tower Type: Self Support
+      Address: 1917 Shiloh Road, Wildersville, Henderson, TN 38388-8276]]></description>
+        <Point><coordinates>-88.2058166666667,35.8159416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1414,5 +1414,23 @@
       Address: 12095 Old Highway 99 S, Ashland, Jackson, OR 97520]]></description>
         <Point><coordinates>-122.599124666667,42.0514722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH07349-A</name>
+        <description><![CDATA[Date: 7/10/25 10:51 AM
+      Site Name: Hollingsworth Hill
+      AGL: 137
+      Tower Type: Self Support
+      Address: 781 Moultonboro Neck Road, Moultonborough, Carroll, NH 03254]]></description>
+        <Point><coordinates>-71.3729437777778,43.6906663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02595-A</name>
+        <description><![CDATA[Date: 7/10/25 10:58 AM
+      Site Name: Roberta
+      AGL: 464
+      Tower Type: Guyed
+      Address: 59 Johnson Road, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-84.0117916666667,32.7631666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

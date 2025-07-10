@@ -2269,5 +2269,23 @@
       Address: 15996 Old Hwy 63, La Plata, Macon, MO 63549]]></description>
         <Point><coordinates>-92.4851996666667,39.9559722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40323-A</name>
+        <description><![CDATA[Date: 7/10/25 5:21 PM
+      Site Name: Gonzales-Valley Vet
+      AGL: 185
+      Tower Type: Self Support
+      Address: 2004 Church Street, Gonzales, Gonzales, TX 78629]]></description>
+        <Point><coordinates>-97.4519555555556,29.5214382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN16333-B</name>
+        <description><![CDATA[Date: 7/10/25 5:21 PM
+      Site Name: Madison East IN
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1885 E. Farmers Trail, Madison, Jefferson, IN 42750]]></description>
+        <Point><coordinates>-85.3472302222222,38.7612472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

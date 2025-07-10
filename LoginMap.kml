@@ -2539,5 +2539,50 @@
       Address: 719 Sherman Hill Rd, Freehold Township, Warren, PA 16402]]></description>
         <Point><coordinates>-79.4483496666667,41.9287798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12456-A</name>
+        <description><![CDATA[Date: 7/10/25 6:36 AM
+      Site Name: Leto
+      AGL: 145
+      Tower Type: Monopole
+      Address: 6909 Asphalt Dr., Tampa, Hillsborough, FL 33614]]></description>
+        <Point><coordinates>-82.5234521111111,28.0127583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02856-B</name>
+        <description><![CDATA[Date: 7/10/25 6:28 AM
+      Site Name: Bonaire
+      AGL: 250
+      Tower Type: Self Support
+      Address: 125 Highway 96, Bonaire, Houston, GA 31005]]></description>
+        <Point><coordinates>-83.5892107777778,32.5470107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 7/10/25 6:42 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/10/25 6:42 AM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA09553-A</name>
+        <description><![CDATA[Date: 7/10/25 6:48 AM
+      Site Name: Deer Range
+      AGL: 304
+      Tower Type: Guyed
+      Address: 18940 Highway 23, Myrtle Grove, Plaquemines, LA 70764]]></description>
+        <Point><coordinates>-89.9122694444444,29.6141555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

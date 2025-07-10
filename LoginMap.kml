@@ -2260,5 +2260,14 @@
       Address: 307 Crittenden Street, Yoakum, Lavaca, TX 77995]]></description>
         <Point><coordinates>-97.1427774444444,29.2988885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO47040-A</name>
+        <description><![CDATA[Date: 7/10/25 5:04 PM
+      Site Name: Long Branch 4 MO
+      AGL: 250
+      Tower Type: Guyed
+      Address: 15996 Old Hwy 63, La Plata, Macon, MO 63549]]></description>
+        <Point><coordinates>-92.4851996666667,39.9559722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

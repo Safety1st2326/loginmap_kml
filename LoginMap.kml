@@ -2089,5 +2089,41 @@
       Address: 7670 Mansfield Hwy, Kennedale, Tarrant, TX 76060]]></description>
         <Point><coordinates>-97.1950274444444,32.6211937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10670-A</name>
+        <description><![CDATA[Date: 7/10/25 3:31 PM
+      Site Name: Johnson Creek 2 KY
+      AGL: 280
+      Tower Type: Guyed
+      Address: 1602 Connector Road, Ewing, Fleming, KY 41039]]></description>
+        <Point><coordinates>-83.9049666666667,38.4667771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03278-A</name>
+        <description><![CDATA[Date: 7/10/25 3:35 PM
+      Site Name: Bunn Rd
+      AGL: 197
+      Tower Type: Self Support
+      Address: 916 Bunn Road, Forsyth, Monroe, GA 31029]]></description>
+        <Point><coordinates>-83.8794715555556,33.0127,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40583-T</name>
+        <description><![CDATA[Date: 7/10/25 3:22 PM
+      Site Name: CC118 Calvary Comm Church
+      AGL: 76
+      Tower Type: Monopole
+      Address: 815 W Lathrop Rd, Manteca, San Joaquin, CA 95336]]></description>
+        <Point><coordinates>-121.231371333333,37.8283413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40583-T</name>
+        <description><![CDATA[Date: 7/10/25 3:22 PM
+      Site Name: CC118 Calvary Comm Church
+      AGL: 76
+      Tower Type: Monopole
+      Address: 815 W Lathrop Rd, Manteca, San Joaquin, CA 95336]]></description>
+        <Point><coordinates>-121.231371333333,37.8283413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

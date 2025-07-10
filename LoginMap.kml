@@ -2224,5 +2224,41 @@
       Address: 1917 Shiloh Road, Wildersville, Henderson, TN 38388-8276]]></description>
         <Point><coordinates>-88.2058166666667,35.8159416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE11298-A</name>
+        <description><![CDATA[Date: 7/10/25 4:51 PM
+      Site Name: Seymour Park
+      AGL: 142
+      Tower Type: Monopole
+      Address: 5711 South 60th Street, Omaha, Douglas, NE 68117]]></description>
+        <Point><coordinates>-96.0027472222222,41.1982885555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10651-A</name>
+        <description><![CDATA[Date: 7/10/25 4:52 PM
+      Site Name: Blue Licks
+      AGL: 281
+      Tower Type: Guyed
+      Address: 231 County Line Road, Ewing, Robertson, KY 41039]]></description>
+        <Point><coordinates>-83.9839218888889,38.4375302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46133-A</name>
+        <description><![CDATA[Date: 7/10/25 4:55 PM
+      Site Name: Shelton-north
+      AGL: 118
+      Tower Type: Monopole
+      Address: 162 Birdseye Rd, Shelton, Fairfield/Shelton, CT 06484]]></description>
+        <Point><coordinates>-73.1486941111111,41.3257771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11371-A</name>
+        <description><![CDATA[Date: 7/10/25 4:55 PM
+      Site Name: Yoakum
+      AGL: 142
+      Tower Type: Monopole
+      Address: 307 Crittenden Street, Yoakum, Lavaca, TX 77995]]></description>
+        <Point><coordinates>-97.1427774444444,29.2988885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

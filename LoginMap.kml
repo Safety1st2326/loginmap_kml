@@ -1369,5 +1369,50 @@
       Address: 8281 East Admiral Place, Tulsa, Tulsa, OK 74115]]></description>
         <Point><coordinates>-95.8827271111111,36.1613694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/10/25 10:43 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/10/25 10:43 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04927-A</name>
+        <description><![CDATA[Date: 7/10/25 10:44 AM
+      Site Name: Alcoa
+      AGL: 187
+      Tower Type: Monopole
+      Address: 19522 Interstate 30, Benton, Saline, AR 72015-2063]]></description>
+        <Point><coordinates>-92.5547222222222,34.599783,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12370-A</name>
+        <description><![CDATA[Date: 7/10/25 10:46 AM
+      Site Name: Ferndale 2 KY
+      AGL: 190
+      Tower Type: Guyed
+      Address: 3150 Pickett Lane, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.8128083333333,38.6876607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47613-A</name>
+        <description><![CDATA[Date: 7/10/25 10:49 AM
+      Site Name: Siskiyou - Search Ring
+      AGL: 175
+      Tower Type: Self Support
+      Address: 12095 Old Highway 99 S, Ashland, Jackson, OR 97520]]></description>
+        <Point><coordinates>-122.599124666667,42.0514722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -595,5 +595,41 @@
       Address: 206 County Road 14, Del Norte, Rio Grande, CO 81132]]></description>
         <Point><coordinates>-106.360455555556,37.6755048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/11/25 8:31 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/11/25 8:31 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45053-A</name>
+        <description><![CDATA[Date: 7/11/25 8:34 AM
+      Site Name: Pvcc
+      AGL: 65
+      Tower Type: Monopole
+      Address: 3946 E. Bell Rd, Phoenix, Maricopa, AZ 85024]]></description>
+        <Point><coordinates>-111.999166333333,33.6427774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH03164-B</name>
+        <description><![CDATA[Date: 7/11/25 8:34 AM
+      Site Name: Stewart South
+      AGL: 199
+      Tower Type: Self Support
+      Address: 4800 Golden Rod Lane, Guysville, Athens, OH 45735]]></description>
+        <Point><coordinates>-81.9137194444445,39.2596583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

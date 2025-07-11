@@ -55,5 +55,32 @@
       Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
         <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07253-A</name>
+        <description><![CDATA[Date: 7/11/25 6:15 AM
+      Site Name: Lake City 3 KY
+      AGL: 310
+      Tower Type: Guyed
+      Address: 863 Spring Town Rd., Grand Rivers, Livingston, KY 42045-9284]]></description>
+        <Point><coordinates>-88.2353635555556,37.0568194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/11/25 6:27 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL02610-A</name>
+        <description><![CDATA[Date: 7/11/25 6:28 AM
+      Site Name: Heathland
+      AGL: 183
+      Tower Type: Monopole
+      Address: 5701 Intrepid Cir., Huntsville, Madison, AL 35816]]></description>
+        <Point><coordinates>-86.6600222222222,34.7411718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

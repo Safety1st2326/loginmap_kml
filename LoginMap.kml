@@ -1153,5 +1153,14 @@
       Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
         <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21572-A</name>
+        <description><![CDATA[Date: 7/11/25 10:31 AM
+      Site Name: Shannon - Hwy 45
+      AGL: 300
+      Tower Type: Self Support
+      Address: 147 Gardner Drive, Shannon, Lee, MS 38868]]></description>
+        <Point><coordinates>-88.7000166666667,34.1136777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1513,5 +1513,23 @@
       Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
         <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC00706-B</name>
+        <description><![CDATA[Date: 7/11/25 12:40 PM
+      Site Name: Lafayette
+      AGL: 300
+      Tower Type: Guyed
+      Address: 157 Risher Mountain Road, Walterboro, Colleton, SC 29488-6931]]></description>
+        <Point><coordinates>-80.6722465555556,33.0066972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40791-T</name>
+        <description><![CDATA[Date: 7/11/25 12:40 PM
+      Site Name: Altadena Golf Course
+      AGL: 63
+      Tower Type: Monopalm
+      Address: 1456 E. Mendocino St., Altadena, Los Angeles, CA 91001]]></description>
+        <Point><coordinates>-118.119063222222,34.1854552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

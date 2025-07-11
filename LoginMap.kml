@@ -298,5 +298,41 @@
       Address: 5260 Old Columbia Road, Goochland, Goochland, VA 23063]]></description>
         <Point><coordinates>-78.0642805555556,37.7524416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47677-A</name>
+        <description><![CDATA[Date: 7/11/25 7:34 AM
+      Site Name: Graystone
+      AGL: 176
+      Tower Type: Monopole
+      Address: 763 Industrial Court, Cherryville, Northampton, PA 18035]]></description>
+        <Point><coordinates>-75.538333,40.7594444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN12838-A</name>
+        <description><![CDATA[Date: 7/11/25 7:30 AM
+      Site Name: Greensburg 2 IN
+      AGL: 251
+      Tower Type: Self Support
+      Address: 9065 East CR 400 North, Greensburg, Decatur, IN 47240]]></description>
+        <Point><coordinates>-85.3144611111111,39.3953885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/11/25 7:30 AM
+      Site Name: Titusville
+      AGL: 251
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923163333333,41.6142583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13940-A</name>
+        <description><![CDATA[Date: 7/11/25 7:36 AM
+      Site Name: Tyler Mountain
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
+        <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

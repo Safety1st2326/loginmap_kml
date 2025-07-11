@@ -1864,5 +1864,14 @@
       Address: 3800 NW 18th Street, Ankeny, Polk, IA 50023]]></description>
         <Point><coordinates>-93.649933,41.7474385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10665-A</name>
+        <description><![CDATA[Date: 7/11/25 3:44 PM
+      Site Name: Green Grove
+      AGL: 325
+      Tower Type: Guyed
+      Address: 8150 Albany Road, Burkesville, Cumberland, KY 42717]]></description>
+        <Point><coordinates>-85.2451996666667,36.7765604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

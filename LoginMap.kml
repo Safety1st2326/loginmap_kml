@@ -1747,5 +1747,23 @@
       Address: 3997 McCormick Road, Mt. Sterling, Montgomery, KY 40353]]></description>
         <Point><coordinates>-83.8861802222222,38.0004694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13453-A</name>
+        <description><![CDATA[Date: 7/11/25 3:02 PM
+      Site Name: Kennedy Coast Guard
+      AGL: 753
+      Tower Type: Guyed
+      Address: 488 San Pedro Camp Road, Armstrong, Kenedy, TX 78336]]></description>
+        <Point><coordinates>-97.6628333333333,26.9899996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY02542-S</name>
+        <description><![CDATA[Date: 7/11/25 3:07 PM
+      Site Name: Mayfield
+      AGL: 300
+      Tower Type: Guyed
+      Address: 117 Verkleir Drive, Gloversville, Fulton, NY 12078-6994]]></description>
+        <Point><coordinates>-74.2578361111111,43.0801882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

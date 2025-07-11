@@ -1531,5 +1531,32 @@
       Address: 1456 E. Mendocino St., Altadena, Los Angeles, CA 91001]]></description>
         <Point><coordinates>-118.119063222222,34.1854552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46837-A</name>
+        <description><![CDATA[Date: 7/11/25 1:11 PM
+      Site Name: 6 Mile And Inkster
+      AGL: 129
+      Tower Type: Monopole
+      Address: 26440 Puritan, Redford, Wayne, MI 48239]]></description>
+        <Point><coordinates>-83.3035,42.4070555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10683-A</name>
+        <description><![CDATA[Date: 7/11/25 1:16 PM
+      Site Name: Snow 1 KY
+      AGL: 251
+      Tower Type: Guyed
+      Address: 288 Snow Mountain Rd., Albany, Clinton, KY 42602]]></description>
+        <Point><coordinates>-85.1428718888889,36.7433607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10683-A</name>
+        <description><![CDATA[Date: 7/11/25 1:16 PM
+      Site Name: Snow 1 KY
+      AGL: 251
+      Tower Type: Guyed
+      Address: 288 Snow Mountain Rd., Albany, Clinton, KY 42602]]></description>
+        <Point><coordinates>-85.1428718888889,36.7433607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

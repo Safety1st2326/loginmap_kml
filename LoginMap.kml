@@ -703,5 +703,32 @@
       Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
         <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI12863-A</name>
+        <description><![CDATA[Date: 7/11/25 9:02 AM
+      Site Name: Taylor Rd - Detroit
+      AGL: 76
+      Tower Type: Monopole
+      Address: 12934 West 7 Mile Road, Detroit, Wayne, MI 48235]]></description>
+        <Point><coordinates>-83.1736326666667,42.4314743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21761-A</name>
+        <description><![CDATA[Date: 7/11/25 8:54 AM
+      Site Name: Stanley
+      AGL: 300
+      Tower Type: Self Support
+      Address: W11780 Willow Road, Stanley, Clark, WI 54768]]></description>
+        <Point><coordinates>-90.9063305555556,44.9597777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46219-A</name>
+        <description><![CDATA[Date: 7/11/25 9:07 AM
+      Site Name: Nova Road-south Daytona
+      AGL: 180
+      Tower Type: Monopole
+      Address: 2801 S. Nova Rd  , South Daytona, VOLUSIA, FL 32119]]></description>
+        <Point><coordinates>-81.0172965555556,29.1539305555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

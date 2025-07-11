@@ -1729,5 +1729,23 @@
       Address: 1404 Martinez Lane, Wylie, Collin, TX 75098]]></description>
         <Point><coordinates>-96.5547944444444,33.0003333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45115-A</name>
+        <description><![CDATA[Date: 7/11/25 2:50 PM
+      Site Name: Gabby
+      AGL: 75
+      Tower Type: Monopole
+      Address: 5224 West Camelback Road, Glendale, Maricopa, AZ 85301]]></description>
+        <Point><coordinates>-112.172277111111,33.5100833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12366-A</name>
+        <description><![CDATA[Date: 7/11/25 2:50 PM
+      Site Name: Camargo
+      AGL: 250
+      Tower Type: Guyed
+      Address: 3997 McCormick Road, Mt. Sterling, Montgomery, KY 40353]]></description>
+        <Point><coordinates>-83.8861802222222,38.0004694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -496,5 +496,23 @@
       Address: 3150 Adams Canyon Rd., Jackson, Teton, WY 83001]]></description>
         <Point><coordinates>-110.783210166667,43.435104,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13178-A</name>
+        <description><![CDATA[Date: 7/11/25 8:11 AM
+      Site Name: Steubenville
+      AGL: 300
+      Tower Type: Self Support
+      Address: 151 Arlie Piercy Road, Monticello, Wayne, KY 42633]]></description>
+        <Point><coordinates>-84.7840274444444,36.8978052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT16926-A</name>
+        <description><![CDATA[Date: 7/11/25 8:11 AM
+      Site Name: Lakeside 3 MT
+      AGL: 151
+      Tower Type: Self Support
+      Address: 6599 Rising Moon Road, Helena, Lewis and Clark, MT 59602]]></description>
+        <Point><coordinates>-111.738869111111,46.638508,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

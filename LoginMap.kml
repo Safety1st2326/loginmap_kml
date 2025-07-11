@@ -442,5 +442,59 @@
       Address: 239 70th Avenue, Chandler, Murray, MN 56122]]></description>
         <Point><coordinates>-95.929366,43.8839857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/11/25 8:01 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/11/25 8:01 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13286-A</name>
+        <description><![CDATA[Date: 7/11/25 8:04 AM
+      Site Name: Midrivers- Mexico
+      AGL: 90
+      Tower Type: MonoCross
+      Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
+        <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/11/25 8:04 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05300-S</name>
+        <description><![CDATA[Date: 7/11/25 8:08 AM
+      Site Name: Williamstown 3 NY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
+        <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WY16934-A</name>
+        <description><![CDATA[Date: 7/11/25 8:08 AM
+      Site Name: Rafter J
+      AGL: 62
+      Tower Type: Monopole
+      Address: 3150 Adams Canyon Rd., Jackson, Teton, WY 83001]]></description>
+        <Point><coordinates>-110.783210166667,43.435104,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

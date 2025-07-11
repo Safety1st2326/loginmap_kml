@@ -1720,5 +1720,14 @@
       Address: 1957 Adams Rd , Owingsville, Bath, KY 40360]]></description>
         <Point><coordinates>-83.6768187777778,38.1753798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17908-A</name>
+        <description><![CDATA[Date: 7/11/25 2:46 PM
+      Site Name: Trevino 2 TX
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1404 Martinez Lane, Wylie, Collin, TX 75098]]></description>
+        <Point><coordinates>-96.5547944444444,33.0003333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -154,5 +154,95 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD41249-T</name>
+        <description><![CDATA[Date: 7/11/25 7:01 AM
+      Site Name: Martinson Property
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4007 Accokeek Rd., BrandyWIe, Prince George's, MD 20613]]></description>
+        <Point><coordinates>-76.938083,38.6782215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47410-A</name>
+        <description><![CDATA[Date: 7/11/25 6:57 AM
+      Site Name: Town Of Cortlandt
+      AGL: 146
+      Tower Type: Tree
+      Address: 51 Scenic Drive, Croton - On Hudson, Westchester, NY 10520]]></description>
+        <Point><coordinates>-73.9018888888889,41.2286382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47410-A</name>
+        <description><![CDATA[Date: 7/11/25 6:57 AM
+      Site Name: Town Of Cortlandt
+      AGL: 146
+      Tower Type: Tree
+      Address: 51 Scenic Drive, Croton - On Hudson, Westchester, NY 10520]]></description>
+        <Point><coordinates>-73.9018888888889,41.2286382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME16499-A</name>
+        <description><![CDATA[Date: 7/11/25 6:57 AM
+      Site Name: Dixmont
+      AGL: 201
+      Tower Type: Self Support
+      Address: 123 Peaked Mountain Rd., Dixmont, Penobscot, ME 04932]]></description>
+        <Point><coordinates>-69.0794715555556,44.7022972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22853-S</name>
+        <description><![CDATA[Date: 7/11/25 7:04 AM
+      Site Name: Lake Sebring
+      AGL: 150
+      Tower Type: Stealth
+      Address: 651 Memorial Drive, Sebring, Highlands, FL 33870]]></description>
+        <Point><coordinates>-81.4948546666667,27.5249857222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21669-A</name>
+        <description><![CDATA[Date: 7/11/25 7:04 AM
+      Site Name: East Ridge 2 TN
+      AGL: 159
+      Tower Type: Monopole
+      Address: 3330-A RINGGOLD ROAD, CHATTANOOGA, HAMILTON, TN 37412]]></description>
+        <Point><coordinates>-85.2626166666667,35.0063388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08723-A</name>
+        <description><![CDATA[Date: 7/11/25 7:04 AM
+      Site Name: Waterloo 4 IN
+      AGL: 302
+      Tower Type: Self Support
+      Address: 200 Executive Drive, Waterloo, Dekalb, IN 46793-9448]]></description>
+        <Point><coordinates>-85.0445357777778,41.4363996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA28153-A</name>
+        <description><![CDATA[Date: 7/11/25 7:04 AM
+      Site Name: Battle Forrest
+      AGL: 351
+      Tower Type: Guyed
+      Address: 3029 Battle Forrest Drive, Decatur, Dekalb, GA 30034]]></description>
+        <Point><coordinates>-84.2898996666667,33.6986024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05330-B</name>
+        <description><![CDATA[Date: 7/11/25 6:54 AM
+      Site Name: Corey
+      AGL: 150
+      Tower Type: Monopole
+      Address: 101 Corey Street, Plains, Luzerne, PA 18702-1833]]></description>
+        <Point><coordinates>-75.8400941111111,41.2906774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20508-A</name>
+        <description><![CDATA[Date: 7/11/25 7:06 AM
+      Site Name: GADSDEN
+      AGL: 150
+      Tower Type: Self Support
+      Address: HWY. 95-2, GADSDEN, YUMA, AZ 85336]]></description>
+        <Point><coordinates>-114.786471888889,32.5486385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

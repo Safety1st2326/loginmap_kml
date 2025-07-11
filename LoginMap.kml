@@ -1315,5 +1315,32 @@
       Address: 13246 West McDowell Rd., Goodyear, Maricopa, AZ 85338]]></description>
         <Point><coordinates>-112.344082666667,33.464694,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21022-A</name>
+        <description><![CDATA[Date: 7/11/25 11:28 AM
+      Site Name: King Ranch 2 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2439 W. Highway 141, Kingsville, Kleberg, TX 78363]]></description>
+        <Point><coordinates>-97.9583916666667,27.5323771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02892-B</name>
+        <description><![CDATA[Date: 7/11/25 11:22 AM
+      Site Name: Lake Park 2 GA
+      AGL: 302
+      Tower Type: Self Support
+      Address: 4561 Loch Laurel Rd., Valdosta, Lowndes, GA 31601-2505]]></description>
+        <Point><coordinates>-83.2332243333333,30.6884052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45109-A</name>
+        <description><![CDATA[Date: 7/11/25 11:37 AM
+      Site Name: Derek
+      AGL: 65
+      Tower Type: Monopole
+      Address: 2735 W. Sweetwater, Phoenix, Maricopa, AZ 85001]]></description>
+        <Point><coordinates>-112.118638222222,33.6027777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

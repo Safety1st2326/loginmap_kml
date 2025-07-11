@@ -1954,5 +1954,14 @@
       Address: 5211 Barbados Circle, Stockton, San Joaquin, CA 95210]]></description>
         <Point><coordinates>-121.286299666667,38.0054472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY11775-A</name>
+        <description><![CDATA[Date: 7/11/25 5:03 PM
+      Site Name: Hwy 90 - Glasgow Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 9970 Glasgow Road, Burkesville, Cumberland, KY 42717]]></description>
+        <Point><coordinates>-85.5074361111111,36.831666,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

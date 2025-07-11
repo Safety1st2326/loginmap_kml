@@ -1216,5 +1216,23 @@
       Address: 150 Mitchell Road, Higden, Cleburne, AR 72067]]></description>
         <Point><coordinates>-92.2351635555556,35.5481441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH41571-T</name>
+        <description><![CDATA[Date: 7/11/25 10:55 AM
+      Site Name: Righter Plumbing
+      AGL: 95
+      Tower Type: Monopole
+      Address: 1691 E. Hudson, Columbus, Franklin, OH 43219]]></description>
+        <Point><coordinates>-82.9642777777778,40.0131666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10859-A</name>
+        <description><![CDATA[Date: 7/11/25 10:55 AM
+      Site Name: N Rock Rd
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1777 North Rock Road, Wichita, Sedgwick, KS 67206]]></description>
+        <Point><coordinates>-97.2490274444445,37.7150833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

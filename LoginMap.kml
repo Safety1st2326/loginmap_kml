@@ -676,5 +676,32 @@
       Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
         <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45074-A</name>
+        <description><![CDATA[Date: 7/11/25 8:51 AM
+      Site Name: Az0328b - Primary - Shadow
+      AGL: 64
+      Tower Type: Monopole
+      Address: 15627 N. Cave Creek Rd , PHOENIX, MARICOPA, AZ 85001]]></description>
+        <Point><coordinates>-112.030138222222,33.6288048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL13016-A</name>
+        <description><![CDATA[Date: 7/11/25 8:57 AM
+      Site Name: Weogufka
+      AGL: 250
+      Tower Type: Self Support
+      Address: Route 2, CR56, Rockford, Coosa, AL 35136]]></description>
+        <Point><coordinates>-86.2341052222222,33.0387607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20445-A</name>
+        <description><![CDATA[Date: 7/11/25 8:58 AM
+      Site Name: Geneva 3 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
+        <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

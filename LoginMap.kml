@@ -1702,5 +1702,23 @@
       Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
         <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH13775-A</name>
+        <description><![CDATA[Date: 7/11/25 2:35 PM
+      Site Name: 2 - Water
+      AGL: 120
+      Tower Type: Flagpole
+      Address: 24 Baker St, Newfields, Rockingham, NH 03856]]></description>
+        <Point><coordinates>-70.9386774444445,43.0388968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41187-T</name>
+        <description><![CDATA[Date: 7/11/25 2:37 PM
+      Site Name: Polksville North
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1957 Adams Rd , Owingsville, Bath, KY 40360]]></description>
+        <Point><coordinates>-83.6768187777778,38.1753798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

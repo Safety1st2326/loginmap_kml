@@ -37,5 +37,14 @@
       Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
         <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08338-B</name>
+        <description><![CDATA[Date: 7/11/25 6:04 AM
+      Site Name: Blythewood
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
+        <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1414,5 +1414,68 @@
       Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
         <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00031-B</name>
+        <description><![CDATA[Date: 7/11/25 12:19 PM
+      Site Name: Indiantown
+      AGL: 187
+      Tower Type: Self Support
+      Address: 15851 SW Farm Road, Indiantown, Martin, FL 34956-3524]]></description>
+        <Point><coordinates>-80.4694715555556,27.019666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY22445-A</name>
+        <description><![CDATA[Date: 7/11/25 12:25 PM
+      Site Name: Clearfield
+      AGL: 256
+      Tower Type: Self Support
+      Address: 75 N Mill Branch Road, Clearfield, Rowan, KY 40313]]></description>
+        <Point><coordinates>-83.4406913333333,38.1641472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS14465-A</name>
+        <description><![CDATA[Date: 7/11/25 12:25 PM
+      Site Name: Three Foot
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1209 Grand Avenue, Meridian, Lauderdale, MS 39301]]></description>
+        <Point><coordinates>-88.699683,32.3505055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45083-A</name>
+        <description><![CDATA[Date: 7/11/25 12:21 PM
+      Site Name: Metrocenter
+      AGL: 46
+      Tower Type: Monopole
+      Address: 3420 W. Peoria Ave., Phoenix, Maricopa, AZ 85029]]></description>
+        <Point><coordinates>-112.133333,33.5826104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22262-A</name>
+        <description><![CDATA[Date: 7/11/25 12:28 PM
+      Site Name: Upper Manatee
+      AGL: 155
+      Tower Type: Monopole
+      Address: 252 Gates Creek Road, Bradenton, Manatee, FL 34212]]></description>
+        <Point><coordinates>-82.4306271111111,27.501975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46541-A</name>
+        <description><![CDATA[Date: 7/11/25 12:28 PM
+      Site Name: North Summit
+      AGL: 68
+      Tower Type: Monopole
+      Address: 5311 S Harlem Ave, Chicago, Cook, IL 60638]]></description>
+        <Point><coordinates>-87.8012222222222,41.7956385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/11/25 12:28 PM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

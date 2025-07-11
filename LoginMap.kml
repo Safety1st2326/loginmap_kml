@@ -46,5 +46,14 @@
       Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
         <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/11/25 6:13 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

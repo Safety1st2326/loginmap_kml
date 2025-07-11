@@ -2341,5 +2341,14 @@
       Address: 357 Ramey Road, Sharpsburg, Bath, KY 40374]]></description>
         <Point><coordinates>-83.9302326666667,38.206725,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN10259-A</name>
+        <description><![CDATA[Date: 7/10/25 7:46 PM
+      Site Name: Waseca - LEC
+      AGL: 181
+      Tower Type: Self Support
+      Address: 122 3rd Avenue NW, Waseca, Waseca, MN 56093]]></description>
+        <Point><coordinates>-93.5086,44.0798326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1891,5 +1891,23 @@
       Address: 100 East Diamond Avenue, Hazleton, Luzerne, PA 18201-5241]]></description>
         <Point><coordinates>-75.9691298888889,40.9586555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21266-A</name>
+        <description><![CDATA[Date: 7/11/25 4:22 PM
+      Site Name: King Ranch 3 TX
+      AGL: 321
+      Tower Type: Guyed
+      Address: 2745 S. Highway 77, Armstrong, Kenedy, TX 78338]]></description>
+        <Point><coordinates>-97.7814493333333,26.8387163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12366-A</name>
+        <description><![CDATA[Date: 7/11/25 4:28 PM
+      Site Name: Camargo
+      AGL: 250
+      Tower Type: Guyed
+      Address: 3997 McCormick Road, Mt. Sterling, Montgomery, KY 40353]]></description>
+        <Point><coordinates>-83.8861802222222,38.0004694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

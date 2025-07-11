@@ -1558,5 +1558,32 @@
       Address: 288 Snow Mountain Rd., Albany, Clinton, KY 42602]]></description>
         <Point><coordinates>-85.1428718888889,36.7433607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY22445-A</name>
+        <description><![CDATA[Date: 7/11/25 1:25 PM
+      Site Name: Clearfield
+      AGL: 256
+      Tower Type: Self Support
+      Address: 75 N Mill Branch Road, Clearfield, Rowan, KY 40313]]></description>
+        <Point><coordinates>-83.4406913333333,38.1641472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40520-T</name>
+        <description><![CDATA[Date: 7/11/25 1:25 PM
+      Site Name: Rainbow Valley Elem Schl
+      AGL: 65
+      Tower Type: Monopole
+      Address: 19716 W. Narramore Rd, Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.474610444444,33.3353056666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK09934-A</name>
+        <description><![CDATA[Date: 7/11/25 1:19 PM
+      Site Name: Colcord
+      AGL: 296
+      Tower Type: Guyed
+      Address: 17800 East 575 Road, Colcord, Delaware, OK 74338]]></description>
+        <Point><coordinates>-94.6917774444445,36.1796687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

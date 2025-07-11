@@ -10,5 +10,23 @@
       Address: 307 West Ray Fine Blvd., Roland, Sequoyah, OK 74954]]></description>
         <Point><coordinates>-94.5212882222222,35.4070777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/11/25 5:22 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13790-A</name>
+        <description><![CDATA[Date: 7/11/25 5:27 AM
+      Site Name: Alden South (0504)
+      AGL: 150
+      Tower Type: Monopole
+      Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
+        <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -910,5 +910,23 @@
       Address: 5415 W. Mohave, Phoenix, Maricopa, AZ 85043]]></description>
         <Point><coordinates>-112.175860444444,33.4310271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20520-A</name>
+        <description><![CDATA[Date: 7/11/25 9:41 AM
+      Site Name: Rock Lane
+      AGL: 105
+      Tower Type: Monopole
+      Address: 969 SYCAMORE PLACE, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.295166333333,34.5238326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY40139-T</name>
+        <description><![CDATA[Date: 7/11/25 9:46 AM
+      Site Name: Homestead Mine Rd
+      AGL: 292
+      Tower Type: Guyed
+      Address: 3740 Nortonville Road, St. Charles, Hopkins, KY 42442]]></description>
+        <Point><coordinates>-87.5150833333333,37.190083,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1765,5 +1765,23 @@
       Address: 117 Verkleir Drive, Gloversville, Fulton, NY 12078-6994]]></description>
         <Point><coordinates>-74.2578361111111,43.0801882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10049-A</name>
+        <description><![CDATA[Date: 7/11/25 3:18 PM
+      Site Name: Midway Road
+      AGL: 303
+      Tower Type: Guyed
+      Address: 375 East Midway Road, Ft. Pierce, St. Lucie, FL 34982]]></description>
+        <Point><coordinates>-80.322441,27.3736993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40514-T</name>
+        <description><![CDATA[Date: 7/11/25 3:18 PM
+      Site Name: Rovey
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3704 S. Dean Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.522166333333,33.413472,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1630,5 +1630,32 @@
       Address: 202 Clarice Drive, Holly Springs, Marshall, MS 38635]]></description>
         <Point><coordinates>-89.4417441111111,34.7428746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN11760-S</name>
+        <description><![CDATA[Date: 7/11/25 2:13 PM
+      Site Name: Huntland
+      AGL: 194
+      Tower Type: Guyed
+      Address: 13159 David Crockett Parkway W., Huntland, Franklin, TN 37345]]></description>
+        <Point><coordinates>-86.2553833333333,35.0805326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45054-A</name>
+        <description><![CDATA[Date: 7/11/25 2:18 PM
+      Site Name: Christown Mall
+      AGL: 61
+      Tower Type: Monopole
+      Address: 2632 W. Indian School Road, Phoenix, Maricopa, AZ 85017]]></description>
+        <Point><coordinates>-112.115833333333,33.495833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17182-A</name>
+        <description><![CDATA[Date: 7/11/25 2:19 PM
+      Site Name: Encino
+      AGL: 423
+      Tower Type: Guyed
+      Address: 156 FM 755, Encino, Brooks, TX 78353]]></description>
+        <Point><coordinates>-98.1405385555556,26.8912802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

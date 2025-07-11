@@ -91,5 +91,50 @@
       Address: 3718 Vega Road, Thurman, Jackson, OH 45685-9716]]></description>
         <Point><coordinates>-82.5092361111111,38.974666,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA09553-A</name>
+        <description><![CDATA[Date: 7/11/25 6:43 AM
+      Site Name: Deer Range
+      AGL: 304
+      Tower Type: Guyed
+      Address: 18940 Highway 23, Myrtle Grove, Plaquemines, LA 70764]]></description>
+        <Point><coordinates>-89.9122694444444,29.6141555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17194-A</name>
+        <description><![CDATA[Date: 7/11/25 6:45 AM
+      Site Name: Karnes City
+      AGL: 400
+      Tower Type: Guyed
+      Address: 1890 FM 1353, Karnes City, Karnes, TX 78118]]></description>
+        <Point><coordinates>-97.9063666666667,28.8610611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40966-T</name>
+        <description><![CDATA[Date: 7/11/25 6:45 AM
+      Site Name: Hinesville NW
+      AGL: 185
+      Tower Type: Monopole
+      Address: 613 E.G. Miles Parkway, Hinesville, Liberty, GA 31313]]></description>
+        <Point><coordinates>-81.6098,31.8354135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46780-A</name>
+        <description><![CDATA[Date: 7/11/25 6:49 AM
+      Site Name: Contractors
+      AGL: 140
+      Tower Type: Flagless Flagpole
+      Address: 23231 Lahser Rd, Southfield, Oakland, MI 48034]]></description>
+        <Point><coordinates>-83.2611972222222,42.4588333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14507-A</name>
+        <description><![CDATA[Date: 7/11/25 6:49 AM
+      Site Name: Hale
+      AGL: 268
+      Tower Type: Guyed
+      Address: 486 Majestic Valley Road, Lebanon, Russell, VA 24266]]></description>
+        <Point><coordinates>-82.0073388888889,36.9091833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

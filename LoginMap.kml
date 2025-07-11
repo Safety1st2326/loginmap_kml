@@ -1828,5 +1828,41 @@
       Address: 53876 Cemetery Road, Oilton, Creek, OK 74052]]></description>
         <Point><coordinates>-96.5948357777778,36.0835024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47958-A</name>
+        <description><![CDATA[Date: 7/11/25 3:31 PM
+      Site Name: E Parker Rd-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 7515 E. Parker Rd, Allen, Collin, TX 75002]]></description>
+        <Point><coordinates>-96.587233,33.0559111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA18275-A</name>
+        <description><![CDATA[Date: 7/11/25 3:36 PM
+      Site Name: N Ankeny
+      AGL: 195
+      Tower Type: Stealth
+      Address: 3800 NW 18th Street, Ankeny, Polk, IA 50023]]></description>
+        <Point><coordinates>-93.649933,41.7474385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45081-A</name>
+        <description><![CDATA[Date: 7/11/25 3:36 PM
+      Site Name: Lower Buckeye - Bill Ansell
+      AGL: 60
+      Tower Type: Monopole
+      Address: 3249 South 39th Ave, PHOENIX, MARICOPA, AZ 85009]]></description>
+        <Point><coordinates>-112.143416333333,33.4184437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA18275-A</name>
+        <description><![CDATA[Date: 7/11/25 3:36 PM
+      Site Name: N Ankeny
+      AGL: 195
+      Tower Type: Stealth
+      Address: 3800 NW 18th Street, Ankeny, Polk, IA 50023]]></description>
+        <Point><coordinates>-93.649933,41.7474385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

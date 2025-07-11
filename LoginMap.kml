@@ -1882,5 +1882,14 @@
       Address: N17407 Vega Road, Hermansville, Menominee, MI 49847]]></description>
         <Point><coordinates>-87.6192604444444,45.7303882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA06595-B</name>
+        <description><![CDATA[Date: 7/11/25 4:16 PM
+      Site Name: Harleigh
+      AGL: 190
+      Tower Type: Monopole
+      Address: 100 East Diamond Avenue, Hazleton, Luzerne, PA 18201-5241]]></description>
+        <Point><coordinates>-75.9691298888889,40.9586555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

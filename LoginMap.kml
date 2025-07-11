@@ -1963,5 +1963,23 @@
       Address: 9970 Glasgow Road, Burkesville, Cumberland, KY 42717]]></description>
         <Point><coordinates>-85.5074361111111,36.831666,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK13834-A</name>
+        <description><![CDATA[Date: 7/11/25 5:51 PM
+      Site Name: South Grove
+      AGL: 191
+      Tower Type: Self Support
+      Address: 61951 E. 349 Road, Grove, Delaware, OK 74344]]></description>
+        <Point><coordinates>-94.7786798888889,36.5117944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11316-A</name>
+        <description><![CDATA[Date: 7/11/25 5:57 PM
+      Site Name: Stanton 2 KY
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2 Manning Rd, Stanton, Powell, KY 40380]]></description>
+        <Point><coordinates>-83.7537902777778,37.8386377222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

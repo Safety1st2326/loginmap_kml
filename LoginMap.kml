@@ -334,5 +334,32 @@
       Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
         <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK20875-A</name>
+        <description><![CDATA[Date: 7/11/25 7:40 AM
+      Site Name: TERLTON
+      AGL: 340
+      Tower Type: Guyed
+      Address: E 0520 ROAD & N 3680 ROAD, CLEVELAND, PAWNEE, OK 74020]]></description>
+        <Point><coordinates>-96.442008,36.2629194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12857-A</name>
+        <description><![CDATA[Date: 7/11/25 7:49 AM
+      Site Name: McBean 2 GA
+      AGL: 400
+      Tower Type: Guyed
+      Address: 972 River Road, McBean, Burke, GA 30830]]></description>
+        <Point><coordinates>-81.9206743333333,33.2371135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12857-A</name>
+        <description><![CDATA[Date: 7/11/25 7:49 AM
+      Site Name: McBean 2 GA
+      AGL: 400
+      Tower Type: Guyed
+      Address: 972 River Road, McBean, Burke, GA 30830]]></description>
+        <Point><coordinates>-81.9206743333333,33.2371135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -82,5 +82,14 @@
       Address: 5701 Intrepid Cir., Huntsville, Madison, AL 35816]]></description>
         <Point><coordinates>-86.6600222222222,34.7411718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH03152-B</name>
+        <description><![CDATA[Date: 7/11/25 6:24 AM
+      Site Name: Oak Hill
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3718 Vega Road, Thurman, Jackson, OH 45685-9716]]></description>
+        <Point><coordinates>-82.5092361111111,38.974666,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

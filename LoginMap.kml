@@ -1585,5 +1585,41 @@
       Address: 17800 East 575 Road, Colcord, Delaware, OK 74338]]></description>
         <Point><coordinates>-94.6917774444445,36.1796687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21023-A</name>
+        <description><![CDATA[Date: 7/11/25 1:19 PM
+      Site Name: Kenedy Ranch
+      AGL: 319
+      Tower Type: Guyed
+      Address: 113 Juanita Gate Road, Sarita, Kenedy, TX 78385]]></description>
+        <Point><coordinates>-97.7880607777778,27.0929496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46837-A</name>
+        <description><![CDATA[Date: 7/11/25 1:19 PM
+      Site Name: 6 Mile And Inkster
+      AGL: 129
+      Tower Type: Monopole
+      Address: 26440 Puritan, Redford, Wayne, MI 48239]]></description>
+        <Point><coordinates>-83.3035,42.4070555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15082-S</name>
+        <description><![CDATA[Date: 7/11/25 1:34 PM
+      Site Name: Oil Creek Twsp
+      AGL: 250
+      Tower Type: Self Support
+      Address: 13772 Old Route 8 N, Titusville, Crawford, PA 16354]]></description>
+        <Point><coordinates>-79.7240548888889,41.6666388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12474-A</name>
+        <description><![CDATA[Date: 7/11/25 1:39 PM
+      Site Name: Oklahoma City 2 OK
+      AGL: 340
+      Tower Type: Guyed
+      Address: 4717 Bartell Road #1A, Oklahoma City, Oklahoma, OK 73121]]></description>
+        <Point><coordinates>-97.4277215555556,35.517566,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

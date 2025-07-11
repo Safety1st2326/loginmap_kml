@@ -1162,5 +1162,59 @@
       Address: 147 Gardner Drive, Shannon, Lee, MS 38868]]></description>
         <Point><coordinates>-88.7000166666667,34.1136777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN14141-A</name>
+        <description><![CDATA[Date: 7/11/25 10:43 AM
+      Site Name: Pine Valley
+      AGL: 150
+      Tower Type: Monopole
+      Address: 10707 Coldwater Road, Unit ?A?, Fort Wayne, Allen, IN 46845]]></description>
+        <Point><coordinates>-85.1345163333333,41.180041,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45132-A</name>
+        <description><![CDATA[Date: 7/11/25 10:40 AM
+      Site Name: Sun Bowl Plaza East
+      AGL: 49
+      Tower Type: Stealth
+      Address: 10615 W. Peoria Avenue , SUN CITY, MARICOPA, AZ 85351]]></description>
+        <Point><coordinates>-112.289221888889,33.5788882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16594-S</name>
+        <description><![CDATA[Date: 7/11/25 10:40 AM
+      Site Name: 635 Seagoville
+      AGL: 150
+      Tower Type: Monopole
+      Address: 11916 Seagoville Road, Balch Springs, Dallas, TX 75210]]></description>
+        <Point><coordinates>-96.6214704444444,32.7039477777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE11298-A</name>
+        <description><![CDATA[Date: 7/11/25 10:37 AM
+      Site Name: Seymour Park
+      AGL: 142
+      Tower Type: Monopole
+      Address: 5711 South 60th Street, Omaha, Douglas, NE 68117]]></description>
+        <Point><coordinates>-96.0027472222222,41.1982885555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI15212-B</name>
+        <description><![CDATA[Date: 7/11/25 10:37 AM
+      Site Name: Manchester 11 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 680 Precision Drive, Markesan, Green Lake, WI 53946]]></description>
+        <Point><coordinates>-88.9936302222222,43.7200076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04958-A</name>
+        <description><![CDATA[Date: 7/11/25 10:49 AM
+      Site Name: Greers Ferry-Wilson
+      AGL: 300
+      Tower Type: Guyed
+      Address: 150 Mitchell Road, Higden, Cleburne, AR 72067]]></description>
+        <Point><coordinates>-92.2351635555556,35.5481441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

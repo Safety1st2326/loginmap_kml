@@ -1657,5 +1657,50 @@
       Address: 156 FM 755, Encino, Brooks, TX 78353]]></description>
         <Point><coordinates>-98.1405385555556,26.8912802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV10451-A</name>
+        <description><![CDATA[Date: 7/11/25 2:17 PM
+      Site Name: Grindstone
+      AGL: 67
+      Tower Type: Self Support
+      Address: 133 Road Mount Diablo, Elko, Elko, NV 89801]]></description>
+        <Point><coordinates>-115.902186111111,40.7005472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13286-A</name>
+        <description><![CDATA[Date: 7/11/25 2:17 PM
+      Site Name: Midrivers- Mexico
+      AGL: 90
+      Tower Type: MonoCross
+      Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
+        <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40514-T</name>
+        <description><![CDATA[Date: 7/11/25 2:22 PM
+      Site Name: Rovey
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3704 S. Dean Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.522166333333,33.413472,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12089-B</name>
+        <description><![CDATA[Date: 7/11/25 2:25 PM
+      Site Name: Hazel 5 MI
+      AGL: 239
+      Tower Type: Self Support
+      Address: 4947 US Hwy 2, Iron River, Iron, MI 49935]]></description>
+        <Point><coordinates>-88.7603611111111,46.1473691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13940-A</name>
+        <description><![CDATA[Date: 7/11/25 2:25 PM
+      Site Name: Tyler Mountain
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
+        <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

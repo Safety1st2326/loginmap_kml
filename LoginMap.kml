@@ -1981,5 +1981,41 @@
       Address: 2 Manning Rd, Stanton, Powell, KY 40380]]></description>
         <Point><coordinates>-83.7537902777778,37.8386377222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/11/25 6:12 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/11/25 6:12 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/11/25 6:12 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/11/25 6:13 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

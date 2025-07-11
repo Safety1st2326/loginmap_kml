@@ -730,5 +730,122 @@
       Address: 2801 S. Nova Rd  , South Daytona, VOLUSIA, FL 32119]]></description>
         <Point><coordinates>-81.0172965555556,29.1539305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40315-A</name>
+        <description><![CDATA[Date: 7/11/25 9:11 AM
+      Site Name: River Hills Country Club
+      AGL: 155
+      Tower Type: Stealth
+      Address: 4225 River Hill Drive, Corpus Christi, Nueces, TX 78410]]></description>
+        <Point><coordinates>-97.6492385555556,27.8637277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13395-A</name>
+        <description><![CDATA[Date: 7/11/25 9:11 AM
+      Site Name: Shelby 3 TN
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1200 Horse Mountain Road, Shelbyville, Bedford, TN 37161]]></description>
+        <Point><coordinates>-86.420041,35.5121361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13395-A</name>
+        <description><![CDATA[Date: 7/11/25 9:11 AM
+      Site Name: Shelby 3 TN
+      AGL: 180
+      Tower Type: Guyed
+      Address: 1200 Horse Mountain Road, Shelbyville, Bedford, TN 37161]]></description>
+        <Point><coordinates>-86.4202687777778,35.5122944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00008-A</name>
+        <description><![CDATA[Date: 7/11/25 9:11 AM
+      Site Name: Wellsville
+      AGL: 290
+      Tower Type: Guyed
+      Address: 3324 North Hill Road, Wellsville, Allegany, NY 14895]]></description>
+        <Point><coordinates>-77.9407663333333,42.1498163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY06477-S</name>
+        <description><![CDATA[Date: 7/11/25 9:13 AM
+      Site Name: Coventry 3 NY
+      AGL: 155
+      Tower Type: Self Support
+      Address: 168 Knapp Knoll Lane, Oxford, Chenango, NY 13830]]></description>
+        <Point><coordinates>-75.6449357777778,42.3899524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46712-A</name>
+        <description><![CDATA[Date: 7/11/25 9:14 AM
+      Site Name: WESTON POLICE STATION
+      AGL: 96
+      Tower Type: Stealth
+      Address: 180 Boston Post Road, Weston, Middlesex, MA 02193]]></description>
+        <Point><coordinates>-71.3066722222222,42.36385,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46676-A</name>
+        <description><![CDATA[Date: 7/11/25 9:18 AM
+      Site Name: Wellesley College
+      AGL: 66
+      Tower Type: Stealth
+      Address: 106 Central Street, Wellesley, Norfolk, MA 02481]]></description>
+        <Point><coordinates>-71.298458,42.2932524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47805-A</name>
+        <description><![CDATA[Date: 7/11/25 9:18 AM
+      Site Name: Lauder
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2426 1/2 Lauder , Houston, Harris, TX 77039]]></description>
+        <Point><coordinates>-95.3481357777778,29.9124833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05154-A</name>
+        <description><![CDATA[Date: 7/11/25 9:18 AM
+      Site Name: Jones Orchard
+      AGL: 190
+      Tower Type: Monopole
+      Address: 6986 Singleton Parkway, Millington, Shelby, TN 38053-8227]]></description>
+        <Point><coordinates>-89.8734965555555,35.3169882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/11/25 9:19 AM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05154-A</name>
+        <description><![CDATA[Date: 7/11/25 9:19 AM
+      Site Name: Jones Orchard
+      AGL: 190
+      Tower Type: Monopole
+      Address: 6986 Singleton Parkway, Millington, Shelby, TN 38053-8227]]></description>
+        <Point><coordinates>-89.8734965555555,35.3169882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/11/25 9:19 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/11/25 9:19 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

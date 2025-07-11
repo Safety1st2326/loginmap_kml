@@ -28,5 +28,14 @@
       Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
         <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/11/25 5:30 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

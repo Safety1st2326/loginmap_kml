@@ -514,5 +514,86 @@
       Address: 6599 Rising Moon Road, Helena, Lewis and Clark, MT 59602]]></description>
         <Point><coordinates>-111.738869111111,46.638508,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN04803-A</name>
+        <description><![CDATA[Date: 7/11/25 8:20 AM
+      Site Name: Fairfield Glade 2 TN
+      AGL: 307
+      Tower Type: Self Support
+      Address: 129 Dartmoor Drive, Crossville, Cumberland, TN 38558-6211]]></description>
+        <Point><coordinates>-84.8919941111111,36.0124805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/11/25 8:20 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15326-A</name>
+        <description><![CDATA[Date: 7/11/25 8:20 AM
+      Site Name: Mount Olive Church II MS
+      AGL: 300
+      Tower Type: Guyed
+      Address: 22294 Hwy 45 North, Aberdeen, Monroe, MS 69730]]></description>
+        <Point><coordinates>-88.5924218888889,33.9221798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00311-A</name>
+        <description><![CDATA[Date: 7/11/25 8:20 AM
+      Site Name: Waterman Hill Road
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5130 County Rt. 27, Russell, St. Lawrence, NY 13617-3278]]></description>
+        <Point><coordinates>-75.0953191111111,44.5363496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA16632-A</name>
+        <description><![CDATA[Date: 7/11/25 8:22 AM
+      Site Name: Red Cypress
+      AGL: 150
+      Tower Type: Monopole
+      Address: 299 Grandwood Drive, Patterson, St. Mary, LA 70392]]></description>
+        <Point><coordinates>-91.3229521111111,29.6954385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11699-A</name>
+        <description><![CDATA[Date: 7/11/25 8:25 AM
+      Site Name: Stuart - Federal Hwy
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1502 NW Federal Hwy, Stuart, Martin, FL 34994]]></description>
+        <Point><coordinates>-80.2649805555556,27.2241548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME15902-A</name>
+        <description><![CDATA[Date: 7/11/25 8:25 AM
+      Site Name: Moody 3 ME
+      AGL: 190
+      Tower Type: Monopole
+      Address: 175 Northeast Rd. [Rte 35],, Standish, Cumberland, ME 4084]]></description>
+        <Point><coordinates>-70.5398607777778,43.7436802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47847-A</name>
+        <description><![CDATA[Date: 7/11/25 8:14 AM
+      Site Name: Evergreen 6 TX
+      AGL: 150
+      Tower Type: Monopole
+      Address: 800 N Front Street, Mathis, San Patricio, TX 78368]]></description>
+        <Point><coordinates>-97.8218187777778,28.1033388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO17877-A</name>
+        <description><![CDATA[Date: 7/11/25 8:29 AM
+      Site Name: Del Norte
+      AGL: 49
+      Tower Type: Monopole
+      Address: 206 County Road 14, Del Norte, Rio Grande, CO 81132]]></description>
+        <Point><coordinates>-106.360455555556,37.6755048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1009,5 +1009,32 @@
       Address: 3029 Battle Forrest Drive, Decatur, Dekalb, GA 30034]]></description>
         <Point><coordinates>-84.2898996666667,33.6986024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11751-A</name>
+        <description><![CDATA[Date: 7/11/25 10:02 AM
+      Site Name: Corpus Christi
+      AGL: 912
+      Tower Type: Guyed
+      Address: 3333 CR 28, Robstown, Nueces, TX 78380]]></description>
+        <Point><coordinates>-97.6333243333333,27.7080527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41125-T</name>
+        <description><![CDATA[Date: 7/11/25 10:05 AM
+      Site Name: LogansportCommunitySchool
+      AGL: 159
+      Tower Type: Monopole
+      Address: One Berry Lane, Logansport, Cass, IN 46947]]></description>
+        <Point><coordinates>-86.3274465555556,40.7480163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI17597-A</name>
+        <description><![CDATA[Date: 7/11/25 10:05 AM
+      Site Name: Burns Lake
+      AGL: 260
+      Tower Type: Self Support
+      Address: 8466 Highway M28, Kenton, Houghton, MI 49967]]></description>
+        <Point><coordinates>-88.8155166666667,46.4958941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

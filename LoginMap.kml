@@ -1909,5 +1909,14 @@
       Address: 3997 McCormick Road, Mt. Sterling, Montgomery, KY 40353]]></description>
         <Point><coordinates>-83.8861802222222,38.0004694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/11/25 4:37 PM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

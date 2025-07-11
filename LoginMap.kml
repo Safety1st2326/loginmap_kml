@@ -928,5 +928,86 @@
       Address: 3740 Nortonville Road, St. Charles, Hopkins, KY 42442]]></description>
         <Point><coordinates>-87.5150833333333,37.190083,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA12904-A</name>
+        <description><![CDATA[Date: 7/11/25 9:52 AM
+      Site Name: Irvine 2 CA
+      AGL: 46
+      Tower Type: Monopine
+      Address: 5200 Irvine Boulevard, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.753994444444,33.7051166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10688-A</name>
+        <description><![CDATA[Date: 7/11/25 9:52 AM
+      Site Name: Zula
+      AGL: 251
+      Tower Type: Guyed
+      Address: 9096 West Highway 90, Monticello, Wayne, KY 42633]]></description>
+        <Point><coordinates>-84.9426524444444,36.7790548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12364-A</name>
+        <description><![CDATA[Date: 7/11/25 9:55 AM
+      Site Name: Bethel 3 KY
+      AGL: 286
+      Tower Type: Guyed
+      Address: 212 Chandler Road, Sharpsburg, Bath, KY 40374]]></description>
+        <Point><coordinates>-83.8430913333333,38.2667882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/11/25 9:55 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO12066-A</name>
+        <description><![CDATA[Date: 7/11/25 9:55 AM
+      Site Name: Corning 2 MO
+      AGL: 320
+      Tower Type: Guyed
+      Address: 19709 310th Street, Fairfax, Atchison, MO 64446]]></description>
+        <Point><coordinates>-95.4892996666667,40.2794437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI14001-B</name>
+        <description><![CDATA[Date: 7/11/25 9:55 AM
+      Site Name: Marenisco MI
+      AGL: 340
+      Tower Type: Guyed
+      Address: N7304 Stage Coach Road, Marenisco, Gogebic, MI 49947]]></description>
+        <Point><coordinates>-89.5050888888889,46.3610611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/11/25 9:58 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40602-T</name>
+        <description><![CDATA[Date: 7/11/25 9:58 AM
+      Site Name: SR579 Linus Church
+      AGL: 72
+      Tower Type: Monopole
+      Address: 2644 S. B St, Stockton, San Joaquin, CA 95206]]></description>
+        <Point><coordinates>-121.249860666667,37.9300553333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA28153-A</name>
+        <description><![CDATA[Date: 7/11/25 9:58 AM
+      Site Name: Battle Forrest
+      AGL: 351
+      Tower Type: Guyed
+      Address: 3029 Battle Forrest Drive, Decatur, Dekalb, GA 30034]]></description>
+        <Point><coordinates>-84.2898996666667,33.6986024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

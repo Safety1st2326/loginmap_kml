@@ -1234,5 +1234,50 @@
       Address: 1777 North Rock Road, Wichita, Sedgwick, KS 67206]]></description>
         <Point><coordinates>-97.2490274444445,37.7150833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45062-A</name>
+        <description><![CDATA[Date: 7/11/25 11:14 AM
+      Site Name: Acoma
+      AGL: 47
+      Tower Type: Monopole
+      Address: 12835 N. 33rd Avenue, Phoenix, Maricopa, AZ 85029]]></description>
+        <Point><coordinates>-112.127882666667,33.6026222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15050-A</name>
+        <description><![CDATA[Date: 7/11/25 11:14 AM
+      Site Name: Refugio
+      AGL: 181
+      Tower Type: Guyed
+      Address: 197 Fox Road, Refugio, Refugio, TX 78377]]></description>
+        <Point><coordinates>-97.294733,28.3820465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24396-A</name>
+        <description><![CDATA[Date: 7/11/25 11:14 AM
+      Site Name: Westside Elem
+      AGL: 180
+      Tower Type: Flagless Flagpole
+      Address: 2561 Westside Boulevard, Kissimmee, Osceola, FL 34747]]></description>
+        <Point><coordinates>-81.6451691111111,28.3179771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11774-A</name>
+        <description><![CDATA[Date: 7/11/25 11:03 AM
+      Site Name: Paducah Comm College
+      AGL: 178
+      Tower Type: Monopole
+      Address: 4741 Alben Barkley Drive, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.6599833333333,37.0576638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13862-A</name>
+        <description><![CDATA[Date: 7/11/25 11:07 AM
+      Site Name: Marrowbone
+      AGL: 181
+      Tower Type: Monopole
+      Address: 1939 Highway 12 South, Ashland City, Cheatham, TN 37015]]></description>
+        <Point><coordinates>-87.0126666666667,36.2325548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1873,5 +1873,14 @@
       Address: 8150 Albany Road, Burkesville, Cumberland, KY 42717]]></description>
         <Point><coordinates>-85.2451996666667,36.7765604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10045-B</name>
+        <description><![CDATA[Date: 7/11/25 4:02 PM
+      Site Name: Hermansville
+      AGL: 400
+      Tower Type: Guyed
+      Address: N17407 Vega Road, Hermansville, Menominee, MI 49847]]></description>
+        <Point><coordinates>-87.6192604444444,45.7303882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

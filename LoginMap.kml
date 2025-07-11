@@ -1279,5 +1279,41 @@
       Address: 1939 Highway 12 South, Ashland City, Cheatham, TN 37015]]></description>
         <Point><coordinates>-87.0126666666667,36.2325548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY12333-B</name>
+        <description><![CDATA[Date: 7/11/25 11:08 AM
+      Site Name: Plattsburgh Broderick Rd
+      AGL: 119
+      Tower Type: Monopole
+      Address: 70 Broderick Road, Plattsburgh, Clinton, NY 12944]]></description>
+        <Point><coordinates>-73.4962385555556,44.6326326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL06532-A</name>
+        <description><![CDATA[Date: 7/11/25 11:20 AM
+      Site Name: Jacksonville 3 AL
+      AGL: 270
+      Tower Type: Self Support
+      Address: 1050 Broadwell Mill Rd., Jacksonville, Calhoun, AL 36265]]></description>
+        <Point><coordinates>-85.7900663333333,33.8111027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15447-S</name>
+        <description><![CDATA[Date: 7/11/25 11:20 AM
+      Site Name: Helms Trail
+      AGL: 274
+      Tower Type: Self Support
+      Address: 10990 West 120, Forney, Kaufman, TX 75126]]></description>
+        <Point><coordinates>-96.4277715555556,32.698483,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40517-T</name>
+        <description><![CDATA[Date: 7/11/25 11:28 AM
+      Site Name: Dysart - Storage Solutions
+      AGL: 45
+      Tower Type: Monopole Tree
+      Address: 13246 West McDowell Rd., Goodyear, Maricopa, AZ 85338]]></description>
+        <Point><coordinates>-112.344082666667,33.464694,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

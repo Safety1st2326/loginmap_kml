@@ -631,5 +631,50 @@
       Address: 4800 Golden Rod Lane, Guysville, Athens, OH 45735]]></description>
         <Point><coordinates>-81.9137194444445,39.2596583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY13561-B</name>
+        <description><![CDATA[Date: 7/11/25 8:43 AM
+      Site Name: Cazenovia
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
+        <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15796-A</name>
+        <description><![CDATA[Date: 7/11/25 8:43 AM
+      Site Name: Louisville
+      AGL: 400
+      Tower Type: Guyed
+      Address: 5915 Hwy 14 West, Louisville, Winston, MS 39339]]></description>
+        <Point><coordinates>-89.1377968888889,33.1110694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK05111-A</name>
+        <description><![CDATA[Date: 7/11/25 8:46 AM
+      Site Name: Svendsen
+      AGL: 300
+      Tower Type: Self Support
+      Address: 307 West Ray Fine Blvd., Roland, Sequoyah, OK 74954]]></description>
+        <Point><coordinates>-94.5212882222222,35.4070777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05876-A</name>
+        <description><![CDATA[Date: 7/11/25 8:46 AM
+      Site Name: Woodworth
+      AGL: 190
+      Tower Type: Self Support
+      Address: 31 Castor Plunge Road, Woodworth, Rapides, LA 71485-9706]]></description>
+        <Point><coordinates>-92.4997274444444,31.1470274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 7/11/25 8:46 AM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -244,5 +244,14 @@
       Address: HWY. 95-2, GADSDEN, YUMA, AZ 85336]]></description>
         <Point><coordinates>-114.786471888889,32.5486385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/11/25 7:12 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

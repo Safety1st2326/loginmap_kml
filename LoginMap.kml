@@ -2350,5 +2350,14 @@
       Address: 122 3rd Avenue NW, Waseca, Waseca, MN 56093]]></description>
         <Point><coordinates>-93.5086,44.0798326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV10451-A</name>
+        <description><![CDATA[Date: 7/10/25 11:34 PM
+      Site Name: Grindstone
+      AGL: 67
+      Tower Type: Self Support
+      Address: 133 Road Mount Diablo, Elko, Elko, NV 89801]]></description>
+        <Point><coordinates>-115.902186111111,40.7005472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

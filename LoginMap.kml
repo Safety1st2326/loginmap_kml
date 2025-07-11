@@ -856,5 +856,59 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45128-A</name>
+        <description><![CDATA[Date: 7/11/25 9:31 AM
+      Site Name: Union Hills
+      AGL: 45
+      Tower Type: Stealth
+      Address: 4102 W.  Union Hills Dr., Glendale, Maricopa, AZ 85308]]></description>
+        <Point><coordinates>-112.147988555556,33.6558305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45128-A</name>
+        <description><![CDATA[Date: 7/11/25 9:31 AM
+      Site Name: Union Hills
+      AGL: 50
+      Tower Type: 
+      Address: 4102 W.  Union Hills Dr., Glendale, Maricopa, AZ 85308]]></description>
+        <Point><coordinates>-112.147941333333,33.6558361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04948-A</name>
+        <description><![CDATA[Date: 7/11/25 9:22 AM
+      Site Name: Donald Ridge
+      AGL: 165
+      Tower Type: Monopole
+      Address: 3491 Highway 286 West, Conway, Faulkner, AR 72034-7929]]></description>
+        <Point><coordinates>-92.4897941111111,35.0706715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/11/25 9:22 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/11/25 9:21 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40540-T</name>
+        <description><![CDATA[Date: 7/11/25 9:36 AM
+      Site Name: SASCO
+      AGL: 60
+      Tower Type: Monopole
+      Address: 5415 W. Mohave, Phoenix, Maricopa, AZ 85043]]></description>
+        <Point><coordinates>-112.175860444444,33.4310271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

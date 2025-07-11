@@ -1396,5 +1396,23 @@
       Address: 31 Lincoln Road, Fayetteville, Lincoln, TN 37334]]></description>
         <Point><coordinates>-86.5710993333333,35.0214604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD23530-A</name>
+        <description><![CDATA[Date: 7/11/25 12:02 PM
+      Site Name: Broadneck HS
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1265 Green Holly Drive, Annapolis, Anne Arundel, MD 21409]]></description>
+        <Point><coordinates>-76.4506361111111,39.0404302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/11/25 12:06 PM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

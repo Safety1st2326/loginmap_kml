@@ -1477,5 +1477,41 @@
       Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
         <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI17600-A</name>
+        <description><![CDATA[Date: 7/11/25 12:16 PM
+      Site Name: Kenton
+      AGL: 270
+      Tower Type: Self Support
+      Address: 1560 Old M-28 Road, Trout Creek, Houghton, MI 49967]]></description>
+        <Point><coordinates>-88.9592555555556,46.4878691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16569-A</name>
+        <description><![CDATA[Date: 7/11/25 12:31 PM
+      Site Name: Terrell
+      AGL: 195
+      Tower Type: Self Support
+      Address: Hwy 205 & Nike Drive, Terrell, Kaufman, TX 75160]]></description>
+        <Point><coordinates>-96.3178715555556,32.7850274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40515-T</name>
+        <description><![CDATA[Date: 7/11/25 12:35 PM
+      Site Name: Nirvana - Skyway Church of the West Valley
+      AGL: 80
+      Tower Type: Stealth
+      Address: 14900 W. Van Buren, Goodyear, Maricopa, AZ 85338]]></description>
+        <Point><coordinates>-112.379366,33.4529444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 7/11/25 12:38 PM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

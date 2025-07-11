@@ -1918,5 +1918,41 @@
       Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
         <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA12275-A</name>
+        <description><![CDATA[Date: 7/11/25 4:40 PM
+      Site Name: Woodhull
+      AGL: 300
+      Tower Type: Guyed
+      Address: 418 Edwards Road, Bainbridge, Decatur, GA 39819]]></description>
+        <Point><coordinates>-84.5253854444444,30.8116694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08725-A</name>
+        <description><![CDATA[Date: 7/11/25 4:42 PM
+      Site Name: San Isidro
+      AGL: 301
+      Tower Type: Guyed
+      Address: 5188 FM 1017, San Isidro, Starr, TX 78588-1504]]></description>
+        <Point><coordinates>-98.4528638888889,26.7139722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40646-T</name>
+        <description><![CDATA[Date: 7/11/25 4:46 PM
+      Site Name: SR584 United Christian
+      AGL: 74
+      Tower Type: Monopine
+      Address: 5211 Barbados Circle, Stockton, San Joaquin, CA 95210]]></description>
+        <Point><coordinates>-121.286299666667,38.0054472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40646-T</name>
+        <description><![CDATA[Date: 7/11/25 4:48 PM
+      Site Name: SR584 United Christian
+      AGL: 74
+      Tower Type: Monopine
+      Address: 5211 Barbados Circle, Stockton, San Joaquin, CA 95210]]></description>
+        <Point><coordinates>-121.286299666667,38.0054472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

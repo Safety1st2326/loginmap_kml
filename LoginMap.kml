@@ -1621,5 +1621,14 @@
       Address: 4717 Bartell Road #1A, Oklahoma City, Oklahoma, OK 73121]]></description>
         <Point><coordinates>-97.4277215555556,35.517566,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS13306-A</name>
+        <description><![CDATA[Date: 7/11/25 1:47 PM
+      Site Name: Holly Springs 2 MS
+      AGL: 390
+      Tower Type: Guyed
+      Address: 202 Clarice Drive, Holly Springs, Marshall, MS 38635]]></description>
+        <Point><coordinates>-89.4417441111111,34.7428746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

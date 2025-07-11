@@ -1783,5 +1783,50 @@
       Address: 3704 S. Dean Rd., Buckeye, Maricopa, AZ 85326]]></description>
         <Point><coordinates>-112.522166333333,33.413472,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45051-A</name>
+        <description><![CDATA[Date: 7/11/25 3:09 PM
+      Site Name: Maryvale
+      AGL: 65
+      Tower Type: Monopole
+      Address: 4280 W. Thomas Rd, Phoenix, Maricopa, AZ 85019]]></description>
+        <Point><coordinates>-112.150472222222,33.4810548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12144-A</name>
+        <description><![CDATA[Date: 7/11/25 3:15 PM
+      Site Name: Price 4 TX
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2636 Country Club Road, Wylie, Collin, TX 75098]]></description>
+        <Point><coordinates>-96.5670798888889,33.0526305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40514-T</name>
+        <description><![CDATA[Date: 7/11/25 3:22 PM
+      Site Name: Rovey
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3704 S. Dean Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.522166333333,33.413472,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40521-T</name>
+        <description><![CDATA[Date: 7/11/25 3:22 PM
+      Site Name: Buckeye Truck Wash
+      AGL: 65
+      Tower Type: Monopole
+      Address: 7455 S. Watson Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.554083,33.3786663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11902-A</name>
+        <description><![CDATA[Date: 7/11/25 3:24 PM
+      Site Name: Oilton DT
+      AGL: 300
+      Tower Type: Guyed
+      Address: 53876 Cemetery Road, Oilton, Creek, OK 74052]]></description>
+        <Point><coordinates>-96.5948357777778,36.0835024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2332,5 +2332,14 @@
       Address: 1301 East Harrison Street, Phoenix, Maricopa, AZ 85034]]></description>
         <Point><coordinates>-112.055333333333,33.4414718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY12379-A</name>
+        <description><![CDATA[Date: 7/10/25 6:54 PM
+      Site Name: Sharpsburg
+      AGL: 250
+      Tower Type: Guyed
+      Address: 357 Ramey Road, Sharpsburg, Bath, KY 40374]]></description>
+        <Point><coordinates>-83.9302326666667,38.206725,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1234,5 +1234,14 @@
       Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
         <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/12/25 5:48 PM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -901,5 +901,14 @@
       Address: 4082 Running Water Road, Shuqualak, Noxubee, MS 39361]]></description>
         <Point><coordinates>-88.5726104444444,32.9887496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20531-A</name>
+        <description><![CDATA[Date: 7/12/25 2:36 PM
+      Site Name: Greenbush Draw
+      AGL: 150
+      Tower Type: Monopole
+      Address: 11 School Terrace Road, Bisbee, Cochise, AZ 85603]]></description>
+        <Point><coordinates>-109.895055222222,31.4158611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

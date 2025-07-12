@@ -568,5 +568,14 @@
       Address: 2335 US Highway 231, Wetumpka, Elmore, AL 36093-1213]]></description>
         <Point><coordinates>-86.2000388888889,32.4782465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12276-A</name>
+        <description><![CDATA[Date: 7/12/25 10:34 AM
+      Site Name: Lanark
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2485 Oak Street, Lanark Village, Franklin, FL 32323]]></description>
+        <Point><coordinates>-84.5902718888889,29.8906107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

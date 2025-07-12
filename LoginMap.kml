@@ -1000,5 +1000,59 @@
       Address: 150 Mitchell Road, Higden, Cleburne, AR 72067]]></description>
         <Point><coordinates>-92.2351635555556,35.5481441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ17731-B</name>
+        <description><![CDATA[Date: 7/12/25 3:31 PM
+      Site Name: Miller Canyon
+      AGL: 194
+      Tower Type: Monopole
+      Address: 7167 S. Thorneydale Lane, Hereford, Cochise, AZ 85615]]></description>
+        <Point><coordinates>-110.245212444444,31.4387349444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX22843-A</name>
+        <description><![CDATA[Date: 7/12/25 3:34 PM
+      Site Name: Los Fresnos
+      AGL: 480
+      Tower Type: Guyed
+      Address: FM 510 and FM 1847, Los Fresnos, Cameron, TX 78586]]></description>
+        <Point><coordinates>-97.471941,26.1318437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41179-T</name>
+        <description><![CDATA[Date: 7/12/25 3:24 PM
+      Site Name: Dunn Store Road
+      AGL: 220
+      Tower Type: Self Support
+      Address: 180 T-Mobile Lane, Morgantown, Butler, KY 42261]]></description>
+        <Point><coordinates>-86.6844496666667,37.1612194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40647-T</name>
+        <description><![CDATA[Date: 7/12/25 3:24 PM
+      Site Name: SR587 Stockton Methodist
+      AGL: 76
+      Tower Type: Monopine
+      Address: 1625 N. Lincoln St, Stockton, San Joaquin, CA 95204]]></description>
+        <Point><coordinates>-121.303111111111,37.9671298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40647-T</name>
+        <description><![CDATA[Date: 7/12/25 3:24 PM
+      Site Name: SR587 Stockton Methodist
+      AGL: 76
+      Tower Type: Monopine
+      Address: 1625 N. Lincoln St, Stockton, San Joaquin, CA 95204]]></description>
+        <Point><coordinates>-121.303111111111,37.9671298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04784-S</name>
+        <description><![CDATA[Date: 7/12/25 3:39 PM
+      Site Name: Quay
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2655 69th Street, Winter Beach, Indian River, FL 32971]]></description>
+        <Point><coordinates>-80.4102777777778,27.7183326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

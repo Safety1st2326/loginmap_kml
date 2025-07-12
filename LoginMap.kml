@@ -2026,5 +2026,14 @@
       Address: 2266 Tindell Lane, Columbia, Maury, TN 38401-7133]]></description>
         <Point><coordinates>-87.1384996666667,35.6181937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE15308-A</name>
+        <description><![CDATA[Date: 7/11/25 7:04 PM
+      Site Name: Butler Tower
+      AGL: 329
+      Tower Type: Guyed
+      Address: 71162 US Highway 83, McCook, Red Willow, NE 69001]]></description>
+        <Point><coordinates>-100.623213222222,40.141933,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

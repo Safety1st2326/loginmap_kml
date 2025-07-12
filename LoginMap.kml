@@ -1144,5 +1144,23 @@
       Address: 619 Palma Vista Dr., Palmview, Hidalgo, TX 78572]]></description>
         <Point><coordinates>-98.3644805555555,26.2299743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20527-A</name>
+        <description><![CDATA[Date: 7/12/25 5:06 PM
+      Site Name: MACHEL ROAD
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1300  Fort Avenue, Sierra Vista, Cochise, AZ 85635]]></description>
+        <Point><coordinates>-110.306,31.5686104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20527-A</name>
+        <description><![CDATA[Date: 7/12/25 5:06 PM
+      Site Name: MACHEL ROAD
+      AGL: 129
+      Tower Type: Monopine
+      Address: 1300  Fort Avenue, Sierra Vista, Cochise, AZ 85635]]></description>
+        <Point><coordinates>-110.305958333333,31.568541,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

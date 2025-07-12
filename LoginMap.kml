@@ -838,5 +838,23 @@
       Address: 740 General Stewart Highway, Hinesville, Liberty, GA 31313-2634]]></description>
         <Point><coordinates>-81.5790521111111,31.854475,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20536-A</name>
+        <description><![CDATA[Date: 7/12/25 1:31 PM
+      Site Name: 14th Street
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1600 1st Avenue, Douglas, Cochise, AZ 85607]]></description>
+        <Point><coordinates>-109.535583,31.3350274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04818-A</name>
+        <description><![CDATA[Date: 7/12/25 1:36 PM
+      Site Name: 1st Street Tower 2 FL
+      AGL: 204
+      Tower Type: Self Support
+      Address: 526 1st Street, Vero Beach, Indian River, FL 32962-3629]]></description>
+        <Point><coordinates>-80.3841746666667,27.6039944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

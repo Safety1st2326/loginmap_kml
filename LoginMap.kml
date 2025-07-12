@@ -1090,5 +1090,32 @@
       Address: 1774 Hall Road, Macon, Noxubee, MS 39341]]></description>
         <Point><coordinates>-88.5489302222222,33.1016111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/12/25 4:21 PM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20528-A</name>
+        <description><![CDATA[Date: 7/12/25 4:28 PM
+      Site Name: Busby Road
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1045 S. Lenzer Avenue, Sierra Vista, COCHISE, AZ 85635]]></description>
+        <Point><coordinates>-110.288555222222,31.5434996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20528-A</name>
+        <description><![CDATA[Date: 7/12/25 4:28 PM
+      Site Name: Busby Road
+      AGL: 130
+      Tower Type: Monopine
+      Address: 1045 S. Lenzer Avenue, Sierra Vista, COCHISE, AZ 85635]]></description>
+        <Point><coordinates>-110.288508,31.5436107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

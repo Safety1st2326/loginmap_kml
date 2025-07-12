@@ -2017,5 +2017,14 @@
       Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
         <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01816-B</name>
+        <description><![CDATA[Date: 7/11/25 6:55 PM
+      Site Name: Hwy 99 West
+      AGL: 250
+      Tower Type: Guyed
+      Address: 2266 Tindell Lane, Columbia, Maury, TN 38401-7133]]></description>
+        <Point><coordinates>-87.1384996666667,35.6181937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

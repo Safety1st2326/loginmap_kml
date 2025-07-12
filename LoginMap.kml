@@ -1135,5 +1135,14 @@
       Address: 3701 Old Boynton Road, Boynton Beach, Palm Beach, FL 33436-3909]]></description>
         <Point><coordinates>-80.1037722222222,26.5323826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40329-A</name>
+        <description><![CDATA[Date: 7/12/25 4:51 PM
+      Site Name: Palmview
+      AGL: 120
+      Tower Type: Monopole
+      Address: 619 Palma Vista Dr., Palmview, Hidalgo, TX 78572]]></description>
+        <Point><coordinates>-98.3644805555555,26.2299743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

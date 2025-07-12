@@ -685,5 +685,32 @@
       Address: 5467 E. 14th Street, Brownsville, Cameron, TX 78521]]></description>
         <Point><coordinates>-97.4542388888889,25.9286576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL40076-A</name>
+        <description><![CDATA[Date: 7/12/25 11:46 AM
+      Site Name: 103rd Street
+      AGL: 230
+      Tower Type: Monopole
+      Address: 10711 SW 80th Avenue, Ocala, Marion, FL 34476]]></description>
+        <Point><coordinates>-82.2518861111111,29.0677104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20530-A</name>
+        <description><![CDATA[Date: 7/12/25 11:55 AM
+      Site Name: HWY 90
+      AGL: 190
+      Tower Type: Self Support
+      Address: 10829 Highway 90, Sierra Vista, Cochise, AZ 85635]]></description>
+        <Point><coordinates>-110.107611111111,31.5501111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17604-A</name>
+        <description><![CDATA[Date: 7/12/25 11:58 AM
+      Site Name: Isabella North
+      AGL: 403
+      Tower Type: Guyed
+      Address: 1367 Wander Road, Isabella, Lake, MN 55607]]></description>
+        <Point><coordinates>-91.6486057777778,47.6932299444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

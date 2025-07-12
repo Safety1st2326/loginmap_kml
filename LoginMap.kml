@@ -154,5 +154,41 @@
       Address: 2013 S. 8th Avenue, Safford, Graham, AZ 85546]]></description>
         <Point><coordinates>-109.714544166667,32.8158466666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13636-A</name>
+        <description><![CDATA[Date: 7/12/25 7:52 AM
+      Site Name: Lithia Springs 2 FL
+      AGL: 199
+      Tower Type: Monopole
+      Address: 4842 Bell Shoals Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2648333333333,27.867916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/12/25 7:54 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13636-A</name>
+        <description><![CDATA[Date: 7/12/25 7:54 AM
+      Site Name: Lithia Springs 2 FL
+      AGL: 199
+      Tower Type: Monopole
+      Address: 4842 Bell Shoals Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2648333333333,27.867916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13152-A</name>
+        <description><![CDATA[Date: 7/12/25 7:57 AM
+      Site Name: Eighty Eight
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1379 Whites Chapel Rd, Glasgow, Barren, KY 42141]]></description>
+        <Point><coordinates>-85.8463718888889,36.9277604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

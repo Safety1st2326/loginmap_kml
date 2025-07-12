@@ -883,5 +883,14 @@
       Address: 1791 El Pinal Drive, Stockton, San Joaquin, CA 95205]]></description>
         <Point><coordinates>-121.276635444444,37.9845052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11349-A</name>
+        <description><![CDATA[Date: 7/12/25 2:06 PM
+      Site Name: W Sullivan City
+      AGL: 116
+      Tower Type: Monopole
+      Address: 308 W. Hwy 83, Sullivan City, Hidalgo, TX 78595]]></description>
+        <Point><coordinates>-98.5661083333333,26.2792298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

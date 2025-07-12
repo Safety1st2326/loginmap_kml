@@ -1054,5 +1054,23 @@
       Address: 2655 69th Street, Winter Beach, Indian River, FL 32971]]></description>
         <Point><coordinates>-80.4102777777778,27.7183326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20529-A</name>
+        <description><![CDATA[Date: 7/12/25 3:42 PM
+      Site Name: Gardner Road
+      AGL: 131
+      Tower Type: Monopole
+      Address: 4100 Monsanto Drive, Sierra Vista, Cochise, AZ 85650]]></description>
+        <Point><coordinates>-110.254722222222,31.4998885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11162-A</name>
+        <description><![CDATA[Date: 7/12/25 3:45 PM
+      Site Name: La Joya
+      AGL: 90
+      Tower Type: Monopole
+      Address: 100 Ebony St, La Joya, Hidalgo, TX 78560]]></description>
+        <Point><coordinates>-98.4570888888889,26.2444774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

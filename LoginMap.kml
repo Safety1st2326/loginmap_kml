@@ -370,5 +370,41 @@
       Address: 107 Gossett Street, Scooba, Kemper, MS 39358]]></description>
         <Point><coordinates>-88.4624722222222,32.7694437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY02537-S</name>
+        <description><![CDATA[Date: 7/12/25 9:01 AM
+      Site Name: Rte 4 Whitehall
+      AGL: 250
+      Tower Type: Self Support
+      Address: Old SR 4, 1.5 mi South of Rt 22, Fort Ann, Washington, NY 12827]]></description>
+        <Point><coordinates>-73.4558222222222,43.4369413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15971-A</name>
+        <description><![CDATA[Date: 7/12/25 9:03 AM
+      Site Name: Bethel
+      AGL: 400
+      Tower Type: Guyed
+      Address: 206 Bethel Street, Roma, Starr, TX 78584]]></description>
+        <Point><coordinates>-99.0103145277778,26.4058543888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13621-A</name>
+        <description><![CDATA[Date: 7/12/25 9:06 AM
+      Site Name: Balm-Riverview
+      AGL: 200
+      Tower Type: Monopole
+      Address: 11507 Doneymoor Drive, Riverview, Hillsborough, FL 33569]]></description>
+        <Point><coordinates>-82.2828604444445,27.8300548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL18152-A</name>
+        <description><![CDATA[Date: 7/12/25 9:07 AM
+      Site Name: Downers Grove
+      AGL: 160
+      Tower Type: Guyed
+      Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
+        <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

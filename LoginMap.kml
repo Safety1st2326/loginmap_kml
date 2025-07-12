@@ -532,5 +532,14 @@
       Address: 18773 HIghway 45, Scooba, Kemper, MS 39358]]></description>
         <Point><coordinates>-88.4709132222222,32.8415524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22513-A</name>
+        <description><![CDATA[Date: 7/12/25 10:18 AM
+      Site Name: US-67 & I-280
+      AGL: 131
+      Tower Type: Monopole
+      Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
+        <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

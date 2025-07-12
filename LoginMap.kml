@@ -46,5 +46,23 @@
       Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
         <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH02256-S</name>
+        <description><![CDATA[Date: 7/12/25 6:43 AM
+      Site Name: Northwood Narrows
+      AGL: 120
+      Tower Type: Monopole
+      Address: 28 Olde Canterbury Road, Northwood, Rockingham, NH 03261-3716]]></description>
+        <Point><coordinates>-71.2397774444444,43.223416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28187-A</name>
+        <description><![CDATA[Date: 7/12/25 6:46 AM
+      Site Name: Paynes Corner
+      AGL: 180
+      Tower Type: Monopole
+      Address: 1449 Warrenton Road, Fredericksburg, Stafford, VA 22406]]></description>
+        <Point><coordinates>-77.5412413333333,38.3794826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

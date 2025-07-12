@@ -541,5 +541,32 @@
       Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
         <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL00653-B</name>
+        <description><![CDATA[Date: 7/12/25 10:22 AM
+      Site Name: Wetumpka South
+      AGL: 292
+      Tower Type: Self Support
+      Address: 2335 US Highway 231, Wetumpka, Elmore, AL 36093-1213]]></description>
+        <Point><coordinates>-86.2000388888889,32.4782465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08399-A</name>
+        <description><![CDATA[Date: 7/12/25 10:09 AM
+      Site Name: SE Brownsville
+      AGL: 131
+      Tower Type: Monopole
+      Address: 2865 Southmost Rd., Brownsville, Cameron, TX 78521-8146]]></description>
+        <Point><coordinates>-97.4649055555556,25.9082194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL00653-B</name>
+        <description><![CDATA[Date: 7/12/25 10:24 AM
+      Site Name: Wetumpka South
+      AGL: 292
+      Tower Type: Self Support
+      Address: 2335 US Highway 231, Wetumpka, Elmore, AL 36093-1213]]></description>
+        <Point><coordinates>-86.2000388888889,32.4782465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

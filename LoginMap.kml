@@ -1162,5 +1162,41 @@
       Address: 1300  Fort Avenue, Sierra Vista, Cochise, AZ 85635]]></description>
         <Point><coordinates>-110.305958333333,31.568541,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01298-A</name>
+        <description><![CDATA[Date: 7/12/25 5:12 PM
+      Site Name: AMC
+      AGL: 170
+      Tower Type: Self Support
+      Address: 8408 Temple Terrace Highway, Temple Terrace, Hillsborough, FL 33637-5808]]></description>
+        <Point><coordinates>-82.3599833333333,28.0343024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40616-T</name>
+        <description><![CDATA[Date: 7/12/25 5:15 PM
+      Site Name: SN094 Fair Oaks & Stanley
+      AGL: 60
+      Tower Type: Monopole
+      Address: 6818 Fair Oaks Blvd, Carmichael, Sacramento, CA 95608]]></description>
+        <Point><coordinates>-121.327599333333,38.6250354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21594-A</name>
+        <description><![CDATA[Date: 7/12/25 5:15 PM
+      Site Name: MACON-HWY 45
+      AGL: 300
+      Tower Type: Self Support
+      Address: 16461 Highway 14 East, Macon, Noxubee, MS 39341]]></description>
+        <Point><coordinates>-88.5434246666667,33.1045555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40616-T</name>
+        <description><![CDATA[Date: 7/12/25 5:15 PM
+      Site Name: SN094 Fair Oaks & Stanley
+      AGL: 64
+      Tower Type: Monopine
+      Address: 6818 Fair Oaks Blvd, Carmichael, Sacramento, CA 95608]]></description>
+        <Point><coordinates>-121.327527111111,38.6250354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

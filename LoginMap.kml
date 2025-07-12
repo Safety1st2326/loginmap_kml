@@ -1216,5 +1216,23 @@
       Address: 16461 Highway 14 East, Macon, Noxubee, MS 39341]]></description>
         <Point><coordinates>-88.5434246666667,33.1045555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/12/25 5:37 PM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/12/25 5:39 PM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

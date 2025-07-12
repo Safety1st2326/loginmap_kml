@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>NE09708-A</name>
+        <description><![CDATA[Date: 7/12/25 2:55 AM
+      Site Name: Tarnov
+      AGL: 339
+      Tower Type: Guyed
+      Address: 38044 - 280th Ave, Humphrey, Platte, NE 68642]]></description>
+        <Point><coordinates>-97.4829632222222,41.6087194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

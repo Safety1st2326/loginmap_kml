@@ -910,5 +910,14 @@
       Address: 11 School Terrace Road, Bisbee, Cochise, AZ 85603]]></description>
         <Point><coordinates>-109.895055222222,31.4158611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX15151-A</name>
+        <description><![CDATA[Date: 7/12/25 2:42 PM
+      Site Name: La Joya 2 TX
+      AGL: 480
+      Tower Type: Guyed
+      Address: 41600 US Highway 83, LaJoya, Hidalgo, TX 78560]]></description>
+        <Point><coordinates>-98.504225,26.2501055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

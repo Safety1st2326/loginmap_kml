@@ -1081,5 +1081,14 @@
       Address: 3616 E. Little Hill Ln., Sierra Vista, Cochise, AZ 85635]]></description>
         <Point><coordinates>-110.261347222222,31.5328132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS18394-A</name>
+        <description><![CDATA[Date: 7/12/25 4:15 PM
+      Site Name: Macon
+      AGL: 400
+      Tower Type: Guyed
+      Address: 1774 Hall Road, Macon, Noxubee, MS 39341]]></description>
+        <Point><coordinates>-88.5489302222222,33.1016111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -712,5 +712,41 @@
       Address: 1367 Wander Road, Isabella, Lake, MN 55607]]></description>
         <Point><coordinates>-91.6486057777778,47.6932299444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06399-A</name>
+        <description><![CDATA[Date: 7/12/25 12:04 PM
+      Site Name: Scooba 2 MS
+      AGL: 251
+      Tower Type: Self Support
+      Address: 912 Kemper Bell Rd, Scooba, Kemper, MS 39358]]></description>
+        <Point><coordinates>-88.4544166666667,32.8662222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/12/25 12:00 PM
+      Site Name: Bowling Green
+      AGL: 295
+      Tower Type: Guyed
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5220826666667,37.0045777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/12/25 12:00 PM
+      Site Name: Bowling Green
+      AGL: 35
+      Tower Type: Self Support
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5219187777778,37.0050555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/12/25 12:00 PM
+      Site Name: Bowling Green
+      AGL: 286
+      Tower Type: Guyed
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5222076666667,37.0050416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

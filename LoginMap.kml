@@ -433,5 +433,23 @@
       Address: 31 Castor Plunge Road, Woodworth, Rapides, LA 71485-9706]]></description>
         <Point><coordinates>-92.4997274444444,31.1470274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11064-A</name>
+        <description><![CDATA[Date: 7/12/25 9:30 AM
+      Site Name: Escobares
+      AGL: 121
+      Tower Type: Monopole
+      Address: 4917 E. US Hwy 83, Escobares, Starr, TX 78584]]></description>
+        <Point><coordinates>-98.9656083333333,26.4099916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11035-A</name>
+        <description><![CDATA[Date: 7/12/25 9:31 AM
+      Site Name: Dakota
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2835-B S. Dakota, Brownsville, Cameron, TX 78521]]></description>
+        <Point><coordinates>-97.4234437777778,25.8861107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

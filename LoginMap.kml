@@ -1117,5 +1117,23 @@
       Address: 1045 S. Lenzer Avenue, Sierra Vista, COCHISE, AZ 85635]]></description>
         <Point><coordinates>-110.288508,31.5436107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX18402-S</name>
+        <description><![CDATA[Date: 7/12/25 4:31 PM
+      Site Name: Sendera Ranch
+      AGL: 94
+      Tower Type: Monopole
+      Address: 151 Barnwood Drive, Fort  Worth, Denton, TX 76052]]></description>
+        <Point><coordinates>-97.3569861111111,32.9930802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11997-S</name>
+        <description><![CDATA[Date: 7/12/25 4:39 PM
+      Site Name: Old Boynton
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 3701 Old Boynton Road, Boynton Beach, Palm Beach, FL 33436-3909]]></description>
+        <Point><coordinates>-80.1037722222222,26.5323826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

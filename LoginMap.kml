@@ -820,5 +820,23 @@
       Address: 251 Old Millville Road, Wewahitchka, Gulf, FL 32465]]></description>
         <Point><coordinates>-85.1947052222222,29.9361968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11345-A</name>
+        <description><![CDATA[Date: 7/12/25 1:27 PM
+      Site Name: Villa Nueva
+      AGL: 115
+      Tower Type: Monopole
+      Address: 1585 - B Calle Espacio, Brownsville, Cameron, TX 78520]]></description>
+        <Point><coordinates>-97.543583,25.9355246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA04720-A</name>
+        <description><![CDATA[Date: 7/12/25 1:27 PM
+      Site Name: Hinesville
+      AGL: 220
+      Tower Type: Self Support
+      Address: 740 General Stewart Highway, Hinesville, Liberty, GA 31313-2634]]></description>
+        <Point><coordinates>-81.5790521111111,31.854475,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

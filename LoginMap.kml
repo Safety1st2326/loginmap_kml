@@ -64,5 +64,23 @@
       Address: 1449 Warrenton Road, Fredericksburg, Stafford, VA 22406]]></description>
         <Point><coordinates>-77.5412413333333,38.3794826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01314-A</name>
+        <description><![CDATA[Date: 7/12/25 6:54 AM
+      Site Name: Luten
+      AGL: 201
+      Tower Type: Self Support
+      Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
+        <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01314-A</name>
+        <description><![CDATA[Date: 7/12/25 6:55 AM
+      Site Name: Luten
+      AGL: 201
+      Tower Type: Self Support
+      Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
+        <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

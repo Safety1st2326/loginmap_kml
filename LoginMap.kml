@@ -19,5 +19,32 @@
       Address: 9912 Wimpole Lane, Tallahassee, Leon, FL 32305-1334]]></description>
         <Point><coordinates>-84.2583611111111,30.3203882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA09553-A</name>
+        <description><![CDATA[Date: 7/12/25 6:30 AM
+      Site Name: Deer Range
+      AGL: 304
+      Tower Type: Guyed
+      Address: 18940 Highway 23, Myrtle Grove, Plaquemines, LA 70764]]></description>
+        <Point><coordinates>-89.9122694444444,29.6141555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/12/25 6:36 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/12/25 6:39 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

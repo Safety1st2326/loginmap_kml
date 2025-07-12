@@ -190,5 +190,41 @@
       Address: 1379 Whites Chapel Rd, Glasgow, Barren, KY 42141]]></description>
         <Point><coordinates>-85.8463718888889,36.9277604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13940-A</name>
+        <description><![CDATA[Date: 7/12/25 8:03 AM
+      Site Name: Tyler Mountain
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
+        <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21669-A</name>
+        <description><![CDATA[Date: 7/12/25 8:03 AM
+      Site Name: East Ridge 2 TN
+      AGL: 159
+      Tower Type: Monopole
+      Address: 3330-A RINGGOLD ROAD, CHATTANOOGA, HAMILTON, TN 37412]]></description>
+        <Point><coordinates>-85.2626166666667,35.0063388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/12/25 8:06 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/12/25 8:09 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

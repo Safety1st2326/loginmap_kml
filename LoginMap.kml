@@ -100,5 +100,14 @@
       Address: 3803 West WI State Highway 70, Draper, Sawyer, WI 54896]]></description>
         <Point><coordinates>-90.868341,45.8821132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL21436-A</name>
+        <description><![CDATA[Date: 7/12/25 7:18 AM
+      Site Name: Nine Mile 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
+        <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

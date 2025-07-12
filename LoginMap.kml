@@ -784,5 +784,23 @@
       Address: 4455 Paredes Line Road, Brownsville, Cameron, TX 78526]]></description>
         <Point><coordinates>-97.4876413333333,25.9721271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46229-A</name>
+        <description><![CDATA[Date: 7/12/25 1:03 PM
+      Site Name: East Wimauma
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8801 State Road 674, Lithia, Hillsborough, FL 33547]]></description>
+        <Point><coordinates>-82.2384774444444,27.703275,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/12/25 1:03 PM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

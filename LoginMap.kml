@@ -514,5 +514,23 @@
       Address: 12001 Hwy 465, Leesville, Vernon, LA 71446]]></description>
         <Point><coordinates>-92.8713326666667,31.2225826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11050-A</name>
+        <description><![CDATA[Date: 7/12/25 10:00 AM
+      Site Name: DT Rio Grande City
+      AGL: 81
+      Tower Type: Monopole
+      Address: 700 West Bluebonnet St., Rio Grande City, Starr, TX 78582]]></description>
+        <Point><coordinates>-98.826416,26.3770548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21593-A</name>
+        <description><![CDATA[Date: 7/12/25 10:06 AM
+      Site Name: Scooba 3 MS
+      AGL: 300
+      Tower Type: Self Support
+      Address: 18773 HIghway 45, Scooba, Kemper, MS 39358]]></description>
+        <Point><coordinates>-88.4709132222222,32.8415524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

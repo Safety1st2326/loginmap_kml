@@ -406,5 +406,32 @@
       Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
         <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20525-A</name>
+        <description><![CDATA[Date: 7/12/25 9:12 AM
+      Site Name: Smith Ranch
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1106 South Smith Ranch Road, Benson, Cochise, AZ 85602]]></description>
+        <Point><coordinates>-110.398666333333,31.9605277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20203-A</name>
+        <description><![CDATA[Date: 7/12/25 9:15 AM
+      Site Name: Swanville MN Tower
+      AGL: 341
+      Tower Type: Guyed
+      Address: 24033 CR 10, Swanville, Todd, MN 56382]]></description>
+        <Point><coordinates>-94.6514444444445,45.9786937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05876-A</name>
+        <description><![CDATA[Date: 7/12/25 9:18 AM
+      Site Name: Woodworth
+      AGL: 190
+      Tower Type: Self Support
+      Address: 31 Castor Plunge Road, Woodworth, Rapides, LA 71485-9706]]></description>
+        <Point><coordinates>-92.4997274444444,31.1470274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

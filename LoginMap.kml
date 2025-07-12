@@ -253,5 +253,14 @@
       Address: 1002 East US Hwy 24, Independence, Jackson, MO 64050]]></description>
         <Point><coordinates>-94.4004833333333,39.1043555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI22408-A</name>
+        <description><![CDATA[Date: 7/12/25 8:34 AM
+      Site Name: Shiocton
+      AGL: 151
+      Tower Type: Monopole
+      Address: W7844 West St., Shiocton, Outagamie, WI 54170]]></description>
+        <Point><coordinates>-88.5834663333333,44.4391496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

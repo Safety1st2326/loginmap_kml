@@ -865,5 +865,23 @@
       Address: 6394 E US Hwy 83, Rio Grande City, Starr, TX 78582]]></description>
         <Point><coordinates>-98.7023194444444,26.3311187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA13609-A</name>
+        <description><![CDATA[Date: 7/12/25 1:52 PM
+      Site Name: Waterloo-Harding
+      AGL: 105
+      Tower Type: Monopole
+      Address: 1791 El Pinal Drive, Stockton, San Joaquin, CA 95205]]></description>
+        <Point><coordinates>-121.276635444444,37.9845052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA13609-A</name>
+        <description><![CDATA[Date: 7/12/25 1:52 PM
+      Site Name: Waterloo-Harding
+      AGL: 105
+      Tower Type: Monopole
+      Address: 1791 El Pinal Drive, Stockton, San Joaquin, CA 95205]]></description>
+        <Point><coordinates>-121.276635444444,37.9845052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

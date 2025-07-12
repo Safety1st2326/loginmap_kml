@@ -919,5 +919,50 @@
       Address: 41600 US Highway 83, LaJoya, Hidalgo, TX 78560]]></description>
         <Point><coordinates>-98.504225,26.2501055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11271-A</name>
+        <description><![CDATA[Date: 7/12/25 2:40 PM
+      Site Name: Reseca
+      AGL: 151
+      Tower Type: Self Support
+      Address: 9580 N Military Hwy US 281, Brownsville, Cameron, TX 78520]]></description>
+        <Point><coordinates>-97.6034138888889,26.0081277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA17336-A</name>
+        <description><![CDATA[Date: 7/12/25 2:40 PM
+      Site Name: Kimberly Way
+      AGL: 38
+      Tower Type: Monopole
+      Address: 1524 Kimberly Way, Campo, San Diego, CA 91906]]></description>
+        <Point><coordinates>-116.424638222222,32.6344163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA17336-A</name>
+        <description><![CDATA[Date: 7/12/25 2:40 PM
+      Site Name: Kimberly Way
+      AGL: 38
+      Tower Type: Monopole
+      Address: 1524 Kimberly Way, Campo, San Diego, CA 91906]]></description>
+        <Point><coordinates>-116.424693777778,32.6342774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS47114-A</name>
+        <description><![CDATA[Date: 7/12/25 2:57 PM
+      Site Name: Courthouse Rd
+      AGL: 135
+      Tower Type: Monopole
+      Address: 538 Courthouse Road, Gulfport, Harrison, MS 39507]]></description>
+        <Point><coordinates>-89.0433191111111,30.3905802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/12/25 2:57 PM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

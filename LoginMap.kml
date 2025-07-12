@@ -622,5 +622,41 @@
       Address: 961 W. Eisenhower, Rio Grande City, Starr, TX 78582]]></description>
         <Point><coordinates>-98.8251187777778,26.3922496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR21837-A</name>
+        <description><![CDATA[Date: 7/12/25 11:21 AM
+      Site Name: 48th Street Tower
+      AGL: 190
+      Tower Type: Monopole
+      Address: 4522 W. SUNSET Ave., SPRINGDALE, WASHINGTON, AR 72762]]></description>
+        <Point><coordinates>-94.1806937777778,36.1775529444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/12/25 11:21 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ17744-B</name>
+        <description><![CDATA[Date: 7/12/25 11:27 AM
+      Site Name: Barataria
+      AGL: 150
+      Tower Type: Self Support
+      Address: South Moson Road & E. Ford Rule Road, Sierra Vista, Cochise, AZ 85650]]></description>
+        <Point><coordinates>-110.188846888889,31.4859246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41571-T</name>
+        <description><![CDATA[Date: 7/12/25 11:27 AM
+      Site Name: Righter Plumbing
+      AGL: 95
+      Tower Type: Monopole
+      Address: 1691 E. Hudson, Columbus, Franklin, OH 43219]]></description>
+        <Point><coordinates>-82.9642777777778,40.0131666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

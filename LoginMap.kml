@@ -10,5 +10,14 @@
       Address: 38044 - 280th Ave, Humphrey, Platte, NE 68642]]></description>
         <Point><coordinates>-97.4829632222222,41.6087194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL04888-S</name>
+        <description><![CDATA[Date: 7/12/25 6:27 AM
+      Site Name: Woodville 3 FL
+      AGL: 250
+      Tower Type: Monopole
+      Address: 9912 Wimpole Lane, Tallahassee, Leon, FL 32305-1334]]></description>
+        <Point><coordinates>-84.2583611111111,30.3203882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

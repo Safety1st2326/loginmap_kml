@@ -262,5 +262,77 @@
       Address: W7844 West St., Shiocton, Outagamie, WI 54170]]></description>
         <Point><coordinates>-88.5834663333333,44.4391496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH03164-B</name>
+        <description><![CDATA[Date: 7/12/25 8:40 AM
+      Site Name: Stewart South
+      AGL: 199
+      Tower Type: Self Support
+      Address: 4800 Golden Rod Lane, Guysville, Athens, OH 45735]]></description>
+        <Point><coordinates>-81.9137194444445,39.2596583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41868-T</name>
+        <description><![CDATA[Date: 7/12/25 8:42 AM
+      Site Name: Schmidt 2 TX
+      AGL: 100
+      Tower Type: Monopole
+      Address: 13208-1/2  Dessau Road, Austin, Travis, TX 78754]]></description>
+        <Point><coordinates>-97.6402357777778,30.4014833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13285-A</name>
+        <description><![CDATA[Date: 7/12/25 8:42 AM
+      Site Name: South Marshall
+      AGL: 305
+      Tower Type: Guyed
+      Address: County Road 316, Marshall, Saline, MO 65340]]></description>
+        <Point><coordinates>-93.2073111111111,39.0193882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 7/12/25 8:43 AM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/12/25 8:43 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS12833-A</name>
+        <description><![CDATA[Date: 7/12/25 8:45 AM
+      Site Name: Washington 5 KS
+      AGL: 280
+      Tower Type: Self Support
+      Address: 314 West 17th, Washington, Washington, KS 66968]]></description>
+        <Point><coordinates>-97.0582277777778,39.8125833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11100-A</name>
+        <description><![CDATA[Date: 7/12/25 8:45 AM
+      Site Name: Gravel Switch
+      AGL: 254
+      Tower Type: Self Support
+      Address: 9076 Perryville Road, Springfield, Washington, KY 40069]]></description>
+        <Point><coordinates>-85.0778832222222,37.650875,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41644-T</name>
+        <description><![CDATA[Date: 7/12/25 8:45 AM
+      Site Name: Renfrow
+      AGL: 340
+      Tower Type: Guyed
+      Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
+        <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -658,5 +658,32 @@
       Address: 1691 E. Hudson, Columbus, Franklin, OH 43219]]></description>
         <Point><coordinates>-82.9642777777778,40.0131666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL21472-A</name>
+        <description><![CDATA[Date: 7/12/25 11:33 AM
+      Site Name: Priceville - I-65 Exit 334
+      AGL: 302
+      Tower Type: Self Support
+      Address: 4010 Mountain Valley Road, Decatur, Morgan, AL 35603]]></description>
+        <Point><coordinates>-86.9103166666667,34.5301993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05067-A</name>
+        <description><![CDATA[Date: 7/12/25 11:36 AM
+      Site Name: Foster Properties
+      AGL: 180
+      Tower Type: Monopole
+      Address: 402 East Shamrock Avenue, Pineville, RAPIDES, LA 71360-6558]]></description>
+        <Point><coordinates>-92.4313076666667,31.3191493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08396-A</name>
+        <description><![CDATA[Date: 7/12/25 11:36 AM
+      Site Name: NE Brownsville
+      AGL: 120
+      Tower Type: Monopole
+      Address: 5467 E. 14th Street, Brownsville, Cameron, TX 78521]]></description>
+        <Point><coordinates>-97.4542388888889,25.9286576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

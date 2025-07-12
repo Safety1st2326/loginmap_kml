@@ -892,5 +892,14 @@
       Address: 308 W. Hwy 83, Sullivan City, Hidalgo, TX 78595]]></description>
         <Point><coordinates>-98.5661083333333,26.2792298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS07660-A</name>
+        <description><![CDATA[Date: 7/12/25 2:12 PM
+      Site Name: Shuqualak
+      AGL: 251
+      Tower Type: Guyed
+      Address: 4082 Running Water Road, Shuqualak, Noxubee, MS 39361]]></description>
+        <Point><coordinates>-88.5726104444444,32.9887496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

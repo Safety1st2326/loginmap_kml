@@ -856,5 +856,14 @@
       Address: 526 1st Street, Vero Beach, Indian River, FL 32962-3629]]></description>
         <Point><coordinates>-80.3841746666667,27.6039944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11091-A</name>
+        <description><![CDATA[Date: 7/12/25 1:45 PM
+      Site Name: Garciasville
+      AGL: 122
+      Tower Type: Monopole
+      Address: 6394 E US Hwy 83, Rio Grande City, Starr, TX 78582]]></description>
+        <Point><coordinates>-98.7023194444444,26.3311187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

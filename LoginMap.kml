@@ -226,5 +226,32 @@
       Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
         <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO14430-A</name>
+        <description><![CDATA[Date: 7/12/25 8:10 AM
+      Site Name: Farmington SE
+      AGL: 231
+      Tower Type: Self Support
+      Address: 3381 OO Hwy, Farmington, St. Francois, MO 63640]]></description>
+        <Point><coordinates>-90.3917968888889,37.7653527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME16499-A</name>
+        <description><![CDATA[Date: 7/12/25 8:16 AM
+      Site Name: Dixmont
+      AGL: 201
+      Tower Type: Self Support
+      Address: 123 Peaked Mountain Rd., Dixmont, Penobscot, ME 04932]]></description>
+        <Point><coordinates>-69.0794715555556,44.7022972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO12816-A</name>
+        <description><![CDATA[Date: 7/12/25 8:18 AM
+      Site Name: KC Independence
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1002 East US Hwy 24, Independence, Jackson, MO 64050]]></description>
+        <Point><coordinates>-94.4004833333333,39.1043555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

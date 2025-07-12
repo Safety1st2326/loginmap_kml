@@ -577,5 +577,23 @@
       Address: 2485 Oak Street, Lanark Village, Franklin, FL 32323]]></description>
         <Point><coordinates>-84.5902718888889,29.8906107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/12/25 10:49 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48121-A</name>
+        <description><![CDATA[Date: 7/12/25 10:49 AM
+      Site Name: Craddock
+      AGL: 151
+      Tower Type: Monopole
+      Address: 1933 Victory Blvd, PORTSMOUTH, Portsmouth City, VA 23701]]></description>
+        <Point><coordinates>-76.3238215555556,36.7939552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

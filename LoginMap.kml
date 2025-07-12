@@ -595,5 +595,32 @@
       Address: 1933 Victory Blvd, PORTSMOUTH, Portsmouth City, VA 23701]]></description>
         <Point><coordinates>-76.3238215555556,36.7939552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45069-A</name>
+        <description><![CDATA[Date: 7/12/25 10:45 AM
+      Site Name: Sierra Vista
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4253 Enterprise Way, Sierra Vista, Cochise, AZ 85635]]></description>
+        <Point><coordinates>-110.254611111111,31.5684437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45323-A</name>
+        <description><![CDATA[Date: 7/12/25 10:39 AM
+      Site Name: Imperial
+      AGL: 100
+      Tower Type: Monopole
+      Address: 600 South L Street , Imperial, Imperial, CA 92251]]></description>
+        <Point><coordinates>-115.565122222222,32.8427302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15972-A</name>
+        <description><![CDATA[Date: 7/12/25 10:40 AM
+      Site Name: Rio Grande 2 TX
+      AGL: 480
+      Tower Type: Guyed
+      Address: 961 W. Eisenhower, Rio Grande City, Starr, TX 78582]]></description>
+        <Point><coordinates>-98.8251187777778,26.3922496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

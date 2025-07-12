@@ -1072,5 +1072,14 @@
       Address: 100 Ebony St, La Joya, Hidalgo, TX 78560]]></description>
         <Point><coordinates>-98.4570888888889,26.2444774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ40518-A</name>
+        <description><![CDATA[Date: 7/12/25 4:03 PM
+      Site Name: Ball Fore Driving Range
+      AGL: 56
+      Tower Type: Stealth
+      Address: 3616 E. Little Hill Ln., Sierra Vista, Cochise, AZ 85635]]></description>
+        <Point><coordinates>-110.261347222222,31.5328132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

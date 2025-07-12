@@ -109,5 +109,32 @@
       Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
         <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12212-A</name>
+        <description><![CDATA[Date: 7/12/25 7:21 AM
+      Site Name: Harwich Port
+      AGL: 152
+      Tower Type: Stealth
+      Address: 61 Forest Street, Harwich Port, Barnstable, MA 02646]]></description>
+        <Point><coordinates>-70.0768326666667,41.673816,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA12212-A</name>
+        <description><![CDATA[Date: 7/12/25 7:25 AM
+      Site Name: Harwich Port
+      AGL: 152
+      Tower Type: Stealth
+      Address: 61 Forest Street, Harwich Port, Barnstable, MA 02646]]></description>
+        <Point><coordinates>-70.0768326666667,41.673816,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22527-A</name>
+        <description><![CDATA[Date: 7/12/25 7:28 AM
+      Site Name: Pecatonica
+      AGL: 195
+      Tower Type: Self Support
+      Address: 100 Taylor Street, Pecatonica, Winnebago, IL 61063]]></description>
+        <Point><coordinates>-89.35615,42.3147972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

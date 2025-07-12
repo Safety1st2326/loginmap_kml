@@ -451,5 +451,41 @@
       Address: 2835-B S. Dakota, Brownsville, Cameron, TX 78521]]></description>
         <Point><coordinates>-97.4234437777778,25.8861107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/12/25 9:40 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13561-B</name>
+        <description><![CDATA[Date: 7/12/25 9:40 AM
+      Site Name: Cazenovia
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4685 Michigan Road, Cazenovia, Madison, NY 13057]]></description>
+        <Point><coordinates>-75.833633,42.9526277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11471-B</name>
+        <description><![CDATA[Date: 7/12/25 9:40 AM
+      Site Name: Perry Parkway
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1901 Highway 127, Perry, Houston, GA 31069]]></description>
+        <Point><coordinates>-83.7023611111111,32.4777493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA42023-A</name>
+        <description><![CDATA[Date: 7/12/25 9:43 AM
+      Site Name: MASSAPONAX-SILVER COMPANIES
+      AGL: 171
+      Tower Type: Monopole
+      Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
+        <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

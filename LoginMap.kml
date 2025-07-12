@@ -775,5 +775,14 @@
       Address: 100 La Sagunada Ranch Road, Rio Grande City, Starr, TX 78582]]></description>
         <Point><coordinates>-98.7432302222222,26.476541,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47906-A</name>
+        <description><![CDATA[Date: 7/12/25 12:34 PM
+      Site Name: Rio Storage
+      AGL: 89
+      Tower Type: Flagpole
+      Address: 4455 Paredes Line Road, Brownsville, Cameron, TX 78526]]></description>
+        <Point><coordinates>-97.4876413333333,25.9721271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

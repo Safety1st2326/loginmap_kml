@@ -136,5 +136,23 @@
       Address: 100 Taylor Street, Pecatonica, Winnebago, IL 61063]]></description>
         <Point><coordinates>-89.35615,42.3147972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01816-B</name>
+        <description><![CDATA[Date: 7/12/25 7:33 AM
+      Site Name: Hwy 99 West
+      AGL: 250
+      Tower Type: Guyed
+      Address: 2266 Tindell Lane, Columbia, Maury, TN 38401-7133]]></description>
+        <Point><coordinates>-87.1384996666667,35.6181937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ17734-B</name>
+        <description><![CDATA[Date: 7/12/25 7:33 AM
+      Site Name: Stafford
+      AGL: 71
+      Tower Type: Monopine
+      Address: 2013 S. 8th Avenue, Safford, Graham, AZ 85546]]></description>
+        <Point><coordinates>-109.714544166667,32.8158466666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

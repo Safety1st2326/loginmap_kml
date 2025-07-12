@@ -1252,5 +1252,14 @@
       Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
         <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11784-A</name>
+        <description><![CDATA[Date: 7/12/25 6:21 PM
+      Site Name: La Homa - Mission
+      AGL: 195
+      Tower Type: Self Support
+      Address: 5522 Schuerbach Road, Mission, Hidalgo, TX 78572]]></description>
+        <Point><coordinates>-98.3471691111111,26.2813493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

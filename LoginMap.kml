@@ -1198,5 +1198,23 @@
       Address: 6818 Fair Oaks Blvd, Carmichael, Sacramento, CA 95608]]></description>
         <Point><coordinates>-121.327527111111,38.6250354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11135-A</name>
+        <description><![CDATA[Date: 7/12/25 5:21 PM
+      Site Name: Inspiration
+      AGL: 121
+      Tower Type: Monopole
+      Address: 8031 N.Moorefield Rd, Mission, Hidalgo, TX 78573]]></description>
+        <Point><coordinates>-98.3396913333333,26.3169743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21594-A</name>
+        <description><![CDATA[Date: 7/12/25 5:24 PM
+      Site Name: MACON-HWY 45
+      AGL: 300
+      Tower Type: Self Support
+      Address: 16461 Highway 14 East, Macon, Noxubee, MS 39341]]></description>
+        <Point><coordinates>-88.5434246666667,33.1045555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

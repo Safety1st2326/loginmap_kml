@@ -1261,5 +1261,32 @@
       Address: 5522 Schuerbach Road, Mission, Hidalgo, TX 78572]]></description>
         <Point><coordinates>-98.3471691111111,26.2813493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22570-S</name>
+        <description><![CDATA[Date: 7/12/25 6:36 PM
+      Site Name: Bravo AZ
+      AGL: 99
+      Tower Type: Monopole
+      Address: Bravo Lane, West of Old Tucson Highway, Nogales, Santa Cruz, AZ 85621]]></description>
+        <Point><coordinates>-110.957913888889,31.4065138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV11650-B</name>
+        <description><![CDATA[Date: 7/12/25 6:36 PM
+      Site Name: Hinton 2 WV
+      AGL: 300
+      Tower Type: Self Support
+      Address: 375 Bennett Lane, Hinton, Summers, WV 25951]]></description>
+        <Point><coordinates>-80.9005527777778,37.6515194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41611-T</name>
+        <description><![CDATA[Date: 7/12/25 6:36 PM
+      Site Name: Hoover 2 OK
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2205 South Maplewood Ave., Tulsa, Tulsa, OK 74114]]></description>
+        <Point><coordinates>-95.9065305555556,36.1305437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

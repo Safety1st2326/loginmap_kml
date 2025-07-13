@@ -487,5 +487,32 @@
       Address: 6590 65th Street, Vero, Indian River, FL 32967]]></description>
         <Point><coordinates>-80.4615638888889,27.71265,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV14538-B</name>
+        <description><![CDATA[Date: 7/13/25 11:21 AM
+      Site Name: Haywood WV
+      AGL: 250
+      Tower Type: Self Support
+      Address: 319 Cerullo Road, Haywood, Harrison, WV 26366]]></description>
+        <Point><coordinates>-80.3259243333333,39.3814521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47909-A</name>
+        <description><![CDATA[Date: 7/13/25 11:24 AM
+      Site Name: Saenz
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1115 N. McColl , Edinburg, HIDALGO, TX 78540]]></description>
+        <Point><coordinates>-98.1933302222222,26.3170632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47866-A</name>
+        <description><![CDATA[Date: 7/13/25 11:28 AM
+      Site Name: Desoto Town Center
+      AGL: 98
+      Tower Type: Monopole
+      Address: 211 E Pleasant Run , DeSoto, Dallas, TX 75115]]></description>
+        <Point><coordinates>-96.8541666666667,32.6061833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

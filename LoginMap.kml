@@ -667,5 +667,23 @@
       Address: 460 E. Drexel Road, Tucson, Pima, AZ 85706]]></description>
         <Point><coordinates>-110.961294444444,32.1482302222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/13/25 12:42 PM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17855-A</name>
+        <description><![CDATA[Date: 7/13/25 12:48 PM
+      Site Name: Mercedes TX
+      AGL: 195
+      Tower Type: Self Support
+      Address: 1601 S. Maryland Ave, Mercedes, Hidalgo, TX 78570]]></description>
+        <Point><coordinates>-97.9247715555556,26.1359885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

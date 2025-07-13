@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>MI46867-A</name>
+        <description><![CDATA[Date: 7/12/25 11:57 PM
+      Site Name: Marne
+      AGL: 150
+      Tower Type: Monopole
+      Address: 15411 32nd Ave, Coopersville, Ottawa, MI 49404]]></description>
+        <Point><coordinates>-85.8722486666667,43.0505,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

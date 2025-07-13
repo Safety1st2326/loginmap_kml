@@ -892,5 +892,14 @@
       Address: 5820 Magnolia Beach Road, Panama City, Bay, FL 32408]]></description>
         <Point><coordinates>-85.7486663333333,30.1592222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21024-S</name>
+        <description><![CDATA[Date: 7/13/25 3:45 PM
+      Site Name: Edinburg
+      AGL: 152
+      Tower Type: Monopole
+      Address: 1392 E. Flagg Drive, Edinburg, Hidalgo, TX 78539]]></description>
+        <Point><coordinates>-98.1370737777778,26.36125425,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -694,5 +694,23 @@
       Address: 204 Kelly Hill Road, Warner, Merrimack, NH 03278]]></description>
         <Point><coordinates>-71.7947218888889,43.2673882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17205-A</name>
+        <description><![CDATA[Date: 7/13/25 1:21 PM
+      Site Name: Weslaco East
+      AGL: 150
+      Tower Type: Self Support
+      Address: 13760 Mile 1 1/2 West, Mercedes, Hidalgo, TX 78570]]></description>
+        <Point><coordinates>-97.9343746666667,26.2258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ14003-S</name>
+        <description><![CDATA[Date: 7/13/25 1:24 PM
+      Site Name: Tucson Airport UPRR
+      AGL: 151
+      Tower Type: Self Support
+      Address: 751 E. Hermans Road, Tucson, Pima, AZ 85756]]></description>
+        <Point><coordinates>-110.959426388889,32.1057911111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

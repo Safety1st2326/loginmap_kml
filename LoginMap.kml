@@ -685,5 +685,14 @@
       Address: 1601 S. Maryland Ave, Mercedes, Hidalgo, TX 78570]]></description>
         <Point><coordinates>-97.9247715555556,26.1359885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH08678-B</name>
+        <description><![CDATA[Date: 7/13/25 1:03 PM
+      Site Name: Warner South (Kelly Hill)
+      AGL: 109
+      Tower Type: Stealth
+      Address: 204 Kelly Hill Road, Warner, Merrimack, NH 03278]]></description>
+        <Point><coordinates>-71.7947218888889,43.2673882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

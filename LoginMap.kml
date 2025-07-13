@@ -1333,5 +1333,14 @@
       Address: 8101 Sunset Ave, Fair Oaks, Sacramento, CA 95628]]></description>
         <Point><coordinates>-121.263736111111,38.6534833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22016-A</name>
+        <description><![CDATA[Date: 7/12/25 7:54 PM
+      Site Name: Longhorn
+      AGL: 100
+      Tower Type: Water Tower
+      Address: 28851 South Nogales Highway, Amado, Pima, AZ 85645]]></description>
+        <Point><coordinates>-111.059445055556,31.7277890833333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -883,5 +883,14 @@
       Address: 10743 Rutledge Pike, Blaine, Knox, TN 37709-9002]]></description>
         <Point><coordinates>-83.7206854444444,36.1300965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13078-A</name>
+        <description><![CDATA[Date: 7/13/25 3:36 PM
+      Site Name: Thomas Drive
+      AGL: 199
+      Tower Type: Monopole
+      Address: 5820 Magnolia Beach Road, Panama City, Bay, FL 32408]]></description>
+        <Point><coordinates>-85.7486663333333,30.1592222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

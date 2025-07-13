@@ -136,5 +136,23 @@
       Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
         <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH02254-S</name>
+        <description><![CDATA[Date: 7/13/25 8:31 AM
+      Site Name: Epsom East
+      AGL: 190
+      Tower Type: Monopole
+      Address: 78 White Birch Lane, Epsom, Merrimack, NH 03234-4643]]></description>
+        <Point><coordinates>-71.3086388888889,43.231166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45932-A</name>
+        <description><![CDATA[Date: 7/13/25 8:36 AM
+      Site Name: Woodward
+      AGL: 61
+      Tower Type: Tree
+      Address: 56327 Breezy Lane, Yucca Valley, San Bernardino, CA 92286]]></description>
+        <Point><coordinates>-116.435416333333,34.1987496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

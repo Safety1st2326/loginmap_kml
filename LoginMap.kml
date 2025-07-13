@@ -37,5 +37,14 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/13/25 7:45 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

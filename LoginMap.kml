@@ -838,5 +838,14 @@
       Address: 3600 East 36th Street, Tucson, Pima, AZ 85713]]></description>
         <Point><coordinates>-110.914205944444,32.1878331388889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT15084-S</name>
+        <description><![CDATA[Date: 7/13/25 2:57 PM
+      Site Name: Weathersfield VT
+      AGL: 130
+      Tower Type: Monopine
+      Address: 5122 Route 5, Weathersfield, Windsor/Weathersfield, VT 05156]]></description>
+        <Point><coordinates>-72.4072472222222,43.4041027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -379,5 +379,14 @@
       Address: 1514 S BUSINESS 77, Harlingen, Cameron, TX 78550]]></description>
         <Point><coordinates>-97.6791076666667,26.1748826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47867-A</name>
+        <description><![CDATA[Date: 7/13/25 10:12 AM
+      Site Name: Thornton Frwy
+      AGL: 79
+      Tower Type: Monopole
+      Address: 6111 RL Thornton Frwy, Dallas, Dallas, TX 75232]]></description>
+        <Point><coordinates>-96.8233326666667,32.6730271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

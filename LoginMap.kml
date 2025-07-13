@@ -559,5 +559,14 @@
       Address: 9023 Mariners Dr, Stockton, San Joaquin, CA 95219]]></description>
         <Point><coordinates>-121.365127777778,38.0321382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47942-A</name>
+        <description><![CDATA[Date: 7/13/25 11:51 AM
+      Site Name: Oak Leaf
+      AGL: 252
+      Tower Type: Self Support
+      Address: 315 Baldwin Street, Red Oak, Ellis, TX 75154]]></description>
+        <Point><coordinates>-96.8277993333333,32.524616,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

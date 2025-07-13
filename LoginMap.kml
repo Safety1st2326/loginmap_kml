@@ -739,5 +739,14 @@
       Address: 1329 Hall Acres Rd, Alamo, Hidalgo, TX 78516]]></description>
         <Point><coordinates>-98.1358663333333,26.1565111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11078-A</name>
+        <description><![CDATA[Date: 7/13/25 1:54 PM
+      Site Name: FM 1015
+      AGL: 180
+      Tower Type: Self Support
+      Address: 3255 Mile 12N, Mercedes, Hidalgo, TX 78570]]></description>
+        <Point><coordinates>-97.9609416666667,26.2302076666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

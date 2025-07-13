@@ -316,5 +316,50 @@
       Address: 801 N Expressway 77 Unit 02, Harlingen, Cameron, TX 78552]]></description>
         <Point><coordinates>-97.7231604444444,26.2003833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX14034-A</name>
+        <description><![CDATA[Date: 7/13/25 9:52 AM
+      Site Name: LBJ Forest
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9400 LBJ Freeway, Dallas, Dallas, TX 75243]]></description>
+        <Point><coordinates>-96.7325465555556,32.9115305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/13/25 9:54 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 75
+      Tower Type: Slimline Monopole
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332235444444,38.0325687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/13/25 9:54 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 70
+      Tower Type: Monopine
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/13/25 9:57 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 75
+      Tower Type: Slimline Monopole
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332235444444,38.0325687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/13/25 9:57 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 70
+      Tower Type: Monopine
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

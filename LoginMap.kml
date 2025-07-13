@@ -874,5 +874,14 @@
       Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
         <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN00665-B</name>
+        <description><![CDATA[Date: 7/13/25 3:27 PM
+      Site Name: 11W-2
+      AGL: 275
+      Tower Type: Self Support
+      Address: 10743 Rutledge Pike, Blaine, Knox, TN 37709-9002]]></description>
+        <Point><coordinates>-83.7206854444444,36.1300965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

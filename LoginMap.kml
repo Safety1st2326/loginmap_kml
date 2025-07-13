@@ -784,5 +784,14 @@
       Address: 1 Rockland Cemetery Rd, Foster, Providence/Foster, RI 02825]]></description>
         <Point><coordinates>-71.6796715555556,41.7859718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45086-A</name>
+        <description><![CDATA[Date: 7/13/25 2:28 PM
+      Site Name: Air And Space
+      AGL: 80
+      Tower Type: Monopole
+      Address: 5949 South Belvedere Ave, Tucson, Pima, AZ 85706]]></description>
+        <Point><coordinates>-110.894329944444,32.1441874444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

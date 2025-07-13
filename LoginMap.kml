@@ -388,5 +388,23 @@
       Address: 6111 RL Thornton Frwy, Dallas, Dallas, TX 75232]]></description>
         <Point><coordinates>-96.8233326666667,32.6730271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT11326-A</name>
+        <description><![CDATA[Date: 7/13/25 10:24 AM
+      Site Name: Taftsville
+      AGL: 101
+      Tower Type: Monopole
+      Address: 1774 Hillside Road, Hartford, Windsor, VT 05091]]></description>
+        <Point><coordinates>-72.4578416666667,43.6415496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND15827-B</name>
+        <description><![CDATA[Date: 7/13/25 10:27 AM
+      Site Name: Grand Forks 3 ND
+      AGL: 150
+      Tower Type: Monopole
+      Address: 200 N. 69th Street, Grand Forks, Grand Forks, ND 58203]]></description>
+        <Point><coordinates>-97.1298776666667,47.9193098888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

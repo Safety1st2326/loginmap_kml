@@ -19,5 +19,14 @@
       Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
         <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY11100-A</name>
+        <description><![CDATA[Date: 7/13/25 6:30 AM
+      Site Name: Gravel Switch
+      AGL: 254
+      Tower Type: Self Support
+      Address: 9076 Perryville Road, Springfield, Washington, KY 40069]]></description>
+        <Point><coordinates>-85.0778832222222,37.650875,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

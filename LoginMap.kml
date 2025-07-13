@@ -901,5 +901,14 @@
       Address: 1392 E. Flagg Drive, Edinburg, Hidalgo, TX 78539]]></description>
         <Point><coordinates>-98.1370737777778,26.36125425,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT07455-A</name>
+        <description><![CDATA[Date: 7/13/25 4:03 PM
+      Site Name: RTE 143 Skitchewaug MTN
+      AGL: 91
+      Tower Type: Self Support
+      Address: 1253 Skitchewaug Trail, Springfield, Windsor/Springfield, VT 05156]]></description>
+        <Point><coordinates>-72.41625,43.3083611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

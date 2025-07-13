@@ -460,5 +460,14 @@
       Address: 508 Southern Avenue, Moorhead, Sunflower, MS 38761]]></description>
         <Point><coordinates>-90.5023333333333,33.4488885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47910-A</name>
+        <description><![CDATA[Date: 7/13/25 10:57 AM
+      Site Name: Cannon
+      AGL: 119
+      Tower Type: Monopole
+      Address: 34329 Cannon Road, San Benito, Cameron, TX 78586]]></description>
+        <Point><coordinates>-97.7848885555556,26.0618055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

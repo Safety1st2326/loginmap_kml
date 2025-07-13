@@ -1342,5 +1342,14 @@
       Address: 28851 South Nogales Highway, Amado, Pima, AZ 85645]]></description>
         <Point><coordinates>-111.059445055556,31.7277890833333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ17726-B</name>
+        <description><![CDATA[Date: 7/12/25 8:06 PM
+      Site Name: Amulet
+      AGL: 53
+      Tower Type: Mono-Eucalyptus
+      Address: 4201 S. Camino del Sol, Green Valley, Pima, AZ 85622]]></description>
+        <Point><coordinates>-111.021003222222,31.8098866666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

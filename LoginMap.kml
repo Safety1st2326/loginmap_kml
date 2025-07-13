@@ -226,5 +226,59 @@
       Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
         <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40709-T</name>
+        <description><![CDATA[Date: 7/13/25 9:21 AM
+      Site Name: SR585 Christian Science
+      AGL: 74
+      Tower Type: Monopole
+      Address: 2062 W. Swain Rd, Stockton, San Joaquin, CA 95207]]></description>
+        <Point><coordinates>-121.336166333333,37.9996941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23530-A</name>
+        <description><![CDATA[Date: 7/13/25 9:10 AM
+      Site Name: Broadneck HS
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1265 Green Holly Drive, Annapolis, Anne Arundel, MD 21409]]></description>
+        <Point><coordinates>-76.4506361111111,39.0404302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/13/25 9:10 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13618-A</name>
+        <description><![CDATA[Date: 7/13/25 9:10 AM
+      Site Name: Arcadia 4 FL
+      AGL: 222
+      Tower Type: Self Support
+      Address: 218 South Polk Avenue, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-81.8627444444444,27.2116888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40709-T</name>
+        <description><![CDATA[Date: 7/13/25 9:24 AM
+      Site Name: SR585 Christian Science
+      AGL: 74
+      Tower Type: Monopole
+      Address: 2062 W. Swain Rd, Stockton, San Joaquin, CA 95207]]></description>
+        <Point><coordinates>-121.336166333333,37.9996941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA02090-B</name>
+        <description><![CDATA[Date: 7/13/25 9:27 AM
+      Site Name: Louisa
+      AGL: 190
+      Tower Type: Monopole
+      Address: 909 Bethany Church Road, Bumpass, Louisa, VA 23024]]></description>
+        <Point><coordinates>-77.7879496666667,37.8798521111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

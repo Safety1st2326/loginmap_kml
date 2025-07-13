@@ -631,5 +631,41 @@
       Address: 1604 Chickasaw Street, Greenwood, Leflore, MS 38930]]></description>
         <Point><coordinates>-90.2104777777778,33.528341,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47908-A</name>
+        <description><![CDATA[Date: 7/13/25 12:34 PM
+      Site Name: Tire Factory Outlet
+      AGL: 99
+      Tower Type: Monopole
+      Address: 500-T North Jackson Road, Pharr, Hidalgo, TX 78577]]></description>
+        <Point><coordinates>-98.2016388888889,26.2007777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00566-A</name>
+        <description><![CDATA[Date: 7/13/25 12:34 PM
+      Site Name: Vero Beach
+      AGL: 275
+      Tower Type: Self Support
+      Address: 955 154th Avenue, Vero Beach, Indian River, FL 32966]]></description>
+        <Point><coordinates>-80.6288076666667,27.6220798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN47773-A</name>
+        <description><![CDATA[Date: 7/13/25 12:39 PM
+      Site Name: Lynch
+      AGL: 300
+      Tower Type: Self Support
+      Address: 167 Ailor Gap Road, Maynardville, Union, TN 37807]]></description>
+        <Point><coordinates>-83.8366941111111,36.225666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22168-S</name>
+        <description><![CDATA[Date: 7/13/25 12:39 PM
+      Site Name: UPRR Drexel
+      AGL: 74
+      Tower Type: Monopole
+      Address: 460 E. Drexel Road, Tucson, Pima, AZ 85706]]></description>
+        <Point><coordinates>-110.961294444444,32.1482302222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

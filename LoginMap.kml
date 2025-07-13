@@ -766,5 +766,23 @@
       Address: 6221 N LOMBARD STREET , PORTLAND, MULTNOMAH, OR 972030000]]></description>
         <Point><coordinates>-122.730332666667,45.5851385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL04109-B</name>
+        <description><![CDATA[Date: 7/13/25 2:18 PM
+      Site Name: Coleman Road
+      AGL: 252
+      Tower Type: Self Support
+      Address: 2510 Coleman Road, Anniston, Calhoun, AL 36207]]></description>
+        <Point><coordinates>-85.801925,33.6375718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI13842-A</name>
+        <description><![CDATA[Date: 7/13/25 2:18 PM
+      Site Name: Magiera
+      AGL: 191
+      Tower Type: Self Support
+      Address: 1 Rockland Cemetery Rd, Foster, Providence/Foster, RI 02825]]></description>
+        <Point><coordinates>-71.6796715555556,41.7859718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

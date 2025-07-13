@@ -55,5 +55,50 @@
       Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
         <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/13/25 8:03 AM
+      Site Name: Bowling Green
+      AGL: 295
+      Tower Type: Guyed
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5220826666667,37.0045777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/13/25 8:03 AM
+      Site Name: Bowling Green
+      AGL: 35
+      Tower Type: Self Support
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5219187777778,37.0050555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02318-A</name>
+        <description><![CDATA[Date: 7/13/25 8:03 AM
+      Site Name: Bowling Green
+      AGL: 286
+      Tower Type: Guyed
+      Address: 778 Briggs Hill, Bowling Green, Warren, KY 42101-9033]]></description>
+        <Point><coordinates>-86.5222076666667,37.0050416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/13/25 8:06 AM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/13/25 8:06 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

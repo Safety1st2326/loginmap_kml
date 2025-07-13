@@ -514,5 +514,50 @@
       Address: 211 E Pleasant Run , DeSoto, Dallas, TX 75115]]></description>
         <Point><coordinates>-96.8541666666667,32.6061833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09071-S</name>
+        <description><![CDATA[Date: 7/13/25 11:40 AM
+      Site Name: Reichertville
+      AGL: 191
+      Tower Type: Monopole
+      Address: 5157  HWY 19 South, Thomasville, Thomas, GA 31792]]></description>
+        <Point><coordinates>-83.8991385555556,30.7272771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40666-T</name>
+        <description><![CDATA[Date: 7/13/25 11:40 AM
+      Site Name: SR582 Mariners Self Stora
+      AGL: 65
+      Tower Type: Monopole
+      Address: 9023 Mariners Dr, Stockton, San Joaquin, CA 95219]]></description>
+        <Point><coordinates>-121.365152777778,38.0321465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40666-T</name>
+        <description><![CDATA[Date: 7/13/25 11:40 AM
+      Site Name: SR582 Mariners Self Stora
+      AGL: 65
+      Tower Type: Monopole
+      Address: 9023 Mariners Dr, Stockton, San Joaquin, CA 95219]]></description>
+        <Point><coordinates>-121.365152777778,38.0321465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40666-T</name>
+        <description><![CDATA[Date: 7/13/25 11:40 AM
+      Site Name: SR582 Mariners Self Stora
+      AGL: 75
+      Tower Type: Monopine
+      Address: 9023 Mariners Dr, Stockton, San Joaquin, CA 95219]]></description>
+        <Point><coordinates>-121.365127777778,38.0321382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40666-T</name>
+        <description><![CDATA[Date: 7/13/25 11:40 AM
+      Site Name: SR582 Mariners Self Stora
+      AGL: 75
+      Tower Type: Monopine
+      Address: 9023 Mariners Dr, Stockton, San Joaquin, CA 95219]]></description>
+        <Point><coordinates>-121.365127777778,38.0321382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

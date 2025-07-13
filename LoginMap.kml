@@ -910,5 +910,14 @@
       Address: 1253 Skitchewaug Trail, Springfield, Windsor/Springfield, VT 05156]]></description>
         <Point><coordinates>-72.41625,43.3083611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10684-A</name>
+        <description><![CDATA[Date: 7/13/25 4:21 PM
+      Site Name: Sparks 2 KY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1441 William Judd Road, Edmonton, Metcalfe, KY 42129]]></description>
+        <Point><coordinates>-85.5147666666667,37.0178354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

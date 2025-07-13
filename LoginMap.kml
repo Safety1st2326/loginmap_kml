@@ -1351,5 +1351,23 @@
       Address: 4201 S. Camino del Sol, Green Valley, Pima, AZ 85622]]></description>
         <Point><coordinates>-111.021003222222,31.8098866666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ17721-B</name>
+        <description><![CDATA[Date: 7/12/25 8:24 PM
+      Site Name: Santiago
+      AGL: 67
+      Tower Type: Monopole
+      Address: 18105 South I-19 Frontage Road, Sahuarita, Pima, AZ 85614]]></description>
+        <Point><coordinates>-110.985471888889,31.920666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13537-A</name>
+        <description><![CDATA[Date: 7/12/25 8:27 PM
+      Site Name: North Fredericksburg
+      AGL: 345
+      Tower Type: Guyed
+      Address: 2087 Ranch Road 965, Fredericksburg, Gillespie, TX 78624]]></description>
+        <Point><coordinates>-98.8647222222222,30.3041666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

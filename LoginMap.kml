@@ -847,5 +847,32 @@
       Address: 5122 Route 5, Weathersfield, Windsor/Weathersfield, VT 05156]]></description>
         <Point><coordinates>-72.4072472222222,43.4041027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX12962-A</name>
+        <description><![CDATA[Date: 7/13/25 3:00 PM
+      Site Name: Ponciana Drive TX
+      AGL: 195
+      Tower Type: Self Support
+      Address: 5925 E. Highway 107, Edinburg, Hidalgo, TX 78542]]></description>
+        <Point><coordinates>-98.1006361111111,26.2946885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10687-A</name>
+        <description><![CDATA[Date: 7/13/25 3:00 PM
+      Site Name: Wisdom
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1887 Old Glasgow Road, Edmonton, Metcalfe, KY 42129]]></description>
+        <Point><coordinates>-85.6875857777778,36.9939496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02514-A</name>
+        <description><![CDATA[Date: 7/13/25 3:00 PM
+      Site Name: Ft Myers
+      AGL: 180
+      Tower Type: Self Support
+      Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
+        <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

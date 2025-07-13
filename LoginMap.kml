@@ -478,5 +478,14 @@
       Address: 509 West Colquitt Street, Sparks, Cook, GA 31647]]></description>
         <Point><coordinates>-83.4475774444444,31.1647444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL14734-A</name>
+        <description><![CDATA[Date: 7/13/25 11:12 AM
+      Site Name: Vero
+      AGL: 181
+      Tower Type: Guyed
+      Address: 6590 65th Street, Vero, Indian River, FL 32967]]></description>
+        <Point><coordinates>-80.4615638888889,27.71265,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

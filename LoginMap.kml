@@ -793,5 +793,41 @@
       Address: 5949 South Belvedere Ave, Tucson, Pima, AZ 85706]]></description>
         <Point><coordinates>-110.894329944444,32.1441874444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY17353-A</name>
+        <description><![CDATA[Date: 7/13/25 2:35 PM
+      Site Name: London 4 KY
+      AGL: 101
+      Tower Type: Self Support
+      Address: 102 Stonehedge Drive, London, Laurel, KY 40744]]></description>
+        <Point><coordinates>-84.0463746666667,37.1109916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47835-A</name>
+        <description><![CDATA[Date: 7/13/25 2:35 PM
+      Site Name: North Weslaco
+      AGL: 170
+      Tower Type: Monopole
+      Address: 206 W. Mile 12, North Weslaco, Hidalgo, TX 78596]]></description>
+        <Point><coordinates>-97.9934663333333,26.229141,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY17353-A</name>
+        <description><![CDATA[Date: 7/13/25 2:35 PM
+      Site Name: London 4 KY
+      AGL: 103
+      Tower Type: Guyed
+      Address: 102 Stonehedge Drive, London, Laurel, KY 40744]]></description>
+        <Point><coordinates>-84.0462413333333,37.110825,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY17353-A</name>
+        <description><![CDATA[Date: 7/13/25 2:35 PM
+      Site Name: London 4 KY
+      AGL: 102
+      Tower Type: Guyed
+      Address: 102 Stonehedge Drive, London, Laurel, KY 40744]]></description>
+        <Point><coordinates>-84.046308,37.1108416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

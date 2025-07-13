@@ -829,5 +829,14 @@
       Address: 102 Stonehedge Drive, London, Laurel, KY 40744]]></description>
         <Point><coordinates>-84.046308,37.1108416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22014-A</name>
+        <description><![CDATA[Date: 7/13/25 2:45 PM
+      Site Name: Challenger
+      AGL: 70
+      Tower Type: Monopole
+      Address: 3600 East 36th Street, Tucson, Pima, AZ 85713]]></description>
+        <Point><coordinates>-110.914205944444,32.1878331388889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

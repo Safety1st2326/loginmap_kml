@@ -406,5 +406,50 @@
       Address: 200 N. 69th Street, Grand Forks, Grand Forks, ND 58203]]></description>
         <Point><coordinates>-97.1298776666667,47.9193098888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA06509-B</name>
+        <description><![CDATA[Date: 7/13/25 10:31 AM
+      Site Name: Noxen
+      AGL: 250
+      Tower Type: Self Support
+      Address: 236 Hunter Ln, Noxen, Wyoming, PA 18636]]></description>
+        <Point><coordinates>-76.0801048888889,41.40655,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13619-A</name>
+        <description><![CDATA[Date: 7/13/25 10:31 AM
+      Site Name: Arcadia-West
+      AGL: 252
+      Tower Type: Self Support
+      Address: 2644 NW Tom Mizell Rd, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-82.0048055555555,27.2313326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX28376-B</name>
+        <description><![CDATA[Date: 7/13/25 10:31 AM
+      Site Name: UPRR Cynthia
+      AGL: 80
+      Tower Type: Monopalm
+      Address: off the north side of Trenton Road (behind Walmart @ 4101 S. McColl Road), Mcallen, Hidalgo, TX 78504]]></description>
+        <Point><coordinates>-98.2073722222222,26.267091,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40306-A</name>
+        <description><![CDATA[Date: 7/13/25 10:36 AM
+      Site Name: Hampton- Pleasant Run-TX
+      AGL: 100
+      Tower Type: Monopole
+      Address: 321 East Pleasant Run, DeSoto, Dallas, TX 75115]]></description>
+        <Point><coordinates>-96.8516611111111,32.60475,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN00328-B</name>
+        <description><![CDATA[Date: 7/13/25 10:36 AM
+      Site Name: 411 Connector
+      AGL: 280
+      Tower Type: Self Support
+      Address: 198 Rock Hill Road, Maryville, Blount, TN 37804-4552]]></description>
+        <Point><coordinates>-83.8412135555556,35.8175021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

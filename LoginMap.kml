@@ -451,5 +451,14 @@
       Address: 198 Rock Hill Road, Maryville, Blount, TN 37804-4552]]></description>
         <Point><coordinates>-83.8412135555556,35.8175021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21386-A</name>
+        <description><![CDATA[Date: 7/13/25 10:42 AM
+      Site Name: West Indianola
+      AGL: 250
+      Tower Type: Self Support
+      Address: 508 Southern Avenue, Moorhead, Sunflower, MS 38761]]></description>
+        <Point><coordinates>-90.5023333333333,33.4488885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

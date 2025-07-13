@@ -280,5 +280,32 @@
       Address: 909 Bethany Church Road, Bumpass, Louisa, VA 23024]]></description>
         <Point><coordinates>-77.7879496666667,37.8798521111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47832-A</name>
+        <description><![CDATA[Date: 7/13/25 9:30 AM
+      Site Name: North Bentsen
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2721 Mile 5 Road, McAllen, Hidalgo, TX 78573]]></description>
+        <Point><coordinates>-98.2673493333333,26.284158,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/13/25 9:33 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15843-A</name>
+        <description><![CDATA[Date: 7/13/25 9:39 AM
+      Site Name: Bensalem
+      AGL: 551
+      Tower Type: Self Support
+      Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
+        <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

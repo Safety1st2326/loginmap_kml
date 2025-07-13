@@ -307,5 +307,14 @@
       Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
         <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17202-A</name>
+        <description><![CDATA[Date: 7/13/25 9:48 AM
+      Site Name: Harlingen Mall?
+      AGL: 97
+      Tower Type: Monopole
+      Address: 801 N Expressway 77 Unit 02, Harlingen, Cameron, TX 78552]]></description>
+        <Point><coordinates>-97.7231604444444,26.2003833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

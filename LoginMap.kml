@@ -712,5 +712,32 @@
       Address: 751 E. Hermans Road, Tucson, Pima, AZ 85756]]></description>
         <Point><coordinates>-110.959426388889,32.1057911111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/13/25 1:31 PM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13153-A</name>
+        <description><![CDATA[Date: 7/13/25 1:33 PM
+      Site Name: Slick Rock
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1636 Beaver Creek Road, Glasgow, Barren, KY 42141]]></description>
+        <Point><coordinates>-85.772416,36.9932218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47834-A</name>
+        <description><![CDATA[Date: 7/13/25 1:36 PM
+      Site Name: Alamo
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1329 Hall Acres Rd, Alamo, Hidalgo, TX 78516]]></description>
+        <Point><coordinates>-98.1358663333333,26.1565111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -622,5 +622,14 @@
       Address: 5567 Co Highway 192 , DeFuniak Springs, Walton, FL 32433]]></description>
         <Point><coordinates>-86.1967457777778,30.8085027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS12550-A</name>
+        <description><![CDATA[Date: 7/13/25 12:24 PM
+      Site Name: Greenwood 4 - Shop
+      AGL: 200
+      Tower Type: Self Support
+      Address: 1604 Chickasaw Street, Greenwood, Leflore, MS 38930]]></description>
+        <Point><coordinates>-90.2104777777778,33.528341,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

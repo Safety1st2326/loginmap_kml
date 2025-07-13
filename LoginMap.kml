@@ -748,5 +748,23 @@
       Address: 3255 Mile 12N, Mercedes, Hidalgo, TX 78570]]></description>
         <Point><coordinates>-97.9609416666667,26.2302076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/13/25 2:03 PM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47643-A</name>
+        <description><![CDATA[Date: 7/13/25 2:09 PM
+      Site Name: Keebler
+      AGL: 75
+      Tower Type: Monopole
+      Address: 6221 N LOMBARD STREET , PORTLAND, MULTNOMAH, OR 972030000]]></description>
+        <Point><coordinates>-122.730332666667,45.5851385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -28,5 +28,14 @@
       Address: 9076 Perryville Road, Springfield, Washington, KY 40069]]></description>
         <Point><coordinates>-85.0778832222222,37.650875,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA42023-A</name>
+        <description><![CDATA[Date: 7/13/25 7:05 AM
+      Site Name: MASSAPONAX-SILVER COMPANIES
+      AGL: 171
+      Tower Type: Monopole
+      Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
+        <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

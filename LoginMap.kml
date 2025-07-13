@@ -118,5 +118,23 @@
       Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
         <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/13/25 8:21 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41644-T</name>
+        <description><![CDATA[Date: 7/13/25 8:27 AM
+      Site Name: Renfrow
+      AGL: 340
+      Tower Type: Guyed
+      Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
+        <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

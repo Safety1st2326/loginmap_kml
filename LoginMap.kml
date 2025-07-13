@@ -181,5 +181,32 @@
       Address: 1017 N. Ware Road, McAllen, Hidalgo, TX 78501-3540]]></description>
         <Point><coordinates>-98.2617055555556,26.2178215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13940-A</name>
+        <description><![CDATA[Date: 7/13/25 8:39 AM
+      Site Name: Tyler Mountain
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4606T Big Tyler Road, Charleston, Kanawha, WV 25313]]></description>
+        <Point><coordinates>-81.7249187777778,38.4026138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/13/25 8:51 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY17085-A</name>
+        <description><![CDATA[Date: 7/13/25 8:54 AM
+      Site Name: Mt Olive
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3540 Garrett Hollow Road, Bowling Green, Warren, KY 42101]]></description>
+        <Point><coordinates>-86.3848746666667,37.0596194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

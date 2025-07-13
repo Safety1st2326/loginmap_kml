@@ -469,5 +469,14 @@
       Address: 34329 Cannon Road, San Benito, Cameron, TX 78586]]></description>
         <Point><coordinates>-97.7848885555556,26.0618055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02902-B</name>
+        <description><![CDATA[Date: 7/13/25 11:09 AM
+      Site Name: Sparks
+      AGL: 192
+      Tower Type: Monopole
+      Address: 509 West Colquitt Street, Sparks, Cook, GA 31647]]></description>
+        <Point><coordinates>-83.4475774444444,31.1647444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

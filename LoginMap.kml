@@ -46,5 +46,14 @@
       Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
         <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/13/25 7:51 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

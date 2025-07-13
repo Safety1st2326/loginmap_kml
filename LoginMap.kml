@@ -361,5 +361,23 @@
       Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
         <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17625-A</name>
+        <description><![CDATA[Date: 7/13/25 10:00 AM
+      Site Name: Rooth Rd
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3221 La Lomita, Edinburg, Hidalgo, TX 78504]]></description>
+        <Point><coordinates>-98.2413413333333,26.299033,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17203-A</name>
+        <description><![CDATA[Date: 7/13/25 10:06 AM
+      Site Name: Harlingen South
+      AGL: 101
+      Tower Type: Monopole
+      Address: 1514 S BUSINESS 77, Harlingen, Cameron, TX 78550]]></description>
+        <Point><coordinates>-97.6791076666667,26.1748826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

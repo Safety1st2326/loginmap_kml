@@ -1369,5 +1369,14 @@
       Address: 2087 Ranch Road 965, Fredericksburg, Gillespie, TX 78624]]></description>
         <Point><coordinates>-98.8647222222222,30.3041666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45087-A</name>
+        <description><![CDATA[Date: 7/12/25 9:03 PM
+      Site Name: Sahuarita - Sahuarita Usd
+      AGL: 120
+      Tower Type: Monopole
+      Address: 350 W. Sahuarita Rd., Sahuarita, Pima, AZ 85629]]></description>
+        <Point><coordinates>-110.975166,31.9595833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1315,5 +1315,23 @@
       Address: 565 Highway 111, Calexico, IMPERIAL, CA 92231]]></description>
         <Point><coordinates>-115.500555555556,32.690833,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40642-T</name>
+        <description><![CDATA[Date: 7/12/25 7:37 PM
+      Site Name: SR124 New Life- Sunset
+      AGL: 65
+      Tower Type: Stealth
+      Address: 8101 Sunset Ave, Fair Oaks, Sacramento, CA 95628]]></description>
+        <Point><coordinates>-121.263497222222,38.6537833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40642-T</name>
+        <description><![CDATA[Date: 7/12/25 7:37 PM
+      Site Name: SR124 New Life- Sunset
+      AGL: 65
+      Tower Type: Monopine
+      Address: 8101 Sunset Ave, Fair Oaks, Sacramento, CA 95628]]></description>
+        <Point><coordinates>-121.263736111111,38.6534833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

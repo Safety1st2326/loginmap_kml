@@ -991,5 +991,68 @@
       Address: 540 W. Horizon Ridge Parkway, Henderson, Clark, NV 89012]]></description>
         <Point><coordinates>-115.005355555556,36.0242993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL02610-A</name>
+        <description><![CDATA[Date: 7/14/25 10:33 AM
+      Site Name: Heathland
+      AGL: 183
+      Tower Type: Monopole
+      Address: 5701 Intrepid Cir., Huntsville, Madison, AL 35816]]></description>
+        <Point><coordinates>-86.6600222222222,34.7411718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12426-A</name>
+        <description><![CDATA[Date: 7/14/25 10:33 AM
+      Site Name: St James Church
+      AGL: 110
+      Tower Type: Flagpole
+      Address: 1365 Viscaya Drive, Port Charlotte, Charlotte, FL 33952]]></description>
+        <Point><coordinates>-82.1054138888889,27.0076527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/14/25 10:36 AM
+      Site Name: Titusville
+      AGL: 183
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923218888889,41.6146277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/14/25 10:36 AM
+      Site Name: Titusville
+      AGL: 251
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923163333333,41.6142583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11914-B</name>
+        <description><![CDATA[Date: 7/14/25 10:38 AM
+      Site Name: Byron 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 224 Highway 49S, Byron, Peach, GA 31008]]></description>
+        <Point><coordinates>-83.7645555555556,32.6464996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01379-B</name>
+        <description><![CDATA[Date: 7/14/25 10:38 AM
+      Site Name: New Britain
+      AGL: 171
+      Tower Type: Monopole
+      Address: Route 202 & Shady Retreat Road, Doylestown, Bucks, PA 18901]]></description>
+        <Point><coordinates>-75.1668326666667,40.2997552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46681-A</name>
+        <description><![CDATA[Date: 7/14/25 10:38 AM
+      Site Name: Crawford Truck Sales
+      AGL: 146
+      Tower Type: Tree
+      Address: 2176 Main Street, Lancaster, Worcester, MA 01523]]></description>
+        <Point><coordinates>-71.7037944444444,42.481966,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

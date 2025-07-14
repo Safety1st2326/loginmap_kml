@@ -64,5 +64,23 @@
       Address: 1400 S Broad Street, Griffith, Lake, IN 46319-3212]]></description>
         <Point><coordinates>-87.4297576666667,41.5005916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01195-B</name>
+        <description><![CDATA[Date: 7/14/25 6:42 AM
+      Site Name: Bell Road
+      AGL: 165
+      Tower Type: Guyed
+      Address: 2695 Eldredge Lane, Sumter, Sumter, SC 29153]]></description>
+        <Point><coordinates>-80.3142694444444,33.9900052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 6:42 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

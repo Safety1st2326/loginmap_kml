@@ -2404,5 +2404,14 @@
       Address: 21900 Franz Rd., Katy, Harris, TX 77449]]></description>
         <Point><coordinates>-95.7545402777778,29.8093644444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45405-A</name>
+        <description><![CDATA[Date: 7/14/25 5:58 PM
+      Site Name: Coachella
+      AGL: 47
+      Tower Type: Monopole
+      Address: 3601 E. Mesquite , Palm Springs, Riverside, CA 92264]]></description>
+        <Point><coordinates>-116.508413888889,33.8096166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

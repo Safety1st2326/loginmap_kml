@@ -253,5 +253,41 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02902-B</name>
+        <description><![CDATA[Date: 7/14/25 7:25 AM
+      Site Name: Sparks
+      AGL: 192
+      Tower Type: Monopole
+      Address: 509 West Colquitt Street, Sparks, Cook, GA 31647]]></description>
+        <Point><coordinates>-83.4475774444444,31.1647444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/14/25 7:43 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/14/25 7:43 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/14/25 7:43 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

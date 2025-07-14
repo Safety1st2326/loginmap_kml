@@ -370,5 +370,68 @@
       Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
         <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK41644-T</name>
+        <description><![CDATA[Date: 7/14/25 8:14 AM
+      Site Name: Renfrow
+      AGL: 340
+      Tower Type: Guyed
+      Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
+        <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15843-A</name>
+        <description><![CDATA[Date: 7/14/25 8:10 AM
+      Site Name: Bensalem
+      AGL: 551
+      Tower Type: Self Support
+      Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
+        <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21742-A</name>
+        <description><![CDATA[Date: 7/14/25 8:10 AM
+      Site Name: Jumpertown Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 10 CR 7151, BOONEVILLE, PRENTISS, MS 38829]]></description>
+        <Point><coordinates>-88.6708604444445,34.7078333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22513-A</name>
+        <description><![CDATA[Date: 7/14/25 8:10 AM
+      Site Name: US-67 & I-280
+      AGL: 131
+      Tower Type: Monopole
+      Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
+        <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17143-A</name>
+        <description><![CDATA[Date: 7/14/25 8:12 AM
+      Site Name: Alexander Township
+      AGL: 305
+      Tower Type: Self Support
+      Address: 11548  Robinson Rd., Athens, Athens, OH 45701]]></description>
+        <Point><coordinates>-82.0788965555556,39.2780576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21240-A</name>
+        <description><![CDATA[Date: 7/14/25 8:18 AM
+      Site Name: Ypsilanti
+      AGL: 180
+      Tower Type: Self Support
+      Address: 3602 Bemis Road, Ypsilanti, Washtenaw, MI 48197]]></description>
+        <Point><coordinates>-83.6859885555556,42.1709354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY22005-A</name>
+        <description><![CDATA[Date: 7/14/25 8:19 AM
+      Site Name: Ft Drum Connector
+      AGL: 180
+      Tower Type: Guyed
+      Address: 26714 Waddingham Rd, LeRay, Jefferson, NY 13637]]></description>
+        <Point><coordinates>-75.8397191111111,44.0614277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

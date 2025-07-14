@@ -919,5 +919,14 @@
       Address: 1441 William Judd Road, Edmonton, Metcalfe, KY 42129]]></description>
         <Point><coordinates>-85.5147666666667,37.0178354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ23889-A</name>
+        <description><![CDATA[Date: 7/13/25 8:03 PM
+      Site Name: Tucson
+      AGL: 280
+      Tower Type: Guyed
+      Address: 2550 North Los Altos Av., Tucson, Pima, AZ 85705]]></description>
+        <Point><coordinates>-110.962738888889,32.2531305555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

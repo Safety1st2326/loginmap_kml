@@ -325,5 +325,50 @@
       Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
         <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/14/25 7:55 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15032-S</name>
+        <description><![CDATA[Date: 7/14/25 8:02 AM
+      Site Name: Coontown
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1847 Burning Well Rd, Kane, McKean, PA 16735]]></description>
+        <Point><coordinates>-78.6923885555556,41.6653055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY12332-B</name>
+        <description><![CDATA[Date: 7/14/25 8:02 AM
+      Site Name: North Hebron
+      AGL: 196
+      Tower Type: Self Support
+      Address: 433 McKnight Hill Road, Salem, Washington, NY 12865]]></description>
+        <Point><coordinates>-73.3475385555555,43.267191,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI10050-A</name>
+        <description><![CDATA[Date: 7/14/25 8:02 AM
+      Site Name: Alpine Valley
+      AGL: 195
+      Tower Type: Self Support
+      Address: W2919 County Trunk Highway D, Elkhorn, Walworth, WI 53121]]></description>
+        <Point><coordinates>-88.4497107777778,42.7433441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/14/25 8:04 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

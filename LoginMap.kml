@@ -118,5 +118,41 @@
       Address: 5260 Old Columbia Road, Goochland, Goochland, VA 23063]]></description>
         <Point><coordinates>-78.0642805555556,37.7524416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ME16499-A</name>
+        <description><![CDATA[Date: 7/14/25 7:04 AM
+      Site Name: Dixmont
+      AGL: 201
+      Tower Type: Self Support
+      Address: 123 Peaked Mountain Rd., Dixmont, Penobscot, ME 04932]]></description>
+        <Point><coordinates>-69.0794715555556,44.7022972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17904-A</name>
+        <description><![CDATA[Date: 7/14/25 7:04 AM
+      Site Name: Gum Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 101 Gum Springs Rd, Longview, Gregg, TX 75602]]></description>
+        <Point><coordinates>-94.7155194444445,32.4913385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21669-A</name>
+        <description><![CDATA[Date: 7/14/25 6:54 AM
+      Site Name: East Ridge 2 TN
+      AGL: 159
+      Tower Type: Monopole
+      Address: 3330-A RINGGOLD ROAD, CHATTANOOGA, HAMILTON, TN 37412]]></description>
+        <Point><coordinates>-85.2626166666667,35.0063388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/14/25 7:06 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

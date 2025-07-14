@@ -1711,5 +1711,77 @@
       Address: 115 Alden/Estrada Drive, Serafina, San Miguel, NM 87569]]></description>
         <Point><coordinates>-105.365905555556,35.3718493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46368-A</name>
+        <description><![CDATA[Date: 7/14/25 1:22 PM
+      Site Name: North Tech
+      AGL: 146
+      Tower Type: Monopole
+      Address: 151 14th Street, Atlanta, Fulton, GA 30318]]></description>
+        <Point><coordinates>-84.3931107777778,33.7883885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08013-B</name>
+        <description><![CDATA[Date: 7/14/25 1:22 PM
+      Site Name: Sawmill Branch
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1851 N. Main Street, Summerville, Berkeley, SC 29483-7819]]></description>
+        <Point><coordinates>-80.1243104444444,33.0415802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 1:26 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15020-A</name>
+        <description><![CDATA[Date: 7/14/25 1:26 PM
+      Site Name: Williams - JV
+      AGL: 193
+      Tower Type: Monopole
+      Address: 1138  Anderson Road, Rock Hill, York, SC 29730]]></description>
+        <Point><coordinates>-80.9823882222222,34.9093333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00518-B</name>
+        <description><![CDATA[Date: 7/14/25 1:26 PM
+      Site Name: Clyde Circle
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2299 Hiers Loop Road, Walterboro, Colleton, SC 29488]]></description>
+        <Point><coordinates>-80.6959107777778,32.9186993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA42055-T</name>
+        <description><![CDATA[Date: 7/14/25 1:26 PM
+      Site Name: Union - Olin
+      AGL: 120
+      Tower Type: Monopole
+      Address: 9121 NE 117th Ave, Vancouver, Clark, WA 98662]]></description>
+        <Point><coordinates>-122.550931,45.6898996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 1:13 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13654-A</name>
+        <description><![CDATA[Date: 7/14/25 1:28 PM
+      Site Name: Valrico
+      AGL: 146
+      Tower Type: Monopole
+      Address: 2135 Kirkeby Rd, Valrico, Hillsborough, FL 33594]]></description>
+        <Point><coordinates>-82.2502888888889,27.9485218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

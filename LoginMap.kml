@@ -2449,5 +2449,23 @@
       Address: 10 Davis Court, Park Hills, St. Francois, MO 63601]]></description>
         <Point><coordinates>-90.5348246666667,37.8542777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45405-A</name>
+        <description><![CDATA[Date: 7/14/25 6:35 PM
+      Site Name: Coachella
+      AGL: 47
+      Tower Type: Monopole
+      Address: 3601 E. Mesquite , Palm Springs, Riverside, CA 92264]]></description>
+        <Point><coordinates>-116.508413888889,33.8096166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48002-A</name>
+        <description><![CDATA[Date: 7/14/25 6:48 PM
+      Site Name: Nuclear Plant -tx
+      AGL: 300
+      Tower Type: Guyed
+      Address: 7900 FM 521, Palacios, Matagorda, TX 77465]]></description>
+        <Point><coordinates>-96.0774437777778,28.7873052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

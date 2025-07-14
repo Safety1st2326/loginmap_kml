@@ -1054,5 +1054,14 @@
       Address: 2176 Main Street, Lancaster, Worcester, MA 01523]]></description>
         <Point><coordinates>-71.7037944444444,42.481966,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK20043-A</name>
+        <description><![CDATA[Date: 7/14/25 10:47 AM
+      Site Name: Mt George Tower 
+      AGL: 190
+      Tower Type: Self Support
+      Address: 294 DUNCAN, POCOLA, LE FLORE, OK 74902]]></description>
+        <Point><coordinates>-94.4375941111111,35.2783271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

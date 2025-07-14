@@ -154,5 +154,32 @@
       Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
         <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL02514-A</name>
+        <description><![CDATA[Date: 7/14/25 7:10 AM
+      Site Name: Ft Myers
+      AGL: 180
+      Tower Type: Self Support
+      Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
+        <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22527-A</name>
+        <description><![CDATA[Date: 7/14/25 7:13 AM
+      Site Name: Pecatonica
+      AGL: 195
+      Tower Type: Self Support
+      Address: 100 Taylor Street, Pecatonica, Winnebago, IL 61063]]></description>
+        <Point><coordinates>-89.35615,42.3147972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40076-A</name>
+        <description><![CDATA[Date: 7/14/25 7:18 AM
+      Site Name: 103rd Street
+      AGL: 230
+      Tower Type: Monopole
+      Address: 10711 SW 80th Avenue, Ocala, Marion, FL 34476]]></description>
+        <Point><coordinates>-82.2518861111111,29.0677104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

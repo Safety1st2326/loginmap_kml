@@ -2152,5 +2152,41 @@
       Address: 540 I-55 Frontage Road, Terry, Hinds, MS 39170]]></description>
         <Point><coordinates>-90.2951941111111,32.1086388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13177-A</name>
+        <description><![CDATA[Date: 7/14/25 3:24 PM
+      Site Name: Green River 2 KY
+      AGL: 246
+      Tower Type: Self Support
+      Address: 352 SR 565 / Ebenezer Rd., Campbellsville, Taylor, KY 42718]]></description>
+        <Point><coordinates>-85.3496746666667,37.2118583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09911-A</name>
+        <description><![CDATA[Date: 7/14/25 3:19 PM
+      Site Name: Nuberg
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1049 Red Hill Road NW, Dewy Rose, Elbert, GA 30634]]></description>
+        <Point><coordinates>-82.9004027777778,34.2310854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12063-A</name>
+        <description><![CDATA[Date: 7/14/25 3:37 PM
+      Site Name: Weatherford 5 OK
+      AGL: 141
+      Tower Type: Self Support
+      Address: 10332 North 2410, Weatherford, Custer, OK 73096]]></description>
+        <Point><coordinates>-98.6937941111111,35.5170965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12063-A</name>
+        <description><![CDATA[Date: 7/14/25 3:33 PM
+      Site Name: Weatherford 5 OK
+      AGL: 141
+      Tower Type: Self Support
+      Address: 10332 North 2410, Weatherford, Custer, OK 73096]]></description>
+        <Point><coordinates>-98.6937941111111,35.5170965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

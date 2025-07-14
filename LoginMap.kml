@@ -55,5 +55,14 @@
       Address: 1441 William Judd Road, Edmonton, Metcalfe, KY 42129]]></description>
         <Point><coordinates>-85.5147666666667,37.0178354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN01603-B</name>
+        <description><![CDATA[Date: 7/14/25 6:36 AM
+      Site Name: Broad Street
+      AGL: 148
+      Tower Type: Monopole
+      Address: 1400 S Broad Street, Griffith, Lake, IN 46319-3212]]></description>
+        <Point><coordinates>-87.4297576666667,41.5005916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

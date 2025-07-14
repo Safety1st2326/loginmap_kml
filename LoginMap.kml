@@ -928,5 +928,14 @@
       Address: 2550 North Los Altos Av., Tucson, Pima, AZ 85705]]></description>
         <Point><coordinates>-110.962738888889,32.2531305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22017-A</name>
+        <description><![CDATA[Date: 7/13/25 8:27 PM
+      Site Name: Prince 2 AZ
+      AGL: 64
+      Tower Type: Monopole Tree
+      Address: 1443 West Prince Road, Tucson, Pima, AZ 85705]]></description>
+        <Point><coordinates>-110.996451361111,32.27139375,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

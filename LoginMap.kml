@@ -2296,5 +2296,14 @@
       Address: 410 Lees Mill Rd, Forest Park, Clayton, GA 30297]]></description>
         <Point><coordinates>-84.4032038888889,33.6053963888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13158-A</name>
+        <description><![CDATA[Date: 7/14/25 4:42 PM
+      Site Name: Gilliam Hill
+      AGL: 192
+      Tower Type: Self Support
+      Address: Gilliam Hill South of US Hwy 25, Gray, Knox, KY 40734]]></description>
+        <Point><coordinates>-83.9690993333333,36.9446191111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

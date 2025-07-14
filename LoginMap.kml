@@ -2197,5 +2197,32 @@
       Address: 441-B N Monroe Street, Eagle Pass, Maverick, TX 78852]]></description>
         <Point><coordinates>-100.501486111111,28.7101027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 3:52 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45537-A</name>
+        <description><![CDATA[Date: 7/14/25 3:46 PM
+      Site Name: Palm Canyon
+      AGL: 60
+      Tower Type: Tree
+      Address: 1100 Murray Canyon Rd , Palm Springs, Riverside, CA 92264]]></description>
+        <Point><coordinates>-116.535680222222,33.7857163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04448-B</name>
+        <description><![CDATA[Date: 7/14/25 3:58 PM
+      Site Name: Sandy Springs
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
+        <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -748,5 +748,59 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45199-A</name>
+        <description><![CDATA[Date: 7/14/25 9:52 AM
+      Site Name: Wayland 2 CA
+      AGL: 74
+      Tower Type: Tree
+      Address: 5398 Laird Road, Loomis, Placer, CA 95650]]></description>
+        <Point><coordinates>-121.173054888889,38.7899163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13696-A</name>
+        <description><![CDATA[Date: 7/14/25 9:40 AM
+      Site Name: East Bernstadt
+      AGL: 261
+      Tower Type: Guyed
+      Address: 575 Bentley Road, East Bernstadt, Laurel, KY 40729]]></description>
+        <Point><coordinates>-84.1759826666667,37.2100638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 9:52 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24187-A</name>
+        <description><![CDATA[Date: 7/14/25 9:52 AM
+      Site Name: Holly Hill Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 1076 Toney Bay Road, Holly Hill, Orangeburg, SC 29059]]></description>
+        <Point><coordinates>-80.3841496666667,33.3345107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/14/25 9:52 AM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04803-A</name>
+        <description><![CDATA[Date: 7/14/25 9:46 AM
+      Site Name: Fairfield Glade 2 TN
+      AGL: 307
+      Tower Type: Self Support
+      Address: 129 Dartmoor Drive, Crossville, Cumberland, TN 38558-6211]]></description>
+        <Point><coordinates>-84.8919941111111,36.0124805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

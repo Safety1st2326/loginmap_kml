@@ -1279,5 +1279,14 @@
       Address: 22615 Westheimer Parkway, Katy, Fort Bend, TX 77450]]></description>
         <Point><coordinates>-95.7617611111111,29.7306993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47443-A</name>
+        <description><![CDATA[Date: 7/14/25 11:41 AM
+      Site Name: Cable Shores - Jackson Twp
+      AGL: 189
+      Tower Type: Monopole
+      Address: 5380 Fulton Road NW, Canton, Stark, OH 44718]]></description>
+        <Point><coordinates>-81.4516888888889,40.8524055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

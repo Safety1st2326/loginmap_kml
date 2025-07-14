@@ -559,5 +559,59 @@
       Address: 4133 Cleveland Avenue South, Canton, Stark, OH 44707]]></description>
         <Point><coordinates>-81.3744882222222,40.749108,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 7/14/25 8:53 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14627-A</name>
+        <description><![CDATA[Date: 7/14/25 8:53 AM
+      Site Name: Virtz Corner
+      AGL: 125
+      Tower Type: Monopine
+      Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
+        <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/14/25 8:55 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10801-A</name>
+        <description><![CDATA[Date: 7/14/25 8:55 AM
+      Site Name: Fannin 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 168 Highland Circle, Blue Ridge, Fannin, GA 30513]]></description>
+        <Point><coordinates>-84.3708493333333,34.90655,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/14/25 8:41 AM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/14/25 8:46 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

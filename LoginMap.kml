@@ -1531,5 +1531,41 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC00706-B</name>
+        <description><![CDATA[Date: 7/14/25 12:40 PM
+      Site Name: Lafayette
+      AGL: 300
+      Tower Type: Guyed
+      Address: 157 Risher Mountain Road, Walterboro, Colleton, SC 29488-6931]]></description>
+        <Point><coordinates>-80.6722465555556,33.0066972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI09948-A</name>
+        <description><![CDATA[Date: 7/14/25 12:40 PM
+      Site Name: Meridian Twp Hall
+      AGL: 177
+      Tower Type: Clocktower
+      Address: 5151 Marsh Road, Okemos, Ingham, MI 48864]]></description>
+        <Point><coordinates>-84.4144527777778,42.7286854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN00918-B</name>
+        <description><![CDATA[Date: 7/14/25 12:43 PM
+      Site Name: Wise Hill
+      AGL: 189
+      Tower Type: Monopole
+      Address: 117-G Stone Road, Knoxville, Knox, TN 37820]]></description>
+        <Point><coordinates>-83.8990024444444,35.9244465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45209-A</name>
+        <description><![CDATA[Date: 7/14/25 12:49 PM
+      Site Name: Victoria Island
+      AGL: 99
+      Tower Type: Monopole
+      Address: 16021 West Highway 4, Stockton, San Joaquin, CA 95206]]></description>
+        <Point><coordinates>-121.513438888889,37.8907246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

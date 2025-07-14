@@ -2107,5 +2107,50 @@
       Address: State Rd 672, Lexington, Rockbridge, VA 24450]]></description>
         <Point><coordinates>-79.4866274444445,37.7882524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH02253-S</name>
+        <description><![CDATA[Date: 7/14/25 3:23 PM
+      Site Name: Epsom
+      AGL: 120
+      Tower Type: Flagpole
+      Address: 25 Brimstone Hill Road, Epsom, Merrimack, NH 03234]]></description>
+        <Point><coordinates>-71.3665277777778,43.2288604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46355-A</name>
+        <description><![CDATA[Date: 7/14/25 3:24 PM
+      Site Name: Peyton
+      AGL: 127
+      Tower Type: Monopine
+      Address: 1173 Cascade Rd. SW, Atlanta, Fulton, GA 30311]]></description>
+        <Point><coordinates>-84.4516527777778,33.725041,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24212-A</name>
+        <description><![CDATA[Date: 7/14/25 3:27 PM
+      Site Name: Yemassee Tower
+      AGL: 381
+      Tower Type: Guyed
+      Address: 28446 Pocotaligo Rd, Yemassee, Hampton, SC 29945]]></description>
+        <Point><coordinates>-80.8689993333333,32.6814548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 3:27 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04588-B</name>
+        <description><![CDATA[Date: 7/14/25 3:15 PM
+      Site Name: Terry
+      AGL: 320
+      Tower Type: Guyed
+      Address: 540 I-55 Frontage Road, Terry, Hinds, MS 39170]]></description>
+        <Point><coordinates>-90.2951941111111,32.1086388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

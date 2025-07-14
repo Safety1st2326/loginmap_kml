@@ -181,5 +181,32 @@
       Address: 10711 SW 80th Avenue, Ocala, Marion, FL 34476]]></description>
         <Point><coordinates>-82.2518861111111,29.0677104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21281-A</name>
+        <description><![CDATA[Date: 7/14/25 7:28 AM
+      Site Name: OAKFIELD
+      AGL: 195
+      Tower Type: Self Support
+      Address: N4156 WOLF ROAD, OAKFIELD, FOND DU LAC, WI 53065]]></description>
+        <Point><coordinates>-88.6133416666667,43.6920607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00356-B</name>
+        <description><![CDATA[Date: 7/14/25 7:24 AM
+      Site Name: Builders Road
+      AGL: 250
+      Tower Type: Guyed
+      Address: 480 Builders Rd., Sumter, Sumter, SC 29154-4505]]></description>
+        <Point><coordinates>-80.4133055555556,33.9063222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13103-A</name>
+        <description><![CDATA[Date: 7/14/25 7:24 AM
+      Site Name: Crane Mill
+      AGL: 259
+      Tower Type: Guyed
+      Address: 2750 Crane Mill Road, Alto, Habersham, GA 30531]]></description>
+        <Point><coordinates>-83.6223521111111,34.4758271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

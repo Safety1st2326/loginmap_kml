@@ -1567,5 +1567,14 @@
       Address: 16021 West Highway 4, Stockton, San Joaquin, CA 95206]]></description>
         <Point><coordinates>-121.513438888889,37.8907246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA12136-A</name>
+        <description><![CDATA[Date: 7/14/25 12:46 PM
+      Site Name: Lindbergh North
+      AGL: 155
+      Tower Type: Monopole
+      Address: 2686 Piedmont Rd NE, Atlanta, Fulton, GA 30324]]></description>
+        <Point><coordinates>-84.3688326666667,33.8277354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

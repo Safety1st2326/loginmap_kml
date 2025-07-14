@@ -622,5 +622,50 @@
       Address: 150 Mitchell Road, Higden, Cleburne, AR 72067]]></description>
         <Point><coordinates>-92.2351635555556,35.5481441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/14/25 8:57 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO21303-A</name>
+        <description><![CDATA[Date: 7/14/25 9:03 AM
+      Site Name: Pueblo South
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
+        <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01226-A</name>
+        <description><![CDATA[Date: 7/14/25 9:08 AM
+      Site Name: Apopka
+      AGL: 280
+      Tower Type: Guyed
+      Address: 215 W. Fourth Street, Apopka, Orange, FL 32703-5140]]></description>
+        <Point><coordinates>-81.516525,28.6738854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02852-B</name>
+        <description><![CDATA[Date: 7/14/25 9:16 AM
+      Site Name: Milledgeville
+      AGL: 250
+      Tower Type: Self Support
+      Address: 820 N. Columbia St., Milledgeville, Baldwin, GA 31061-2721]]></description>
+        <Point><coordinates>-83.2390996666667,33.0909413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ10937-S</name>
+        <description><![CDATA[Date: 7/14/25 9:16 AM
+      Site Name: Hammonton
+      AGL: 153
+      Tower Type: Monopole
+      Address: 3320 S. White Horse Pike, Hammonton, Atlantic, NJ 08037]]></description>
+        <Point><coordinates>-74.7537833333333,39.6035638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

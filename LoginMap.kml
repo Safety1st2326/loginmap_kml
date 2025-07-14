@@ -1117,5 +1117,23 @@
       Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
         <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN08801-A</name>
+        <description><![CDATA[Date: 7/14/25 10:49 AM
+      Site Name: Homestead Road
+      AGL: 141
+      Tower Type: Monopole
+      Address: 7301 Homestead Rd, Ft Wayne, Allen, IN 46814]]></description>
+        <Point><coordinates>-85.2836218888889,41.0161111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46378-A</name>
+        <description><![CDATA[Date: 7/14/25 11:05 AM
+      Site Name: Briarwood 2 GA
+      AGL: 146
+      Tower Type: Monopole
+      Address: 1771 Briarwood Rd Ne, Atlanta, DeKalb, GA 30329]]></description>
+        <Point><coordinates>-84.323666,33.8429718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

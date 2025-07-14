@@ -2305,5 +2305,41 @@
       Address: Gilliam Hill South of US Hwy 25, Gray, Knox, KY 40734]]></description>
         <Point><coordinates>-83.9690993333333,36.9446191111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47888-A</name>
+        <description><![CDATA[Date: 7/14/25 4:39 PM
+      Site Name: Wastewater Treatment Plant
+      AGL: 110
+      Tower Type: Monopole
+      Address: 22615 Westheimer Parkway, Katy, Fort Bend, TX 77450]]></description>
+        <Point><coordinates>-95.7617611111111,29.7306993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13878-A</name>
+        <description><![CDATA[Date: 7/14/25 4:54 PM
+      Site Name: Circleville 2 TX
+      AGL: 197
+      Tower Type: Guyed
+      Address: 3140 CR, 409, Taylor, Williamson, TX 76574]]></description>
+        <Point><coordinates>-97.4024305555556,30.6006027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13878-A</name>
+        <description><![CDATA[Date: 7/14/25 4:54 PM
+      Site Name: Circleville 2 TX
+      AGL: 197
+      Tower Type: Guyed
+      Address: 3140 CR, 409, Taylor, Williamson, TX 76574]]></description>
+        <Point><coordinates>-97.4024305555556,30.6006027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20238-A</name>
+        <description><![CDATA[Date: 7/14/25 4:57 PM
+      Site Name: Emerado ND Tower
+      AGL: 221
+      Tower Type: Guyed
+      Address: 1816 24th Street NE, Grand Forks, Grand Forks, ND 58201]]></description>
+        <Point><coordinates>-97.3451857777778,47.9351718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

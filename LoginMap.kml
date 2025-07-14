@@ -1783,5 +1783,23 @@
       Address: 2135 Kirkeby Rd, Valrico, Hillsborough, FL 33594]]></description>
         <Point><coordinates>-82.2502888888889,27.9485218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/14/25 1:46 PM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10493-A</name>
+        <description><![CDATA[Date: 7/14/25 1:46 PM
+      Site Name: Switch
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1600 Ute Ave, Grand Junction, Mesa, CO 81501]]></description>
+        <Point><coordinates>-108.545316333333,39.0663222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2413,5 +2413,23 @@
       Address: 3601 E. Mesquite , Palm Springs, Riverside, CA 92264]]></description>
         <Point><coordinates>-116.508413888889,33.8096166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12117-A</name>
+        <description><![CDATA[Date: 7/14/25 6:12 PM
+      Site Name: Horse Creek 2 OK
+      AGL: 290
+      Tower Type: Guyed
+      Address: 9651 Hwy 54, Weatherford, Custer, OK 73096]]></description>
+        <Point><coordinates>-98.7214937777778,35.6159888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO41395-T</name>
+        <description><![CDATA[Date: 7/14/25 6:12 PM
+      Site Name: Lawson Property
+      AGL: 247
+      Tower Type: Self Support
+      Address: 685 Hwy M, Park Hills, St. Francois, MO 63601]]></description>
+        <Point><coordinates>-90.6154388888889,37.8639555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

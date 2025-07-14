@@ -1252,5 +1252,32 @@
       Address: 106 Willenbrock Road, Oxford, New Haven, CT 06478-1031]]></description>
         <Point><coordinates>-73.1465552222222,41.4651055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09011-A</name>
+        <description><![CDATA[Date: 7/14/25 11:31 AM
+      Site Name: Edna
+      AGL: 401
+      Tower Type: Guyed
+      Address: 805 Vanderbilt Road, Edna, Jackson, TX 77957-3324]]></description>
+        <Point><coordinates>-96.6427857777778,28.9640944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY14986-A</name>
+        <description><![CDATA[Date: 7/14/25 11:34 AM
+      Site Name: Hector
+      AGL: 300
+      Tower Type: Self Support
+      Address: 477 Cemetery Road, Oneida, Clay, KY 40972]]></description>
+        <Point><coordinates>-83.6843524444444,37.1502944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47888-A</name>
+        <description><![CDATA[Date: 7/14/25 11:37 AM
+      Site Name: Wastewater Treatment Plant
+      AGL: 110
+      Tower Type: Monopole
+      Address: 22615 Westheimer Parkway, Katy, Fort Bend, TX 77450]]></description>
+        <Point><coordinates>-95.7617611111111,29.7306993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

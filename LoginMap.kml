@@ -676,5 +676,68 @@
       Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
         <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO14432-A</name>
+        <description><![CDATA[Date: 7/14/25 9:32 AM
+      Site Name: LaBelle
+      AGL: 300
+      Tower Type: Self Support
+      Address: 18983 116th Ave, LaBelle, Lewis, MO 63447]]></description>
+        <Point><coordinates>-91.9225021111111,40.1231298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13710-A</name>
+        <description><![CDATA[Date: 7/14/25 9:32 AM
+      Site Name: American Legion
+      AGL: 108
+      Tower Type: Flagpole
+      Address: 123 Granite Avenue, Milton, Norfolk, MA 02186]]></description>
+        <Point><coordinates>-71.0476857777778,42.2704298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41656-T</name>
+        <description><![CDATA[Date: 7/14/25 9:19 AM
+      Site Name: Elmore City
+      AGL: 349
+      Tower Type: Guyed
+      Address: 25539 N. County Rd. 3162, Elmore, Garvin, OK 73433]]></description>
+        <Point><coordinates>-97.3633722222222,34.630716,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46676-A</name>
+        <description><![CDATA[Date: 7/14/25 9:34 AM
+      Site Name: Wellesley College
+      AGL: 66
+      Tower Type: Stealth
+      Address: 106 Central Street, Wellesley, Norfolk, MA 02481]]></description>
+        <Point><coordinates>-71.298458,42.2932524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00701-B</name>
+        <description><![CDATA[Date: 7/14/25 9:25 AM
+      Site Name: Santee
+      AGL: 300
+      Tower Type: Self Support
+      Address: 677 Bass Dr, Santee, Orangeburg, SC 29142]]></description>
+        <Point><coordinates>-80.477891,33.4841413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/14/25 9:37 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/14/25 9:37 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

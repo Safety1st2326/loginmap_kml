@@ -1891,5 +1891,50 @@
       Address: 780 Stray Winds Road, Campbellsville, Taylor, KY 42718]]></description>
         <Point><coordinates>-85.2841302222222,37.3033666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21705-A</name>
+        <description><![CDATA[Date: 7/14/25 2:22 PM
+      Site Name: Causey - 271-015 B
+      AGL: 250
+      Tower Type: Guyed
+      Address: 5341 Salem Church Road, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-83.95629,32.7669665555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14516-A</name>
+        <description><![CDATA[Date: 7/14/25 2:14 PM
+      Site Name: Atlanta 2 GA
+      AGL: 400
+      Tower Type: Self Support
+      Address: 225 Corey Center Drive SE, Atlanta, Fulton, GA 30312]]></description>
+        <Point><coordinates>-84.3822937777778,33.7485857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46695-A</name>
+        <description><![CDATA[Date: 7/14/25 2:14 PM
+      Site Name: East Harwich Fire Department
+      AGL: 146
+      Tower Type: Stealth Flagpole
+      Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
+        <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL08950-A</name>
+        <description><![CDATA[Date: 7/14/25 2:14 PM
+      Site Name: Carlyle
+      AGL: 247
+      Tower Type: Self Support
+      Address: 889 Methodist Street, Carlyle, Clinton, IL 62231]]></description>
+        <Point><coordinates>-89.368716,38.6084222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL08950-A</name>
+        <description><![CDATA[Date: 7/14/25 2:14 PM
+      Site Name: Carlyle
+      AGL: 247
+      Tower Type: Self Support
+      Address: 889 Methodist Street, Carlyle, Clinton, IL 62231]]></description>
+        <Point><coordinates>-89.368716,38.6084222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

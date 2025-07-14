@@ -1288,5 +1288,23 @@
       Address: 5380 Fulton Road NW, Canton, Stark, OH 44718]]></description>
         <Point><coordinates>-81.4516888888889,40.8524055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47817-A</name>
+        <description><![CDATA[Date: 7/14/25 11:52 AM
+      Site Name: Calvary Church 2 TX
+      AGL: 120
+      Tower Type: Monopole
+      Address: 15049 2/3 Wallisville Rd, Houston, Harris, TX 77049]]></description>
+        <Point><coordinates>-95.1700243333333,29.8085388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47817-A</name>
+        <description><![CDATA[Date: 7/14/25 11:52 AM
+      Site Name: Calvary Church 2 TX
+      AGL: 130
+      Tower Type: Monopole
+      Address: 15049 2/3 Wallisville Rd, Houston, Harris, TX 77049]]></description>
+        <Point><coordinates>-95.1699687777778,29.8085138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

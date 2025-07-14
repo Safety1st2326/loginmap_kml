@@ -667,5 +667,14 @@
       Address: 3320 S. White Horse Pike, Hammonton, Atlantic, NJ 08037]]></description>
         <Point><coordinates>-74.7537833333333,39.6035638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/14/25 9:22 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

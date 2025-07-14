@@ -478,5 +478,77 @@
       Address: 1367 Wander Road, Isabella, Lake, MN 55607]]></description>
         <Point><coordinates>-91.6486057777778,47.6932299444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17636-A</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: Big Horn
+      AGL: 276
+      Tower Type: Self Support
+      Address: 923 11th Avenue, Arkdale, Adams, WI 54613]]></description>
+        <Point><coordinates>-89.8002633333333,44.1235379444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT16926-A</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: Lakeside 3 MT
+      AGL: 151
+      Tower Type: Self Support
+      Address: 6599 Rising Moon Road, Helena, Lewis and Clark, MT 59602]]></description>
+        <Point><coordinates>-111.738869111111,46.638508,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01249-A</name>
+        <description><![CDATA[Date: 7/14/25 8:25 AM
+      Site Name: Sumter
+      AGL: 483
+      Tower Type: Guyed
+      Address: Boulevard Road @ E. Haven Subd, Sumter, Sumter, SC 29153]]></description>
+        <Point><coordinates>-80.2896385555556,33.8649444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13742-A</name>
+        <description><![CDATA[Date: 7/14/25 8:35 AM
+      Site Name: Westport - Long
+      AGL: 191
+      Tower Type: Self Support
+      Address: 521 American Legion Hwy, Westport, Bristol, MA 02790]]></description>
+        <Point><coordinates>-71.096933,41.6262798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

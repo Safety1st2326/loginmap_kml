@@ -2224,5 +2224,14 @@
       Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
         <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47810-A</name>
+        <description><![CDATA[Date: 7/14/25 4:01 PM
+      Site Name: Ignacio
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1421 1/5 Hwy 359, Richmond, Fort Bend, TX 77469]]></description>
+        <Point><coordinates>-95.7459357777778,29.616075,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2341,5 +2341,23 @@
       Address: 1816 24th Street NE, Grand Forks, Grand Forks, ND 58201]]></description>
         <Point><coordinates>-97.3451857777778,47.9351718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK10894-A</name>
+        <description><![CDATA[Date: 7/14/25 5:07 PM
+      Site Name: South Weatherford
+      AGL: 319
+      Tower Type: Guyed
+      Address: 1131 Highway 54, Weatherford, Washita, OK 73096]]></description>
+        <Point><coordinates>-98.7302243333333,35.4019972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12965-A</name>
+        <description><![CDATA[Date: 7/14/25 5:07 PM
+      Site Name: South Barbourville KY
+      AGL: 341
+      Tower Type: Guyed
+      Address: 4458 South US Highway 25E, Bimble, Knox, KY 40915]]></description>
+        <Point><coordinates>-83.8220243333333,36.8728048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

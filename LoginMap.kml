@@ -2188,5 +2188,14 @@
       Address: 10332 North 2410, Weatherford, Custer, OK 73096]]></description>
         <Point><coordinates>-98.6937941111111,35.5170965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21045-A</name>
+        <description><![CDATA[Date: 7/14/25 3:43 PM
+      Site Name: First United Church
+      AGL: 80
+      Tower Type: Monopole
+      Address: 441-B N Monroe Street, Eagle Pass, Maverick, TX 78852]]></description>
+        <Point><coordinates>-100.501486111111,28.7101027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>SC01196-B</name>
+        <description><![CDATA[Date: 7/14/25 6:04 AM
+      Site Name: Manville
+      AGL: 150
+      Tower Type: Self Support
+      Address: 93 Hawkins Rd, Sumter, Lee, SC 29010]]></description>
+        <Point><coordinates>-80.307275,34.1091333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

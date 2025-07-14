@@ -2395,5 +2395,14 @@
       Address: 1121 Highway 1152, Oakdale, Allen, LA 71463]]></description>
         <Point><coordinates>-92.6787798888889,30.7907718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47997-A</name>
+        <description><![CDATA[Date: 7/14/25 5:42 PM
+      Site Name: Franz-tx
+      AGL: 141
+      Tower Type: Monopole
+      Address: 21900 Franz Rd., Katy, Harris, TX 77449]]></description>
+        <Point><coordinates>-95.7545402777778,29.8093644444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

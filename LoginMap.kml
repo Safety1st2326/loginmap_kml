@@ -550,5 +550,14 @@
       Address: 521 American Legion Hwy, Westport, Bristol, MA 02790]]></description>
         <Point><coordinates>-71.096933,41.6262798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH11040-A</name>
+        <description><![CDATA[Date: 7/14/25 8:49 AM
+      Site Name: Dearman RL
+      AGL: 190
+      Tower Type: Monopole
+      Address: 4133 Cleveland Avenue South, Canton, Stark, OH 44707]]></description>
+        <Point><coordinates>-81.3744882222222,40.749108,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

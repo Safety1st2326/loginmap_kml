@@ -433,5 +433,50 @@
       Address: 26714 Waddingham Rd, LeRay, Jefferson, NY 13637]]></description>
         <Point><coordinates>-75.8397191111111,44.0614277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10664-A</name>
+        <description><![CDATA[Date: 7/14/25 8:22 AM
+      Site Name: Gradyville
+      AGL: 161
+      Tower Type: Guyed
+      Address: 734 Willie Nell Road, Columbia, Adair, KY 42728]]></description>
+        <Point><coordinates>-85.3874052222222,37.0674326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/14/25 8:22 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/14/25 8:23 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/14/25 8:28 AM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17604-A</name>
+        <description><![CDATA[Date: 7/14/25 8:29 AM
+      Site Name: Isabella North
+      AGL: 403
+      Tower Type: Guyed
+      Address: 1367 Wander Road, Isabella, Lake, MN 55607]]></description>
+        <Point><coordinates>-91.6486057777778,47.6932299444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

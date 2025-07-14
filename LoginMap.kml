@@ -937,5 +937,14 @@
       Address: 1443 West Prince Road, Tucson, Pima, AZ 85705]]></description>
         <Point><coordinates>-110.996451361111,32.27139375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22012-A</name>
+        <description><![CDATA[Date: 7/13/25 8:55 PM
+      Site Name: Bluefin
+      AGL: 63
+      Tower Type: Monopalm
+      Address: 7210 North Oracle Road, Tucson, Pima, AZ 85704]]></description>
+        <Point><coordinates>-110.976704666667,32.33764525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2062,5 +2062,50 @@
       Address: 957 131st Street, Pipestone, Pipestone, MN 56164]]></description>
         <Point><coordinates>-96.2738882222222,44.0363885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12172-A</name>
+        <description><![CDATA[Date: 7/14/25 2:56 PM
+      Site Name: County Line 5 FL
+      AGL: 193
+      Tower Type: Monopole
+      Address: 10281  NE State Road 121, Williston, Levy, FL 32696]]></description>
+        <Point><coordinates>-82.4139805555556,29.4804854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK13348-A</name>
+        <description><![CDATA[Date: 7/14/25 3:07 PM
+      Site Name: Norman-Lindsey
+      AGL: 158
+      Tower Type: Monopole
+      Address: 1398 West Lindsey Street, Norman, Cleveland, OK 73069]]></description>
+        <Point><coordinates>-97.4620888888889,35.2033777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47928-A</name>
+        <description><![CDATA[Date: 7/14/25 3:13 PM
+      Site Name: Oak Hills Bowling
+      AGL: 191
+      Tower Type: Monopole
+      Address: 7336 Callaghan Road, SAN ANTONIO, BEXAR, TX 78229]]></description>
+        <Point><coordinates>-98.5605111111111,29.5020305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA05507-A</name>
+        <description><![CDATA[Date: 7/14/25 3:13 PM
+      Site Name: Brushy Hill
+      AGL: 142
+      Tower Type: Self Support
+      Address: State Rd 672, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4861663333333,37.7882524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA05507-A</name>
+        <description><![CDATA[Date: 7/14/25 3:13 PM
+      Site Name: Brushy Hill
+      AGL: 86
+      Tower Type: Guyed
+      Address: State Rd 672, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4866274444445,37.7882524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

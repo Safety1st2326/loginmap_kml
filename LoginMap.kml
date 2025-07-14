@@ -2260,5 +2260,32 @@
       Address: 8920 W. SR 26, Portland, Jay, IN 47371]]></description>
         <Point><coordinates>-85.1491996666667,40.4448802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK16077-A</name>
+        <description><![CDATA[Date: 7/14/25 4:25 PM
+      Site Name: Weatherford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 100 Campus Drive, Weatherford, Custer, OK 73096]]></description>
+        <Point><coordinates>-98.7078361111111,35.5378302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14328-A</name>
+        <description><![CDATA[Date: 7/14/25 4:27 PM
+      Site Name: Vest
+      AGL: 150
+      Tower Type: Monopole
+      Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT12445-S</name>
+        <description><![CDATA[Date: 7/14/25 4:27 PM
+      Site Name: Middletown Springs
+      AGL: 100
+      Tower Type: Monopine
+      Address: 12 McNamara Road, Tinmouth, Rutland, VT 05757]]></description>
+        <Point><coordinates>-73.0821382222222,43.4771382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

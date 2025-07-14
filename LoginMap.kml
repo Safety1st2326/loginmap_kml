@@ -1936,5 +1936,77 @@
       Address: 889 Methodist Street, Carlyle, Clinton, IL 62231]]></description>
         <Point><coordinates>-89.368716,38.6084222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/14/25 2:43 PM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21547-A</name>
+        <description><![CDATA[Date: 7/14/25 2:43 PM
+      Site Name: Cedartown
+      AGL: 331
+      Tower Type: Guyed
+      Address: 616 Lovvorn, Cedartown, Polk, GA 30125]]></description>
+        <Point><coordinates>-85.2282743333333,33.9847052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/14/25 2:43 PM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24166-A</name>
+        <description><![CDATA[Date: 7/14/25 2:44 PM
+      Site Name: Black Creek Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 6253 LowCountry Highway, Yemassee, Colleton, SC 29945]]></description>
+        <Point><coordinates>-80.8553305555556,32.795833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 2:44 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK10889-A</name>
+        <description><![CDATA[Date: 7/14/25 2:46 PM
+      Site Name: East Weatherford
+      AGL: 165
+      Tower Type: Self Support
+      Address: 24434 Lawter Road, Weatherford, Custer, OK 73096]]></description>
+        <Point><coordinates>-98.6442524444444,35.551225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05876-A</name>
+        <description><![CDATA[Date: 7/14/25 2:46 PM
+      Site Name: Woodworth
+      AGL: 190
+      Tower Type: Self Support
+      Address: 31 Castor Plunge Road, Woodworth, Rapides, LA 71485-9706]]></description>
+        <Point><coordinates>-92.4997274444444,31.1470274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX29621-A</name>
+        <description><![CDATA[Date: 7/14/25 2:47 PM
+      Site Name: Wallis, TX
+      AGL: 191
+      Tower Type: Guyed
+      Address: 6918 Marek Street, Wallis, Austin, TX 77485]]></description>
+        <Point><coordinates>-96.0638888888889,29.639083,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

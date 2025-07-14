@@ -838,5 +838,32 @@
       Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
         <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/14/25 10:10 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/14/25 10:08 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 7/14/25 10:13 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

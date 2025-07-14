@@ -2359,5 +2359,14 @@
       Address: 4458 South US Highway 25E, Bimble, Knox, KY 40915]]></description>
         <Point><coordinates>-83.8220243333333,36.8728048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV11097-A</name>
+        <description><![CDATA[Date: 7/14/25 5:01 PM
+      Site Name: Gormley
+      AGL: 301
+      Tower Type: Self Support
+      Address: 1 R.S. Prospect Road, Buckhannon, Upshur, WV 25177]]></description>
+        <Point><coordinates>-80.066891,38.9829076666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

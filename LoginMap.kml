@@ -865,5 +865,131 @@
       Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
         <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI14001-B</name>
+        <description><![CDATA[Date: 7/14/25 10:20 AM
+      Site Name: Marenisco MI
+      AGL: 340
+      Tower Type: Guyed
+      Address: N7304 Stage Coach Road, Marenisco, Gogebic, MI 49947]]></description>
+        <Point><coordinates>-89.5050888888889,46.3610611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO47081-A</name>
+        <description><![CDATA[Date: 7/14/25 10:20 AM
+      Site Name: Tightwad-mo
+      AGL: 250
+      Tower Type: Guyed
+      Address: Highway 7, Warsaw, Benton, MO 65355]]></description>
+        <Point><coordinates>-93.4929746666667,38.2916607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/14/25 10:07 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL03845-B</name>
+        <description><![CDATA[Date: 7/14/25 10:22 AM
+      Site Name: Highway 220
+      AGL: 250
+      Tower Type: Self Support
+      Address: 64 Sleepy Hollow Road, Middleburg, Clay, FL 32068-6865]]></description>
+        <Point><coordinates>-81.7674993333333,30.0965357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13286-A</name>
+        <description><![CDATA[Date: 7/14/25 10:22 AM
+      Site Name: Midrivers- Mexico
+      AGL: 90
+      Tower Type: MonoCross
+      Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
+        <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46326-A</name>
+        <description><![CDATA[Date: 7/14/25 10:23 AM
+      Site Name: Galahad
+      AGL: 146
+      Tower Type: Monopole
+      Address: 1846 Montreal Road, Tucker, Dekalb, GA 30084]]></description>
+        <Point><coordinates>-84.2598777777778,33.8375913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00465-B</name>
+        <description><![CDATA[Date: 7/14/25 10:25 AM
+      Site Name: St George
+      AGL: 300
+      Tower Type: Guyed
+      Address: 133 Quail Run Road, Harleyville, Dorchester, SC 29448-3418]]></description>
+        <Point><coordinates>-80.5470635555556,33.2636694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI13248-A</name>
+        <description><![CDATA[Date: 7/14/25 10:25 AM
+      Site Name: Holly
+      AGL: 422
+      Tower Type: Guyed
+      Address: 8375 E. Holly Road, Holly, Oakland, MI 48442]]></description>
+        <Point><coordinates>-83.5347218888889,42.7838885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA03251-S</name>
+        <description><![CDATA[Date: 7/14/25 10:25 AM
+      Site Name: Matoaca
+      AGL: 199
+      Tower Type: Monopole
+      Address: 8501 Reedy Branch Road, Chesterfield, Chesterfield, VA 23838-5429]]></description>
+        <Point><coordinates>-77.5355052222222,37.2968607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15965-A</name>
+        <description><![CDATA[Date: 7/14/25 10:25 AM
+      Site Name: Sunshine
+      AGL: 278
+      Tower Type: Self Support
+      Address: 1088 Sunshine Avenue, Central City, Somerset, PA 15926]]></description>
+        <Point><coordinates>-78.7981496666667,40.1139277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI13248-A</name>
+        <description><![CDATA[Date: 7/14/25 10:26 AM
+      Site Name: Holly
+      AGL: 422
+      Tower Type: Guyed
+      Address: 8375 E. Holly Road, Holly, Oakland, MI 48442]]></description>
+        <Point><coordinates>-83.5347218888889,42.7838885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 10:26 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/14/25 10:29 AM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV14968-A</name>
+        <description><![CDATA[Date: 7/14/25 10:29 AM
+      Site Name: Black Mountain
+      AGL: 70
+      Tower Type: Monopalm
+      Address: 540 W. Horizon Ridge Parkway, Henderson, Clark, NV 89012]]></description>
+        <Point><coordinates>-115.005355555556,36.0242993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

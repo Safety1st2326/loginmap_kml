@@ -2008,5 +2008,41 @@
       Address: 6918 Marek Street, Wallis, Austin, TX 77485]]></description>
         <Point><coordinates>-96.0638888888889,29.639083,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45908-A</name>
+        <description><![CDATA[Date: 7/14/25 2:58 PM
+      Site Name: Desert Palms Inn
+      AGL: 55
+      Tower Type: Tree
+      Address: 67-580 East Palm Canyon Drive, Cathedral City, RIverside, CA 92234]]></description>
+        <Point><coordinates>-116.482835444444,33.7906635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00703-B</name>
+        <description><![CDATA[Date: 7/14/25 2:58 PM
+      Site Name: Black Creek
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2364 Lowcountry Hwy, Walterboro, Colleton, SC 29488]]></description>
+        <Point><coordinates>-80.8122944444444,32.7608805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13155-A</name>
+        <description><![CDATA[Date: 7/14/25 2:58 PM
+      Site Name: Marydell
+      AGL: 301
+      Tower Type: Self Support
+      Address: 300 Don Minton Rd., London, Clay/Laurel County, KY 40741]]></description>
+        <Point><coordinates>-83.898058,37.1183104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 2:58 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

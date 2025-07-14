@@ -1684,5 +1684,32 @@
       Address: 1516 East Murdock Street, Wichita, SEDGWICK, KS 67214]]></description>
         <Point><coordinates>-97.3197215555556,37.6980552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/14/25 1:10 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA05506-A</name>
+        <description><![CDATA[Date: 7/14/25 1:19 PM
+      Site Name: McKinley 2 VA
+      AGL: 106
+      Tower Type: Guyed
+      Address: 166 Troxel Gap Road, Middlebrook, Augusta, VA 24459]]></description>
+        <Point><coordinates>-79.329166,38.0423246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM18026-A</name>
+        <description><![CDATA[Date: 7/14/25 1:14 PM
+      Site Name: KBAC
+      AGL: 402
+      Tower Type: Guyed
+      Address: 115 Alden/Estrada Drive, Serafina, San Miguel, NM 87569]]></description>
+        <Point><coordinates>-105.365905555556,35.3718493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

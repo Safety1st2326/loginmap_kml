@@ -1576,5 +1576,113 @@
       Address: 2686 Piedmont Rd NE, Atlanta, Fulton, GA 30324]]></description>
         <Point><coordinates>-84.3688326666667,33.8277354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ40521-T</name>
+        <description><![CDATA[Date: 7/14/25 1:02 PM
+      Site Name: Buckeye Truck Wash
+      AGL: 65
+      Tower Type: Monopole
+      Address: 7455 S. Watson Rd., Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.554083,33.3786663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45209-A</name>
+        <description><![CDATA[Date: 7/14/25 1:02 PM
+      Site Name: Victoria Island
+      AGL: 99
+      Tower Type: Monopole
+      Address: 16021 West Highway 4, Stockton, San Joaquin, CA 95206]]></description>
+        <Point><coordinates>-121.513438888889,37.8907246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05011-A</name>
+        <description><![CDATA[Date: 7/14/25 1:02 PM
+      Site Name: Rocky Valley
+      AGL: 150
+      Tower Type: Monopole
+      Address: 10901 Rocky Valley Dr., Little Rock, Pulaski, AR 72212-3125]]></description>
+        <Point><coordinates>-92.3924857777778,34.7822743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45209-A</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Victoria Island
+      AGL: 99
+      Tower Type: Monopole
+      Address: 16021 West Highway 4, Stockton, San Joaquin, CA 95206]]></description>
+        <Point><coordinates>-121.513438888889,37.8907246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00706-B</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Lafayette
+      AGL: 300
+      Tower Type: Guyed
+      Address: 157 Risher Mountain Road, Walterboro, Colleton, SC 29488-6931]]></description>
+        <Point><coordinates>-80.6722465555556,33.0066972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41640-T</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Goldsby_1
+      AGL: 340
+      Tower Type: Guyed
+      Address: 27747 High Ave, Washington, McClain, OK 73093]]></description>
+        <Point><coordinates>-97.4993357777778,35.1160972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00553-B</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Walterboro
+      AGL: 250
+      Tower Type: Self Support
+      Address: 145 Mount Batten Road, Walterboro, Colleton, SC 29488-5362]]></description>
+        <Point><coordinates>-80.6475218888889,32.8854691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 1:04 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15969-A</name>
+        <description><![CDATA[Date: 7/14/25 1:07 PM
+      Site Name: Aransas Pass
+      AGL: 424
+      Tower Type: Guyed
+      Address: 534 Rabbit Run Rd, Aransas Pass, Aransas, TX 78336]]></description>
+        <Point><coordinates>-97.1317882222222,27.9444996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS21306-A</name>
+        <description><![CDATA[Date: 7/14/25 1:07 PM
+      Site Name: Murdock
+      AGL: 313
+      Tower Type: Self Support
+      Address: 1516 East Murdock Street, Wichita, SEDGWICK, KS 67214]]></description>
+        <Point><coordinates>-97.3197215555556,37.6980552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS21306-A</name>
+        <description><![CDATA[Date: 7/14/25 1:07 PM
+      Site Name: Murdock
+      AGL: 313
+      Tower Type: Self Support
+      Address: 1516 East Murdock Street, Wichita, SEDGWICK, KS 67214]]></description>
+        <Point><coordinates>-97.3197215555556,37.6980552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

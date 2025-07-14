@@ -1432,5 +1432,59 @@
       Address: 3455 N. Indian Canyon Drive, Riverside, Riverside, CA 92262]]></description>
         <Point><coordinates>-116.547224666667,33.8604944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 7/14/25 12:22 PM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 12:25 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24393-A</name>
+        <description><![CDATA[Date: 7/14/25 12:27 PM
+      Site Name: Rutland Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15830 CR675, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.3773937777778,27.574991,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24393-A</name>
+        <description><![CDATA[Date: 7/14/25 12:27 PM
+      Site Name: Rutland Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15830 CR675, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.3773937777778,27.574991,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13448-A</name>
+        <description><![CDATA[Date: 7/14/25 12:27 PM
+      Site Name: Lake Texanna
+      AGL: 320
+      Tower Type: Guyed
+      Address: 5162 Highway 172, Ganado, Jackson, TX 77962]]></description>
+        <Point><coordinates>-96.4885496666667,28.9581194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 12:27 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

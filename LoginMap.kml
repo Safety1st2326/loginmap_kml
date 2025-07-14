@@ -10,5 +10,14 @@
       Address: 93 Hawkins Rd, Sumter, Lee, SC 29010]]></description>
         <Point><coordinates>-80.307275,34.1091333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/14/25 6:10 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

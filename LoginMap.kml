@@ -19,5 +19,41 @@
       Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
         <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 6:24 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48003-A</name>
+        <description><![CDATA[Date: 7/14/25 6:21 AM
+      Site Name: Rio Rancho-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 10830 West Road , Houston, Harris, TX 77064]]></description>
+        <Point><coordinates>-95.5784798888889,29.9116222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 6:24 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10684-A</name>
+        <description><![CDATA[Date: 7/14/25 6:15 AM
+      Site Name: Sparks 2 KY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1441 William Judd Road, Edmonton, Metcalfe, KY 42129]]></description>
+        <Point><coordinates>-85.5147666666667,37.0178354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

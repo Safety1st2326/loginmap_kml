@@ -1855,5 +1855,23 @@
       Address: 905 Fort Hill Lane, Ronceverte, Greenbrier, WV 24970]]></description>
         <Point><coordinates>-80.4647,37.740608,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12049-A</name>
+        <description><![CDATA[Date: 7/14/25 2:04 PM
+      Site Name: Hydro
+      AGL: 191
+      Tower Type: Self Support
+      Address: 603 North Salyer, Hydro, Caddo, OK 73048]]></description>
+        <Point><coordinates>-98.5834163333333,35.5507444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41888-T</name>
+        <description><![CDATA[Date: 7/14/25 2:07 PM
+      Site Name: Hutcherson
+      AGL: 190
+      Tower Type: Monopole
+      Address: 19002 1/2 Mueschke Rd , Tomball, Harris, TX 77375]]></description>
+        <Point><coordinates>-95.7308604444444,30.0471663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

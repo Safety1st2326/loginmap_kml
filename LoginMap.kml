@@ -1873,5 +1873,23 @@
       Address: 19002 1/2 Mueschke Rd , Tomball, Harris, TX 77375]]></description>
         <Point><coordinates>-95.7308604444444,30.0471663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41904-A</name>
+        <description><![CDATA[Date: 7/14/25 2:10 PM
+      Site Name: Huddleston
+      AGL: 180
+      Tower Type: Monopole
+      Address: 104 E. Live Oak, Hungerford, Wharton, TX 77448]]></description>
+        <Point><coordinates>-96.0779715555555,29.3982496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41177-T</name>
+        <description><![CDATA[Date: 7/14/25 2:16 PM
+      Site Name: Green River North
+      AGL: 260
+      Tower Type: Self Support
+      Address: 780 Stray Winds Road, Campbellsville, Taylor, KY 42718]]></description>
+        <Point><coordinates>-85.2841302222222,37.3033666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

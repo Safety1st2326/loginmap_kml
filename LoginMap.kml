@@ -1306,5 +1306,59 @@
       Address: 15049 2/3 Wallisville Rd, Houston, Harris, TX 77049]]></description>
         <Point><coordinates>-95.1699687777778,29.8085138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA48102-A</name>
+        <description><![CDATA[Date: 7/14/25 12:06 PM
+      Site Name: Ferrol
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2116 Little Calf Pasture Highway, Swoope, Augusta, VA 24479]]></description>
+        <Point><coordinates>-79.2851107777778,38.1211382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 12:01 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47502-A</name>
+        <description><![CDATA[Date: 7/14/25 11:54 AM
+      Site Name: Zuck
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25942 Tr 52 , Walhonding, Coshocton, OH 43843]]></description>
+        <Point><coordinates>-82.1900274444445,40.3414163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40594-T</name>
+        <description><![CDATA[Date: 7/14/25 12:06 PM
+      Site Name: IE769 All Valley Storage
+      AGL: 53
+      Tower Type: Monopole
+      Address: 3455 N. Indian Canyon Drive, Riverside, Riverside, CA 92262]]></description>
+        <Point><coordinates>-116.547224666667,33.8604944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47848-A</name>
+        <description><![CDATA[Date: 7/14/25 11:54 AM
+      Site Name: Dugan
+      AGL: 85
+      Tower Type: Monopole
+      Address: 1011C Louisiana Avenue, Corpus Christi, Nueces, TX 78404]]></description>
+        <Point><coordinates>-97.4026944444444,27.7628611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15128-S</name>
+        <description><![CDATA[Date: 7/14/25 12:02 PM
+      Site Name: Cottageville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5929 Red Oak Road, Cottageville, Colleton, SC 29435]]></description>
+        <Point><coordinates>-80.4786301666667,33.0398449444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

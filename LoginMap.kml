@@ -1162,5 +1162,95 @@
       Address: 653 Clifty Creek Road, Jamestown, Russell, KY 42629]]></description>
         <Point><coordinates>-85.0925996666667,36.9251715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC00667-B</name>
+        <description><![CDATA[Date: 7/14/25 11:22 AM
+      Site Name: Southern Ridge
+      AGL: 300
+      Tower Type: Guyed
+      Address: 765 Dukes Street, St. George, Dorchester, SC 29477-2055]]></description>
+        <Point><coordinates>-80.584883,33.1782021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03192-B</name>
+        <description><![CDATA[Date: 7/14/25 11:11 AM
+      Site Name: Ossian
+      AGL: 222
+      Tower Type: Self Support
+      Address: 4306 S. County Line Road, Yoder, Allen, IN 46798-9507]]></description>
+        <Point><coordinates>-85.1909663333333,40.9180632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14894-B</name>
+        <description><![CDATA[Date: 7/14/25 11:25 AM
+      Site Name: Hayward WI
+      AGL: 190
+      Tower Type: Monopole
+      Address: 15997 Dyno Drive, Hayward, Sawyer, WI 54843]]></description>
+        <Point><coordinates>-91.4919024444444,46.0054472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41287-T</name>
+        <description><![CDATA[Date: 7/14/25 11:20 AM
+      Site Name: Algonac Schl District RL
+      AGL: 153
+      Tower Type: Monopole
+      Address: 5200 Taft Rd., Clay, St. Clair, MI 48001]]></description>
+        <Point><coordinates>-82.5835552222222,42.6320271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 11:22 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN10606-B</name>
+        <description><![CDATA[Date: 7/14/25 11:28 AM
+      Site Name: Ft Wayne Anthony Blvd
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1580 Griffin Street, Fort Wayne, Allen, IN 46803]]></description>
+        <Point><coordinates>-85.1175882222222,41.0823604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46325-A</name>
+        <description><![CDATA[Date: 7/14/25 11:28 AM
+      Site Name: Woodside
+      AGL: 86
+      Tower Type: Monopole
+      Address: 4034 Buford Hwy NE, Chamblee, Dekalb, GA 30345]]></description>
+        <Point><coordinates>-84.3095402777778,33.8611333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40710-T</name>
+        <description><![CDATA[Date: 7/14/25 11:28 AM
+      Site Name: SR242 Sunnyslope Florin
+      AGL: 65
+      Tower Type: Slimline Monopole
+      Address: 6621 Florin Rd, Sacramento, Sacramento, CA 95828]]></description>
+        <Point><coordinates>-121.425263222222,38.4965913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40710-T</name>
+        <description><![CDATA[Date: 7/14/25 11:28 AM
+      Site Name: SR242 Sunnyslope Florin
+      AGL: 75
+      Tower Type: Monopole
+      Address: 6621 Florin Rd, Sacramento, Sacramento, CA 95828]]></description>
+        <Point><coordinates>-121.425277111111,38.4966191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT03109-S</name>
+        <description><![CDATA[Date: 7/14/25 11:16 AM
+      Site Name: Oxford 3 CT
+      AGL: 150
+      Tower Type: Monopole
+      Address: 106 Willenbrock Road, Oxford, New Haven, CT 06478-1031]]></description>
+        <Point><coordinates>-73.1465552222222,41.4651055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

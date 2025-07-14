@@ -2287,5 +2287,14 @@
       Address: 12 McNamara Road, Tinmouth, Rutland, VT 05757]]></description>
         <Point><coordinates>-73.0821382222222,43.4771382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46324-A</name>
+        <description><![CDATA[Date: 7/14/25 4:37 PM
+      Site Name: Penney Rd
+      AGL: 118
+      Tower Type: Monopole
+      Address: 410 Lees Mill Rd, Forest Park, Clayton, GA 30297]]></description>
+        <Point><coordinates>-84.4032038888889,33.6053963888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

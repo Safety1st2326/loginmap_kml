@@ -289,5 +289,41 @@
       Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
         <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 7:52 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/14/25 7:52 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00755-B</name>
+        <description><![CDATA[Date: 7/14/25 7:52 AM
+      Site Name: Danny Court
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1023 Cockerill Road, Sumter, Sumter, SC 29154-8893]]></description>
+        <Point><coordinates>-80.3748326666667,33.8670215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/14/25 7:48 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

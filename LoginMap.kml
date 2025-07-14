@@ -613,5 +613,14 @@
       Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
         <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR04958-A</name>
+        <description><![CDATA[Date: 7/14/25 9:01 AM
+      Site Name: Greers Ferry-Wilson
+      AGL: 300
+      Tower Type: Guyed
+      Address: 150 Mitchell Road, Higden, Cleburne, AR 72067]]></description>
+        <Point><coordinates>-92.2351635555556,35.5481441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -208,5 +208,50 @@
       Address: 2750 Crane Mill Road, Alto, Habersham, GA 30531]]></description>
         <Point><coordinates>-83.6223521111111,34.4758271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/14/25 7:31 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13288-A</name>
+        <description><![CDATA[Date: 7/14/25 7:34 AM
+      Site Name: HWY 32 -2
+      AGL: 251
+      Tower Type: Self Support
+      Address: 7936 Highway 32, St. Genevieve, Ste. Genevieve, MO 63670]]></description>
+        <Point><coordinates>-90.3083,37.823591,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL21436-A</name>
+        <description><![CDATA[Date: 7/14/25 7:31 AM
+      Site Name: Nine Mile 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
+        <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 7/14/25 7:37 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 7:25 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

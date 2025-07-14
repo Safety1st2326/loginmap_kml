@@ -1801,5 +1801,59 @@
       Address: 1600 Ute Ave, Grand Junction, Mesa, CO 81501]]></description>
         <Point><coordinates>-108.545316333333,39.0663222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR18357-A</name>
+        <description><![CDATA[Date: 7/14/25 1:51 PM
+      Site Name: Oregon Trail
+      AGL: 150
+      Tower Type: Self Support
+      Address: 551 Stanton Blvd, Ontario, Malheur, OR 97914]]></description>
+        <Point><coordinates>-117.016355555556,44.0815298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV14131-A</name>
+        <description><![CDATA[Date: 7/14/25 1:51 PM
+      Site Name: Ronceverte
+      AGL: 251
+      Tower Type: Self Support
+      Address: 905 Fort Hill Lane, Ronceverte, Greenbrier, WV 24970]]></description>
+        <Point><coordinates>-80.4647,37.740608,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24188-A</name>
+        <description><![CDATA[Date: 7/14/25 1:55 PM
+      Site Name: Hudson's Mill Tower
+      AGL: 301
+      Tower Type: Guyed
+      Address: 723 Hudson Mill Road, Walterboro, Colleton, SC 29488]]></description>
+        <Point><coordinates>-80.7524305555555,32.909475,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/14/25 1:55 PM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12143-A</name>
+        <description><![CDATA[Date: 7/14/25 1:55 PM
+      Site Name: Atlanta Gray School
+      AGL: 145
+      Tower Type: Monopole
+      Address: 384 Northyards Boulevard NW, Atlanta, Fulton, GA 30314]]></description>
+        <Point><coordinates>-84.3985802222222,33.7664277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV14131-A</name>
+        <description><![CDATA[Date: 7/14/25 1:56 PM
+      Site Name: Ronceverte
+      AGL: 251
+      Tower Type: Self Support
+      Address: 905 Fort Hill Lane, Ronceverte, Greenbrier, WV 24970]]></description>
+        <Point><coordinates>-80.4647,37.740608,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

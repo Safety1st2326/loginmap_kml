@@ -2044,5 +2044,23 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20290-A</name>
+        <description><![CDATA[Date: 7/14/25 3:02 PM
+      Site Name: Pipestone Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 957 131st Street, Pipestone, Pipestone, MN 56164]]></description>
+        <Point><coordinates>-96.2738882222222,44.0363885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20290-A</name>
+        <description><![CDATA[Date: 7/14/25 3:02 PM
+      Site Name: Pipestone Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 957 131st Street, Pipestone, Pipestone, MN 56164]]></description>
+        <Point><coordinates>-96.2738882222222,44.0363885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1063,5 +1063,59 @@
       Address: 294 DUNCAN, POCOLA, LE FLORE, OK 74902]]></description>
         <Point><coordinates>-94.4375941111111,35.2783271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 7/14/25 10:44 AM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11112-A</name>
+        <description><![CDATA[Date: 7/14/25 10:52 AM
+      Site Name: Hardine Corner
+      AGL: 226
+      Tower Type: Self Support
+      Address: 699 Mount Olive Road, Heathsville, Northumberland, VA 22743]]></description>
+        <Point><coordinates>-76.3940357777778,37.7921885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20207-A</name>
+        <description><![CDATA[Date: 7/14/25 10:55 AM
+      Site Name: APEX TOWER
+      AGL: 194
+      Tower Type: Self Support
+      Address: 9610 North Interstate Highway 15, Las Vegas, Clark, NV 89128]]></description>
+        <Point><coordinates>-114.931013222222,36.3232882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 7/14/25 10:44 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/14/25 10:59 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 75
+      Tower Type: Slimline Monopole
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332235444444,38.0325687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/14/25 10:59 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 70
+      Tower Type: Monopine
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

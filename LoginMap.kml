@@ -2233,5 +2233,32 @@
       Address: 1421 1/5 Hwy 359, Richmond, Fort Bend, TX 77469]]></description>
         <Point><coordinates>-95.7459357777778,29.616075,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46307-A</name>
+        <description><![CDATA[Date: 7/14/25 4:13 PM
+      Site Name: Aviation Blvd
+      AGL: 90
+      Tower Type: Monopole
+      Address: 165 Aviation Blvd. , Hapeville, Clayton, GA 30354]]></description>
+        <Point><coordinates>-84.3946663333333,33.640583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11598-B</name>
+        <description><![CDATA[Date: 7/14/25 4:13 PM
+      Site Name: San Antonio Bay
+      AGL: 750
+      Tower Type: Guyed
+      Address: 395 Cemetary Road, Seadrift, Calhoun, TX 77983]]></description>
+        <Point><coordinates>-96.7014333333333,28.4202882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08796-A</name>
+        <description><![CDATA[Date: 7/14/25 4:18 PM
+      Site Name: Ridertown
+      AGL: 265
+      Tower Type: Guyed
+      Address: 8920 W. SR 26, Portland, Jay, IN 47371]]></description>
+        <Point><coordinates>-85.1491996666667,40.4448802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2368,5 +2368,32 @@
       Address: 1 R.S. Prospect Road, Buckhannon, Upshur, WV 25177]]></description>
         <Point><coordinates>-80.066891,38.9829076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI20154-A</name>
+        <description><![CDATA[Date: 7/14/25 5:21 PM
+      Site Name: Itasca Yard Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 510 54TH AVENUE, EAST, SUPERIOR, DOUGLAS, WI 54880]]></description>
+        <Point><coordinates>-92.0111111111111,46.6724993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15049-A</name>
+        <description><![CDATA[Date: 7/14/25 5:24 PM
+      Site Name: Port Lavaca
+      AGL: 181
+      Tower Type: Guyed
+      Address: 2206 FM 1090 S, Port Lavaca, Calhoun, TX 77979]]></description>
+        <Point><coordinates>-96.6213937777778,28.5954218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA18346-A</name>
+        <description><![CDATA[Date: 7/14/25 5:27 PM
+      Site Name: Oakdale South
+      AGL: 200
+      Tower Type: Guyed
+      Address: 1121 Highway 1152, Oakdale, Allen, LA 71463]]></description>
+        <Point><coordinates>-92.6787798888889,30.7907718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

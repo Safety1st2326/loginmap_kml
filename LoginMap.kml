@@ -1135,5 +1135,32 @@
       Address: 1771 Briarwood Rd Ne, Atlanta, DeKalb, GA 30329]]></description>
         <Point><coordinates>-84.323666,33.8429718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11412-S</name>
+        <description><![CDATA[Date: 7/14/25 11:14 AM
+      Site Name: Lone Oak 2 TX
+      AGL: 301
+      Tower Type: Self Support
+      Address: 412 Church Street, Lone Oak, Hunt, TX 75453]]></description>
+        <Point><coordinates>-95.936333,32.9937774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20848-A</name>
+        <description><![CDATA[Date: 7/14/25 11:14 AM
+      Site Name: Melia
+      AGL: 300
+      Tower Type: Self Support
+      Address: 18737 Capehart Road, Gretna, Sarpy, NE 68028]]></description>
+        <Point><coordinates>-96.2075,41.1178048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12372-A</name>
+        <description><![CDATA[Date: 7/14/25 11:02 AM
+      Site Name: Freedom 4 KY
+      AGL: 281
+      Tower Type: Guyed
+      Address: 653 Clifty Creek Road, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0925996666667,36.9251715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

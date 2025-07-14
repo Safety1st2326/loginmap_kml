@@ -1360,5 +1360,77 @@
       Address: 5929 Red Oak Road, Cottageville, Colleton, SC 29435]]></description>
         <Point><coordinates>-80.4786301666667,33.0398449444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02621-A</name>
+        <description><![CDATA[Date: 7/14/25 12:10 PM
+      Site Name: Buckhead
+      AGL: 90
+      Tower Type: Monopine
+      Address: 3725 Powers Ferry Road, NW, Atlanta, Fulton, GA 30342-4422]]></description>
+        <Point><coordinates>-84.3834496666667,33.8583027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN05684-S</name>
+        <description><![CDATA[Date: 7/14/25 11:58 AM
+      Site Name: Kouts
+      AGL: 228
+      Tower Type: Monopole
+      Address: 501 E Mentor St, Kouts, Porter, IN 46347]]></description>
+        <Point><coordinates>-87.0205826666667,41.3161111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY17352-A</name>
+        <description><![CDATA[Date: 7/14/25 12:04 PM
+      Site Name: Manchester 13 KY
+      AGL: 347
+      Tower Type: Self Support
+      Address: Old Shamrock Road, Manchester, Clay, KY 40962]]></description>
+        <Point><coordinates>-83.762625,37.1259132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40594-T</name>
+        <description><![CDATA[Date: 7/14/25 12:10 PM
+      Site Name: IE769 All Valley Storage
+      AGL: 53
+      Tower Type: Monopole
+      Address: 3455 N. Indian Canyon Drive, Riverside, Riverside, CA 92262]]></description>
+        <Point><coordinates>-116.547224666667,33.8604944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 7/14/25 12:15 PM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22003-A</name>
+        <description><![CDATA[Date: 7/14/25 12:04 PM
+      Site Name: Okeechobee
+      AGL: 282
+      Tower Type: Guyed
+      Address: 11235 Highway 98 North, Okeechobee, Okeechobee, FL 34972]]></description>
+        <Point><coordinates>-80.9507666666667,27.3474885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45927-A</name>
+        <description><![CDATA[Date: 7/14/25 12:04 PM
+      Site Name: Raikovic Property
+      AGL: 49
+      Tower Type: Tree
+      Address: 1700 N Cerritos, Palm Springs, Riverside, CA 92262]]></description>
+        <Point><coordinates>-116.523266,33.8453496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40594-T</name>
+        <description><![CDATA[Date: 7/14/25 12:16 PM
+      Site Name: IE769 All Valley Storage
+      AGL: 53
+      Tower Type: Monopole
+      Address: 3455 N. Indian Canyon Drive, Riverside, Riverside, CA 92262]]></description>
+        <Point><coordinates>-116.547224666667,33.8604944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

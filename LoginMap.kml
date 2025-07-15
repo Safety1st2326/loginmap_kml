@@ -2080,5 +2080,32 @@
       Address: 5397 Highway 162, Hollywood, Charleston, SC 29449]]></description>
         <Point><coordinates>-80.1904857777778,32.7458163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12602-A</name>
+        <description><![CDATA[Date: 7/15/25 1:29 PM
+      Site Name: Schaller
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2110 Dean Avenue, Schaller, Sac, IA 51053]]></description>
+        <Point><coordinates>-95.2898468888889,42.4876635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA11366-A</name>
+        <description><![CDATA[Date: 7/15/25 1:45 PM
+      Site Name: Winnsboro 2 LA
+      AGL: 251
+      Tower Type: Guyed
+      Address: 1300 Polk Street, Winnsboro, Franklin, LA 71295]]></description>
+        <Point><coordinates>-91.7330132222222,32.1627138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40937-A</name>
+        <description><![CDATA[Date: 7/15/25 1:45 PM
+      Site Name: West McDonough
+      AGL: 140
+      Tower Type: Monopole
+      Address: 213 McDonough Parkway, McDonough, Henry, GA 30253]]></description>
+        <Point><coordinates>-84.167916,33.437583,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

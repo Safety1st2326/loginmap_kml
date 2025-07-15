@@ -91,5 +91,41 @@
       Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
         <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48003-A</name>
+        <description><![CDATA[Date: 7/15/25 6:28 AM
+      Site Name: Rio Rancho-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 10830 West Road , Houston, Harris, TX 77064]]></description>
+        <Point><coordinates>-95.5784798888889,29.9116222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13162-A</name>
+        <description><![CDATA[Date: 7/15/25 6:28 AM
+      Site Name: Cumberland
+      AGL: 252
+      Tower Type: Self Support
+      Address: 165 Highway 90, Parkers Lake, McCreary, KY 42634]]></description>
+        <Point><coordinates>-84.4789437777778,36.8408607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/15/25 6:28 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17642-A</name>
+        <description><![CDATA[Date: 7/15/25 6:22 AM
+      Site Name: Cottonville
+      AGL: 251
+      Tower Type: Self Support
+      Address: 1193 A State Road 21, Friendship, Adams, WI 0]]></description>
+        <Point><coordinates>-89.8142361111111,44.0237021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

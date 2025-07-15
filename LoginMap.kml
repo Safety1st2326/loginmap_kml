@@ -145,5 +145,32 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA10739-A</name>
+        <description><![CDATA[Date: 7/15/25 6:39 AM
+      Site Name: Frye
+      AGL: 399
+      Tower Type: Guyed
+      Address: 5026 Midland Trail, Covington, Alleghany, VA 24426]]></description>
+        <Point><coordinates>-80.1164833333333,37.8146083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13103-A</name>
+        <description><![CDATA[Date: 7/15/25 6:49 AM
+      Site Name: Crane Mill
+      AGL: 259
+      Tower Type: Guyed
+      Address: 2750 Crane Mill Road, Alto, Habersham, GA 30531]]></description>
+        <Point><coordinates>-83.6223521111111,34.4758271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46310-A</name>
+        <description><![CDATA[Date: 7/15/25 6:40 AM
+      Site Name: Iris 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 1920 Highway 42 S, McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.1410274444444,33.3935552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

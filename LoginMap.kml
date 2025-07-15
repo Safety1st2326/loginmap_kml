@@ -1567,5 +1567,41 @@
       Address: 400 McClain Dr., McDonough, Henry, GA 30252]]></description>
         <Point><coordinates>-84.0232771111111,33.4359718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16820-A</name>
+        <description><![CDATA[Date: 7/15/25 10:59 AM
+      Site Name: Thornton 5 GA
+      AGL: 188
+      Tower Type: Monopole
+      Address: 1000 Thornton Rd., Lithia Springs, Douglas, GA 30122]]></description>
+        <Point><coordinates>-84.6118444444444,33.7781465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04795-A</name>
+        <description><![CDATA[Date: 7/15/25 11:15 AM
+      Site Name: Hartford 2 TN
+      AGL: 301
+      Tower Type: Self Support
+      Address: 3552 Mill Creek Road, Hartford, Cocke, TN 37753]]></description>
+        <Point><coordinates>-83.1426774444444,35.8193271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 11:15 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01188-B</name>
+        <description><![CDATA[Date: 7/15/25 11:15 AM
+      Site Name: Green Pond
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12998 Green Pond Highway, Green Pond, Colleton, SC 29446-9020]]></description>
+        <Point><coordinates>-80.6139472222222,32.7169493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

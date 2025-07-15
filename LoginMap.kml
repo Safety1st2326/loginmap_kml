@@ -28,5 +28,14 @@
       Address: 9096 West Highway 90, Monticello, Wayne, KY 42633]]></description>
         <Point><coordinates>-84.9426524444444,36.7790548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 5:27 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

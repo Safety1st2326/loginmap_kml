@@ -1846,5 +1846,50 @@
       Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
         <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI12085-B</name>
+        <description><![CDATA[Date: 7/15/25 12:22 PM
+      Site Name: Ewen
+      AGL: 251
+      Tower Type: Guyed
+      Address: 13321 Hall Road, Ewen, Ontonagon, MI 49925]]></description>
+        <Point><coordinates>-89.2465524444444,46.5246937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01186-B</name>
+        <description><![CDATA[Date: 7/15/25 12:31 PM
+      Site Name: Jacksonboro
+      AGL: 300
+      Tower Type: Self Support
+      Address: 146 Hope Plantation Lane, Jacksonboro, Colleton, SC 29452]]></description>
+        <Point><coordinates>-80.4561833333333,32.7683965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02632-A</name>
+        <description><![CDATA[Date: 7/15/25 12:30 PM
+      Site Name: Cobb Highway 5
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3920 South Hurt Rd SW, Smyrna, Cobb, GA 30082-3521]]></description>
+        <Point><coordinates>-84.5687493333333,33.8573611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA15009-A</name>
+        <description><![CDATA[Date: 7/15/25 12:25 PM
+      Site Name: Sizemore III
+      AGL: 196
+      Tower Type: Self Support
+      Address: 1923 Selma Low-Moor Road, Low Moor, Alleghany, VA 24457]]></description>
+        <Point><coordinates>-79.8643194444444,37.8009388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46373-A</name>
+        <description><![CDATA[Date: 7/15/25 12:34 PM
+      Site Name: Sowell
+      AGL: 162
+      Tower Type: Monopole
+      Address: 1638 Hwy 81 E, McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.0994357777778,33.4254771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

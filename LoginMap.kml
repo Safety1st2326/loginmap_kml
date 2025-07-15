@@ -2611,5 +2611,41 @@
       Address: 885 HIGHWAY 57, BRUSSELS, DOOR, WI 54204]]></description>
         <Point><coordinates>-87.6874996666667,44.7152777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45535-A</name>
+        <description><![CDATA[Date: 7/15/25 5:39 PM
+      Site Name: Dillon
+      AGL: 103
+      Tower Type: Monopole
+      Address: 22980 Palm Drive, Cathedral City, Riverside, CA 92234]]></description>
+        <Point><coordinates>-116.499746888889,33.8814326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15973-A</name>
+        <description><![CDATA[Date: 7/15/25 5:45 PM
+      Site Name: Kirby Bluff
+      AGL: 499
+      Tower Type: Guyed
+      Address: 12435 Red Bluff Rd., Pasadena, Harris, TX 77580]]></description>
+        <Point><coordinates>-95.0536444444444,29.5934413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47981-A</name>
+        <description><![CDATA[Date: 7/15/25 5:44 PM
+      Site Name: Cypress Creek
+      AGL: 190
+      Tower Type: Self Support
+      Address: 7321 Carl Rd, Spring, Harris, TX 77373]]></description>
+        <Point><coordinates>-95.3242076666667,30.0478441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20507-A</name>
+        <description><![CDATA[Date: 7/15/25 5:53 PM
+      Site Name: Carver Park
+      AGL: 99
+      Tower Type: Monopole
+      Address: 707 W. 8th Street, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.628784333333,32.7120452777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

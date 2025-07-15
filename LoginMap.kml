@@ -1954,5 +1954,68 @@
       Address: Bing Hill Road, Adams Run, Charleston, SC 29426]]></description>
         <Point><coordinates>-80.3474913333333,32.7603166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02634-A</name>
+        <description><![CDATA[Date: 7/15/25 1:13 PM
+      Site Name: Powder Springs 2 GA
+      AGL: 178
+      Tower Type: Monopole
+      Address: 4181 Atlanta Street, Powder Springs, Cobb, GA 30127]]></description>
+        <Point><coordinates>-84.6762771111111,33.856,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN46568-A</name>
+        <description><![CDATA[Date: 7/15/25 1:16 PM
+      Site Name: Mississinewa -  Kunkle
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4061 E 500 S, Butler Township, Miami, IN 46970]]></description>
+        <Point><coordinates>-85.9935802222222,40.6921052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20275-A</name>
+        <description><![CDATA[Date: 7/15/25 1:16 PM
+      Site Name: Fisher MN Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 24995 4th St N, Fisher, Polk, MN 56723]]></description>
+        <Point><coordinates>-96.8027777777778,47.8066666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47897-A</name>
+        <description><![CDATA[Date: 7/15/25 1:10 PM
+      Site Name: Plt (Donehue Property)
+      AGL: 121
+      Tower Type: Stealth
+      Address: 880 1/2 Clear Creek Avenue, League City, Galveston, TX 77573]]></description>
+        <Point><coordinates>-95.0857468888889,29.5022722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20505-A</name>
+        <description><![CDATA[Date: 7/15/25 1:01 PM
+      Site Name: Carol High
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1888 S 26th Dr, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.652748333333,32.6931560555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA04528-B</name>
+        <description><![CDATA[Date: 7/15/25 1:05 PM
+      Site Name: Northborough
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 300 W. Main Street, Northborough, Worcester, MA 01532-2132]]></description>
+        <Point><coordinates>-71.6603055555556,42.3081111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08419-A</name>
+        <description><![CDATA[Date: 7/15/25 1:13 PM
+      Site Name: Shady Hills
+      AGL: 178
+      Tower Type: Self Support
+      Address: 18807 Old Shady Hills Road, Spring Hill, Pasco, FL 34610-6735]]></description>
+        <Point><coordinates>-82.5516777777778,28.430766,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

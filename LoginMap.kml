@@ -2647,5 +2647,23 @@
       Address: 707 W. 8th Street, Yuma, Yuma, AZ 85364]]></description>
         <Point><coordinates>-114.628784333333,32.7120452777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ12721-S</name>
+        <description><![CDATA[Date: 7/15/25 6:16 PM
+      Site Name: Yuma 2 UPRR
+      AGL: 61
+      Tower Type: Monopalm
+      Address: 141 S. Gila Street, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.615807777778,32.7248637777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ12721-S</name>
+        <description><![CDATA[Date: 7/15/25 6:16 PM
+      Site Name: Yuma 2 UPRR
+      AGL: 61
+      Tower Type: Monopalm
+      Address: 141 S. Gila Street, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.615807777778,32.7248637777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

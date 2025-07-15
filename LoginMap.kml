@@ -1099,5 +1099,59 @@
       Address: 190 Bucknell Ct., Atlanta, Fulton, GA 30336-2504]]></description>
         <Point><coordinates>-84.5673354444444,33.7410941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL08416-A</name>
+        <description><![CDATA[Date: 7/15/25 9:36 AM
+      Site Name: Port Tampa
+      AGL: 162
+      Tower Type: Monopole
+      Address: 7208 Elliott Street, Tampa, Hillsborough, FL 33616-1906]]></description>
+        <Point><coordinates>-82.533166,27.8615583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45108-A</name>
+        <description><![CDATA[Date: 7/15/25 9:30 AM
+      Site Name: Little Picacho Peak
+      AGL: 200
+      Tower Type: Self Support
+      Address: 23109 Maricopa Road, Gila Bend, Maricopa, AZ 85337]]></description>
+        <Point><coordinates>-112.556425,32.9746048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20036-A</name>
+        <description><![CDATA[Date: 7/15/25 9:42 AM
+      Site Name: Las Vegas Auto Parts -3
+      AGL: 100
+      Tower Type: Monopole
+      Address: 5125 EAST TROPICANA, LAS VEGAS, CLARK, NV 89121]]></description>
+        <Point><coordinates>-115.061594444444,36.0994468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14989-A</name>
+        <description><![CDATA[Date: 7/15/25 9:30 AM
+      Site Name: Intervale
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1019 Mount Pleasant Drive, Covington, Alleghany, VA 24426]]></description>
+        <Point><coordinates>-80.0039722222222,37.849583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/15/25 9:43 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN11052-A</name>
+        <description><![CDATA[Date: 7/15/25 9:43 AM
+      Site Name: Dupont 2 IN
+      AGL: 300
+      Tower Type: Self Support
+      Address: 7227 N. State Road 7, Madison, Jefferson, IN 47250]]></description>
+        <Point><coordinates>-85.4971746666667,38.8400802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

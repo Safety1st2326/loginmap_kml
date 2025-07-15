@@ -2188,5 +2188,68 @@
       Address: 12435 Red Bluff Rd., Pasadena, Harris, TX 77580]]></description>
         <Point><coordinates>-95.0536444444444,29.5934413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20503-A</name>
+        <description><![CDATA[Date: 7/15/25 2:19 PM
+      Site Name: Barkley
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2863 South Pacific Avenue, Yuma, Yuma, AZ 85365]]></description>
+        <Point><coordinates>-114.597721888889,32.6755521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:19 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:19 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12037-A</name>
+        <description><![CDATA[Date: 7/15/25 2:25 PM
+      Site Name: Babbs
+      AGL: 265
+      Tower Type: Guyed
+      Address: 14437 N 2220 Road, Babbs, Kiowa, OK 73651]]></description>
+        <Point><coordinates>-99.026366,34.922591,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46304-A</name>
+        <description><![CDATA[Date: 7/15/25 2:26 PM
+      Site Name: Austell
+      AGL: 149
+      Tower Type: Monopole
+      Address: 3820 Macedonia Road, Powder Springs, Cobb, GA 30127]]></description>
+        <Point><coordinates>-84.6639722222222,33.8768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13088-A</name>
+        <description><![CDATA[Date: 7/15/25 2:26 PM
+      Site Name: Winder
+      AGL: 251
+      Tower Type: Self Support
+      Address: 575 Loganville Highway 81, Winder, Barrow, GA 30680]]></description>
+        <Point><coordinates>-83.7484996666667,33.9673465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40885-T</name>
+        <description><![CDATA[Date: 7/15/25 2:26 PM
+      Site Name: Asbel
+      AGL: 120
+      Tower Type: Monopole
+      Address: 10125 Land O Lakes Blvd, Land O Lakes, Pasco, FL 34639]]></description>
+        <Point><coordinates>-82.5001083333333,28.3047333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

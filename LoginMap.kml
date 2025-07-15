@@ -217,5 +217,77 @@
       Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
         <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY15013-A</name>
+        <description><![CDATA[Date: 7/15/25 7:11 AM
+      Site Name: Tucker 3 KY
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3155 Highway 840, Harlan, Harlan, KY 40806]]></description>
+        <Point><coordinates>-83.360575,36.8512888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21240-A</name>
+        <description><![CDATA[Date: 7/15/25 7:13 AM
+      Site Name: Ypsilanti
+      AGL: 180
+      Tower Type: Self Support
+      Address: 3602 Bemis Road, Ypsilanti, Washtenaw, MI 48197]]></description>
+        <Point><coordinates>-83.6859885555556,42.1709354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME16499-A</name>
+        <description><![CDATA[Date: 7/15/25 7:01 AM
+      Site Name: Dixmont
+      AGL: 201
+      Tower Type: Self Support
+      Address: 123 Peaked Mountain Rd., Dixmont, Penobscot, ME 04932]]></description>
+        <Point><coordinates>-69.0794715555556,44.7022972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 7/15/25 7:16 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17636-A</name>
+        <description><![CDATA[Date: 7/15/25 7:17 AM
+      Site Name: Big Horn
+      AGL: 276
+      Tower Type: Self Support
+      Address: 923 11th Avenue, Arkdale, Adams, WI 54613]]></description>
+        <Point><coordinates>-89.8002633333333,44.1235379444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13710-A</name>
+        <description><![CDATA[Date: 7/15/25 7:19 AM
+      Site Name: American Legion
+      AGL: 108
+      Tower Type: Flagpole
+      Address: 123 Granite Avenue, Milton, Norfolk, MA 02186]]></description>
+        <Point><coordinates>-71.0476857777778,42.2704298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT13063-A</name>
+        <description><![CDATA[Date: 7/15/25 7:19 AM
+      Site Name: Middle Turnpike
+      AGL: 152
+      Tower Type: Monopole
+      Address: 640 Hilliard Street, Manchester, Hartford/Manchester, CT 06040]]></description>
+        <Point><coordinates>-72.5508055555556,41.7844996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08043-B</name>
+        <description><![CDATA[Date: 7/15/25 7:19 AM
+      Site Name: Delta
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3328 Freedom Pkwy, Hardeeville, Jasper, SC 29927]]></description>
+        <Point><coordinates>-81.0302187777778,32.2273354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

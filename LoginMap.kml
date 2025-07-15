@@ -1477,5 +1477,41 @@
       Address: 74580 Varner Road, Thousand Palms, Riverside, CA 92276]]></description>
         <Point><coordinates>-116.360544,33.7987576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12214-A</name>
+        <description><![CDATA[Date: 7/15/25 10:42 AM
+      Site Name: Lakeville 5 MA
+      AGL: 191
+      Tower Type: Monopole
+      Address: 100 Fern Avenue, Lakeville, Plymouth, MA 02347]]></description>
+        <Point><coordinates>-70.9632527777778,41.8577388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20369-A</name>
+        <description><![CDATA[Date: 7/15/25 10:43 AM
+      Site Name: Auburn 5 IN
+      AGL: 290
+      Tower Type: Guyed
+      Address: 414 TAYLOR ROAD, AUBURN, DEKALB, IN 46706]]></description>
+        <Point><coordinates>-85.1199882222222,41.3586388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20501-A</name>
+        <description><![CDATA[Date: 7/15/25 10:46 AM
+      Site Name: Aztec
+      AGL: 250
+      Tower Type: Self Support
+      Address: 74135  COUNTY NORTH 1 1/2 STR, DATELAND, YUMA, AZ 85333]]></description>
+        <Point><coordinates>-113.368666,32.8324715555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 10:47 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

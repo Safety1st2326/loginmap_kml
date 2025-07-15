@@ -2305,5 +2305,23 @@
       Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
         <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/15/25 2:56 PM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20504-A</name>
+        <description><![CDATA[Date: 7/15/25 2:58 PM
+      Site Name: Church Of Christ
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3100 S. Avenue A, Yuma, YUMA, AZ 85364]]></description>
+        <Point><coordinates>-114.636749666667,32.6700826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

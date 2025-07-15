@@ -1891,5 +1891,32 @@
       Address: 1638 Hwy 81 E, McDonough, Henry, GA 30252]]></description>
         <Point><coordinates>-84.0994357777778,33.4254771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45542-A</name>
+        <description><![CDATA[Date: 7/15/25 12:40 PM
+      Site Name: Varner
+      AGL: 64
+      Tower Type: Tree
+      Address: 27900 Date Palm Dr. Vacant Lot, Cathedral City, Riverside, CA 92234]]></description>
+        <Point><coordinates>-116.457916666667,33.8461385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN40132-T</name>
+        <description><![CDATA[Date: 7/15/25 12:40 PM
+      Site Name: Fairview 2 IN
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1630 Grant Line Rd, New Albany, Floyd, IN 47150]]></description>
+        <Point><coordinates>-85.8170687777778,38.3020805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL20147-A</name>
+        <description><![CDATA[Date: 7/15/25 12:40 PM
+      Site Name: Enterprise AL Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1532 Parker Lane, Enterprise, Coffee/Enterprise, AL 36330]]></description>
+        <Point><coordinates>-85.8673354444444,31.3407052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

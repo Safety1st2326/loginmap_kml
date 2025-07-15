@@ -541,5 +541,59 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK10201-A</name>
+        <description><![CDATA[Date: 7/15/25 8:06 AM
+      Site Name: Port Of Dunkin
+      AGL: 300
+      Tower Type: Guyed
+      Address: 22487 Highway 51, Wagoner, Wagoner, OK 74467]]></description>
+        <Point><coordinates>-95.4853107777778,35.9608555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21631-A</name>
+        <description><![CDATA[Date: 7/15/25 8:06 AM
+      Site Name: North Etowah - Hwy 411
+      AGL: 300
+      Tower Type: Self Support
+      Address: 205 COUNTY ROAD 501, ETOWAH, MCMINN, TN 37331]]></description>
+        <Point><coordinates>-84.5159138888889,35.3568888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00495-B</name>
+        <description><![CDATA[Date: 7/15/25 8:07 AM
+      Site Name: Roosevelt
+      AGL: 125
+      Tower Type: Monopole
+      Address: 4875 Rockhill Road, College Park, Fulton, GA 30337-6121]]></description>
+        <Point><coordinates>-84.4868857777778,33.6223576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40024-A</name>
+        <description><![CDATA[Date: 7/15/25 8:02 AM
+      Site Name: Casa Grande_N - Grant
+      AGL: 110
+      Tower Type: Monopole
+      Address: 1411 North Grant Ave, Casa Grande, Pinal, AZ 85222]]></description>
+        <Point><coordinates>-111.781416,32.8866941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA09735-A</name>
+        <description><![CDATA[Date: 7/15/25 8:02 AM
+      Site Name: Marksville South
+      AGL: 150
+      Tower Type: Monopole
+      Address: 156-A Moreau Lane, Mansura, Avoyelles Parish, LA 71350]]></description>
+        <Point><coordinates>-92.0499163333333,31.0930302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14594-B</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Plainville 2 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3657 State Road 13, Wisconsin Dells, Adams, WI 53965]]></description>
+        <Point><coordinates>-89.8189048888889,43.7192354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

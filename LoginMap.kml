@@ -1081,5 +1081,23 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10332-A</name>
+        <description><![CDATA[Date: 7/15/25 9:39 AM
+      Site Name: Raleigh
+      AGL: 250
+      Tower Type: Guyed
+      Address: 17466 NE 85th Street, Williston, Levy, FL 32696]]></description>
+        <Point><coordinates>-82.4834552222222,29.4555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00152-B</name>
+        <description><![CDATA[Date: 7/15/25 9:39 AM
+      Site Name: Bucknell
+      AGL: 250
+      Tower Type: Self Support
+      Address: 190 Bucknell Ct., Atlanta, Fulton, GA 30336-2504]]></description>
+        <Point><coordinates>-84.5673354444444,33.7410941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

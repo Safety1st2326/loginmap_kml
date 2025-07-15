@@ -703,5 +703,86 @@
       Address: 310 Park Meadow Boulevard, Georgetown, Williamson, TX 78628]]></description>
         <Point><coordinates>-97.6900052222222,30.664375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA12014-A</name>
+        <description><![CDATA[Date: 7/15/25 8:25 AM
+      Site Name: Dover Bluff
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1166 Dover Bluff Road, Waverly, Camden, GA 31565]]></description>
+        <Point><coordinates>-81.6063583333333,31.0914996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/15/25 8:27 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21013-A</name>
+        <description><![CDATA[Date: 7/15/25 8:36 AM
+      Site Name: Rosharon
+      AGL: 192
+      Tower Type: Guyed
+      Address: 2330 FM 1462, Rosharon, Brazoria, TX 77583]]></description>
+        <Point><coordinates>-95.4304493333333,29.3505666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12045-A</name>
+        <description><![CDATA[Date: 7/15/25 8:36 AM
+      Site Name: Elk City NE
+      AGL: 85
+      Tower Type: Guyed
+      Address: 10916 Hwy 34, Elk City, Beckham, OK 73644]]></description>
+        <Point><coordinates>-99.3723271111111,35.4337552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21989-S</name>
+        <description><![CDATA[Date: 7/15/25 8:36 AM
+      Site Name: Loop 281 Longview
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3020 Hackney Street, Longview, Harrison, TX 75602]]></description>
+        <Point><coordinates>-94.6725548888889,32.4560944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46346-A</name>
+        <description><![CDATA[Date: 7/15/25 8:41 AM
+      Site Name: Welcome
+      AGL: 191
+      Tower Type: Monopole
+      Address: 4685 Welcome All Road, Atlanta, Fulton, GA 30349]]></description>
+        <Point><coordinates>-84.5300576666667,33.6264715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV47343-A</name>
+        <description><![CDATA[Date: 7/15/25 8:31 AM
+      Site Name: Maycliff
+      AGL: 80
+      Tower Type: Monopole
+      Address: 4001 E Sahara Ave, Las Vegas, Clark, NV 89104]]></description>
+        <Point><coordinates>-115.087305222222,36.1434163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12045-A</name>
+        <description><![CDATA[Date: 7/15/25 8:39 AM
+      Site Name: Elk City NE
+      AGL: 85
+      Tower Type: Guyed
+      Address: 10916 Hwy 34, Elk City, Beckham, OK 73644]]></description>
+        <Point><coordinates>-99.3723271111111,35.4337552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/15/25 8:42 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2467,5 +2467,23 @@
       Address: 7900 FM 521, Palacios, Matagorda, TX 77465]]></description>
         <Point><coordinates>-96.0774437777778,28.7873052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK10129-A</name>
+        <description><![CDATA[Date: 7/14/25 7:15 PM
+      Site Name: Arapaho
+      AGL: 320
+      Tower Type: Guyed
+      Address: 22455 Hwy 33, Custer City, Custer, OK 73639]]></description>
+        <Point><coordinates>-98.9946663333333,35.6393857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16369-A</name>
+        <description><![CDATA[Date: 7/14/25 7:24 PM
+      Site Name: Amarillo
+      AGL: 119
+      Tower Type: Flagpole
+      Address: 7304 SW 34th Street, Amarillo, Randall, TX 79121]]></description>
+        <Point><coordinates>-101.923363222222,35.1780215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

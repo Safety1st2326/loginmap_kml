@@ -478,5 +478,68 @@
       Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
         <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/15/25 7:45 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15843-A</name>
+        <description><![CDATA[Date: 7/15/25 7:39 AM
+      Site Name: Bensalem
+      AGL: 551
+      Tower Type: Self Support
+      Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
+        <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 7/15/25 7:52 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04448-B</name>
+        <description><![CDATA[Date: 7/15/25 7:52 AM
+      Site Name: Sandy Springs
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
+        <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40080-A</name>
+        <description><![CDATA[Date: 7/15/25 7:52 AM
+      Site Name: Howington
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3497 Brockton Road, Jefferson, Jackson, GA 30549]]></description>
+        <Point><coordinates>-83.5121666666667,34.1257771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC13849-A</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Buckwalter
+      AGL: 151
+      Tower Type: Monopole
+      Address: 430 John Smith Lane, Bluffton, Beaufort, SC 29909]]></description>
+        <Point><coordinates>-80.9071305555556,32.2881968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 7:48 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1702,5 +1702,68 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45146-A</name>
+        <description><![CDATA[Date: 7/15/25 11:43 AM
+      Site Name: South Davis
+      AGL: 65
+      Tower Type: Monopole
+      Address: 17-F Aboretum Drive, Davis, Yolo, CA 95616]]></description>
+        <Point><coordinates>-121.742180222222,38.5388468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ21132-A</name>
+        <description><![CDATA[Date: 7/15/25 11:43 AM
+      Site Name: TANQUE ALOMA
+      AGL: 249
+      Tower Type: Self Support
+      Address: 8800 S Avenue 39 3/4 E, Wellton, Yuma, AZ 85352]]></description>
+        <Point><coordinates>-113.957222222222,32.6953885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10653-A</name>
+        <description><![CDATA[Date: 7/15/25 11:47 AM
+      Site Name: Brownlow
+      AGL: 286
+      Tower Type: Guyed
+      Address: 246 Brownlow Tower Road, Grafton, Taylor, WV 26354]]></description>
+        <Point><coordinates>-79.988508,39.3590805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10653-A</name>
+        <description><![CDATA[Date: 7/15/25 11:47 AM
+      Site Name: Brownlow
+      AGL: 286
+      Tower Type: Guyed
+      Address: 246 Brownlow Tower Road, Grafton, Taylor, WV 26354]]></description>
+        <Point><coordinates>-79.988508,39.3590805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/15/25 11:49 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01187-B</name>
+        <description><![CDATA[Date: 7/15/25 11:49 AM
+      Site Name: Ashepoo
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12473 Ace Basin Parkway, Green Pond, Colleton, SC 29446]]></description>
+        <Point><coordinates>-80.5255187777778,32.7616527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 11:49 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

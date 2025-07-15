@@ -1765,5 +1765,14 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02933-S</name>
+        <description><![CDATA[Date: 7/15/25 11:52 AM
+      Site Name: Bishop
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1361 Old Bishop Road, Bishop, Oconee, GA 30621]]></description>
+        <Point><coordinates>-83.4324437777778,33.8271993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

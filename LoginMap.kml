@@ -2503,5 +2503,14 @@
       Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
         <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN41315-T</name>
+        <description><![CDATA[Date: 7/14/25 10:42 PM
+      Site Name: Great River Energy
+      AGL: 70
+      Tower Type: Monopole
+      Address: 15009 95th St NE, Otsego, Wright, MN 55330]]></description>
+        <Point><coordinates>-93.580941,45.2816354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

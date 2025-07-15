@@ -2161,5 +2161,32 @@
       Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
         <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15185-B</name>
+        <description><![CDATA[Date: 7/15/25 2:11 PM
+      Site Name: Olney 4 IL
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3537 N. Drummer Road, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.1547583333333,38.6982163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME10015-A</name>
+        <description><![CDATA[Date: 7/15/25 2:17 PM
+      Site Name: Lewiston 3 ME
+      AGL: 150
+      Tower Type: Guyed
+      Address: 297 Grove Street, Lewiston, Androscoggin, ME 04240]]></description>
+        <Point><coordinates>-70.1413107777778,44.0843218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15973-A</name>
+        <description><![CDATA[Date: 7/15/25 2:17 PM
+      Site Name: Kirby Bluff
+      AGL: 499
+      Tower Type: Guyed
+      Address: 12435 Red Bluff Rd., Pasadena, Harris, TX 77580]]></description>
+        <Point><coordinates>-95.0536444444444,29.5934413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

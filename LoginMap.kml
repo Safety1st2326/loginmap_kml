@@ -595,5 +595,59 @@
       Address: 3657 State Road 13, Wisconsin Dells, Adams, WI 53965]]></description>
         <Point><coordinates>-89.8189048888889,43.7192354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS15264-S</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Rice 5 KS
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1702 N 210th Road, Concordia, Cloud, KS 66901]]></description>
+        <Point><coordinates>-97.5358413333333,39.5564333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA08575-S</name>
+        <description><![CDATA[Date: 7/15/25 8:11 AM
+      Site Name: Callaghan
+      AGL: 251
+      Tower Type: Self Support
+      Address: 9108 Rumsey Road, Covington, Alleghany, VA 24426]]></description>
+        <Point><coordinates>-80.0593694444444,37.7950774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC10785-A</name>
+        <description><![CDATA[Date: 7/15/25 7:58 AM
+      Site Name: Allendale
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2500 Barnwell Road, Allendale, Allendale, SC 29810]]></description>
+        <Point><coordinates>-81.3135777777778,33.0314326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02906-B</name>
+        <description><![CDATA[Date: 7/15/25 8:13 AM
+      Site Name: N Valdosta
+      AGL: 200
+      Tower Type: Monopole
+      Address: 4006 Coleman Rd., Valdosta, Lowndes, GA 31602-6825]]></description>
+        <Point><coordinates>-83.348908,30.8984968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

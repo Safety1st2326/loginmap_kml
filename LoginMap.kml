@@ -334,5 +334,50 @@
       Address: 7530 Correctionville Rd, Lawton, Woodbury, IA 51030]]></description>
         <Point><coordinates>-96.2687132222222,42.4816215555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/15/25 7:31 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 7/15/25 7:32 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 7:34 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01015-B</name>
+        <description><![CDATA[Date: 7/15/25 7:34 AM
+      Site Name: Pritchardville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3792 Okatie Wireless Hwy, Bluffton, Beaufort, SC 29909-3927]]></description>
+        <Point><coordinates>-81.0032055555556,32.2481941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/15/25 7:34 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

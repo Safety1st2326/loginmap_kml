@@ -2251,5 +2251,59 @@
       Address: 10125 Land O Lakes Blvd, Land O Lakes, Pasco, FL 34639]]></description>
         <Point><coordinates>-82.5001083333333,28.3047333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20503-A</name>
+        <description><![CDATA[Date: 7/15/25 2:41 PM
+      Site Name: Barkley
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2863 South Pacific Avenue, Yuma, Yuma, AZ 85365]]></description>
+        <Point><coordinates>-114.597721888889,32.6755521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10287-A</name>
+        <description><![CDATA[Date: 7/15/25 2:41 PM
+      Site Name: PWS
+      AGL: 194
+      Tower Type: Monopole
+      Address: 5311 Macland Road, Powder Springs, Cobb, GA 30127]]></description>
+        <Point><coordinates>-84.7078722222222,33.9019944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10826-A</name>
+        <description><![CDATA[Date: 7/15/25 2:44 PM
+      Site Name: Bucklin
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12154 133 Road, Bucklin, Ford, KS 67834]]></description>
+        <Point><coordinates>-99.6116555555555,37.5936274444445,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21031-A</name>
+        <description><![CDATA[Date: 7/15/25 2:44 PM
+      Site Name: Beaumont Downtown
+      AGL: 193
+      Tower Type: Monopole
+      Address: 345 MAGNOLIA ST., BEAUMONT, JEFFERSON, TX 77701]]></description>
+        <Point><coordinates>-94.1045136111111,30.0846885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:35 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:35 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -973,5 +973,113 @@
       Address: 5725 E. Nichol Road, Deckerville, Sanilac, MI 48427]]></description>
         <Point><coordinates>-82.6063555555556,43.5026638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/15/25 9:20 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00837-B</name>
+        <description><![CDATA[Date: 7/15/25 9:20 AM
+      Site Name: Plummer 2
+      AGL: 188
+      Tower Type: Monopole
+      Address: 2370 Union Road, SW, Atlanta, Fulton, GA 30331-8021]]></description>
+        <Point><coordinates>-84.5793965555555,33.6901663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/15/25 9:20 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00795-B</name>
+        <description><![CDATA[Date: 7/15/25 9:08 AM
+      Site Name: Merk Road
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3595 Union Road, College Park, Fulton, GA 30349-1243]]></description>
+        <Point><coordinates>-84.5674548888889,33.6574777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12018-A</name>
+        <description><![CDATA[Date: 7/15/25 9:22 AM
+      Site Name: Kinlaw
+      AGL: 301
+      Tower Type: Guyed
+      Address: 8772 US Hwy 17, Kingsland, Camden, GA 31548]]></description>
+        <Point><coordinates>-81.7017611111111,30.8681604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11471-B</name>
+        <description><![CDATA[Date: 7/15/25 9:22 AM
+      Site Name: Perry Parkway
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1901 Highway 127, Perry, Houston, GA 31069]]></description>
+        <Point><coordinates>-83.7023611111111,32.4777493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12018-A</name>
+        <description><![CDATA[Date: 7/15/25 9:22 AM
+      Site Name: Kinlaw
+      AGL: 301
+      Tower Type: Guyed
+      Address: 8772 US Hwy 17, Kingsland, Camden, GA 31548]]></description>
+        <Point><coordinates>-81.7017611111111,30.8681604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/15/25 9:08 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL40118-T</name>
+        <description><![CDATA[Date: 7/15/25 9:23 AM
+      Site Name: Didier Farms RL
+      AGL: 70
+      Tower Type: Monopole
+      Address: 16775 W. Aptakisic, Prairie View, Lake, IL 60069]]></description>
+        <Point><coordinates>-87.9609388888889,42.1814382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40885-T</name>
+        <description><![CDATA[Date: 7/15/25 9:25 AM
+      Site Name: Asbel
+      AGL: 120
+      Tower Type: Monopole
+      Address: 10125 Land O Lakes Blvd, Land O Lakes, Pasco, FL 34639]]></description>
+        <Point><coordinates>-82.5001083333333,28.3047333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15290-A</name>
+        <description><![CDATA[Date: 7/15/25 9:28 AM
+      Site Name: Burton
+      AGL: 220
+      Tower Type: Self Support
+      Address: 47 Broad River Wireless Blvd, Burton, Beaufort, SC 29906]]></description>
+        <Point><coordinates>-80.720366,32.4363302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 9:28 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2107,5 +2107,59 @@
       Address: 213 McDonough Parkway, McDonough, Henry, GA 30253]]></description>
         <Point><coordinates>-84.167916,33.437583,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL11174-A</name>
+        <description><![CDATA[Date: 7/15/25 1:55 PM
+      Site Name: Lawlor
+      AGL: 331
+      Tower Type: Guyed
+      Address: 839 Danford Bay Rd, Graceville, Jackson, FL 32440]]></description>
+        <Point><coordinates>-85.527991,30.8971552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH13777-A</name>
+        <description><![CDATA[Date: 7/15/25 1:59 PM
+      Site Name: Hadlock Trust
+      AGL: 179
+      Tower Type: Monopole
+      Address: 893 Birchcroft Drive, Littleton, Grafton, NH 03561]]></description>
+        <Point><coordinates>-71.7782993333333,44.2960941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07250-A</name>
+        <description><![CDATA[Date: 7/15/25 1:50 PM
+      Site Name: Wingo
+      AGL: 310
+      Tower Type: Guyed
+      Address: 255 Magness Rd., Wingo, Graves, KY 42088]]></description>
+        <Point><coordinates>-88.7559527777778,36.6412885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:06 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:06 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 2:06 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

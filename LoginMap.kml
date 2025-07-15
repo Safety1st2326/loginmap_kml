@@ -2494,5 +2494,14 @@
       Address: 35748 Date Palm Dr., Cathedral City, Riverside, CA 92234]]></description>
         <Point><coordinates>-116.456597222222,33.7902107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10048-B</name>
+        <description><![CDATA[Date: 7/14/25 8:00 PM
+      Site Name: Nestoria
+      AGL: 398
+      Tower Type: Guyed
+      Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
+        <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

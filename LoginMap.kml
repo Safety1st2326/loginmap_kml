@@ -2377,5 +2377,23 @@
       Address: 4000 Marginal Road, Charleston, Charleston, SC 29414]]></description>
         <Point><coordinates>-80.0900274444444,32.7997496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13100-A</name>
+        <description><![CDATA[Date: 7/15/25 3:20 PM
+      Site Name: Drowning Creek
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3505 Turkey Xing, Dacula, Gwinnett, GA 30019]]></description>
+        <Point><coordinates>-83.8482191111111,33.9730882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20712-A</name>
+        <description><![CDATA[Date: 7/15/25 3:28 PM
+      Site Name: Hayes 2 LA
+      AGL: 194
+      Tower Type: Guyed
+      Address: 8199 Joe Primeaux Rd., Hayes, Calcasieu, LA 70646]]></description>
+        <Point><coordinates>-92.9280743333333,30.1089861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -10,5 +10,14 @@
       Address: 224 Highway 49S, Byron, Peach, GA 31008]]></description>
         <Point><coordinates>-83.7645555555556,32.6464996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46317-A</name>
+        <description><![CDATA[Date: 7/15/25 5:08 AM
+      Site Name: Luella
+      AGL: 176
+      Tower Type: Monopole
+      Address: 2314 Weems Road, Locust Grove, Henry, GA 30248]]></description>
+        <Point><coordinates>-84.2051388888889,33.3650555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

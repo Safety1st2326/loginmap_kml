@@ -2035,5 +2035,50 @@
       Address: 10833 N. 2245 Road, Clinton, Washita, OK 73647]]></description>
         <Point><coordinates>-98.9885468888889,35.4472468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16945-A</name>
+        <description><![CDATA[Date: 7/15/25 1:33 PM
+      Site Name: Campton 3 GA
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2814 Fannie Thompson Road, Monroe, Walton, GA 30656]]></description>
+        <Point><coordinates>-83.7333941111111,33.8661666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40040-A</name>
+        <description><![CDATA[Date: 7/15/25 1:33 PM
+      Site Name: Manteca South
+      AGL: 80
+      Tower Type: Monopole
+      Address: 1759 Moffat Blvd, Manteca, San Joaquin, CA 95336]]></description>
+        <Point><coordinates>-121.188352444444,37.7796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40040-A</name>
+        <description><![CDATA[Date: 7/15/25 1:33 PM
+      Site Name: Manteca South
+      AGL: 80
+      Tower Type: Monopole
+      Address: 1759 Moffat Blvd, Manteca, San Joaquin, CA 95336]]></description>
+        <Point><coordinates>-121.188352444444,37.7796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46263-A</name>
+        <description><![CDATA[Date: 7/15/25 1:33 PM
+      Site Name: Jacksonville Downtown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 743 Houston St, Jacksonville, Duval, FL 32204]]></description>
+        <Point><coordinates>-81.667416,30.3294048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC09719-A</name>
+        <description><![CDATA[Date: 7/15/25 1:34 PM
+      Site Name: Stono Ferry
+      AGL: 190
+      Tower Type: Monopole
+      Address: 5397 Highway 162, Hollywood, Charleston, SC 29449]]></description>
+        <Point><coordinates>-80.1904857777778,32.7458163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

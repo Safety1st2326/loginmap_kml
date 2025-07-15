@@ -1189,5 +1189,86 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47557-A</name>
+        <description><![CDATA[Date: 7/15/25 9:49 AM
+      Site Name: Fryburg
+      AGL: 250
+      Tower Type: Self Support
+      Address: 900 Industrial Drive, Wapakoneta, Auglaize, OH 45895]]></description>
+        <Point><coordinates>-84.1820354444445,40.5594444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA08325-S</name>
+        <description><![CDATA[Date: 7/15/25 9:49 AM
+      Site Name: Lake Powell
+      AGL: 120
+      Tower Type: Monopole
+      Address: 4311 John Tyler Hwy, Williamsburg, WILLIAMSBURG/James City, VA 23185]]></description>
+        <Point><coordinates>-76.7698715555556,37.2465357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41899-T</name>
+        <description><![CDATA[Date: 7/15/25 9:50 AM
+      Site Name: Car Wash-Albury Dr
+      AGL: 61
+      Tower Type: Monopole
+      Address: 11121 2/3 Albury Dr [E911], Houston, Harris, TX 77096]]></description>
+        <Point><coordinates>-95.4976663333333,29.6585555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41606-T</name>
+        <description><![CDATA[Date: 7/15/25 10:08 AM
+      Site Name: NW Neighborhood
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1605 North Portland Avenue, Oklahoma City, Oklahoma, OK 73107]]></description>
+        <Point><coordinates>-97.5836135555556,35.485483,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41184-T</name>
+        <description><![CDATA[Date: 7/15/25 10:08 AM
+      Site Name: Flaherty
+      AGL: 220
+      Tower Type: Self Support
+      Address: 4670 Hwy 60, Flaherty, Meade, KY 40175]]></description>
+        <Point><coordinates>-86.06117,37.8856663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC13850-A</name>
+        <description><![CDATA[Date: 7/15/25 10:09 AM
+      Site Name: Burton Wells
+      AGL: 145
+      Tower Type: Monopole
+      Address: 20 Burton Wells Road, Beaufort, Beaufort, SC 29902]]></description>
+        <Point><coordinates>-80.7586944444444,32.431441,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK09242-A</name>
+        <description><![CDATA[Date: 7/15/25 10:08 AM
+      Site Name: Berlin 3 OK
+      AGL: 322
+      Tower Type: Guyed
+      Address: 10550 US Hwy 283, Sayre, Roger Mills, OK 73662]]></description>
+        <Point><coordinates>-99.6526388888889,35.4283826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 10:08 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20290-A</name>
+        <description><![CDATA[Date: 7/15/25 10:08 AM
+      Site Name: Pipestone Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 957 131st Street, Pipestone, Pipestone, MN 56164]]></description>
+        <Point><coordinates>-96.2738882222222,44.0363885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

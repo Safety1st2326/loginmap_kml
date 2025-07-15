@@ -1513,5 +1513,32 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI12085-B</name>
+        <description><![CDATA[Date: 7/15/25 10:53 AM
+      Site Name: Ewen
+      AGL: 251
+      Tower Type: Guyed
+      Address: 13321 Hall Road, Ewen, Ontonagon, MI 49925]]></description>
+        <Point><coordinates>-89.2465524444444,46.5246937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13082-A</name>
+        <description><![CDATA[Date: 7/15/25 10:56 AM
+      Site Name: Graceville
+      AGL: 320
+      Tower Type: Guyed
+      Address: 5107 Smokey Road, Graceville, Jackson, FL 32440]]></description>
+        <Point><coordinates>-85.4814993333333,30.9394996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47132-A</name>
+        <description><![CDATA[Date: 7/15/25 10:58 AM
+      Site Name: Austin Pond
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2842 Nc Hwy. 42 West, Clayton, Johnston, NC 27520]]></description>
+        <Point><coordinates>-78.5215568333333,35.6232562777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

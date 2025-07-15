@@ -2512,5 +2512,23 @@
       Address: 1310 New Hope Road, Lawrenceville, Gwinnett, GA 30045]]></description>
         <Point><coordinates>-83.9386274444444,33.9311576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL21367-A</name>
+        <description><![CDATA[Date: 7/15/25 4:15 PM
+      Site Name: I-20 Exit 188
+      AGL: 90
+      Tower Type: Flagpole
+      Address: 930 Golden Springs Road, Anniston, Calhoun, AL 36207]]></description>
+        <Point><coordinates>-85.7872968888889,33.6328687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12372-A</name>
+        <description><![CDATA[Date: 7/15/25 4:19 PM
+      Site Name: Freedom 4 KY
+      AGL: 281
+      Tower Type: Guyed
+      Address: 653 Clifty Creek Road, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0925996666667,36.9251715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

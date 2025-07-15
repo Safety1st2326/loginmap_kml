@@ -2575,5 +2575,23 @@
       Address: 9206 Hwy 146, Mont Belvieu, Chambers, TX 77520]]></description>
         <Point><coordinates>-94.8971802222222,29.8266604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13439-A</name>
+        <description><![CDATA[Date: 7/15/25 5:06 PM
+      Site Name: Thrill Hill
+      AGL: 494
+      Tower Type: Guyed
+      Address: 1487 Thrill Hill Drive, Harper, Gillespie, TX 78631]]></description>
+        <Point><coordinates>-99.2954996666667,30.1923552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20505-A</name>
+        <description><![CDATA[Date: 7/15/25 5:01 PM
+      Site Name: Carol High
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1888 S 26th Dr, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.652748333333,32.6931560555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

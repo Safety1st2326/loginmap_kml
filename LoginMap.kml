@@ -82,5 +82,14 @@
       Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
         <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10961-A</name>
+        <description><![CDATA[Date: 7/15/25 6:07 AM
+      Site Name: Bass
+      AGL: 251
+      Tower Type: Self Support
+      Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
+        <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

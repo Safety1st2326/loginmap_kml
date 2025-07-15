@@ -37,5 +37,23 @@
       Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
         <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC10798-A</name>
+        <description><![CDATA[Date: 7/15/25 5:27 AM
+      Site Name: East Ridgeland
+      AGL: 301
+      Tower Type: Self Support
+      Address: 4408 Old House Road, Ridgeland, Jasper, SC 29936]]></description>
+        <Point><coordinates>-80.9012416666667,32.4599388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/15/25 5:36 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

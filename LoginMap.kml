@@ -2017,5 +2017,23 @@
       Address: 18807 Old Shady Hills Road, Spring Hill, Pasco, FL 34610-6735]]></description>
         <Point><coordinates>-82.5516777777778,28.430766,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01184-B</name>
+        <description><![CDATA[Date: 7/15/25 1:20 PM
+      Site Name: Ravenel
+      AGL: 275
+      Tower Type: Self Support
+      Address: 5701 Hwy 165, Ravenel, Charleston, SC 29470-5713]]></description>
+        <Point><coordinates>-80.2481885555556,32.7610888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20881-A</name>
+        <description><![CDATA[Date: 7/15/25 1:24 PM
+      Site Name: Clinton 3 Ok
+      AGL: 440
+      Tower Type: Guyed
+      Address: 10833 N. 2245 Road, Clinton, Washita, OK 73647]]></description>
+        <Point><coordinates>-98.9885468888889,35.4472468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

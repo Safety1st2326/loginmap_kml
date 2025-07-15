@@ -847,5 +847,131 @@
       Address: 13388 586 Ave., Mapleton, Blue Earth, MN 56065]]></description>
         <Point><coordinates>-93.9393441111111,43.9393163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI14001-B</name>
+        <description><![CDATA[Date: 7/15/25 9:11 AM
+      Site Name: Marenisco MI
+      AGL: 340
+      Tower Type: Guyed
+      Address: N7304 Stage Coach Road, Marenisco, Gogebic, MI 49947]]></description>
+        <Point><coordinates>-89.5050888888889,46.3610611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA07642-A</name>
+        <description><![CDATA[Date: 7/15/25 9:11 AM
+      Site Name: JSPI
+      AGL: 185
+      Tower Type: Monopole
+      Address: 4838 Highway 81, McDonough, Henry, GA 30252-5717]]></description>
+        <Point><coordinates>-83.9948607777778,33.441083,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK13837-A</name>
+        <description><![CDATA[Date: 7/15/25 8:58 AM
+      Site Name: Tenkiller
+      AGL: 270
+      Tower Type: Self Support
+      Address: 30082 South Sizemore Rd, Park Hill, Cherokee, OK 74451]]></description>
+        <Point><coordinates>-94.9749882222222,35.7388746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21742-A</name>
+        <description><![CDATA[Date: 7/15/25 9:13 AM
+      Site Name: Jumpertown Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 10 CR 7151, BOONEVILLE, PRENTISS, MS 38829]]></description>
+        <Point><coordinates>-88.6708604444445,34.7078333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45100-A</name>
+        <description><![CDATA[Date: 7/15/25 8:58 AM
+      Site Name: Mobile
+      AGL: 190
+      Tower Type: Self Support
+      Address: 42807 S. 99th Ave., Maricopa, Pinal County, AZ 85139]]></description>
+        <Point><coordinates>-112.271510444444,33.0571611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20953-A</name>
+        <description><![CDATA[Date: 7/15/25 9:08 AM
+      Site Name: Borgstedt
+      AGL: 152
+      Tower Type: Monopole
+      Address: 17125 TELGE ROAD, CYPRESS, HARRIS, TX 77429]]></description>
+        <Point><coordinates>-95.6582188888889,30.0228046111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/15/25 9:08 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL02610-A</name>
+        <description><![CDATA[Date: 7/15/25 9:08 AM
+      Site Name: Heathland
+      AGL: 183
+      Tower Type: Monopole
+      Address: 5701 Intrepid Cir., Huntsville, Madison, AL 35816]]></description>
+        <Point><coordinates>-86.6600222222222,34.7411718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46908-A</name>
+        <description><![CDATA[Date: 7/15/25 9:11 AM
+      Site Name: Oakwood Drive
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2211 Lake Drive, S.E. , East Grand Rapids, Kent, MI 49506]]></description>
+        <Point><coordinates>-85.6131472222222,42.9488996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 7/15/25 9:18 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21047-A</name>
+        <description><![CDATA[Date: 7/15/25 9:18 AM
+      Site Name: DEL TORO
+      AGL: 165
+      Tower Type: Self Support
+      Address: 12532 North US HWY 277, Eagle Pass, Maverick, TX 78852]]></description>
+        <Point><coordinates>-100.548316333333,28.8658805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE14554-A</name>
+        <description><![CDATA[Date: 7/15/25 9:18 AM
+      Site Name: Waterbury NE
+      AGL: 245
+      Tower Type: Guyed
+      Address: 58897 873 Rd., Waterbury, Dixon, NE 68785]]></description>
+        <Point><coordinates>-96.7622111111111,42.4762326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21047-A</name>
+        <description><![CDATA[Date: 7/15/25 9:18 AM
+      Site Name: DEL TORO
+      AGL: 165
+      Tower Type: Self Support
+      Address: 12532 North US HWY 277, Eagle Pass, Maverick, TX 78852]]></description>
+        <Point><coordinates>-100.548316333333,28.8658805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15909-A</name>
+        <description><![CDATA[Date: 7/15/25 9:19 AM
+      Site Name: Forester
+      AGL: 400
+      Tower Type: Guyed
+      Address: 5725 E. Nichol Road, Deckerville, Sanilac, MI 48427]]></description>
+        <Point><coordinates>-82.6063555555556,43.5026638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

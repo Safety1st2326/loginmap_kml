@@ -1396,5 +1396,86 @@
       Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
         <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA10743-A</name>
+        <description><![CDATA[Date: 7/15/25 10:32 AM
+      Site Name: Loving
+      AGL: 351
+      Tower Type: Guyed
+      Address: 1404 Totten Drive, Covington, Alleghany, VA 24426]]></description>
+        <Point><coordinates>-80.0070694444444,37.7773021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/15/25 10:28 AM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41657-T</name>
+        <description><![CDATA[Date: 7/15/25 10:28 AM
+      Site Name: Nida
+      AGL: 340
+      Tower Type: Guyed
+      Address: 12571 OK Hwy 78 S, Milburn, Johnston, OK 73450]]></description>
+        <Point><coordinates>-96.5365274444444,34.1934385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14498-A</name>
+        <description><![CDATA[Date: 7/15/25 10:28 AM
+      Site Name: Fitzgerald Trust
+      AGL: 195
+      Tower Type: Self Support
+      Address: 100 Fitzgerald Lane, Crewe, Nottoway, VA 23930]]></description>
+        <Point><coordinates>-78.0621555555555,37.1353663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK13832-A</name>
+        <description><![CDATA[Date: 7/15/25 10:34 AM
+      Site Name: Scraper
+      AGL: 301
+      Tower Type: Guyed
+      Address: 3641 N Black Fox Hollow Rd, Kansas, Cherokee, OK 74347]]></description>
+        <Point><coordinates>-94.8187021111111,36.1242632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13619-A</name>
+        <description><![CDATA[Date: 7/15/25 10:34 AM
+      Site Name: Arcadia-West
+      AGL: 252
+      Tower Type: Self Support
+      Address: 2644 NW Tom Mizell Rd, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-82.0048055555555,27.2313326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/15/25 10:39 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47808-A</name>
+        <description><![CDATA[Date: 7/15/25 10:39 AM
+      Site Name: Craighead
+      AGL: 100
+      Tower Type: Monopole
+      Address: 106032 2/3 Craighead DR, Houston, Harris, TX 77025]]></description>
+        <Point><coordinates>-95.4463274444444,29.6661527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40544-T</name>
+        <description><![CDATA[Date: 7/15/25 10:39 AM
+      Site Name: Stage Line
+      AGL: 44
+      Tower Type: Monopole Tree
+      Address: 74580 Varner Road, Thousand Palms, Riverside, CA 92276]]></description>
+        <Point><coordinates>-116.360544,33.7987576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

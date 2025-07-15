@@ -2395,5 +2395,23 @@
       Address: 8199 Joe Primeaux Rd., Hayes, Calcasieu, LA 70646]]></description>
         <Point><coordinates>-92.9280743333333,30.1089861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/15/25 3:34 PM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45176-A</name>
+        <description><![CDATA[Date: 7/15/25 3:26 PM
+      Site Name: North Hwy 17
+      AGL: 59
+      Tower Type: Monopine
+      Address: 895 Thornton Way, San Jose, Santa Clara, CA 95128]]></description>
+        <Point><coordinates>-121.940049666667,37.3105416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

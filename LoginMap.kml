@@ -2422,5 +2422,50 @@
       Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
         <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 3:55 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12061-A</name>
+        <description><![CDATA[Date: 7/15/25 3:55 PM
+      Site Name: Vici -2
+      AGL: 320
+      Tower Type: Guyed
+      Address: 209465 US Hwy 60, Vici, Dewey, OK 73859]]></description>
+        <Point><coordinates>-99.2669771111111,36.1461802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45068-A</name>
+        <description><![CDATA[Date: 7/15/25 3:55 PM
+      Site Name: San Luis
+      AGL: 147
+      Tower Type: Monopole
+      Address: 1311 N. 4th Avenue, San Luis, Yuma, AZ 85349]]></description>
+        <Point><coordinates>-114.777138222222,32.50275,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN21119-A</name>
+        <description><![CDATA[Date: 7/15/25 3:58 PM
+      Site Name: Burlington IN Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 1474 County Road North 1250 W, Kokomo, Howard, IN 46901]]></description>
+        <Point><coordinates>-86.3644444444444,40.4927774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 3:58 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

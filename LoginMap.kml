@@ -172,5 +172,50 @@
       Address: 1920 Highway 42 S, McDonough, Henry, GA 30252]]></description>
         <Point><coordinates>-84.1410274444444,33.3935552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC28144-S</name>
+        <description><![CDATA[Date: 7/15/25 7:06 AM
+      Site Name: Hardeeville
+      AGL: 185
+      Tower Type: Monopole
+      Address: Independence Blvd, Hardeeville, Jasper, SC 29977]]></description>
+        <Point><coordinates>-81.010575,32.3021611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 7:06 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 7/15/25 7:06 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV08612-A</name>
+        <description><![CDATA[Date: 7/15/25 7:07 AM
+      Site Name: Despard
+      AGL: 339
+      Tower Type: Self Support
+      Address: 981 Murphy?s Run Road, Clarksburg, Harrison, WV 26301]]></description>
+        <Point><coordinates>-80.2999357777778,39.2981135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46695-A</name>
+        <description><![CDATA[Date: 7/15/25 6:56 AM
+      Site Name: East Harwich Fire Department
+      AGL: 146
+      Tower Type: Stealth Flagpole
+      Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
+        <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

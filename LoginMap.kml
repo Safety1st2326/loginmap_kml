@@ -1540,5 +1540,32 @@
       Address: 2842 Nc Hwy. 42 West, Clayton, Johnston, NC 27520]]></description>
         <Point><coordinates>-78.5215568333333,35.6232562777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40488-T</name>
+        <description><![CDATA[Date: 7/15/25 11:02 AM
+      Site Name: Beaverton 3 AL
+      AGL: 275
+      Tower Type: Self Support
+      Address: 31703 C.R. 49, Beaverton, Lamar, AL 35544]]></description>
+        <Point><coordinates>-88.0162422222222,33.9222293333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10477-A</name>
+        <description><![CDATA[Date: 7/15/25 11:04 AM
+      Site Name: Johns Manville CO
+      AGL: 188
+      Tower Type: Monopole
+      Address: 1575 River Rd, Fruita, Mesa, CO 81521]]></description>
+        <Point><coordinates>-108.761997222222,39.1658638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46375-A</name>
+        <description><![CDATA[Date: 7/15/25 11:04 AM
+      Site Name: Ola
+      AGL: 195
+      Tower Type: Monopole
+      Address: 400 McClain Dr., McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.0232771111111,33.4359718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

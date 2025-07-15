@@ -649,5 +649,50 @@
       Address: 4006 Coleman Rd., Valdosta, Lowndes, GA 31602-6825]]></description>
         <Point><coordinates>-83.348908,30.8984968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/15/25 8:20 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/15/25 8:17 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/15/25 8:23 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17647-A</name>
+        <description><![CDATA[Date: 7/15/25 8:23 AM
+      Site Name: Draper
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3803 West WI State Highway 70, Draper, Sawyer, WI 54896]]></description>
+        <Point><coordinates>-90.868341,45.8821132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46319-A</name>
+        <description><![CDATA[Date: 7/15/25 8:17 AM
+      Site Name: Charlestown 3 GA
+      AGL: 118
+      Tower Type: Monopole
+      Address: 2700 Charlestown Drive, College Park, Fulton, GA 30337]]></description>
+        <Point><coordinates>-84.4775826666667,33.6462496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

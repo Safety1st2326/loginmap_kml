@@ -1153,5 +1153,41 @@
       Address: 7227 N. State Road 7, Madison, Jefferson, IN 47250]]></description>
         <Point><coordinates>-85.4971746666667,38.8400802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN04803-A</name>
+        <description><![CDATA[Date: 7/15/25 9:46 AM
+      Site Name: Fairfield Glade 2 TN
+      AGL: 307
+      Tower Type: Self Support
+      Address: 129 Dartmoor Drive, Crossville, Cumberland, TN 38558-6211]]></description>
+        <Point><coordinates>-84.8919941111111,36.0124805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02442-S</name>
+        <description><![CDATA[Date: 7/15/25 9:52 AM
+      Site Name: Davis Lake
+      AGL: 275
+      Tower Type: Self Support
+      Address: 635  Potters House Road, Jefferson, Jackson, GA 30549-4214]]></description>
+        <Point><coordinates>-83.5092972222222,34.0639888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21010-A</name>
+        <description><![CDATA[Date: 7/15/25 9:47 AM
+      Site Name: Columbia 6 TX
+      AGL: 199
+      Tower Type: Guyed
+      Address: 2861 CR 30, Angleton, Brazoria, TX 77515]]></description>
+        <Point><coordinates>-95.5148888888889,29.1980996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/15/25 9:59 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

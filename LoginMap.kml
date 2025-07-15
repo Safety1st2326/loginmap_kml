@@ -2323,5 +2323,32 @@
       Address: 3100 S. Avenue A, Yuma, YUMA, AZ 85364]]></description>
         <Point><coordinates>-114.636749666667,32.6700826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 3:02 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15375-A</name>
+        <description><![CDATA[Date: 7/15/25 3:02 PM
+      Site Name: Pilgrims Rest
+      AGL: 300
+      Tower Type: Guyed
+      Address: 40596 Hwy-315, Batesville, Panola, MS 38606]]></description>
+        <Point><coordinates>-89.7704465555556,34.2613638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK10888-A</name>
+        <description><![CDATA[Date: 7/15/25 3:09 PM
+      Site Name: Burns Flat
+      AGL: 181
+      Tower Type: Self Support
+      Address: 408 W. Webb Street, Burns Flat, Washita, OK 73624]]></description>
+        <Point><coordinates>-99.178816,35.3498191111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2350,5 +2350,32 @@
       Address: 408 W. Webb Street, Burns Flat, Washita, OK 73624]]></description>
         <Point><coordinates>-99.178816,35.3498191111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 3:13 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/15/25 3:13 PM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC40284-A</name>
+        <description><![CDATA[Date: 7/15/25 3:13 PM
+      Site Name: Glenn McConnell Pkwy
+      AGL: 150
+      Tower Type: Stealth
+      Address: 4000 Marginal Road, Charleston, Charleston, SC 29414]]></description>
+        <Point><coordinates>-80.0900274444444,32.7997496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

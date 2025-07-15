@@ -2467,5 +2467,50 @@
       Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
         <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC09773-A</name>
+        <description><![CDATA[Date: 7/15/25 3:55 PM
+      Site Name: Cantrell
+      AGL: 146
+      Tower Type: Flagpole
+      Address: 2270 Ashley Crossing Drive, Charleston, Charleston, SC 29414]]></description>
+        <Point><coordinates>-80.0377885555556,32.8115388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40400-T</name>
+        <description><![CDATA[Date: 7/15/25 3:49 PM
+      Site Name: Commo
+      AGL: 200
+      Tower Type: Self Support
+      Address: 16716 Bobcat Trail, Cypress, Harris, TX 77429]]></description>
+        <Point><coordinates>-95.6885274444444,30.0404718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20508-A</name>
+        <description><![CDATA[Date: 7/15/25 4:06 PM
+      Site Name: GADSDEN
+      AGL: 150
+      Tower Type: Self Support
+      Address: HWY. 95-2, GADSDEN, YUMA, AZ 85336]]></description>
+        <Point><coordinates>-114.786471888889,32.5486385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45810-A</name>
+        <description><![CDATA[Date: 7/15/25 4:06 PM
+      Site Name: Sce Alessandro Substation
+      AGL: 57
+      Tower Type: Tree
+      Address: 15091A KITCHING ST , MORENO VALLEY, RIVERSIDE, CA 92551]]></description>
+        <Point><coordinates>-117.217668777778,33.9013527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13102-A</name>
+        <description><![CDATA[Date: 7/15/25 4:06 PM
+      Site Name: New Hope
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1310 New Hope Road, Lawrenceville, Gwinnett, GA 30045]]></description>
+        <Point><coordinates>-83.9386274444444,33.9311576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

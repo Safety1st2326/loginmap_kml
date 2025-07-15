@@ -1774,5 +1774,41 @@
       Address: 1361 Old Bishop Road, Bishop, Oconee, GA 30621]]></description>
         <Point><coordinates>-83.4324437777778,33.8271993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS12758-S</name>
+        <description><![CDATA[Date: 7/15/25 12:02 PM
+      Site Name: Lambert 2 MS
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6150 Charley Pride Highway, Lambert, Quitman, MS 38643]]></description>
+        <Point><coordinates>-90.2951385555556,34.175016,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12044-A</name>
+        <description><![CDATA[Date: 7/15/25 12:08 PM
+      Site Name: Clinton West
+      AGL: 280
+      Tower Type: Guyed
+      Address: 22292 East 1050 Road, Clinton, Custer, OK 73601]]></description>
+        <Point><coordinates>-99.0126194444444,35.4922357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00285-B</name>
+        <description><![CDATA[Date: 7/15/25 12:08 PM
+      Site Name: Indusco
+      AGL: 150
+      Tower Type: Monopole
+      Address: 909 Clay Road, Mableton, Cobb, GA 30126-2269]]></description>
+        <Point><coordinates>-84.580816,33.8253548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10675-A</name>
+        <description><![CDATA[Date: 7/15/25 12:08 PM
+      Site Name: Little Clifty
+      AGL: 300
+      Tower Type: Guyed
+      Address: 150 Providence Church Road, Russell Springs, Adair, KY 42642]]></description>
+        <Point><coordinates>-85.1636472222222,37.0521027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

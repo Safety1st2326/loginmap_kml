@@ -1270,5 +1270,95 @@
       Address: 957 131st Street, Pipestone, Pipestone, MN 56164]]></description>
         <Point><coordinates>-96.2738882222222,44.0363885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46309-A</name>
+        <description><![CDATA[Date: 7/15/25 10:11 AM
+      Site Name: Todd
+      AGL: 194
+      Tower Type: Monopole
+      Address: 582 Riverside Pkwy SW Cell Tower 800, Austell, Cobb, GA 30168]]></description>
+        <Point><coordinates>-84.5735076666667,33.7554694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20500-A</name>
+        <description><![CDATA[Date: 7/15/25 10:12 AM
+      Site Name: Painted Rock 2
+      AGL: 250
+      Tower Type: Self Support
+      Address: 59515 Painted Rock Road Area, Gila Bend, Maricopa, AZ 85337]]></description>
+        <Point><coordinates>-112.983610777778,32.9057222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10657-A</name>
+        <description><![CDATA[Date: 7/15/25 10:15 AM
+      Site Name: Craycraft
+      AGL: 251
+      Tower Type: Guyed
+      Address: 5072 Russell Springs Road, Columbia, Adair, KY 42728]]></description>
+        <Point><coordinates>-85.2229937777778,37.0780187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD41235-T</name>
+        <description><![CDATA[Date: 7/15/25 10:04 AM
+      Site Name: Wood - Clinton PG
+      AGL: 100
+      Tower Type: Monopole
+      Address: 8643 Dangerfield Pl., Clinton, Prince George's, MD 20735]]></description>
+        <Point><coordinates>-76.8529638888889,38.7686437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT11215-A</name>
+        <description><![CDATA[Date: 7/15/25 10:04 AM
+      Site Name: Mt Cobb
+      AGL: 76
+      Tower Type: Monopole
+      Address: 1233 Cobb Hill Road, Moretown, Washington, VT 05660]]></description>
+        <Point><coordinates>-72.737833,44.3046666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00386-S</name>
+        <description><![CDATA[Date: 7/15/25 10:17 AM
+      Site Name: Buckingham Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 5870 Buckingham Road, Fort Myers, Lee, FL 33905-7414]]></description>
+        <Point><coordinates>-81.7313354444445,26.65725,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20369-A</name>
+        <description><![CDATA[Date: 7/15/25 10:18 AM
+      Site Name: Auburn 5 IN
+      AGL: 290
+      Tower Type: Guyed
+      Address: 414 TAYLOR ROAD, AUBURN, DEKALB, IN 46706]]></description>
+        <Point><coordinates>-85.1199882222222,41.3586388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10477-A</name>
+        <description><![CDATA[Date: 7/15/25 10:18 AM
+      Site Name: Johns Manville CO
+      AGL: 188
+      Tower Type: Monopole
+      Address: 1575 River Rd, Fruita, Mesa, CO 81521]]></description>
+        <Point><coordinates>-108.761997222222,39.1658638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02442-S</name>
+        <description><![CDATA[Date: 7/15/25 10:04 AM
+      Site Name: Davis Lake
+      AGL: 275
+      Tower Type: Self Support
+      Address: 635  Potters House Road, Jefferson, Jackson, GA 30549-4214]]></description>
+        <Point><coordinates>-83.5092972222222,34.0639888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02442-S</name>
+        <description><![CDATA[Date: 7/15/25 10:04 AM
+      Site Name: Davis Lake
+      AGL: 275
+      Tower Type: Self Support
+      Address: 635  Potters House Road, Jefferson, Jackson, GA 30549-4214]]></description>
+        <Point><coordinates>-83.5092972222222,34.0639888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

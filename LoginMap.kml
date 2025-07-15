@@ -2530,5 +2530,32 @@
       Address: 653 Clifty Creek Road, Jamestown, Russell, KY 42629]]></description>
         <Point><coordinates>-85.0925996666667,36.9251715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12057-A</name>
+        <description><![CDATA[Date: 7/15/25 4:13 PM
+      Site Name: Retrop
+      AGL: 320
+      Tower Type: Guyed
+      Address: 20292 Hwy 6 Carter, Retrop, Beckham, OK 73627]]></description>
+        <Point><coordinates>-99.3615083333333,35.159475,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47954-A</name>
+        <description><![CDATA[Date: 7/15/25 4:28 PM
+      Site Name: East Argyle-tx
+      AGL: 130
+      Tower Type: Monopole
+      Address: 200 Whitmore Lane, Argyle, Denton, TX 76226]]></description>
+        <Point><coordinates>-97.1265215555556,33.1086583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45070-A</name>
+        <description><![CDATA[Date: 7/15/25 4:27 PM
+      Site Name: Somerton
+      AGL: 98
+      Tower Type: Monopole
+      Address: 3900 West Highway 95, Somerton, Yuma, AZ 85350]]></description>
+        <Point><coordinates>-114.668166,32.5976941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

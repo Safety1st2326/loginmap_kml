@@ -289,5 +289,50 @@
       Address: 3328 Freedom Pkwy, Hardeeville, Jasper, SC 29927]]></description>
         <Point><coordinates>-81.0302187777778,32.2273354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12426-A</name>
+        <description><![CDATA[Date: 7/15/25 7:22 AM
+      Site Name: St James Church
+      AGL: 110
+      Tower Type: Flagpole
+      Address: 1365 Viscaya Drive, Port Charlotte, Charlotte, FL 33952]]></description>
+        <Point><coordinates>-82.1054138888889,27.0076527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH47172-A</name>
+        <description><![CDATA[Date: 7/15/25 7:22 AM
+      Site Name: Winnisquam
+      AGL: 100
+      Tower Type: Stealth
+      Address: 31 Chapman Rd., Tilton, Belknap, NH 03276]]></description>
+        <Point><coordinates>-71.5240493333333,43.4970774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/15/25 7:25 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02438-S</name>
+        <description><![CDATA[Date: 7/15/25 7:28 AM
+      Site Name: Nicholson
+      AGL: 265
+      Tower Type: Self Support
+      Address: 584 Memorial Dr, Nicholson, Jackson, GA 30565-1745]]></description>
+        <Point><coordinates>-83.432916,34.1191743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA10972-A</name>
+        <description><![CDATA[Date: 7/15/25 7:28 AM
+      Site Name: Big Whiskey
+      AGL: 241
+      Tower Type: Self Support
+      Address: 7530 Correctionville Rd, Lawton, Woodbury, IA 51030]]></description>
+        <Point><coordinates>-96.2687132222222,42.4816215555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

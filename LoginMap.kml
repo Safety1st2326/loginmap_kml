@@ -2557,5 +2557,14 @@
       Address: 3900 West Highway 95, Somerton, Yuma, AZ 85350]]></description>
         <Point><coordinates>-114.668166,32.5976941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45070-A</name>
+        <description><![CDATA[Date: 7/15/25 4:43 PM
+      Site Name: Somerton
+      AGL: 98
+      Tower Type: Monopole
+      Address: 3900 West Highway 95, Somerton, Yuma, AZ 85350]]></description>
+        <Point><coordinates>-114.668166,32.5976941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

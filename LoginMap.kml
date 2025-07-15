@@ -784,5 +784,50 @@
       Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
         <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA03512-S</name>
+        <description><![CDATA[Date: 7/15/25 8:52 AM
+      Site Name: Arcade
+      AGL: 210
+      Tower Type: Self Support
+      Address: 3551 Athens Hwy, Jefferson, Jackson, GA 30549-5621]]></description>
+        <Point><coordinates>-83.5515638888889,34.0733465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/15/25 8:52 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46336-A</name>
+        <description><![CDATA[Date: 7/15/25 8:56 AM
+      Site Name: Apple Ridge
+      AGL: 186
+      Tower Type: Monopole
+      Address: 2732 Highway 9 South , Dawsonville, Dawson, GA 30534]]></description>
+        <Point><coordinates>-84.1263326666667,34.3831937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22513-A</name>
+        <description><![CDATA[Date: 7/15/25 8:45 AM
+      Site Name: US-67 & I-280
+      AGL: 131
+      Tower Type: Monopole
+      Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
+        <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC13849-A</name>
+        <description><![CDATA[Date: 7/15/25 8:45 AM
+      Site Name: Buckwalter
+      AGL: 151
+      Tower Type: Monopole
+      Address: 430 John Smith Lane, Bluffton, Beaufort, SC 29909]]></description>
+        <Point><coordinates>-80.9071305555556,32.2881968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

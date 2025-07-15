@@ -2566,5 +2566,14 @@
       Address: 3900 West Highway 95, Somerton, Yuma, AZ 85350]]></description>
         <Point><coordinates>-114.668166,32.5976941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17197-A</name>
+        <description><![CDATA[Date: 7/15/25 4:58 PM
+      Site Name: RV Park
+      AGL: 180
+      Tower Type: Monopole
+      Address: 9206 Hwy 146, Mont Belvieu, Chambers, TX 77520]]></description>
+        <Point><coordinates>-94.8971802222222,29.8266604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

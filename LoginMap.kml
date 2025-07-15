@@ -1837,5 +1837,14 @@
       Address: 12826 Charleston Highway, Walterboro, Colleton, SC 29488]]></description>
         <Point><coordinates>-80.537408,32.8129777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/15/25 12:19 PM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

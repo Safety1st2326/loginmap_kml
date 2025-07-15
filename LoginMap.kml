@@ -19,5 +19,14 @@
       Address: 2314 Weems Road, Locust Grove, Henry, GA 30248]]></description>
         <Point><coordinates>-84.2051388888889,33.3650555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10688-A</name>
+        <description><![CDATA[Date: 7/15/25 5:25 AM
+      Site Name: Zula
+      AGL: 251
+      Tower Type: Guyed
+      Address: 9096 West Highway 90, Monticello, Wayne, KY 42633]]></description>
+        <Point><coordinates>-84.9426524444444,36.7790548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

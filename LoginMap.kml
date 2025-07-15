@@ -1603,5 +1603,50 @@
       Address: 12998 Green Pond Highway, Green Pond, Colleton, SC 29446-9020]]></description>
         <Point><coordinates>-80.6139472222222,32.7169493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22373-S</name>
+        <description><![CDATA[Date: 7/15/25 11:17 AM
+      Site Name: Douglas Ferry
+      AGL: 260
+      Tower Type: Self Support
+      Address: 4173 Douglas Ferry Road, Caryville, Washington, FL 32427]]></description>
+        <Point><coordinates>-85.7379282777778,30.7105036111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21007-A</name>
+        <description><![CDATA[Date: 7/15/25 11:17 AM
+      Site Name: Angleton
+      AGL: 142
+      Tower Type: Guyed
+      Address: 1417 Kiber Road @ CR 428, Angleton, Brazoria, TX 77515]]></description>
+        <Point><coordinates>-95.4095777777778,29.1618555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/15/25 11:23 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 75
+      Tower Type: Slimline Monopole
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332235444444,38.0325687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41105-T</name>
+        <description><![CDATA[Date: 7/15/25 11:23 AM
+      Site Name: Silver Creek 2
+      AGL: 180
+      Tower Type: Monopole
+      Address: 7818 State Road 60, Sellersburg, Clark, IN 47172]]></description>
+        <Point><coordinates>-85.7676798888889,38.3750021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/15/25 11:23 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 70
+      Tower Type: Monopine
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1360,5 +1360,41 @@
       Address: 635  Potters House Road, Jefferson, Jackson, GA 30549-4214]]></description>
         <Point><coordinates>-83.5092972222222,34.0639888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC21108-A</name>
+        <description><![CDATA[Date: 7/15/25 10:15 AM
+      Site Name: Dubose Tower
+      AGL: 124
+      Tower Type: Monopole
+      Address: 3565 Highway 15 North, Sumter, SUMTER, SC 29153]]></description>
+        <Point><coordinates>-80.3206687777778,34.0230715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46302-A</name>
+        <description><![CDATA[Date: 7/15/25 10:22 AM
+      Site Name: Linda Lane-Poorman
+      AGL: 148
+      Tower Type: Monopole
+      Address: 585 Factory Shoals Road, Austell, Douglas, GA 30168]]></description>
+        <Point><coordinates>-84.5948607777778,33.7646666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11427-A</name>
+        <description><![CDATA[Date: 7/15/25 10:26 AM
+      Site Name: Athens 12 GA
+      AGL: 301
+      Tower Type: Self Support
+      Address: 150 Mary Collier Road, Athens, Jackson, GA 30607]]></description>
+        <Point><coordinates>-83.4847441111111,34.0152083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13286-A</name>
+        <description><![CDATA[Date: 7/15/25 10:26 AM
+      Site Name: Midrivers- Mexico
+      AGL: 90
+      Tower Type: MonoCross
+      Address: 7450 Mexico Rd., St. Peters, St. Charles, MO 63376]]></description>
+        <Point><coordinates>-90.6399913333333,38.7904024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

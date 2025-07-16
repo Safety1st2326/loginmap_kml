@@ -2530,5 +2530,77 @@
       Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
         <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10791-A</name>
+        <description><![CDATA[Date: 7/16/25 1:33 PM
+      Site Name: Carters Lake
+      AGL: 302
+      Tower Type: Self Support
+      Address: 6058 Highway 382 West, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.5887191111111,34.6176465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13440-A</name>
+        <description><![CDATA[Date: 7/16/25 1:33 PM
+      Site Name: Batson
+      AGL: 350
+      Tower Type: Guyed
+      Address: 44397 Hwy 105, Batson, Hardin, TX 77564]]></description>
+        <Point><coordinates>-94.6318604444444,30.2505833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11773-A</name>
+        <description><![CDATA[Date: 7/16/25 1:33 PM
+      Site Name: Posey Hill
+      AGL: 194
+      Tower Type: Monopole
+      Address: 12695-A Central Pike, Mt. Juliet, Wilson, TN 37122]]></description>
+        <Point><coordinates>-86.4401135555556,36.1489746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13621-A</name>
+        <description><![CDATA[Date: 7/16/25 1:21 PM
+      Site Name: Balm-Riverview
+      AGL: 200
+      Tower Type: Monopole
+      Address: 11507 Doneymoor Drive, Riverview, Hillsborough, FL 33569]]></description>
+        <Point><coordinates>-82.2828604444445,27.8300548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05880-A</name>
+        <description><![CDATA[Date: 7/16/25 1:35 PM
+      Site Name: Pitkin
+      AGL: 260
+      Tower Type: Guyed
+      Address: 161 Pitkin Hwy., Leesville, Vernon, LA 71446]]></description>
+        <Point><coordinates>-93.2680826666667,31.0323243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46356-A</name>
+        <description><![CDATA[Date: 7/16/25 1:21 PM
+      Site Name: Herrington
+      AGL: 134
+      Tower Type: Monopole
+      Address: 1112 Herrington Rd, Lawrenceville, Gwinnett, GA 30044]]></description>
+        <Point><coordinates>-84.0812215555556,33.9471941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12722-A</name>
+        <description><![CDATA[Date: 7/16/25 1:32 PM
+      Site Name: Frederick
+      AGL: 301
+      Tower Type: Guyed
+      Address: 17851 CRNS 222, Fredrick, Tillman, OK 73542]]></description>
+        <Point><coordinates>-99.0134166666667,34.4269548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN02583-B</name>
+        <description><![CDATA[Date: 7/16/25 1:32 PM
+      Site Name: Madison 3 TN
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1220 Gallatin Pike S, Madison, Davidson, TN 37115]]></description>
+        <Point><coordinates>-86.7227521111111,36.2465135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

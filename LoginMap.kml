@@ -190,5 +190,59 @@
       Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
         <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 5:51 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 5:51 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH02253-S</name>
+        <description><![CDATA[Date: 7/16/25 5:54 AM
+      Site Name: Epsom
+      AGL: 120
+      Tower Type: Flagpole
+      Address: 25 Brimstone Hill Road, Epsom, Merrimack, NH 03234]]></description>
+        <Point><coordinates>-71.3665277777778,43.2288604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC09774-A</name>
+        <description><![CDATA[Date: 7/16/25 5:54 AM
+      Site Name: Northwoods
+      AGL: 147
+      Tower Type: Monopole
+      Address: 7665 Northwoods Blvd, North Charleston, Charleston, SC 29406]]></description>
+        <Point><coordinates>-80.0491413333333,32.9392996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/16/25 5:57 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10961-A</name>
+        <description><![CDATA[Date: 7/16/25 5:59 AM
+      Site Name: Bass
+      AGL: 251
+      Tower Type: Self Support
+      Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
+        <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

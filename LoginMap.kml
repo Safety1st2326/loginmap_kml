@@ -2494,5 +2494,14 @@
       Address: 1008 Nance Lane, Georgetown, Floyd, IN 47122]]></description>
         <Point><coordinates>-85.9359691111111,38.2722298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46305-A</name>
+        <description><![CDATA[Date: 7/16/25 1:02 PM
+      Site Name: Chuck Camp Park
+      AGL: 160
+      Tower Type: Monopole
+      Address: 2270 Benson Pole Road, Smyrna, COBB, GA 300820000]]></description>
+        <Point><coordinates>-84.5451941111111,33.8998607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2467,5 +2467,32 @@
       Address: 920 North Mosely Drive, Stockbridge, Henry, GA 30281]]></description>
         <Point><coordinates>-84.1639444444445,33.5703437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41931-T</name>
+        <description><![CDATA[Date: 7/16/25 12:55 PM
+      Site Name: Wimberly VFW
+      AGL: 195
+      Tower Type: Monopole
+      Address: 375 Jacobs Well Road, Wimberley, Hays, TX 78676]]></description>
+        <Point><coordinates>-98.1063944444444,30.0433135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17604-A</name>
+        <description><![CDATA[Date: 7/16/25 12:58 PM
+      Site Name: Isabella North
+      AGL: 403
+      Tower Type: Guyed
+      Address: 1367 Wander Road, Isabella, Lake, MN 55607]]></description>
+        <Point><coordinates>-91.6486057777778,47.6932299444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN00740-A</name>
+        <description><![CDATA[Date: 7/16/25 12:58 PM
+      Site Name: Georgetown IN 4
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1008 Nance Lane, Georgetown, Floyd, IN 47122]]></description>
+        <Point><coordinates>-85.9359691111111,38.2722298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

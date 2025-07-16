@@ -2728,5 +2728,50 @@
       Address: 196 E. Main Street, Conway, Carroll, NH 3818]]></description>
         <Point><coordinates>-71.11035,43.9800993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46358-A</name>
+        <description><![CDATA[Date: 7/16/25 2:13 PM
+      Site Name: Cross-ga Transmission Substation B
+      AGL: 131
+      Tower Type: Monopole
+      Address: 4156 Satellite Blvd., Duluth, Gwinnett, GA 30026]]></description>
+        <Point><coordinates>-84.1496663333333,33.9485552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 2:17 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 2:17 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 2:17 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 2:17 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

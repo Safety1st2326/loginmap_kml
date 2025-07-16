@@ -3403,5 +3403,14 @@
       Address: 7310 Hwy 29, Bray, Marlow, Stephens, OK 73055]]></description>
         <Point><coordinates>-97.8200882222222,34.637258,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45928-A</name>
+        <description><![CDATA[Date: 7/16/25 6:45 PM
+      Site Name: Mengelkoch Property
+      AGL: 70
+      Tower Type: Tree
+      Address: 79290 Avenue 40, Indio, Riverside, CA 92203]]></description>
+        <Point><coordinates>-116.281207666667,33.7554944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

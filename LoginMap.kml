@@ -2710,5 +2710,14 @@
       Address: 3861 E Nick Ave, Mosinee, Marathon, WI 54455]]></description>
         <Point><coordinates>-89.522741,44.8562611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL17568-A</name>
+        <description><![CDATA[Date: 7/15/25 7:36 PM
+      Site Name: Stanford
+      AGL: 150
+      Tower Type: Self Support
+      Address: 11093 N 150 East Road, Stanford, Mclean, IL 61774]]></description>
+        <Point><coordinates>-89.2368163333333,40.4437302222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

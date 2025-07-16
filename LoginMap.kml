@@ -1216,5 +1216,104 @@
       Address: 4218 Ringgold Road, East Ridge, Hamilton, TN 37412]]></description>
         <Point><coordinates>-85.2425691111111,34.9964135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN21296-A</name>
+        <description><![CDATA[Date: 7/16/25 8:37 AM
+      Site Name: North Hibbing MN Tower
+      AGL: 220
+      Tower Type: Self Support
+      Address: 1210 1st Avenue, Hibbing, St. Louis, MN 55746]]></description>
+        <Point><coordinates>-92.941183,47.4379024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17191-A</name>
+        <description><![CDATA[Date: 7/16/25 8:50 AM
+      Site Name: Crosby 4 TX
+      AGL: 180
+      Tower Type: Self Support
+      Address: 1011 Gum Gully Road, Crosby, Harris, TX 77532]]></description>
+        <Point><coordinates>-95.0992774444444,29.9624388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13173-A</name>
+        <description><![CDATA[Date: 7/16/25 8:41 AM
+      Site Name: Font Hill
+      AGL: 349
+      Tower Type: Guyed
+      Address: 1101 Pine Top Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-84.9131388888889,37.0888274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/16/25 8:47 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09971-B</name>
+        <description><![CDATA[Date: 7/16/25 8:47 AM
+      Site Name: Fly Creek West
+      AGL: 152
+      Tower Type: Monopole
+      Address: 4307 State Hwy 80, Hartwick, Otsego, NY 11348]]></description>
+        <Point><coordinates>-75.0232437777778,42.7340357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/16/25 8:52 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08014-B</name>
+        <description><![CDATA[Date: 7/16/25 8:52 AM
+      Site Name: Driggerstown
+      AGL: 180
+      Tower Type: Monopole
+      Address: 877 College Park Road, Summerville, Berkeley, SC 29483-8609]]></description>
+        <Point><coordinates>-80.0913191111111,33.0288826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20222-A</name>
+        <description><![CDATA[Date: 7/16/25 8:42 AM
+      Site Name: Fredricksberg-San Antonio
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1300 West Woodlawn Avenue, San Antonio, Bexar, TX 78201]]></description>
+        <Point><coordinates>-98.5150744444445,29.4525377777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL20147-A</name>
+        <description><![CDATA[Date: 7/16/25 8:55 AM
+      Site Name: Enterprise AL Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1532 Parker Lane, Enterprise, Coffee/Enterprise, AL 36330]]></description>
+        <Point><coordinates>-85.8673354444444,31.3407052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12187-S</name>
+        <description><![CDATA[Date: 7/16/25 8:41 AM
+      Site Name: Acworth Ball Field GA
+      AGL: 149
+      Tower Type: Monopole
+      Address: 4321 Toccoa Drive NW, Acworth, Cobb, GA 30101]]></description>
+        <Point><coordinates>-84.6641111111111,34.062,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14875-A</name>
+        <description><![CDATA[Date: 7/16/25 8:58 AM
+      Site Name: Hodges Chapel
+      AGL: 80
+      Tower Type: Monopole
+      Address: 115 Hwy 460 E, Pembroke, Giles, VA 24136]]></description>
+        <Point><coordinates>-80.5876774444444,37.3182715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

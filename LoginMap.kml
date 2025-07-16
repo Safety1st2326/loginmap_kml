@@ -2701,5 +2701,14 @@
       Address: 66172 Pierson Blvd, Desert Hot Springs, Riverside, CA 92240]]></description>
         <Point><coordinates>-116.507694444444,33.9618361111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI11225-A</name>
+        <description><![CDATA[Date: 7/15/25 7:21 PM
+      Site Name: Nick Avenue
+      AGL: 136
+      Tower Type: Self Support
+      Address: 3861 E Nick Ave, Mosinee, Marathon, WI 54455]]></description>
+        <Point><coordinates>-89.522741,44.8562611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

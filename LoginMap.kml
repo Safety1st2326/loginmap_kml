@@ -2809,5 +2809,32 @@
       Address: 30970 Old Sour Lake Rd., Sour Lake, Hardin, TX 77659]]></description>
         <Point><coordinates>-94.5013055555556,30.1894163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA07280-A</name>
+        <description><![CDATA[Date: 7/16/25 2:40 PM
+      Site Name: Medford MWV
+      AGL: 240
+      Tower Type: Self Support
+      Address: 124 Murray Street, Medford, Middlesex, MA 02155]]></description>
+        <Point><coordinates>-71.0894441111111,42.4305548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00218-B</name>
+        <description><![CDATA[Date: 7/16/25 2:40 PM
+      Site Name: Indian Trail
+      AGL: 180
+      Tower Type: Monopole
+      Address: 5034 Singleton Rd. NW, Norcross, Gwinnett, GA 30093-2503]]></description>
+        <Point><coordinates>-84.1636861111111,33.9121833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20899-A</name>
+        <description><![CDATA[Date: 7/16/25 2:47 PM
+      Site Name: CACHE
+      AGL: 340
+      Tower Type: Guyed
+      Address: NW 4TH & Walnut, Cache, COMANCHE, OK 73501]]></description>
+        <Point><coordinates>-98.626416,34.6344718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -370,5 +370,41 @@
       Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
         <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08017-B</name>
+        <description><![CDATA[Date: 7/16/25 6:30 AM
+      Site Name: Camp Greg
+      AGL: 160
+      Tower Type: Monopole
+      Address: 5145 Wescott Blvd, Summerville, Dorchester, SC 29845]]></description>
+        <Point><coordinates>-80.1411163333333,32.9432607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10806-A</name>
+        <description><![CDATA[Date: 7/16/25 6:49 AM
+      Site Name: Lanier
+      AGL: 146
+      Tower Type: Monopole
+      Address: 124 Lanier Drive, Statesboro, Bulloch, GA 30458]]></description>
+        <Point><coordinates>-81.7790243333333,32.4163083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY02114-A</name>
+        <description><![CDATA[Date: 7/16/25 6:49 AM
+      Site Name: Bonita
+      AGL: 88
+      Tower Type: Monopole
+      Address: 4995 Buckhaun Courx, Catlettsburg, Boyd, KY 41129]]></description>
+        <Point><coordinates>-82.6548838888889,38.3827443333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/16/25 6:36 AM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

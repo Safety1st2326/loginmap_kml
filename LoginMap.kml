@@ -2683,5 +2683,23 @@
       Address: 15294 US Highway 283, Blair, Jackson, OK 73549]]></description>
         <Point><coordinates>-99.3344246666667,34.7986635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13175-A</name>
+        <description><![CDATA[Date: 7/15/25 7:06 PM
+      Site Name: Russell Springs
+      AGL: 251
+      Tower Type: Monopole
+      Address: 129 Mill Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-85.0720826666667,37.0644166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45926-A</name>
+        <description><![CDATA[Date: 7/15/25 7:18 PM
+      Site Name: Irwin Property
+      AGL: 54
+      Tower Type: Stealth
+      Address: 66172 Pierson Blvd, Desert Hot Springs, Riverside, CA 92240]]></description>
+        <Point><coordinates>-116.507694444444,33.9618361111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

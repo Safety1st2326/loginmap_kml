@@ -280,5 +280,32 @@
       Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
         <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48003-A</name>
+        <description><![CDATA[Date: 7/16/25 6:07 AM
+      Site Name: Rio Rancho-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 10830 West Road , Houston, Harris, TX 77064]]></description>
+        <Point><coordinates>-95.5784798888889,29.9116222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/16/25 6:15 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02355-S</name>
+        <description><![CDATA[Date: 7/16/25 6:15 AM
+      Site Name: Deerfield Landing
+      AGL: 180
+      Tower Type: Monopole
+      Address: 3608 Jonesboro Road, Hampton, Henry, GA 30228-1745]]></description>
+        <Point><coordinates>-84.2727687777778,33.4705826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

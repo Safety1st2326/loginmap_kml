@@ -1846,5 +1846,59 @@
       Address: 12609 Alameda Drive, Strongsville, Cuyahoga, OH 44149-3029]]></description>
         <Point><coordinates>-81.8665277777778,41.323691,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/16/25 10:01 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14876-A</name>
+        <description><![CDATA[Date: 7/16/25 10:14 AM
+      Site Name: Ripplemead
+      AGL: 90
+      Tower Type: Monopole
+      Address: 163 Charles Lane, Ripplemead, Giles, VA 24150]]></description>
+        <Point><coordinates>-80.6705798888889,37.329791,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02188-S</name>
+        <description><![CDATA[Date: 7/16/25 10:09 AM
+      Site Name: Mount Tabor
+      AGL: 190
+      Tower Type: Monopole
+      Address: 5209 Mount Tabor Church Road, Dallas, Paulding, GA 30157-7989]]></description>
+        <Point><coordinates>-84.7742715555556,33.9788326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC13384-A</name>
+        <description><![CDATA[Date: 7/16/25 10:01 AM
+      Site Name: Montmorenci
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3047A Charleston Highway, Montmorenci, Aiken, SC 29839]]></description>
+        <Point><coordinates>-81.6336718888889,33.5279687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10842-A</name>
+        <description><![CDATA[Date: 7/16/25 10:12 AM
+      Site Name: Garden City 2 KS
+      AGL: 260
+      Tower Type: Guyed
+      Address: 2050 South Old 83rd, Garden City, Finney, KS 67846]]></description>
+        <Point><coordinates>-100.882413222222,37.9311993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/16/25 10:17 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

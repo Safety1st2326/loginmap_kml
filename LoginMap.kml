@@ -1900,5 +1900,122 @@
       Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
         <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45146-A</name>
+        <description><![CDATA[Date: 7/16/25 10:07 AM
+      Site Name: South Davis
+      AGL: 65
+      Tower Type: Monopole
+      Address: 17-F Aboretum Drive, Davis, Yolo, CA 95616]]></description>
+        <Point><coordinates>-121.742180222222,38.5388468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15185-B</name>
+        <description><![CDATA[Date: 7/16/25 10:22 AM
+      Site Name: Olney 4 IL
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3537 N. Drummer Road, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.1547583333333,38.6982163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PR05204-A</name>
+        <description><![CDATA[Date: 7/16/25 10:22 AM
+      Site Name: Chupacallos
+      AGL: 200
+      Tower Type: Self Support
+      Address: Barrio Chupacallos y Saca, Ceiba, Ceiba, PR 00735]]></description>
+        <Point><coordinates>-65.6559444444444,18.2675826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT16926-A</name>
+        <description><![CDATA[Date: 7/16/25 10:21 AM
+      Site Name: Lakeside 3 MT
+      AGL: 151
+      Tower Type: Self Support
+      Address: 6599 Rising Moon Road, Helena, Lewis and Clark, MT 59602]]></description>
+        <Point><coordinates>-111.738869111111,46.638508,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC09769-A</name>
+        <description><![CDATA[Date: 7/16/25 10:07 AM
+      Site Name: Liberty Hall
+      AGL: 150
+      Tower Type: Monopole
+      Address: 7397 Henry E Brown Jr Blvd, Goose Creek, Berkeley, SC 29445]]></description>
+        <Point><coordinates>-80.0032722222222,32.9921163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/16/25 10:12 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41674-T</name>
+        <description><![CDATA[Date: 7/16/25 10:24 AM
+      Site Name: Sharon 
+      AGL: 340
+      Tower Type: Guyed
+      Address: 210855 E. County Road 50, Sharon, Woodward, OK 73801]]></description>
+        <Point><coordinates>-99.2500277777778,36.2898968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10670-A</name>
+        <description><![CDATA[Date: 7/16/25 10:24 AM
+      Site Name: Johnson Creek 2 KY
+      AGL: 280
+      Tower Type: Guyed
+      Address: 1602 Connector Road, Ewing, Fleming, KY 41039]]></description>
+        <Point><coordinates>-83.9049666666667,38.4667771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD20005-A</name>
+        <description><![CDATA[Date: 7/16/25 10:24 AM
+      Site Name: Parkton Maryland Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 21131 Old York Road, Parkton, Baltimore, MD 21120]]></description>
+        <Point><coordinates>-76.6345468888889,39.7045472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA16019-B</name>
+        <description><![CDATA[Date: 7/16/25 10:24 AM
+      Site Name: Sedley 2 VA
+      AGL: 195
+      Tower Type: Monopole
+      Address: 17437 Johnson's Mill Road, Sedley, Southampton, VA 23878]]></description>
+        <Point><coordinates>-76.9809437777778,36.7785271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03192-B</name>
+        <description><![CDATA[Date: 7/16/25 10:27 AM
+      Site Name: Ossian
+      AGL: 222
+      Tower Type: Self Support
+      Address: 4306 S. County Line Road, Yoder, Allen, IN 46798-9507]]></description>
+        <Point><coordinates>-85.1909663333333,40.9180632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45335-A</name>
+        <description><![CDATA[Date: 7/16/25 10:27 AM
+      Site Name: Sands Rv
+      AGL: 68
+      Tower Type: Monopine
+      Address: 67650 18th Street, Desert Hot Springs, Riverside, CA 92241]]></description>
+        <Point><coordinates>-116.481499333333,33.9185326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47481-A</name>
+        <description><![CDATA[Date: 7/16/25 10:27 AM
+      Site Name: Savannah 4 OH
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1197 Cr. 575, Ashland, Ashland, OH 44805]]></description>
+        <Point><coordinates>-82.3589111111111,40.9687771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

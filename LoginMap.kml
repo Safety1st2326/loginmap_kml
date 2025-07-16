@@ -136,5 +136,59 @@
       Address: 8801 State Road 674, Lithia, Hillsborough, FL 33547]]></description>
         <Point><coordinates>-82.2384774444444,27.703275,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 5:25 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01407-B</name>
+        <description><![CDATA[Date: 7/16/25 5:46 AM
+      Site Name: Lower Gwynedd
+      AGL: 120
+      Tower Type: Tree
+      Address: 801 Tennis Avenue, Lower Gwynedd, Montgomery, PA 19002]]></description>
+        <Point><coordinates>-75.2095833333333,40.1840274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 5:46 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 5:46 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46215-A</name>
+        <description><![CDATA[Date: 7/16/25 5:42 AM
+      Site Name: Lake Plymouth
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
+        <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46215-A</name>
+        <description><![CDATA[Date: 7/16/25 5:42 AM
+      Site Name: Lake Plymouth
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
+        <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

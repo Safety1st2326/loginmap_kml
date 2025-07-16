@@ -955,5 +955,68 @@
       Address: 1851 N. Main Street, Summerville, Berkeley, SC 29483-7819]]></description>
         <Point><coordinates>-80.1243104444444,33.0415802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC10785-A</name>
+        <description><![CDATA[Date: 7/16/25 7:46 AM
+      Site Name: Allendale
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2500 Barnwell Road, Allendale, Allendale, SC 29810]]></description>
+        <Point><coordinates>-81.3135777777778,33.0314326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN13255-A</name>
+        <description><![CDATA[Date: 7/16/25 7:58 AM
+      Site Name: Eastern Mall
+      AGL: 153
+      Tower Type: Monopole
+      Address: 3220 Highway 10 E, Moorhead, Clay, MN 56560]]></description>
+        <Point><coordinates>-96.7290826666667,46.8783604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>DE40880-T</name>
+        <description><![CDATA[Date: 7/16/25 7:58 AM
+      Site Name: First State Rawland
+      AGL: 90
+      Tower Type: Monopole
+      Address: 1300 First State Blvd, Wilmington, New Castle/Wilmington (All Other), DE 19804]]></description>
+        <Point><coordinates>-75.6369552222222,39.7073472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21240-A</name>
+        <description><![CDATA[Date: 7/16/25 7:45 AM
+      Site Name: Ypsilanti
+      AGL: 180
+      Tower Type: Self Support
+      Address: 3602 Bemis Road, Ypsilanti, Washtenaw, MI 48197]]></description>
+        <Point><coordinates>-83.6859885555556,42.1709354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS15264-S</name>
+        <description><![CDATA[Date: 7/16/25 7:46 AM
+      Site Name: Rice 5 KS
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1702 N 210th Road, Concordia, Cloud, KS 66901]]></description>
+        <Point><coordinates>-97.5358413333333,39.5564333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41948-A</name>
+        <description><![CDATA[Date: 7/16/25 7:48 AM
+      Site Name: Dunn 2 TX
+      AGL: 240
+      Tower Type: Self Support
+      Address: 395 County Rd 370 , Splendora, Liberty, TX 77372]]></description>
+        <Point><coordinates>-95.1226382222222,30.2505277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22549-A</name>
+        <description><![CDATA[Date: 7/16/25 7:49 AM
+      Site Name: Carlyle DT
+      AGL: 171
+      Tower Type: Monopole
+      Address: Abbott Street, Carlyle, Clinton, IL 62231]]></description>
+        <Point><coordinates>-89.3865607777778,38.6235882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

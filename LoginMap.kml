@@ -586,5 +586,104 @@
       Address: 300 FM 161 North, Hughes Spring, Cass, TX 75656]]></description>
         <Point><coordinates>-94.6317582222222,33.0118841666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS04598-B</name>
+        <description><![CDATA[Date: 7/16/25 7:00 AM
+      Site Name: Lake
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3900 Ponderosa Road, Lawrence, Newton, MS 39336]]></description>
+        <Point><coordinates>-89.3064111111111,32.3243298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH47172-A</name>
+        <description><![CDATA[Date: 7/16/25 7:06 AM
+      Site Name: Winnisquam
+      AGL: 100
+      Tower Type: Stealth
+      Address: 31 Chapman Rd., Tilton, Belknap, NH 03276]]></description>
+        <Point><coordinates>-71.5240493333333,43.4970774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12014-A</name>
+        <description><![CDATA[Date: 7/16/25 7:06 AM
+      Site Name: Dover Bluff
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1166 Dover Bluff Road, Waverly, Camden, GA 31565]]></description>
+        <Point><coordinates>-81.6063583333333,31.0914996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/16/25 7:06 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA42023-A</name>
+        <description><![CDATA[Date: 7/16/25 7:00 AM
+      Site Name: MASSAPONAX-SILVER COMPANIES
+      AGL: 171
+      Tower Type: Monopole
+      Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
+        <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10653-A</name>
+        <description><![CDATA[Date: 7/16/25 7:00 AM
+      Site Name: Brownlow
+      AGL: 286
+      Tower Type: Guyed
+      Address: 246 Brownlow Tower Road, Grafton, Taylor, WV 26354]]></description>
+        <Point><coordinates>-79.988508,39.3590805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10653-A</name>
+        <description><![CDATA[Date: 7/16/25 7:00 AM
+      Site Name: Brownlow
+      AGL: 286
+      Tower Type: Guyed
+      Address: 246 Brownlow Tower Road, Grafton, Taylor, WV 26354]]></description>
+        <Point><coordinates>-79.988508,39.3590805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ22176-S</name>
+        <description><![CDATA[Date: 7/16/25 7:13 AM
+      Site Name: Camden 5 NJ
+      AGL: 119
+      Tower Type: Monopole
+      Address: 100 S. 17th Street, Block 1198, Lot 5, Camden, Camden, NJ 08105]]></description>
+        <Point><coordinates>-75.0984357777778,39.9436468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/16/25 7:13 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08338-B</name>
+        <description><![CDATA[Date: 7/16/25 7:15 AM
+      Site Name: Blythewood
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
+        <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 7/16/25 7:15 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

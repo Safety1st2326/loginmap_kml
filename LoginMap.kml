@@ -2116,5 +2116,86 @@
       Address: 2125 Old Marksville Hwy, Pineville, Rapides, LA 71360]]></description>
         <Point><coordinates>-92.405775,31.3261465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA01082-B</name>
+        <description><![CDATA[Date: 7/16/25 11:06 AM
+      Site Name: Brown Rd
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1345 Mars Hill Road, Acworth, Cobb, GA 30101-4632]]></description>
+        <Point><coordinates>-84.7188243333333,33.9864191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/16/25 11:06 AM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC05471-S</name>
+        <description><![CDATA[Date: 7/16/25 11:21 AM
+      Site Name: Bee Tree
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4475 Turbeville Highway, Turbeville, Clarendon, SC 29162]]></description>
+        <Point><coordinates>-79.9770104444444,33.8924746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA17631-A</name>
+        <description><![CDATA[Date: 7/16/25 11:21 AM
+      Site Name: Moye
+      AGL: 178
+      Tower Type: Monopole
+      Address: 224 Camp Meeting Road, Pearisburg, Giles, VA 24134]]></description>
+        <Point><coordinates>-80.733958,37.2939746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21011-A</name>
+        <description><![CDATA[Date: 7/16/25 11:21 AM
+      Site Name: Dayton 2 TX
+      AGL: 191
+      Tower Type: Guyed
+      Address: 17354 State Highway 321, Dayton, Liberty, TX 77535]]></description>
+        <Point><coordinates>-94.9663722222222,30.2435552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA17631-A</name>
+        <description><![CDATA[Date: 7/16/25 11:21 AM
+      Site Name: Moye
+      AGL: 178
+      Tower Type: Monopole
+      Address: 224 Camp Meeting Road, Pearisburg, Giles, VA 24134]]></description>
+        <Point><coordinates>-80.733958,37.2939746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL09842-A</name>
+        <description><![CDATA[Date: 7/16/25 11:06 AM
+      Site Name: Jeff Young
+      AGL: 177
+      Tower Type: Monopole
+      Address: 2727 Mystic Lake Drive, Oviedo, Seminole, FL 32765]]></description>
+        <Point><coordinates>-81.2551388888889,28.6236382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC21757-A</name>
+        <description><![CDATA[Date: 7/16/25 11:21 AM
+      Site Name: Nucor
+      AGL: 226
+      Tower Type: Self Support
+      Address: 1355 S. STEEL CIRCLE, HUGER, BERKELEY, SC 29450]]></description>
+        <Point><coordinates>-79.8749298888889,33.0033027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/16/25 11:23 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

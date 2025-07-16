@@ -2206,5 +2206,14 @@
       Address: 2250 Lake Harbin Road , Morrow, Clayton, GA 30260]]></description>
         <Point><coordinates>-84.31575,33.5844718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10804-A</name>
+        <description><![CDATA[Date: 7/16/25 11:38 AM
+      Site Name: Jewellville
+      AGL: 262
+      Tower Type: Self Support
+      Address: 293 Partain Road, Carnesville, Banks, GA 30521]]></description>
+        <Point><coordinates>-83.3904135555556,34.3908357777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

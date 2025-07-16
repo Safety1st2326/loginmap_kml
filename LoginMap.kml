@@ -1315,5 +1315,86 @@
       Address: 115 Hwy 460 E, Pembroke, Giles, VA 24136]]></description>
         <Point><coordinates>-80.5876774444444,37.3182715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47465-A</name>
+        <description><![CDATA[Date: 7/16/25 9:07 AM
+      Site Name: Norwalk
+      AGL: 351
+      Tower Type: Self Support
+      Address: 1256 West  Washington Road, Norwalk, Huron, OH 44857]]></description>
+        <Point><coordinates>-82.6380274444444,41.2507027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/16/25 9:07 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/16/25 9:07 AM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/16/25 9:08 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/16/25 9:08 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46345-A</name>
+        <description><![CDATA[Date: 7/16/25 9:08 AM
+      Site Name: Creekland Cove
+      AGL: 181
+      Tower Type: Monopole
+      Address: 1561 Buford Road Drive, Nw, Lawrenceville, Gwinnett, GA 30043]]></description>
+        <Point><coordinates>-83.9873107777778,34.0085805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/16/25 9:09 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/16/25 9:09 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 7/16/25 9:09 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

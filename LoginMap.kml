@@ -406,5 +406,149 @@
       Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
         <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13707-A</name>
+        <description><![CDATA[Date: 7/16/25 6:36 AM
+      Site Name: S Hopkinsville
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7556 Eagleway, Hopkinsville, Christian, KY 42240]]></description>
+        <Point><coordinates>-87.5230826666667,36.8323882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13707-A</name>
+        <description><![CDATA[Date: 7/16/25 6:36 AM
+      Site Name: S Hopkinsville
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7556 Eagleway, Hopkinsville, Christian, KY 42240]]></description>
+        <Point><coordinates>-87.5230826666667,36.8323882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46695-A</name>
+        <description><![CDATA[Date: 7/16/25 6:52 AM
+      Site Name: East Harwich Fire Department
+      AGL: 146
+      Tower Type: Stealth Flagpole
+      Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
+        <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME16499-A</name>
+        <description><![CDATA[Date: 7/16/25 6:52 AM
+      Site Name: Dixmont
+      AGL: 201
+      Tower Type: Self Support
+      Address: 123 Peaked Mountain Rd., Dixmont, Penobscot, ME 04932]]></description>
+        <Point><coordinates>-69.0794715555556,44.7022972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 7/16/25 6:52 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13103-A</name>
+        <description><![CDATA[Date: 7/16/25 6:42 AM
+      Site Name: Crane Mill
+      AGL: 259
+      Tower Type: Guyed
+      Address: 2750 Crane Mill Road, Alto, Habersham, GA 30531]]></description>
+        <Point><coordinates>-83.6223521111111,34.4758271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00712-B</name>
+        <description><![CDATA[Date: 7/16/25 6:54 AM
+      Site Name: Lackey Rd
+      AGL: 250
+      Tower Type: Self Support
+      Address: 920 Lackey Road, Roswell, Fulton, GA 30075-6404]]></description>
+        <Point><coordinates>-84.3907052222222,34.1045694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14369-A</name>
+        <description><![CDATA[Date: 7/16/25 6:54 AM
+      Site Name: Reelsville
+      AGL: 301
+      Tower Type: Guyed
+      Address: 6426 W. US 40, Reelsville, Putnam, IN 46171]]></description>
+        <Point><coordinates>-86.9654,39.5496941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02902-B</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Sparks
+      AGL: 192
+      Tower Type: Monopole
+      Address: 509 West Colquitt Street, Sparks, Cook, GA 31647]]></description>
+        <Point><coordinates>-83.4475774444444,31.1647444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14890-A</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Trolley Alley
+      AGL: 143
+      Tower Type: Monopole
+      Address: 132 Trolley Alley, Summerville, Dorchester, SC 29485]]></description>
+        <Point><coordinates>-80.1801715555556,32.9877302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14890-A</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Trolley Alley
+      AGL: 143
+      Tower Type: Monopole
+      Address: 132 Trolley Alley, Summerville, Dorchester, SC 29485]]></description>
+        <Point><coordinates>-80.1801715555556,32.9877302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:55 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/16/25 6:58 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

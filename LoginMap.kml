@@ -3376,5 +3376,14 @@
       Address: 6998 CR 214, Saint Augustine, St. Johns, FL 32092]]></description>
         <Point><coordinates>-81.5243548888889,29.8522944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK20908-A</name>
+        <description><![CDATA[Date: 7/16/25 6:16 PM
+      Site Name: Marlow
+      AGL: 340
+      Tower Type: Guyed
+      Address: HWY 81 & Memorial Road, Marlow, Stephens, OK 73055]]></description>
+        <Point><coordinates>-97.9526722222222,34.6618944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -892,5 +892,68 @@
       Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
         <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO12816-A</name>
+        <description><![CDATA[Date: 7/16/25 7:40 AM
+      Site Name: KC Independence
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1002 East US Hwy 24, Independence, Jackson, MO 64050]]></description>
+        <Point><coordinates>-94.4004833333333,39.1043555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00027-A</name>
+        <description><![CDATA[Date: 7/16/25 7:40 AM
+      Site Name: Jax Airport
+      AGL: 244
+      Tower Type: Self Support
+      Address: 546 Owens Road, Jacksonville, Duval, FL 32218-1725]]></description>
+        <Point><coordinates>-81.6350941111111,30.4896441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08331-A</name>
+        <description><![CDATA[Date: 7/16/25 7:40 AM
+      Site Name: Liberty City
+      AGL: 101
+      Tower Type: Monopole
+      Address: 5880 NW 17th Ave, Miami, Miami-Dade, FL 33142]]></description>
+        <Point><coordinates>-80.2250548888889,25.8288493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00033-S</name>
+        <description><![CDATA[Date: 7/16/25 7:43 AM
+      Site Name: West Marion FL
+      AGL: 246
+      Tower Type: Self Support
+      Address: 10163 SW Hwy 484, Dunnellon, Marion, FL 34470]]></description>
+        <Point><coordinates>-82.288083,29.0542222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/16/25 7:43 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10666-A</name>
+        <description><![CDATA[Date: 7/16/25 7:43 AM
+      Site Name: Horntown
+      AGL: 251
+      Tower Type: Guyed
+      Address: 227 Horn Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-84.9998635555556,37.0720882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08013-B</name>
+        <description><![CDATA[Date: 7/16/25 7:43 AM
+      Site Name: Sawmill Branch
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1851 N. Main Street, Summerville, Berkeley, SC 29483-7819]]></description>
+        <Point><coordinates>-80.1243104444444,33.0415802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

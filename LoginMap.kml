@@ -3277,5 +3277,50 @@
       Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
         <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 4:40 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 7/16/25 4:40 PM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 4:40 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK09872-A</name>
+        <description><![CDATA[Date: 7/16/25 4:40 PM
+      Site Name: Pumpkin Center 2 OK
+      AGL: 281
+      Tower Type: Guyed
+      Address: 15481 SE Lee Boulevard, Lawton, Comanche, OK 73501]]></description>
+        <Point><coordinates>-98.2068527777778,34.5932968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16212-B</name>
+        <description><![CDATA[Date: 7/16/25 4:46 PM
+      Site Name: Westchester 2
+      AGL: 84
+      Tower Type: Monopole
+      Address: 2700 Mayfair Avenue, Westchester, Cook, IL 60154]]></description>
+        <Point><coordinates>-87.8929274444444,41.840308,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

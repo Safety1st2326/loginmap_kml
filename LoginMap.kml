@@ -307,5 +307,41 @@
       Address: 3608 Jonesboro Road, Hampton, Henry, GA 30228-1745]]></description>
         <Point><coordinates>-84.2727687777778,33.4705826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:22 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:22 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:18 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:18 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

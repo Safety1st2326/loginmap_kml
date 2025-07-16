@@ -244,5 +244,41 @@
       Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
         <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:03 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC09770-A</name>
+        <description><![CDATA[Date: 7/16/25 6:03 AM
+      Site Name: Hanahan
+      AGL: 123
+      Tower Type: Monopole
+      Address: 6950 Stall Road, North Charleston, Charleston, SC 29406]]></description>
+        <Point><coordinates>-80.0486024444444,32.922941,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/16/25 6:03 AM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 6:03 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

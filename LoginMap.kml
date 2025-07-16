@@ -775,5 +775,122 @@
       Address: 1792 Collins Hill Road, Lawrence, Gwinnett, GA 30043]]></description>
         <Point><coordinates>-84.0139805555556,34.0038138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL08419-A</name>
+        <description><![CDATA[Date: 7/16/25 7:31 AM
+      Site Name: Shady Hills
+      AGL: 178
+      Tower Type: Self Support
+      Address: 18807 Old Shady Hills Road, Spring Hill, Pasco, FL 34610-6735]]></description>
+        <Point><coordinates>-82.5516777777778,28.430766,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT13063-A</name>
+        <description><![CDATA[Date: 7/16/25 7:31 AM
+      Site Name: Middle Turnpike
+      AGL: 152
+      Tower Type: Monopole
+      Address: 640 Hilliard Street, Manchester, Hartford/Manchester, CT 06040]]></description>
+        <Point><coordinates>-72.5508055555556,41.7844996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:32 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12973-A</name>
+        <description><![CDATA[Date: 7/16/25 7:32 AM
+      Site Name: Collins Hill
+      AGL: 178
+      Tower Type: Monopole
+      Address: 1792 Collins Hill Road, Lawrence, Gwinnett, GA 30043]]></description>
+        <Point><coordinates>-84.0139805555556,34.0038138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:32 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10186-A</name>
+        <description><![CDATA[Date: 7/16/25 7:22 AM
+      Site Name: Monte NE
+      AGL: 251
+      Tower Type: Self Support
+      Address: 14861 E. Highway 94, Rogers, Benton, AR 72758]]></description>
+        <Point><coordinates>-94.0553722222222,36.2948996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14890-A</name>
+        <description><![CDATA[Date: 7/16/25 7:32 AM
+      Site Name: Trolley Alley
+      AGL: 143
+      Tower Type: Monopole
+      Address: 132 Trolley Alley, Summerville, Dorchester, SC 29485]]></description>
+        <Point><coordinates>-80.1801715555556,32.9877302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:21 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14890-A</name>
+        <description><![CDATA[Date: 7/16/25 7:21 AM
+      Site Name: Trolley Alley
+      AGL: 143
+      Tower Type: Monopole
+      Address: 132 Trolley Alley, Summerville, Dorchester, SC 29485]]></description>
+        <Point><coordinates>-80.1801715555556,32.9877302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/16/25 7:34 AM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/16/25 7:21 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC13851-A</name>
+        <description><![CDATA[Date: 7/16/25 7:21 AM
+      Site Name: Centerville 3 SC
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1109 Yancey Street, Summerville, Dorchester, SC 29483]]></description>
+        <Point><coordinates>-80.1656666666667,32.9997774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:21 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

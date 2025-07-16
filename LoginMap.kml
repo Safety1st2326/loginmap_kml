@@ -3340,5 +3340,32 @@
       Address: 10511 Greenfield Avenue, Noblesville, HAMILTON, IN 46060-4127]]></description>
         <Point><coordinates>-85.9827437777778,40.0151194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI09721-S</name>
+        <description><![CDATA[Date: 7/16/25 5:15 PM
+      Site Name: Cooperton
+      AGL: 251
+      Tower Type: Self Support
+      Address: 10070 S. Harrison Road, Houghton Lake, Roscommon, MI 48629]]></description>
+        <Point><coordinates>-84.7927218888889,44.1882218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21077-A</name>
+        <description><![CDATA[Date: 7/16/25 5:09 PM
+      Site Name: Pine Island Bayou 2 TX
+      AGL: 316
+      Tower Type: Guyed
+      Address: 10750 Highway 105, Beaumont, JEFFERSON, TX 77713]]></description>
+        <Point><coordinates>-94.2373218888889,30.1370413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20902-A</name>
+        <description><![CDATA[Date: 7/16/25 5:13 PM
+      Site Name: Nellie
+      AGL: 340
+      Tower Type: Guyed
+      Address: Hwy 7 & Hwy 81, Marlow, Stephens, OK 73055]]></description>
+        <Point><coordinates>-98.1232965555556,34.5967718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

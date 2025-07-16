@@ -2854,5 +2854,68 @@
       Address: 10441 NW 50th Street, Yukon, Canadian, OK 73099]]></description>
         <Point><coordinates>-97.70435,35.5227826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01192-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: Elmwood
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1575 Seven Mile Road, McClellanville, Charleston, SC 29458]]></description>
+        <Point><coordinates>-79.4231048888889,33.1578416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14729-A</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: Smoke Tree
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4754 Britt Rd, Tucker, Gwinnett, GA 30093]]></description>
+        <Point><coordinates>-84.1956941111111,33.8841607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:14 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

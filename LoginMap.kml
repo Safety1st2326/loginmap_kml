@@ -2746,5 +2746,14 @@
       Address: 397 Old 6 & 50, Mack, Mesa, CO 81525]]></description>
         <Point><coordinates>-108.971949333333,39.2156861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/15/25 10:25 PM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

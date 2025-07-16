@@ -2719,5 +2719,14 @@
       Address: 11093 N 150 East Road, Stanford, Mclean, IL 61774]]></description>
         <Point><coordinates>-89.2368163333333,40.4437302222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10458-A</name>
+        <description><![CDATA[Date: 7/15/25 7:54 PM
+      Site Name: BLM Ridge
+      AGL: 161
+      Tower Type: Self Support
+      Address: 397 Old 6 & 50, Mack, Mesa, CO 81525]]></description>
+        <Point><coordinates>-108.971949333333,39.2156861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

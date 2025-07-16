@@ -3385,5 +3385,23 @@
       Address: HWY 81 & Memorial Road, Marlow, Stephens, OK 73055]]></description>
         <Point><coordinates>-97.9526722222222,34.6618944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT14270-S</name>
+        <description><![CDATA[Date: 7/16/25 6:31 PM
+      Site Name: St Johnsbury VT
+      AGL: 139
+      Tower Type: Monopole
+      Address: 161 High Ridge Road, Lower Waterford, Caledonia/Waterford, VT 05819]]></description>
+        <Point><coordinates>-71.8869552222222,44.3623833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11379-A</name>
+        <description><![CDATA[Date: 7/16/25 6:39 PM
+      Site Name: Bray 
+      AGL: 301
+      Tower Type: Guyed
+      Address: 7310 Hwy 29, Bray, Marlow, Stephens, OK 73055]]></description>
+        <Point><coordinates>-97.8200882222222,34.637258,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

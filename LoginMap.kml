@@ -685,5 +685,95 @@
       Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
         <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09846-A</name>
+        <description><![CDATA[Date: 7/16/25 7:10 AM
+      Site Name: Forest Ridge
+      AGL: 120
+      Tower Type: Monopole
+      Address: 4180 Pandapas Pond Road, Blacksburg, Montgomery, VA 24060]]></description>
+        <Point><coordinates>-80.4691715555556,37.2870357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>DC46154-A</name>
+        <description><![CDATA[Date: 7/16/25 7:18 AM
+      Site Name: Brentwood 3 DC
+      AGL: 80
+      Tower Type: Flagpole
+      Address: 1820 Monroe Street, NE , WASHINGTON, District of Columbia, DC 20018]]></description>
+        <Point><coordinates>-76.9777798888889,38.9336218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA03251-S</name>
+        <description><![CDATA[Date: 7/16/25 7:19 AM
+      Site Name: Matoaca
+      AGL: 199
+      Tower Type: Monopole
+      Address: 8501 Reedy Branch Road, Chesterfield, Chesterfield, VA 23838-5429]]></description>
+        <Point><coordinates>-77.5355052222222,37.2968607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14594-B</name>
+        <description><![CDATA[Date: 7/16/25 7:19 AM
+      Site Name: Plainville 2 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3657 State Road 13, Wisconsin Dells, Adams, WI 53965]]></description>
+        <Point><coordinates>-89.8189048888889,43.7192354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:24 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 7/16/25 7:24 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14890-A</name>
+        <description><![CDATA[Date: 7/16/25 7:24 AM
+      Site Name: Trolley Alley
+      AGL: 143
+      Tower Type: Monopole
+      Address: 132 Trolley Alley, Summerville, Dorchester, SC 29485]]></description>
+        <Point><coordinates>-80.1801715555556,32.9877302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15843-A</name>
+        <description><![CDATA[Date: 7/16/25 7:24 AM
+      Site Name: Bensalem
+      AGL: 551
+      Tower Type: Self Support
+      Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
+        <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 7:24 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12973-A</name>
+        <description><![CDATA[Date: 7/16/25 7:25 AM
+      Site Name: Collins Hill
+      AGL: 178
+      Tower Type: Monopole
+      Address: 1792 Collins Hill Road, Lawrence, Gwinnett, GA 30043]]></description>
+        <Point><coordinates>-84.0139805555556,34.0038138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

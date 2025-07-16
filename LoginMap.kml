@@ -2017,5 +2017,104 @@
       Address: 1197 Cr. 575, Ashland, Ashland, OH 44805]]></description>
         <Point><coordinates>-82.3589111111111,40.9687771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21005-A</name>
+        <description><![CDATA[Date: 7/16/25 10:51 AM
+      Site Name: Cleveland
+      AGL: 190
+      Tower Type: Guyed
+      Address: 22800 Highway 321, Cleveland, Liberty, TX 77327]]></description>
+        <Point><coordinates>-94.9924885555556,30.3178187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46321-A</name>
+        <description><![CDATA[Date: 7/16/25 10:51 AM
+      Site Name: Shady Grove West
+      AGL: 166
+      Tower Type: Monopole
+      Address: 4267 Dallas Acworth Hwy, Dallas, Paulding, GA 30132]]></description>
+        <Point><coordinates>-84.7918607777778,33.9571111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13407-A</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: Little West Fork
+      AGL: 154
+      Tower Type: Monopole
+      Address: 301 Tobacco Rd., Clarksville, Montgomery, TN 37042]]></description>
+        <Point><coordinates>-87.4157361111111,36.6021777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14877-A</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: Tanner Plantation
+      AGL: 170
+      Tower Type: Monopole
+      Address: 7000 Channel Park Drive, Hanahan, Berkeley, SC 29410]]></description>
+        <Point><coordinates>-80.0036333333333,32.9308632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20346-A</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: ANTHEM -2
+      AGL: 80
+      Tower Type: Flagpole
+      Address: 2413 Atchley Dr., Henderson, Clark, NV 89052]]></description>
+        <Point><coordinates>-115.093780222222,35.9514916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12802-A</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: Hollis 2 OK
+      AGL: 345
+      Tower Type: Guyed
+      Address: 16117 N 1720 Road, Hollis, Harmon, OK 73550]]></description>
+        <Point><coordinates>-99.896858,34.6796465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10145-A</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: Antelope 4 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 20200 U.S. Highway 281 North, Windthorst, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.3722548888889,33.4280521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41670-T</name>
+        <description><![CDATA[Date: 7/16/25 10:52 AM
+      Site Name: Cyril
+      AGL: 340
+      Tower Type: Guyed
+      Address: 714 W. Wyoming Ave., Cyril, Caddo, OK 73029]]></description>
+        <Point><coordinates>-98.2065166666667,34.9050388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA17631-A</name>
+        <description><![CDATA[Date: 7/16/25 10:53 AM
+      Site Name: Moye
+      AGL: 178
+      Tower Type: Monopole
+      Address: 224 Camp Meeting Road, Pearisburg, Giles, VA 24134]]></description>
+        <Point><coordinates>-80.733958,37.2939746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/16/25 10:55 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA16870-A</name>
+        <description><![CDATA[Date: 7/16/25 10:56 AM
+      Site Name: Rainbow
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2125 Old Marksville Hwy, Pineville, Rapides, LA 71360]]></description>
+        <Point><coordinates>-92.405775,31.3261465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

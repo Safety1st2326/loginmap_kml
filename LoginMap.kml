@@ -1765,5 +1765,86 @@
       Address: 1300 Circle Drive Tower Rd, Pembroke, Giles, VA 24136]]></description>
         <Point><coordinates>-80.6462593888889,37.3252998888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20979-A</name>
+        <description><![CDATA[Date: 7/16/25 9:54 AM
+      Site Name: Martinez-Waelder
+      AGL: 252
+      Tower Type: Self Support
+      Address: 3943 US Hwy 90, Waelder, Gonzales, TX 78955]]></description>
+        <Point><coordinates>-97.2469552222222,29.687608,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15020-A</name>
+        <description><![CDATA[Date: 7/16/25 9:50 AM
+      Site Name: Williams - JV
+      AGL: 193
+      Tower Type: Monopole
+      Address: 1138  Anderson Road, Rock Hill, York, SC 29730]]></description>
+        <Point><coordinates>-80.9823882222222,34.9093333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12109-A</name>
+        <description><![CDATA[Date: 7/16/25 9:50 AM
+      Site Name: Leesburg 3 FL
+      AGL: 147
+      Tower Type: Monopole
+      Address: 1504 South Street, Leesburg, Lake, FL 34748]]></description>
+        <Point><coordinates>-81.8905552222222,28.8032666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40084-A</name>
+        <description><![CDATA[Date: 7/16/25 9:45 AM
+      Site Name: Fountain 2 GA
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1294 Braselton Hwy, Lawrenceville, Gwinnett, GA 30043]]></description>
+        <Point><coordinates>-83.9664444444444,34.0107777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS17104-A</name>
+        <description><![CDATA[Date: 7/16/25 9:57 AM
+      Site Name: Sammy's Southaven
+      AGL: 157
+      Tower Type: Flagpole
+      Address: 6755 Airways Blvd, Southhaven, Desoto, MS 38671]]></description>
+        <Point><coordinates>-89.9911191111111,34.9591472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14200-A</name>
+        <description><![CDATA[Date: 7/16/25 9:57 AM
+      Site Name: Coatsville
+      AGL: 432
+      Tower Type: Guyed
+      Address: 2049 N County Road 825 E, Coatesville, Putnam, IN 46121]]></description>
+        <Point><coordinates>-86.7006111111111,39.6889357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21014-A</name>
+        <description><![CDATA[Date: 7/16/25 9:45 AM
+      Site Name: Crosby
+      AGL: 198
+      Tower Type: Guyed
+      Address: 1060 CHURCH ST., CROSBY, HARRIS, TX 77532]]></description>
+        <Point><coordinates>-95.0555583333333,29.9038888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03219-S</name>
+        <description><![CDATA[Date: 7/16/25 9:45 AM
+      Site Name: Highway 92
+      AGL: 195
+      Tower Type: Self Support
+      Address: 351 Stonewood Creek Drive, Dallas, Paulding, GA 30132-9350]]></description>
+        <Point><coordinates>-84.7504833333333,34.026116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH06704-A</name>
+        <description><![CDATA[Date: 7/16/25 9:59 AM
+      Site Name: Strongsville
+      AGL: 189
+      Tower Type: Monopole
+      Address: 12609 Alameda Drive, Strongsville, Cuyahoga, OH 44149-3029]]></description>
+        <Point><coordinates>-81.8665277777778,41.323691,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

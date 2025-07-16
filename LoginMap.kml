@@ -1621,5 +1621,68 @@
       Address: 503 Junction Road, Durham, Durham, NC 27704]]></description>
         <Point><coordinates>-78.8558333333333,35.9986107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/16/25 9:34 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/16/25 9:36 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX29286-B</name>
+        <description><![CDATA[Date: 7/16/25 9:32 AM
+      Site Name: Dudley Drive
+      AGL: 193
+      Tower Type: Monopole
+      Address: 1796 US 59 BYP N, Cleveland, Liberty, TX 77328]]></description>
+        <Point><coordinates>-95.0979802222222,30.3438441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA15779-S</name>
+        <description><![CDATA[Date: 7/16/25 9:32 AM
+      Site Name: Southlake
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1053 Mt. Zion Road, Morrow, Clayton, GA 30260]]></description>
+        <Point><coordinates>-84.3576694444444,33.571456,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/16/25 9:32 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT13548-S</name>
+        <description><![CDATA[Date: 7/16/25 9:32 AM
+      Site Name: Bloomfield 4
+      AGL: 130
+      Tower Type: Monopole
+      Address: 12 Burr Road, Bloomfield, Hartford, CT 06002]]></description>
+        <Point><coordinates>-72.7645111111111,41.8178576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/16/25 9:32 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

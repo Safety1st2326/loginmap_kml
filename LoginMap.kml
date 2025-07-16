@@ -3331,5 +3331,14 @@
       Address: 862 Field Creek Road, Ruffin, Colleton, SC 29475]]></description>
         <Point><coordinates>-80.8416191111111,32.9634694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN12995-A</name>
+        <description><![CDATA[Date: 7/16/25 4:54 PM
+      Site Name: Noblesville
+      AGL: 440
+      Tower Type: Guyed
+      Address: 10511 Greenfield Avenue, Noblesville, HAMILTON, IN 46060-4127]]></description>
+        <Point><coordinates>-85.9827437777778,40.0151194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

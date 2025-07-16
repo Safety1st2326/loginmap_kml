@@ -3367,5 +3367,14 @@
       Address: Hwy 7 & Hwy 81, Marlow, Stephens, OK 73055]]></description>
         <Point><coordinates>-98.1232965555556,34.5967718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46226-A</name>
+        <description><![CDATA[Date: 7/16/25 6:03 PM
+      Site Name: Molasses
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6998 CR 214, Saint Augustine, St. Johns, FL 32092]]></description>
+        <Point><coordinates>-81.5243548888889,29.8522944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

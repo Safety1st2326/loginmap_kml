@@ -2269,5 +2269,59 @@
       Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
         <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01975-S</name>
+        <description><![CDATA[Date: 7/16/25 12:10 PM
+      Site Name: Shipyard
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2371 Hwy. 41, Mount Pleasant, Berkeley, SC 29466-2401]]></description>
+        <Point><coordinates>-79.8293326666667,32.9211132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41505-T</name>
+        <description><![CDATA[Date: 7/16/25 12:10 PM
+      Site Name: utica_3
+      AGL: 80
+      Tower Type: Monopole
+      Address: 1310 Tilden Avenue, Utica, Oneida, NY 13501]]></description>
+        <Point><coordinates>-75.2157777777778,43.0792771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01975-S</name>
+        <description><![CDATA[Date: 7/16/25 12:10 PM
+      Site Name: Shipyard
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2371 Hwy. 41, Mount Pleasant, Berkeley, SC 29466-2401]]></description>
+        <Point><coordinates>-79.8293326666667,32.9211132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13471-A</name>
+        <description><![CDATA[Date: 7/16/25 12:10 PM
+      Site Name: Davis Hill
+      AGL: 334
+      Tower Type: Guyed
+      Address: 76 County Road 2255, Cleveland, Liberty, TX 77327]]></description>
+        <Point><coordinates>-94.858125,30.2972524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI22408-A</name>
+        <description><![CDATA[Date: 7/16/25 12:06 PM
+      Site Name: Shiocton
+      AGL: 151
+      Tower Type: Monopole
+      Address: W7844 West St., Shiocton, Outagamie, WI 54170]]></description>
+        <Point><coordinates>-88.5834663333333,44.4391496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12589-A</name>
+        <description><![CDATA[Date: 7/16/25 12:01 PM
+      Site Name: Larchwood
+      AGL: 190
+      Tower Type: Self Support
+      Address: 515 Sports Loop, Larchwood, Lyon, IA 51241]]></description>
+        <Point><coordinates>-96.4326465555556,43.4483024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

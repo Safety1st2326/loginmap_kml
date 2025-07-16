@@ -3070,5 +3070,68 @@
       Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
         <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:40 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:40 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:40 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:41 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05106-A</name>
+        <description><![CDATA[Date: 7/16/25 3:42 PM
+      Site Name: Lake Cormorant
+      AGL: 190
+      Tower Type: Self Support
+      Address: Hwy 61, Lake Cormorant, Desoto, MS 38641]]></description>
+        <Point><coordinates>-90.2133805555556,34.8887663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20485-A</name>
+        <description><![CDATA[Date: 7/16/25 3:45 PM
+      Site Name: Sour Lake 2 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 4519 SHOE STRING RD., SOUR LAKE, HARDIN, TX 77659]]></description>
+        <Point><coordinates>-94.4046527777778,30.1625805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20485-A</name>
+        <description><![CDATA[Date: 7/16/25 3:46 PM
+      Site Name: Sour Lake 2 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 4519 SHOE STRING RD., SOUR LAKE, HARDIN, TX 77659]]></description>
+        <Point><coordinates>-94.4046527777778,30.1625805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

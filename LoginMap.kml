@@ -2917,5 +2917,68 @@
       Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
         <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA01897-B</name>
+        <description><![CDATA[Date: 7/16/25 3:25 PM
+      Site Name: Hartfield
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
+        <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01897-B</name>
+        <description><![CDATA[Date: 7/16/25 3:25 PM
+      Site Name: Hartfield
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
+        <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:28 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:28 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:28 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:28 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47637-A</name>
+        <description><![CDATA[Date: 7/16/25 3:28 PM
+      Site Name: Viking 2 OR
+      AGL: 50
+      Tower Type: Monopole
+      Address: 62967 Layton Ave., Bend, Deschutes, OR 97701]]></description>
+        <Point><coordinates>-121.290583,44.0857774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

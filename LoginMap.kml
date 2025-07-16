@@ -2503,5 +2503,14 @@
       Address: 2270 Benson Pole Road, Smyrna, COBB, GA 300820000]]></description>
         <Point><coordinates>-84.5451941111111,33.8998607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46374-A</name>
+        <description><![CDATA[Date: 7/16/25 1:18 PM
+      Site Name: Martin Creek
+      AGL: 177
+      Tower Type: Monopole
+      Address: 1015 Austin Road, Ellenwood, Henry, GA 30294]]></description>
+        <Point><coordinates>-84.2044611111111,33.6221854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

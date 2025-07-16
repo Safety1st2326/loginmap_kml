@@ -1189,5 +1189,23 @@
       Address: 47179 State Route 20, Oberlin, Lorain, OH 44074]]></description>
         <Point><coordinates>-82.2393635555556,41.2636805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC47132-A</name>
+        <description><![CDATA[Date: 7/16/25 8:31 AM
+      Site Name: Austin Pond
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2842 Nc Hwy. 42 West, Clayton, Johnston, NC 27520]]></description>
+        <Point><coordinates>-78.5215568333333,35.6232562777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 7/16/25 8:35 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

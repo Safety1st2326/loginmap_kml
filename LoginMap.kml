@@ -2701,5 +2701,32 @@
       Address: 28087 County Road C, Jackson, Burnett, WI 54893]]></description>
         <Point><coordinates>-92.2191132222222,45.933858,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT14530-S</name>
+        <description><![CDATA[Date: 7/16/25 2:02 PM
+      Site Name: Orleans 3 VT
+      AGL: 141
+      Tower Type: Monopole
+      Address: 316 Country Club Lane, Orleans, Orleans, VT 05860]]></description>
+        <Point><coordinates>-72.1827437777778,44.7947996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01899-B</name>
+        <description><![CDATA[Date: 7/16/25 2:05 PM
+      Site Name: Garden City
+      AGL: 300
+      Tower Type: Self Support
+      Address: 116 Cox Road, Blackstone, Nottoway, VA 23824]]></description>
+        <Point><coordinates>-77.9019055555556,37.1432024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH15949-A</name>
+        <description><![CDATA[Date: 7/16/25 2:08 PM
+      Site Name: Mt Washington
+      AGL: 244
+      Tower Type: Guyed
+      Address: 196 E. Main Street, Conway, Carroll, NH 3818]]></description>
+        <Point><coordinates>-71.11035,43.9800993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -3133,5 +3133,41 @@
       Address: 4519 SHOE STRING RD., SOUR LAKE, HARDIN, TX 77659]]></description>
         <Point><coordinates>-94.4046527777778,30.1625805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK47577-A</name>
+        <description><![CDATA[Date: 7/16/25 3:52 PM
+      Site Name: Western Hills
+      AGL: 130
+      Tower Type: Monopole
+      Address: 4301 NW Cache Rd., Lawton, Comanche, OK 73505]]></description>
+        <Point><coordinates>-98.4459746666667,34.6255576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC18007-A</name>
+        <description><![CDATA[Date: 7/16/25 3:58 PM
+      Site Name: Hopseewee
+      AGL: 176
+      Tower Type: Monopole
+      Address: 11288 Powell Road, Georgetown, Georgetown, SC 29440]]></description>
+        <Point><coordinates>-79.387833,33.2325826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 3:58 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 3:59 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

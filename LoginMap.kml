@@ -1207,5 +1207,14 @@
       Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
         <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN07786-A</name>
+        <description><![CDATA[Date: 7/16/25 8:49 AM
+      Site Name: East Ridge
+      AGL: 160
+      Tower Type: Monopole
+      Address: 4218 Ringgold Road, East Ridge, Hamilton, TN 37412]]></description>
+        <Point><coordinates>-85.2425691111111,34.9964135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

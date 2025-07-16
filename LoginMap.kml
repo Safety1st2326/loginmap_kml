@@ -2260,5 +2260,14 @@
       Address: 2371 Hwy. 41, Mount Pleasant, Berkeley, SC 29466-2401]]></description>
         <Point><coordinates>-79.8293326666667,32.9211132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/16/25 12:07 PM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

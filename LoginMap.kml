@@ -1018,5 +1018,113 @@
       Address: Abbott Street, Carlyle, Clinton, IL 62231]]></description>
         <Point><coordinates>-89.3865607777778,38.6235882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22549-A</name>
+        <description><![CDATA[Date: 7/16/25 7:46 AM
+      Site Name: Carlyle DT
+      AGL: 171
+      Tower Type: Monopole
+      Address: Abbott Street, Carlyle, Clinton, IL 62231]]></description>
+        <Point><coordinates>-89.3865607777778,38.6235882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04448-B</name>
+        <description><![CDATA[Date: 7/16/25 7:50 AM
+      Site Name: Sandy Springs
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
+        <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 7/16/25 7:56 AM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46396-A</name>
+        <description><![CDATA[Date: 7/16/25 7:56 AM
+      Site Name: Berry Road
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4251 Walt Stephens Rd., Stockbridge, Henry, GA 30281]]></description>
+        <Point><coordinates>-84.25405,33.5281771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN03378-B</name>
+        <description><![CDATA[Date: 7/16/25 7:56 AM
+      Site Name: Double Springs 2 TN
+      AGL: 250
+      Tower Type: Self Support
+      Address: 396 Trails End Road, Fall Branch, Washington, TN 37656-2552]]></description>
+        <Point><coordinates>-82.5796437777778,36.4257548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 7/16/25 8:02 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA11366-A</name>
+        <description><![CDATA[Date: 7/16/25 8:02 AM
+      Site Name: Winnsboro 2 LA
+      AGL: 251
+      Tower Type: Guyed
+      Address: 1300 Polk Street, Winnsboro, Franklin, LA 71295]]></description>
+        <Point><coordinates>-91.7330132222222,32.1627138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22549-A</name>
+        <description><![CDATA[Date: 7/16/25 7:48 AM
+      Site Name: Carlyle DT
+      AGL: 171
+      Tower Type: Monopole
+      Address: Abbott Street, Carlyle, Clinton, IL 62231]]></description>
+        <Point><coordinates>-89.3865607777778,38.6235882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10332-A</name>
+        <description><![CDATA[Date: 7/16/25 8:07 AM
+      Site Name: Raleigh
+      AGL: 250
+      Tower Type: Guyed
+      Address: 17466 NE 85th Street, Williston, Levy, FL 32696]]></description>
+        <Point><coordinates>-82.4834552222222,29.4555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46397-A</name>
+        <description><![CDATA[Date: 7/16/25 8:07 AM
+      Site Name: Emerald Way
+      AGL: 146
+      Tower Type: Monopole
+      Address: 3372 Hwy 92 , Acworth, Cherokee, GA 30102]]></description>
+        <Point><coordinates>-84.6316382222222,34.0962496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21047-A</name>
+        <description><![CDATA[Date: 7/16/25 8:07 AM
+      Site Name: DEL TORO
+      AGL: 165
+      Tower Type: Self Support
+      Address: 12532 North US HWY 277, Eagle Pass, Maverick, TX 78852]]></description>
+        <Point><coordinates>-100.548316333333,28.8658805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41111-T</name>
+        <description><![CDATA[Date: 7/16/25 8:07 AM
+      Site Name: E Willis Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 7327 Tandy Rd., Georgetown, Floyd, IN 47136]]></description>
+        <Point><coordinates>-85.9416052222222,38.2592166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

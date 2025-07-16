@@ -91,5 +91,32 @@
       Address: 102 Stonehedge Drive, London, Laurel, KY 40744]]></description>
         <Point><coordinates>-84.046308,37.1108416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 4:58 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01182-B</name>
+        <description><![CDATA[Date: 7/16/25 4:58 AM
+      Site Name: Hickory Hill
+      AGL: 275
+      Tower Type: Self Support
+      Address: 3523 Kitford Road, Johns Island, Charleston, SC 29455]]></description>
+        <Point><coordinates>-80.1032666666667,32.7630555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02468-S</name>
+        <description><![CDATA[Date: 7/16/25 5:18 AM
+      Site Name: Flippen
+      AGL: 180
+      Tower Type: Monopole
+      Address: US 23 Georgia 42 Hwy, McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.1769326666667,33.4904774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

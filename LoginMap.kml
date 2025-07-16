@@ -3205,5 +3205,77 @@
       Address: 27578 Hwy 4E, Senatobia, Tate, MS 38668]]></description>
         <Point><coordinates>-89.7332132222222,34.636758,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX18351-A</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: Devers 3 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3898 Texas Highway 61, Devers, Liberty, TX 77538]]></description>
+        <Point><coordinates>-94.5978802222222,29.9574166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01193-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: Sampit
+      AGL: 130
+      Tower Type: Monopole
+      Address: 8722 South Fraser Street, Georgetown, Georgetown, SC 29440-5314]]></description>
+        <Point><coordinates>-79.3643555555555,33.2638944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01193-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: Sampit
+      AGL: 130
+      Tower Type: Monopole
+      Address: 8722 South Fraser Street, Georgetown, Georgetown, SC 29440-5314]]></description>
+        <Point><coordinates>-79.3642638888889,33.2639083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 4:34 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/16/25 4:36 PM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

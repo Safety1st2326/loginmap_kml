@@ -2836,5 +2836,23 @@
       Address: NW 4TH & Walnut, Cache, COMANCHE, OK 73501]]></description>
         <Point><coordinates>-98.626416,34.6344718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS14765-S</name>
+        <description><![CDATA[Date: 7/16/25 3:01 PM
+      Site Name: Teckville
+      AGL: 330
+      Tower Type: Guyed
+      Address: 692 MS 310 Highway, Como, Lafayette, MS 38619]]></description>
+        <Point><coordinates>-89.6980246666667,34.5249437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK13351-A</name>
+        <description><![CDATA[Date: 7/16/25 3:02 PM
+      Site Name: Oklahoma City
+      AGL: 140
+      Tower Type: Monopole
+      Address: 10441 NW 50th Street, Yukon, Canadian, OK 73099]]></description>
+        <Point><coordinates>-97.70435,35.5227826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

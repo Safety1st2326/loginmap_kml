@@ -2422,5 +2422,50 @@
       Address: 21395 US Hwy 62, Headrick, Jackson, OK 73549]]></description>
         <Point><coordinates>-99.160125,34.6320021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/16/25 12:48 PM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12972-A</name>
+        <description><![CDATA[Date: 7/16/25 12:48 PM
+      Site Name: Bethesda Church Road
+      AGL: 179
+      Tower Type: Monopole
+      Address: 12 Bethesda Church Road, Lawrence, Gwinnett, GA 30044]]></description>
+        <Point><coordinates>-84.0822104444444,33.9058722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/16/25 12:48 PM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13903-A</name>
+        <description><![CDATA[Date: 7/16/25 12:48 PM
+      Site Name: Pine Trail Estates
+      AGL: 340
+      Tower Type: Guyed
+      Address: 19336 FM RD 2661, Flint, Smith, TX 75762]]></description>
+        <Point><coordinates>-95.4603055555556,32.2023055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03138-S</name>
+        <description><![CDATA[Date: 7/16/25 12:48 PM
+      Site Name: Mosely
+      AGL: 179
+      Tower Type: Monopole
+      Address: 920 North Mosely Drive, Stockbridge, Henry, GA 30281]]></description>
+        <Point><coordinates>-84.1639444444445,33.5703437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

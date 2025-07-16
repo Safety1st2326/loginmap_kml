@@ -2728,5 +2728,14 @@
       Address: 397 Old 6 & 50, Mack, Mesa, CO 81525]]></description>
         <Point><coordinates>-108.971949333333,39.2156861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10458-A</name>
+        <description><![CDATA[Date: 7/15/25 7:57 PM
+      Site Name: BLM Ridge
+      AGL: 161
+      Tower Type: Self Support
+      Address: 397 Old 6 & 50, Mack, Mesa, CO 81525]]></description>
+        <Point><coordinates>-108.971949333333,39.2156861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

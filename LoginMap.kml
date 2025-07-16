@@ -3169,5 +3169,41 @@
       Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
         <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09262-A</name>
+        <description><![CDATA[Date: 7/16/25 4:21 PM
+      Site Name: Whitney 3 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 119 CR 1245, Whitney, Hill, TX 76692]]></description>
+        <Point><coordinates>-97.3053777777778,31.9595194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14500-A</name>
+        <description><![CDATA[Date: 7/16/25 4:19 PM
+      Site Name: Pennington
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11965 Grape Field Road, Bastian, Bland, VA 24314]]></description>
+        <Point><coordinates>-81.1475885555555,37.1805437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47618-A</name>
+        <description><![CDATA[Date: 7/16/25 4:25 PM
+      Site Name: Carus-search Ring
+      AGL: 100
+      Tower Type: Monopole
+      Address: 23331  S  Molalla Ave, Oregon City, Clackamas, OR 97045]]></description>
+        <Point><coordinates>-122.571332666667,45.2688326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS11623-B</name>
+        <description><![CDATA[Date: 7/16/25 4:28 PM
+      Site Name: Thyatira
+      AGL: 300
+      Tower Type: Guyed
+      Address: 27578 Hwy 4E, Senatobia, Tate, MS 38668]]></description>
+        <Point><coordinates>-89.7332132222222,34.636758,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

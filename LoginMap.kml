@@ -3322,5 +3322,14 @@
       Address: 2700 Mayfair Avenue, Westchester, Cook, IL 60154]]></description>
         <Point><coordinates>-87.8929274444444,41.840308,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC24164-A</name>
+        <description><![CDATA[Date: 7/16/25 4:52 PM
+      Site Name: Bell's Crossroads Tower
+      AGL: 301
+      Tower Type: Guyed
+      Address: 862 Field Creek Road, Ruffin, Colleton, SC 29475]]></description>
+        <Point><coordinates>-80.8416191111111,32.9634694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

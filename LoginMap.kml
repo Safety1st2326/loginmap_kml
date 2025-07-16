@@ -550,5 +550,41 @@
       Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
         <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/16/25 7:07 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02356-S</name>
+        <description><![CDATA[Date: 7/16/25 7:07 AM
+      Site Name: Noahs Ark
+      AGL: 180
+      Tower Type: Monopole
+      Address: 3621 Jodeco Road, Jonesboro, Henry, GA 30236]]></description>
+        <Point><coordinates>-84.2750715555556,33.5050972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/16/25 7:03 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17359-S</name>
+        <description><![CDATA[Date: 7/16/25 7:09 AM
+      Site Name: Hughes Springs
+      AGL: 255
+      Tower Type: Self Support
+      Address: 300 FM 161 North, Hughes Spring, Cass, TX 75656]]></description>
+        <Point><coordinates>-94.6317582222222,33.0118841666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

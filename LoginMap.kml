@@ -2602,5 +2602,59 @@
       Address: 1220 Gallatin Pike S, Madison, Davidson, TN 37115]]></description>
         <Point><coordinates>-86.7227521111111,36.2465135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA05591-A</name>
+        <description><![CDATA[Date: 7/16/25 1:41 PM
+      Site Name: Indiana
+      AGL: 273
+      Tower Type: Self Support
+      Address: 684 Lions Health Camp Rd, Armstrong Township, Indiana, PA 15701]]></description>
+        <Point><coordinates>-79.2123722222222,40.6270937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA06095-S</name>
+        <description><![CDATA[Date: 7/16/25 1:41 PM
+      Site Name: Promenade
+      AGL: 177
+      Tower Type: Monopole
+      Address: 2370 Cobb Parkway, Smyrna, Cobb, GA 30080]]></description>
+        <Point><coordinates>-84.4788882222222,33.891833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/16/25 1:43 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN41343-A</name>
+        <description><![CDATA[Date: 7/16/25 1:48 PM
+      Site Name: Jaycee Fields Rplcmnt
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1900 W. Myrtle Street, Stillwater, Washington, MN 55082]]></description>
+        <Point><coordinates>-92.8310826666667,45.0575555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK13834-A</name>
+        <description><![CDATA[Date: 7/16/25 1:48 PM
+      Site Name: South Grove
+      AGL: 191
+      Tower Type: Self Support
+      Address: 61951 E. 349 Road, Grove, Delaware, OK 74344]]></description>
+        <Point><coordinates>-94.7786798888889,36.5117944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI16071-B</name>
+        <description><![CDATA[Date: 7/16/25 1:48 PM
+      Site Name: Land O Lakes 2 WI
+      AGL: 370
+      Tower Type: Self Support
+      Address: 6556 Spring Creek Road, Land O'Lakes, Vilas, WI 54540]]></description>
+        <Point><coordinates>-89.3690326666667,46.1662805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

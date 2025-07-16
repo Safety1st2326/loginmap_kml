@@ -2404,5 +2404,23 @@
       Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
         <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45176-A</name>
+        <description><![CDATA[Date: 7/16/25 12:32 PM
+      Site Name: North Hwy 17
+      AGL: 59
+      Tower Type: Monopine
+      Address: 895 Thornton Way, San Jose, Santa Clara, CA 95128]]></description>
+        <Point><coordinates>-121.940049666667,37.3105416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20900-A</name>
+        <description><![CDATA[Date: 7/16/25 12:32 PM
+      Site Name: Headrick
+      AGL: 340
+      Tower Type: Guyed
+      Address: 21395 US Hwy 62, Headrick, Jackson, OK 73549]]></description>
+        <Point><coordinates>-99.160125,34.6320021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2773,5 +2773,41 @@
       Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
         <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 2:31 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 2:31 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21008-A</name>
+        <description><![CDATA[Date: 7/16/25 2:34 PM
+      Site Name: Devers
+      AGL: 281
+      Tower Type: Guyed
+      Address: WOODARD DRIVE, DEVERS, LIBERTY, TX 77538]]></description>
+        <Point><coordinates>-94.5948885555556,30.0157111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13441-A</name>
+        <description><![CDATA[Date: 7/16/25 2:37 PM
+      Site Name: Sour Lake 3 TX
+      AGL: 332
+      Tower Type: Guyed
+      Address: 30970 Old Sour Lake Rd., Sour Lake, Hardin, TX 77659]]></description>
+        <Point><coordinates>-94.5013055555556,30.1894163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

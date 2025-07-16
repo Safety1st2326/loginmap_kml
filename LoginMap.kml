@@ -2656,5 +2656,50 @@
       Address: 6556 Spring Creek Road, Land O'Lakes, Vilas, WI 54540]]></description>
         <Point><coordinates>-89.3690326666667,46.1662805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA10747-A</name>
+        <description><![CDATA[Date: 7/16/25 1:53 PM
+      Site Name: Robertson 2 VA
+      AGL: 151
+      Tower Type: Self Support
+      Address: 424 Robertson Mountain Tower Road, Narrows, Giles, VA 24124]]></description>
+        <Point><coordinates>-80.828266,37.3690937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 1:53 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47989-A</name>
+        <description><![CDATA[Date: 7/16/25 1:53 PM
+      Site Name: Marjorie
+      AGL: 79
+      Tower Type: Monopole
+      Address: 8142 Montgomery , Houston, Harris, TX 77088]]></description>
+        <Point><coordinates>-95.4342774444444,29.8693326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 1:53 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI22390-A</name>
+        <description><![CDATA[Date: 7/16/25 1:58 PM
+      Site Name: Voyager
+      AGL: 257
+      Tower Type: Self Support
+      Address: 28087 County Road C, Jackson, Burnett, WI 54893]]></description>
+        <Point><coordinates>-92.2191132222222,45.933858,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

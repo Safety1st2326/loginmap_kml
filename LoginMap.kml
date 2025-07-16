@@ -2674,5 +2674,14 @@
       Address: 15460 South CR 203, Blair, Jackson, OK 73526]]></description>
         <Point><coordinates>-99.3450941111111,34.7753798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12801-A</name>
+        <description><![CDATA[Date: 7/15/25 6:58 PM
+      Site Name: Blair 3 OK
+      AGL: 301
+      Tower Type: Self Support
+      Address: 15294 US Highway 283, Blair, Jackson, OK 73549]]></description>
+        <Point><coordinates>-99.3344246666667,34.7986635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

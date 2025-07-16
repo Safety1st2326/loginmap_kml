@@ -1126,5 +1126,41 @@
       Address: 7327 Tandy Rd., Georgetown, Floyd, IN 47136]]></description>
         <Point><coordinates>-85.9416052222222,38.2592166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC13389-A</name>
+        <description><![CDATA[Date: 7/16/25 8:13 AM
+      Site Name: Cougar
+      AGL: 155
+      Tower Type: Monopole
+      Address: 2164 S. Live Oaks Drive, Moncks Corner, Berkeley, SC 29430]]></description>
+        <Point><coordinates>-80.0665555555556,33.1250826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI22412-A</name>
+        <description><![CDATA[Date: 7/16/25 8:16 AM
+      Site Name: Meade St
+      AGL: 79
+      Tower Type: Monopole
+      Address: 2719 Kesting Ct, Appleton, Outagamie, WI 54911]]></description>
+        <Point><coordinates>-88.3947496666667,44.2864552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/16/25 8:17 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08733-S</name>
+        <description><![CDATA[Date: 7/16/25 8:17 AM
+      Site Name: Green SCI
+      AGL: 250
+      Tower Type: Self Support
+      Address: 47 High Street, Fredericktown, Washington, PA 15333]]></description>
+        <Point><coordinates>-80.0079138888889,39.9973802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

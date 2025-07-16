@@ -1495,5 +1495,131 @@
       Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
         <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN08650-A</name>
+        <description><![CDATA[Date: 7/16/25 9:20 AM
+      Site Name: Bunker Hill 2 TN
+      AGL: 150
+      Tower Type: Guyed
+      Address: 168 Bunker Hill Road, Shelbyville, Bedford, TN 37160]]></description>
+        <Point><coordinates>-86.6009305555555,35.6792882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/16/25 9:18 AM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/16/25 9:23 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48007-A</name>
+        <description><![CDATA[Date: 7/16/25 9:19 AM
+      Site Name: Ivy Falls
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1710 FM 1960 W, Houston, Harris, TX 77090]]></description>
+        <Point><coordinates>-95.4562194444444,30.01265,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI14561-S</name>
+        <description><![CDATA[Date: 7/16/25 9:19 AM
+      Site Name: Floodwood 2 MI
+      AGL: 345
+      Tower Type: Self Support
+      Address: N6254 Highway M95, Channing, Dickinson, MI 49815]]></description>
+        <Point><coordinates>-88.0086138888889,46.2239771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK10073-A</name>
+        <description><![CDATA[Date: 7/16/25 9:19 AM
+      Site Name: Altus
+      AGL: 297
+      Tower Type: Guyed
+      Address: 932 Market Road, Altus, Jackson, OK 73521]]></description>
+        <Point><coordinates>-99.3465552222222,34.6474996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA12137-A</name>
+        <description><![CDATA[Date: 7/16/25 9:20 AM
+      Site Name: Jonesboro 4 GA
+      AGL: 193
+      Tower Type: Monopole
+      Address: 7960 Old Morrow Rd, Jonesboro, Clayton, GA 30236]]></description>
+        <Point><coordinates>-84.3490691111111,33.5380135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL02610-A</name>
+        <description><![CDATA[Date: 7/16/25 9:26 AM
+      Site Name: Heathland
+      AGL: 183
+      Tower Type: Monopole
+      Address: 5701 Intrepid Cir., Huntsville, Madison, AL 35816]]></description>
+        <Point><coordinates>-86.6600222222222,34.7411718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00584-B</name>
+        <description><![CDATA[Date: 7/16/25 9:25 AM
+      Site Name: Bayside
+      AGL: 148
+      Tower Type: Monopole
+      Address: 4514 Cobb Parkway, Acworth, Cobb, GA 30101]]></description>
+        <Point><coordinates>-84.7233715555556,34.0656944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS09893-A</name>
+        <description><![CDATA[Date: 7/16/25 9:26 AM
+      Site Name: Greenville 5 MS
+      AGL: 154
+      Tower Type: Monopole
+      Address: 1716 Smith Street, Greenville, Washington, MS 38703]]></description>
+        <Point><coordinates>-91.0314326666667,33.398983,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12088-B</name>
+        <description><![CDATA[Date: 7/16/25 9:28 AM
+      Site Name: Golden Lake
+      AGL: 245
+      Tower Type: Guyed
+      Address: 110 Federal Forest Hwy 16, Iron River, Iron, MI 49935-8011]]></description>
+        <Point><coordinates>-88.8777493333333,46.1611722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12800-A</name>
+        <description><![CDATA[Date: 7/16/25 9:28 AM
+      Site Name: Altus South
+      AGL: 271
+      Tower Type: Self Support
+      Address: 16552 US Highway 238, Altus, Jackson, OK 73521]]></description>
+        <Point><coordinates>-99.3315298888889,34.6152416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC15958-A</name>
+        <description><![CDATA[Date: 7/16/25 9:28 AM
+      Site Name: Piedmont RA-03
+      AGL: 313
+      Tower Type: Guyed
+      Address: 503 Junction Road, Durham, Durham, NC 27704]]></description>
+        <Point><coordinates>-78.8559722222222,35.9985552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC15958-A</name>
+        <description><![CDATA[Date: 7/16/25 9:28 AM
+      Site Name: Piedmont RA-03
+      AGL: 401
+      Tower Type: Guyed
+      Address: 503 Junction Road, Durham, Durham, NC 27704]]></description>
+        <Point><coordinates>-78.8558333333333,35.9986107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

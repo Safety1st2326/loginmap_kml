@@ -2512,5 +2512,23 @@
       Address: 1015 Austin Road, Ellenwood, Henry, GA 30294]]></description>
         <Point><coordinates>-84.2044611111111,33.6221854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46352-A</name>
+        <description><![CDATA[Date: 7/16/25 1:22 PM
+      Site Name: Terrell Mill
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2086 Cobb Parkway South, Marietta, Cobb, GA 30060]]></description>
+        <Point><coordinates>-84.4884913333333,33.9004416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 1:23 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

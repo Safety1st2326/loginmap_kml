@@ -1162,5 +1162,32 @@
       Address: 47 High Street, Fredericktown, Washington, PA 15333]]></description>
         <Point><coordinates>-80.0079138888889,39.9973802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/16/25 8:22 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/16/25 8:25 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47466-A</name>
+        <description><![CDATA[Date: 7/16/25 8:25 AM
+      Site Name: Oberlin 4 OH
+      AGL: 300
+      Tower Type: Self Support
+      Address: 47179 State Route 20, Oberlin, Lorain, OH 44074]]></description>
+        <Point><coordinates>-82.2393635555556,41.2636805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

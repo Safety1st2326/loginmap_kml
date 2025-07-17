@@ -2089,5 +2089,59 @@
       Address: 5650 Flatwood Road, Northport, Tuscaloosa, AL 35473-1008]]></description>
         <Point><coordinates>-87.61185,33.2529416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD12751-A</name>
+        <description><![CDATA[Date: 7/17/25 12:19 PM
+      Site Name: Oakland 6 MD
+      AGL: 195
+      Tower Type: Self Support
+      Address: 433 North Bradley Lane, Oakland, Garrett, MD 21550]]></description>
+        <Point><coordinates>-79.4017611111111,39.4237965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/17/25 12:30 PM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02865-B</name>
+        <description><![CDATA[Date: 7/17/25 12:32 PM
+      Site Name: Carnes Mill Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 Ellijay Road, Talking Rock, Pickens, GA 30175-2734]]></description>
+        <Point><coordinates>-84.5284021111111,34.5324798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08334-A</name>
+        <description><![CDATA[Date: 7/17/25 12:33 PM
+      Site Name: Northport
+      AGL: 349
+      Tower Type: Self Support
+      Address: 2275 S Toledo Blade Blvd, North Port, Sarasota, FL 34286]]></description>
+        <Point><coordinates>-82.1594388888889,27.0580055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08334-A</name>
+        <description><![CDATA[Date: 7/17/25 12:33 PM
+      Site Name: Northport
+      AGL: 350
+      Tower Type: Self Support
+      Address: 2275 S Toledo Blade Blvd, North Port, Sarasota, FL 34286]]></description>
+        <Point><coordinates>-82.1594388888889,27.0580055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC05471-S</name>
+        <description><![CDATA[Date: 7/17/25 12:38 PM
+      Site Name: Bee Tree
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4475 Turbeville Highway, Turbeville, Clarendon, SC 29162]]></description>
+        <Point><coordinates>-79.9770104444444,33.8924746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

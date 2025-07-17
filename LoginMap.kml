@@ -451,5 +451,95 @@
       Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
         <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ47180-A</name>
+        <description><![CDATA[Date: 7/17/25 7:10 AM
+      Site Name: Liberty 6 NJ
+      AGL: 121
+      Tower Type: Monopole
+      Address: 4 Hudson Lane, Great Meadows, Warren, NJ 07838]]></description>
+        <Point><coordinates>-74.9201937777778,40.8615,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15158-A</name>
+        <description><![CDATA[Date: 7/17/25 7:10 AM
+      Site Name: Holy Trinity Church
+      AGL: 125
+      Tower Type: Flagpole
+      Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
+        <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13103-A</name>
+        <description><![CDATA[Date: 7/17/25 7:00 AM
+      Site Name: Crane Mill
+      AGL: 259
+      Tower Type: Guyed
+      Address: 2750 Crane Mill Road, Alto, Habersham, GA 30531]]></description>
+        <Point><coordinates>-83.6223521111111,34.4758271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH47172-A</name>
+        <description><![CDATA[Date: 7/17/25 7:12 AM
+      Site Name: Winnisquam
+      AGL: 100
+      Tower Type: Stealth
+      Address: 31 Chapman Rd., Tilton, Belknap, NH 03276]]></description>
+        <Point><coordinates>-71.5240493333333,43.4970774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/17/25 7:00 AM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00712-B</name>
+        <description><![CDATA[Date: 7/17/25 7:00 AM
+      Site Name: Lackey Rd
+      AGL: 250
+      Tower Type: Self Support
+      Address: 920 Lackey Road, Roswell, Fulton, GA 30075-6404]]></description>
+        <Point><coordinates>-84.3907052222222,34.1045694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02902-B</name>
+        <description><![CDATA[Date: 7/17/25 7:16 AM
+      Site Name: Sparks
+      AGL: 192
+      Tower Type: Monopole
+      Address: 509 West Colquitt Street, Sparks, Cook, GA 31647]]></description>
+        <Point><coordinates>-83.4475774444444,31.1647444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15843-A</name>
+        <description><![CDATA[Date: 7/17/25 7:16 AM
+      Site Name: Bensalem
+      AGL: 551
+      Tower Type: Self Support
+      Address: 777 Winks Lane, Bensalem, Bucks, PA 19020]]></description>
+        <Point><coordinates>-74.9185187777778,40.0834774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11416-B</name>
+        <description><![CDATA[Date: 7/17/25 7:19 AM
+      Site Name: Tazewell 3 VA
+      AGL: 195
+      Tower Type: Self Support
+      Address: 162 Combs Court, Tazewell, Tazewell, VA 24651]]></description>
+        <Point><coordinates>-81.5078027777778,37.115,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/17/25 7:19 AM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

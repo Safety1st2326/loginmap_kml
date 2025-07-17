@@ -1234,5 +1234,113 @@
       Address: 1532 Parker Lane, Enterprise, Coffee/Enterprise, AL 36330]]></description>
         <Point><coordinates>-85.8673354444444,31.3407052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX10620-A</name>
+        <description><![CDATA[Date: 7/17/25 8:54 AM
+      Site Name: Sabine Pass
+      AGL: 251
+      Tower Type: Self Support
+      Address: 5757 Dowling Road, Sabine Pass, Jefferson, TX 77640]]></description>
+        <Point><coordinates>-93.8893663333333,29.7302215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK09873-A</name>
+        <description><![CDATA[Date: 7/17/25 8:54 AM
+      Site Name: Nellie East
+      AGL: 194
+      Tower Type: Self Support
+      Address: Section 6, Township 1 North, Range 8 West, Duncan, Stephens, OK 73533]]></description>
+        <Point><coordinates>-98.0720048888889,34.5938357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45950-A</name>
+        <description><![CDATA[Date: 7/17/25 9:06 AM
+      Site Name: Destination Moving
+      AGL: 65
+      Tower Type: Tree
+      Address: 895 W. State St., Ontario, San Bernardino, CA 91761]]></description>
+        <Point><coordinates>-117.666575,34.0587916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08603-B</name>
+        <description><![CDATA[Date: 7/17/25 9:06 AM
+      Site Name: Pelion
+      AGL: 300
+      Tower Type: Self Support
+      Address: 920 Fairview Rd, Pelion, Lexington, SC 29123]]></description>
+        <Point><coordinates>-81.2707354444444,33.7734437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02863-B</name>
+        <description><![CDATA[Date: 7/17/25 9:06 AM
+      Site Name: Fina
+      AGL: 250
+      Tower Type: Self Support
+      Address: 257 Cagle Rd, Jasper, Pickens, GA 30143]]></description>
+        <Point><coordinates>-84.4387024444444,34.3982996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03197-B</name>
+        <description><![CDATA[Date: 7/17/25 9:06 AM
+      Site Name: Woodburn North
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8211 Cole Road, Woodburn, Allen, IN 46797]]></description>
+        <Point><coordinates>-84.8226104444444,41.1651666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20388-A</name>
+        <description><![CDATA[Date: 7/17/25 9:02 AM
+      Site Name: LUMBERTON NORTH TOWER
+      AGL: 303
+      Tower Type: Guyed
+      Address: 5218 ELLIS ROAD, LUMBERTON, HARDIN, TX 77657]]></description>
+        <Point><coordinates>-94.2474996666667,30.2930552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS02265-S</name>
+        <description><![CDATA[Date: 7/17/25 9:02 AM
+      Site Name: DeBuys Road
+      AGL: 160
+      Tower Type: Monopole
+      Address: E. Pass Road, Gulfport, Harrison, MS 39507]]></description>
+        <Point><coordinates>-89.0128,30.4023194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/17/25 9:07 AM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12370-A</name>
+        <description><![CDATA[Date: 7/17/25 9:07 AM
+      Site Name: Ferndale 2 KY
+      AGL: 190
+      Tower Type: Guyed
+      Address: 3150 Pickett Lane, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.8128083333333,38.6876607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/17/25 9:07 AM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14779-A</name>
+        <description><![CDATA[Date: 7/17/25 8:55 AM
+      Site Name: Monahans - Carpenter
+      AGL: 161
+      Tower Type: Self Support
+      Address: 607 S. Allen Avenue, Monahans, Ward, TX 79756]]></description>
+        <Point><coordinates>-102.890360777778,31.5893468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

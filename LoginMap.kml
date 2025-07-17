@@ -1477,5 +1477,50 @@
       Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
         <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/17/25 9:50 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46185-A</name>
+        <description><![CDATA[Date: 7/17/25 9:50 AM
+      Site Name: San Mateo
+      AGL: 250
+      Tower Type: Self Support
+      Address: 352 East Sr 100 , San Mateo, PUTNAM, FL 32187]]></description>
+        <Point><coordinates>-81.5666937777778,29.592083,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/17/25 9:50 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC41757-A</name>
+        <description><![CDATA[Date: 7/17/25 9:40 AM
+      Site Name: Chopee
+      AGL: 230
+      Tower Type: Monopole
+      Address: 8099 Choppee Rd, Georgetown, Georgetown, SC 29440]]></description>
+        <Point><coordinates>-79.3358385555556,33.5466163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05880-A</name>
+        <description><![CDATA[Date: 7/17/25 9:55 AM
+      Site Name: Pitkin
+      AGL: 260
+      Tower Type: Guyed
+      Address: 161 Pitkin Hwy., Leesville, Vernon, LA 71446]]></description>
+        <Point><coordinates>-93.2680826666667,31.0323243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

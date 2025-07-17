@@ -1684,5 +1684,41 @@
       Address: 11309 Pleasant Hill Drive , HEMINGWAY, Georgetown, SC 29554]]></description>
         <Point><coordinates>-79.3573333333333,33.676666,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21761-A</name>
+        <description><![CDATA[Date: 7/17/25 10:32 AM
+      Site Name: Stanley
+      AGL: 300
+      Tower Type: Self Support
+      Address: W11780 Willow Road, Stanley, Clark, WI 54768]]></description>
+        <Point><coordinates>-90.9063305555556,44.9597777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00758-B</name>
+        <description><![CDATA[Date: 7/17/25 10:32 AM
+      Site Name: Meadow View
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2727 Fairburn Road, Douglasville, Douglas, GA 30135-2941]]></description>
+        <Point><coordinates>-84.6688854444445,33.7307076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40003-A</name>
+        <description><![CDATA[Date: 7/17/25 10:19 AM
+      Site Name: Burwell Springs
+      AGL: 165
+      Tower Type: Monopole
+      Address: 7485 Pulaski Pike, Huntsville, Madison, AL 35773]]></description>
+        <Point><coordinates>-86.6434371666667,34.8336616111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA23578-A</name>
+        <description><![CDATA[Date: 7/17/25 10:34 AM
+      Site Name: Rollins Ford Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 14500 Rollins Ford Road, Nokesville, Prince William, VA 20181]]></description>
+        <Point><coordinates>-77.6224993333333,38.7594583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2071,5 +2071,23 @@
       Address: 58897 873 Rd., Waterbury, Dixon, NE 68785]]></description>
         <Point><coordinates>-96.7622111111111,42.4762326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09074-A</name>
+        <description><![CDATA[Date: 7/17/25 12:29 PM
+      Site Name: Super Tower
+      AGL: 564
+      Tower Type: Guyed
+      Address: 320 East River Mountain Road, Bluefield, Bland, VA 24605]]></description>
+        <Point><coordinates>-81.189658,37.2510416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL06048-A</name>
+        <description><![CDATA[Date: 7/17/25 12:29 PM
+      Site Name: Flatwood Rd
+      AGL: 193
+      Tower Type: Self Support
+      Address: 5650 Flatwood Road, Northport, Tuscaloosa, AL 35473-1008]]></description>
+        <Point><coordinates>-87.61185,33.2529416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

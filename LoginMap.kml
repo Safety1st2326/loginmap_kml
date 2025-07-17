@@ -2386,5 +2386,14 @@
       Address: 252 Shared Tower Road, Jane Lew, Lewis, WV 26378]]></description>
         <Point><coordinates>-80.3959496666667,39.1125777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO14430-A</name>
+        <description><![CDATA[Date: 7/17/25 2:34 PM
+      Site Name: Farmington SE
+      AGL: 231
+      Tower Type: Self Support
+      Address: 3381 OO Hwy, Farmington, St. Francois, MO 63640]]></description>
+        <Point><coordinates>-90.3917968888889,37.7653527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

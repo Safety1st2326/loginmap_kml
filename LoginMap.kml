@@ -2674,5 +2674,14 @@
       Address: 8311 N. Goldfield Road,, Mesa, Maricopa, AZ 85215]]></description>
         <Point><coordinates>-111.614766722222,33.5547743888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN46965-A</name>
+        <description><![CDATA[Date: 7/17/25 6:25 PM
+      Site Name: Hillman 2 MN
+      AGL: 400
+      Tower Type: Guyed
+      Address: 20385 370th AVE, Hillman, Morrison, MN 56338]]></description>
+        <Point><coordinates>-93.8952405,46.0561291666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

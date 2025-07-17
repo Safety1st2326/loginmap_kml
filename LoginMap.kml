@@ -2143,5 +2143,14 @@
       Address: 4475 Turbeville Highway, Turbeville, Clarendon, SC 29162]]></description>
         <Point><coordinates>-79.9770104444444,33.8924746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA05856-A</name>
+        <description><![CDATA[Date: 7/17/25 12:46 PM
+      Site Name: Service Road East
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6920  Service Road East, Pineville, Rapides, LA 71360-3400]]></description>
+        <Point><coordinates>-92.4599444444444,31.40375,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

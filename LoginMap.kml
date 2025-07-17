@@ -1180,5 +1180,59 @@
       Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
         <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01594-B</name>
+        <description><![CDATA[Date: 7/17/25 8:52 AM
+      Site Name: Bellwood
+      AGL: 185
+      Tower Type: Self Support
+      Address: 75 Louise Lane, Lebanon, Wilson, TN 37090]]></description>
+        <Point><coordinates>-86.1355718888889,36.2553583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04902-A</name>
+        <description><![CDATA[Date: 7/17/25 8:52 AM
+      Site Name: Carrollwood
+      AGL: 156
+      Tower Type: Monopole
+      Address: 13201 N. Dale Mabry, Tampa, Hillsborough, FL 33618-2407]]></description>
+        <Point><coordinates>-82.5047222222222,28.0673326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/17/25 8:47 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22513-A</name>
+        <description><![CDATA[Date: 7/17/25 8:58 AM
+      Site Name: US-67 & I-280
+      AGL: 131
+      Tower Type: Monopole
+      Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
+        <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09430-A</name>
+        <description><![CDATA[Date: 7/17/25 8:58 AM
+      Site Name: Hog Mountain 2 GA
+      AGL: 197
+      Tower Type: Monopole
+      Address: 1925 Hog Mountain Church Road, Dacula, Gwinnett, GA 30519]]></description>
+        <Point><coordinates>-83.926691,34.0508416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL20147-A</name>
+        <description><![CDATA[Date: 7/17/25 8:47 AM
+      Site Name: Enterprise AL Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1532 Parker Lane, Enterprise, Coffee/Enterprise, AL 36330]]></description>
+        <Point><coordinates>-85.8673354444444,31.3407052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2215,5 +2215,68 @@
       Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
         <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21379-A</name>
+        <description><![CDATA[Date: 7/17/25 1:10 PM
+      Site Name: Pine Forest
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4296 Barnhill Rd, Vidor, Orange, TX 77662]]></description>
+        <Point><coordinates>-94.0258882222222,30.1874441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20880-A</name>
+        <description><![CDATA[Date: 7/17/25 1:10 PM
+      Site Name: Chickasha
+      AGL: 410
+      Tower Type: Guyed
+      Address: 457 County Rd. 1420, Chickasha, GRADY, OK 73018]]></description>
+        <Point><coordinates>-98.0319548888889,34.9543416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09077-A</name>
+        <description><![CDATA[Date: 7/17/25 1:10 PM
+      Site Name: Blf VA
+      AGL: 300
+      Tower Type: Guyed
+      Address: 163 Communications Road, Bluefield, Tazewell, VA 24605]]></description>
+        <Point><coordinates>-81.2697326666667,37.247033,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20445-A</name>
+        <description><![CDATA[Date: 7/17/25 1:19 PM
+      Site Name: Geneva 3 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
+        <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46332-A</name>
+        <description><![CDATA[Date: 7/17/25 1:25 PM
+      Site Name: Regency
+      AGL: 187
+      Tower Type: Monopole
+      Address: 4973 West Price Rd., Suwanee, Gwinnett, GA 30024]]></description>
+        <Point><coordinates>-84.070791,34.0906885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13877-A</name>
+        <description><![CDATA[Date: 7/17/25 1:14 PM
+      Site Name: Center 2 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 412 CR 1005, Center, Shelby, TX 75935]]></description>
+        <Point><coordinates>-94.1836107777778,31.7512972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20712-A</name>
+        <description><![CDATA[Date: 7/17/25 1:28 PM
+      Site Name: Hayes 2 LA
+      AGL: 194
+      Tower Type: Guyed
+      Address: 8199 Joe Primeaux Rd., Hayes, Calcasieu, LA 70646]]></description>
+        <Point><coordinates>-92.9280743333333,30.1089861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1081,5 +1081,104 @@
       Address: 17466 NE 85th Street, Williston, Levy, FL 32696]]></description>
         <Point><coordinates>-82.4834552222222,29.4555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21074-A</name>
+        <description><![CDATA[Date: 7/17/25 8:40 AM
+      Site Name: ACTION AUTO
+      AGL: 235
+      Tower Type: Self Support
+      Address: 575 L.H.S. Drive (Hwy 69), Lumberton, HARDIN, TX 77657]]></description>
+        <Point><coordinates>-94.2350524444444,30.283608,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:40 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/17/25 8:40 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC05466-S</name>
+        <description><![CDATA[Date: 7/17/25 8:43 AM
+      Site Name: Andrews
+      AGL: 275
+      Tower Type: Self Support
+      Address: 4808 Georgetown Hwy, Andrews, Georgetown, SC 29510]]></description>
+        <Point><coordinates>-79.5063555555556,33.4226465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:44 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:45 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

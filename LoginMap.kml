@@ -2683,5 +2683,23 @@
       Address: 20385 370th AVE, Hillman, Morrison, MN 56338]]></description>
         <Point><coordinates>-93.8952405,46.0561291666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/17/25 6:42 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/17/25 6:42 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

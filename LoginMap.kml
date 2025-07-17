@@ -334,5 +334,86 @@
       Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
         <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10806-A</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: Lanier
+      AGL: 146
+      Tower Type: Monopole
+      Address: 124 Lanier Drive, Statesboro, Bulloch, GA 30458]]></description>
+        <Point><coordinates>-81.7790243333333,32.4163083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 6:50 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12709-S</name>
+        <description><![CDATA[Date: 7/17/25 6:52 AM
+      Site Name: Blue Water Bridge
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2906 Lewis Drive, Port Huron, St. Clair, MI 48060-7364]]></description>
+        <Point><coordinates>-82.4680168333333,42.987708,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11100-A</name>
+        <description><![CDATA[Date: 7/17/25 6:52 AM
+      Site Name: Gravel Switch
+      AGL: 254
+      Tower Type: Self Support
+      Address: 9076 Perryville Road, Springfield, Washington, KY 40069]]></description>
+        <Point><coordinates>-85.0778832222222,37.650875,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46695-A</name>
+        <description><![CDATA[Date: 7/17/25 6:52 AM
+      Site Name: East Harwich Fire Department
+      AGL: 146
+      Tower Type: Stealth Flagpole
+      Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
+        <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

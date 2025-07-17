@@ -1747,5 +1747,68 @@
       Address: 3320 Financial Center Way, Buford, Gwinnett, GA 30518]]></description>
         <Point><coordinates>-83.9902774444444,34.0713882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN08900-S</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Bon Aqua
+      AGL: 250
+      Tower Type: Self Support
+      Address: 9580 Old Bon Aqua Rd, Bon Aqua, Hickman, TN 37025]]></description>
+        <Point><coordinates>-87.3025,35.9421941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO12985-A</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Independence 5 MO
+      AGL: 150
+      Tower Type: Monopole
+      Address: 906 North Highway 291, Independence, Jackson, MO 64056]]></description>
+        <Point><coordinates>-94.3878191111111,39.1205104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI11328-A</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Tek-Mold
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2850 Lincoln St, Norton Shores, Muskegon, MI 49441]]></description>
+        <Point><coordinates>-86.3010833333333,43.2012777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48098-A</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Onieda
+      AGL: 180
+      Tower Type: Self Support
+      Address: 5851 Oneida Peak Rd, Bluefield, Tazewell, VA 24605]]></description>
+        <Point><coordinates>-81.3779993333333,37.1802215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05021-A</name>
+        <description><![CDATA[Date: 7/17/25 10:52 AM
+      Site Name: Shrobe Rd
+      AGL: 190
+      Tower Type: Monopole
+      Address: 25550 Interstate 30, Alexander, Saline, AR 72002]]></description>
+        <Point><coordinates>-92.4576111111111,34.6370718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ17717-B</name>
+        <description><![CDATA[Date: 7/17/25 10:55 AM
+      Site Name: Magnolia AZ
+      AGL: 74
+      Tower Type: Monopine
+      Address: 1926 South 203rd Avenue, Buckeye, Maricopa, AZ 85326]]></description>
+        <Point><coordinates>-112.496749666667,33.4299993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

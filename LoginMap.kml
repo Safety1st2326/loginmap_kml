@@ -1990,5 +1990,59 @@
       Address: 3458 Highway 515 N, Jasper, Pickens, GA 30143]]></description>
         <Point><coordinates>-84.4907524444445,34.4965524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA00105-A</name>
+        <description><![CDATA[Date: 7/17/25 11:36 AM
+      Site Name: Penobscot Mountain
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1219 Sterling St, Hanover Township, Luzerne, PA 18706]]></description>
+        <Point><coordinates>-75.8687882222222,41.183066,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/17/25 11:51 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC10738-A</name>
+        <description><![CDATA[Date: 7/17/25 11:46 AM
+      Site Name: Eaddy
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1428 W. Highway 378, Hannah, Florence, SC 29583]]></description>
+        <Point><coordinates>-79.5868802222222,33.8893357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46333-A</name>
+        <description><![CDATA[Date: 7/17/25 11:53 AM
+      Site Name: Plunkett
+      AGL: 184
+      Tower Type: Monopole
+      Address: 3635 Woodward Mill Rd, Buford, Gwinnett, GA 30518]]></description>
+        <Point><coordinates>-84.0115877777778,34.0686840555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46215-A</name>
+        <description><![CDATA[Date: 7/17/25 11:58 AM
+      Site Name: Lake Plymouth
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
+        <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21632-A</name>
+        <description><![CDATA[Date: 7/17/25 11:58 AM
+      Site Name: Delano - Hwy 411
+      AGL: 301
+      Tower Type: Self Support
+      Address: 166 West County Line Road, Delano, POLK, TN 37325]]></description>
+        <Point><coordinates>-84.5511611111111,35.2665805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

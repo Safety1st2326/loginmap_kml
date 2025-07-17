@@ -3475,5 +3475,23 @@
       Address: 297808 State Highway 29, Marlow, Stephens, OK 73055]]></description>
         <Point><coordinates>-97.6759021111111,34.6384941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA05057-A</name>
+        <description><![CDATA[Date: 7/16/25 7:31 PM
+      Site Name: Billeaud
+      AGL: 190
+      Tower Type: Self Support
+      Address: 4924 Highway 90 East, Unit #B, Broussard, Lafayette, LA 70518]]></description>
+        <Point><coordinates>-91.9470135555556,30.1336941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05057-A</name>
+        <description><![CDATA[Date: 7/16/25 7:31 PM
+      Site Name: Billeaud
+      AGL: 190
+      Tower Type: Self Support
+      Address: 4924 Highway 90 East, Unit #B, Broussard, Lafayette, LA 70518]]></description>
+        <Point><coordinates>-91.9470135555556,30.1336941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

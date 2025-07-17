@@ -2170,5 +2170,41 @@
       Address: 517 NW 78th Street, St John, Stafford, KS 67576]]></description>
         <Point><coordinates>-98.8434163333333,38.0686104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20809-A</name>
+        <description><![CDATA[Date: 7/17/25 1:07 PM
+      Site Name: Mt Pleasant 4 MO
+      AGL: 300
+      Tower Type: Self Support
+      Address: 22801 South Demarco Rd., Hartsburg, Boone, MO 65039]]></description>
+        <Point><coordinates>-92.2482441111111,38.6753604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH04626-B</name>
+        <description><![CDATA[Date: 7/17/25 1:07 PM
+      Site Name: Arcola
+      AGL: 250
+      Tower Type: Self Support
+      Address: 12416 Canning Factory Rd., Wapakoneta, Auglaize, OH 45895-8300]]></description>
+        <Point><coordinates>-84.2178854444444,40.5468385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13924-A</name>
+        <description><![CDATA[Date: 7/17/25 1:07 PM
+      Site Name: W Mt Vernon
+      AGL: 300
+      Tower Type: Guyed
+      Address: 354 Franklin County Road SW 3050, Mt. Vernon, Hopkins, TX 75457]]></description>
+        <Point><coordinates>-95.3080555555556,33.1625,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40946-A</name>
+        <description><![CDATA[Date: 7/17/25 1:07 PM
+      Site Name: Harris 3 GA
+      AGL: 195
+      Tower Type: Monopole
+      Address: 49 Sourwood Lane, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.5977691111111,34.5884968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -415,5 +415,41 @@
       Address: 1464 Orleans Road, Harwich, Barnstable, MA 02645]]></description>
         <Point><coordinates>-70.0223548888889,41.7082972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC04820-S</name>
+        <description><![CDATA[Date: 7/17/25 7:02 AM
+      Site Name: Kent
+      AGL: 280
+      Tower Type: Self Support
+      Address: 489 Tanager Drive, Georgetown, Georgetown, SC 29440]]></description>
+        <Point><coordinates>-79.445408,33.3721437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 7:02 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:02 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:02 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

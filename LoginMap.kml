@@ -2467,5 +2467,32 @@
       Address: 8957 Highway 11, Poplarville, Pearl River, MS 39470]]></description>
         <Point><coordinates>-89.5973135555556,30.722541,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08872-A</name>
+        <description><![CDATA[Date: 7/17/25 3:10 PM
+      Site Name: Reese 2 TX
+      AGL: 240
+      Tower Type: Self Support
+      Address: 4244 Little Cypress Drive, Orange, Orange, TX 77632]]></description>
+        <Point><coordinates>-93.7586111111111,30.1769437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 7/17/25 3:21 PM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21369-A</name>
+        <description><![CDATA[Date: 7/17/25 3:22 PM
+      Site Name: Port Neches
+      AGL: 150
+      Tower Type: Self Support
+      Address: 820 Dearing Street, Port Neches, JEFFERSON, TX 77651]]></description>
+        <Point><coordinates>-93.9489163333333,29.9943885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

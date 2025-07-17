@@ -244,5 +244,50 @@
       Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
         <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48013-A</name>
+        <description><![CDATA[Date: 7/17/25 6:24 AM
+      Site Name: Shavano Park-tx
+      AGL: 99
+      Tower Type: Monopole
+      Address: 12720 Nw Military Highway, San Antonio, Bexar, TX 78231]]></description>
+        <Point><coordinates>-98.534033,29.5588555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA03251-S</name>
+        <description><![CDATA[Date: 7/17/25 6:12 AM
+      Site Name: Matoaca
+      AGL: 199
+      Tower Type: Monopole
+      Address: 8501 Reedy Branch Road, Chesterfield, Chesterfield, VA 23838-5429]]></description>
+        <Point><coordinates>-77.5355052222222,37.2968607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA10605-S</name>
+        <description><![CDATA[Date: 7/17/25 6:24 AM
+      Site Name: Lucinda
+      AGL: 270
+      Tower Type: Self Support
+      Address: 23 Madden Drive, Lucinda, Clarion, PA 16235]]></description>
+        <Point><coordinates>-79.3826021111111,41.2931607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA01320-A</name>
+        <description><![CDATA[Date: 7/17/25 6:24 AM
+      Site Name: Tucker
+      AGL: 163
+      Tower Type: Monopole
+      Address: 4420 Hugh Howell Road, Tucker, DeKalb, GA 30084-4914]]></description>
+        <Point><coordinates>-84.2062833333333,33.8525277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 6:17 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1639,5 +1639,50 @@
       Address: 76 Tally Mountain Road South, Jasper, Pickens, GA 30143]]></description>
         <Point><coordinates>-84.5054705555556,34.4506033333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40005-A</name>
+        <description><![CDATA[Date: 7/17/25 10:21 AM
+      Site Name: Holt
+      AGL: 220
+      Tower Type: Self Support
+      Address: 7190 Old Birmingham Hwy., Cottondale, Tuscaloosa, AL 35453]]></description>
+        <Point><coordinates>-87.444433,33.2177271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17555-A</name>
+        <description><![CDATA[Date: 7/17/25 10:21 AM
+      Site Name: Patoka
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8481 US Highway 51, Patoka, Marion, IL 62875]]></description>
+        <Point><coordinates>-89.0878413333333,38.7829076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08875-A</name>
+        <description><![CDATA[Date: 7/17/25 10:22 AM
+      Site Name: Groves
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2100-A East Parkway, Groves, Jefferson, TX 77619]]></description>
+        <Point><coordinates>-93.8964413333333,29.9411885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC47769-A</name>
+        <description><![CDATA[Date: 7/17/25 10:13 AM
+      Site Name: Fire Station -4
+      AGL: 260
+      Tower Type: Self Support
+      Address: 11309 Pleasant Hill Drive , HEMINGWAY, Georgetown, SC 29554]]></description>
+        <Point><coordinates>-79.3573333333333,33.676666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC47769-A</name>
+        <description><![CDATA[Date: 7/17/25 10:13 AM
+      Site Name: Fire Station -4
+      AGL: 260
+      Tower Type: Self Support
+      Address: 11309 Pleasant Hill Drive , HEMINGWAY, Georgetown, SC 29554]]></description>
+        <Point><coordinates>-79.3573333333333,33.676666,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

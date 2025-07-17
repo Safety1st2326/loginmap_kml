@@ -2512,5 +2512,23 @@
       Address: 10892 Hwy. 12, Mauriceville, Orange, TX 77626]]></description>
         <Point><coordinates>-93.8754993333333,30.2054166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46908-A</name>
+        <description><![CDATA[Date: 7/17/25 3:43 PM
+      Site Name: Oakwood Drive
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2211 Lake Drive, S.E. , East Grand Rapids, Kent, MI 49506]]></description>
+        <Point><coordinates>-85.6131472222222,42.9488996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40462-T</name>
+        <description><![CDATA[Date: 7/17/25 3:48 PM
+      Site Name: Oakdale
+      AGL: 250
+      Tower Type: Self Support
+      Address: 17885 Hwy. 251, Athens, Limestone, AL 35613]]></description>
+        <Point><coordinates>-86.8866496666667,34.8371996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

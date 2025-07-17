@@ -2206,5 +2206,14 @@
       Address: 49 Sourwood Lane, Ellijay, Gilmer, GA 30540]]></description>
         <Point><coordinates>-84.5977691111111,34.5884968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 7/17/25 1:19 PM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

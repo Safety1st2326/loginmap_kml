@@ -2152,5 +2152,23 @@
       Address: 6920  Service Road East, Pineville, Rapides, LA 71360-3400]]></description>
         <Point><coordinates>-92.4599444444444,31.40375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/17/25 12:55 PM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS20681-A</name>
+        <description><![CDATA[Date: 7/17/25 12:55 PM
+      Site Name: St John
+      AGL: 300
+      Tower Type: Guyed
+      Address: 517 NW 78th Street, St John, Stafford, KS 67576]]></description>
+        <Point><coordinates>-98.8434163333333,38.0686104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

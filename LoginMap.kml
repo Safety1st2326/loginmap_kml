@@ -1864,5 +1864,59 @@
       Address: 2925 Route 130 South, Delran, Burlington, NJ 08075]]></description>
         <Point><coordinates>-74.9664694444444,40.0110805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT46134-A</name>
+        <description><![CDATA[Date: 7/17/25 11:14 AM
+      Site Name: Granby-n Granby
+      AGL: 150
+      Tower Type: Monopole
+      Address: 15 North Granby Road, Granby, Hartford, CT 06035]]></description>
+        <Point><coordinates>-72.7937302222222,41.9535861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK15298-A</name>
+        <description><![CDATA[Date: 7/17/25 11:09 AM
+      Site Name: Chickasha NW
+      AGL: 189
+      Tower Type: Monopole
+      Address: Approximately W Iowa Avenue & S 18th Street, Chickasha, Grady, OK 73018]]></description>
+        <Point><coordinates>-97.9541722222222,35.0492913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA09553-A</name>
+        <description><![CDATA[Date: 7/17/25 11:09 AM
+      Site Name: Deer Range
+      AGL: 304
+      Tower Type: Guyed
+      Address: 18940 Highway 23, Myrtle Grove, Plaquemines, LA 70764]]></description>
+        <Point><coordinates>-89.9122694444444,29.6141555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41652-T</name>
+        <description><![CDATA[Date: 7/17/25 11:15 AM
+      Site Name: Scullin
+      AGL: 270
+      Tower Type: Guyed
+      Address: 2579 Lawton Avenue, SULPHUR, Murray, OK 73086]]></description>
+        <Point><coordinates>-96.9235215555556,34.4923357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40056-T</name>
+        <description><![CDATA[Date: 7/17/25 11:18 AM
+      Site Name: Thompson Hill
+      AGL: 55
+      Tower Type: Slimline Monopole
+      Address: 1242 Oro Loma Rd., Placerville, El Dorado, CA 95667]]></description>
+        <Point><coordinates>-120.905558333333,38.7650416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46263-A</name>
+        <description><![CDATA[Date: 7/17/25 11:18 AM
+      Site Name: Jacksonville Downtown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 743 Houston St, Jacksonville, Duval, FL 32204]]></description>
+        <Point><coordinates>-81.667416,30.3294048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

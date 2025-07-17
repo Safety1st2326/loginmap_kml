@@ -163,5 +163,41 @@
       Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
         <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 5:48 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 5:48 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 5:48 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 5:48 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

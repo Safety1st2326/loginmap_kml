@@ -3466,5 +3466,14 @@
       Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
         <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK17370-A</name>
+        <description><![CDATA[Date: 7/16/25 7:20 PM
+      Site Name: Lake Fuqua
+      AGL: 320
+      Tower Type: Guyed
+      Address: 297808 State Highway 29, Marlow, Stephens, OK 73055]]></description>
+        <Point><coordinates>-97.6759021111111,34.6384941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

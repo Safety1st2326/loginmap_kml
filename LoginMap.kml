@@ -2395,5 +2395,23 @@
       Address: 3381 OO Hwy, Farmington, St. Francois, MO 63640]]></description>
         <Point><coordinates>-90.3917968888889,37.7653527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE09696-A</name>
+        <description><![CDATA[Date: 7/17/25 2:40 PM
+      Site Name: Ceresco
+      AGL: 400
+      Tower Type: Self Support
+      Address: 2104 Ashland Drive, Ceresco, Lancaster, NE 68017]]></description>
+        <Point><coordinates>-96.7163888888889,41.0434941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20817-A</name>
+        <description><![CDATA[Date: 7/17/25 2:41 PM
+      Site Name: Bolivar 2 MO
+      AGL: 280
+      Tower Type: Guyed
+      Address: 1211 Highway U, Bolivar, Polk, MO 65613]]></description>
+        <Point><coordinates>-93.4115277777778,37.5568611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

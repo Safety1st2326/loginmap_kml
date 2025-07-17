@@ -3493,5 +3493,23 @@
       Address: 4924 Highway 90 East, Unit #B, Broussard, Lafayette, LA 70518]]></description>
         <Point><coordinates>-91.9470135555556,30.1336941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40642-T</name>
+        <description><![CDATA[Date: 7/16/25 9:19 PM
+      Site Name: SR124 New Life- Sunset
+      AGL: 65
+      Tower Type: Stealth
+      Address: 8101 Sunset Ave, Fair Oaks, Sacramento, CA 95628]]></description>
+        <Point><coordinates>-121.263497222222,38.6537833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40642-T</name>
+        <description><![CDATA[Date: 7/16/25 9:19 PM
+      Site Name: SR124 New Life- Sunset
+      AGL: 65
+      Tower Type: Monopine
+      Address: 8101 Sunset Ave, Fair Oaks, Sacramento, CA 95628]]></description>
+        <Point><coordinates>-121.263736111111,38.6534833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

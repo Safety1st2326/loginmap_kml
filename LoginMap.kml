@@ -1522,5 +1522,77 @@
       Address: 161 Pitkin Hwy., Leesville, Vernon, LA 71446]]></description>
         <Point><coordinates>-93.2680826666667,31.0323243333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/17/25 9:59 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47561-A</name>
+        <description><![CDATA[Date: 7/17/25 10:02 AM
+      Site Name: Middleton Crowder Rawland
+      AGL: 303
+      Tower Type: Self Support
+      Address: 6086 E. S.R. 245 , North Lewisburg, Champaign, OH 43060]]></description>
+        <Point><coordinates>-83.6212521111111,40.1958746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/17/25 10:04 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08334-A</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Northport
+      AGL: 349
+      Tower Type: Self Support
+      Address: 2275 S Toledo Blade Blvd, North Port, Sarasota, FL 34286]]></description>
+        <Point><coordinates>-82.1594388888889,27.0580055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08334-A</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Northport
+      AGL: 350
+      Tower Type: Self Support
+      Address: 2275 S Toledo Blade Blvd, North Port, Sarasota, FL 34286]]></description>
+        <Point><coordinates>-82.1594388888889,27.0580055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/17/25 10:08 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

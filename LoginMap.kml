@@ -982,5 +982,104 @@
       Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
         <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT03109-S</name>
+        <description><![CDATA[Date: 7/17/25 8:18 AM
+      Site Name: Oxford 3 CT
+      AGL: 150
+      Tower Type: Monopole
+      Address: 106 Willenbrock Road, Oxford, New Haven, CT 06478-1031]]></description>
+        <Point><coordinates>-73.1465552222222,41.4651055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:31 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:31 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:31 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 7/17/25 8:31 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21281-A</name>
+        <description><![CDATA[Date: 7/17/25 8:31 AM
+      Site Name: OAKFIELD
+      AGL: 195
+      Tower Type: Self Support
+      Address: N4156 WOLF ROAD, OAKFIELD, FOND DU LAC, WI 53065]]></description>
+        <Point><coordinates>-88.6133416666667,43.6920607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA08597-A</name>
+        <description><![CDATA[Date: 7/17/25 8:22 AM
+      Site Name: Nash 2 VA
+      AGL: 249
+      Tower Type: Self Support
+      Address: 237 Warrenton Road, Fredericksburg, Stafford, VA 22405]]></description>
+        <Point><coordinates>-77.4810271111111,38.3325826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46331-A</name>
+        <description><![CDATA[Date: 7/17/25 8:28 AM
+      Site Name: Little Mulberry
+      AGL: 184
+      Tower Type: Monopole
+      Address: 1565 Mineral Springs Rd, Hoschton, Gwinnett, GA 30548]]></description>
+        <Point><coordinates>-83.8784465555556,34.0621916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47153-A</name>
+        <description><![CDATA[Date: 7/17/25 8:38 AM
+      Site Name: Kearney
+      AGL: 238
+      Tower Type: Self Support
+      Address: 114 Tollie Weldon Road, Henderson, Franklin, NC 27537]]></description>
+        <Point><coordinates>-78.2757104444444,36.2277243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA02338-B</name>
+        <description><![CDATA[Date: 7/17/25 8:34 AM
+      Site Name: Brimfield
+      AGL: 170
+      Tower Type: Monopole
+      Address: 57 Dearth Hill Road, Brimfield, Hampden, MA 01010-2001]]></description>
+        <Point><coordinates>-72.2429191111111,42.1090111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10332-A</name>
+        <description><![CDATA[Date: 7/17/25 8:34 AM
+      Site Name: Raleigh
+      AGL: 250
+      Tower Type: Guyed
+      Address: 17466 NE 85th Street, Williston, Levy, FL 32696]]></description>
+        <Point><coordinates>-82.4834552222222,29.4555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

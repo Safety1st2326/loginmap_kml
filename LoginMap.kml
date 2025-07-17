@@ -1810,5 +1810,59 @@
       Address: 1926 South 203rd Avenue, Buckeye, Maricopa, AZ 85326]]></description>
         <Point><coordinates>-112.496749666667,33.4299993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/17/25 11:02 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12375-A</name>
+        <description><![CDATA[Date: 7/17/25 11:02 AM
+      Site Name: Needmore
+      AGL: 251
+      Tower Type: Guyed
+      Address: 752 Dry Fork Road, Danville, Boyle, KY 40422]]></description>
+        <Point><coordinates>-84.9020388888889,37.6652555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40944-A</name>
+        <description><![CDATA[Date: 7/17/25 11:04 AM
+      Site Name: Bull Gap
+      AGL: 195
+      Tower Type: Monopole
+      Address: 928 Orchard Road, Jasper, Pickens, GA 30143]]></description>
+        <Point><coordinates>-84.4322771111111,34.5111111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ID18355-A</name>
+        <description><![CDATA[Date: 7/17/25 11:04 AM
+      Site Name: Hwy 16 North
+      AGL: 109
+      Tower Type: Monopole
+      Address: 8090 W. Moon Valley Rd, Eagle, Ada, ID 83616]]></description>
+        <Point><coordinates>-116.4553,43.6912441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21079-A</name>
+        <description><![CDATA[Date: 7/17/25 11:04 AM
+      Site Name: Evadale
+      AGL: 330
+      Tower Type: Guyed
+      Address: 321 FM 2246, Evadale, Jasper, TX 77615]]></description>
+        <Point><coordinates>-94.0678854444444,30.3572611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41459-T</name>
+        <description><![CDATA[Date: 7/17/25 11:07 AM
+      Site Name: Rickys Army & Navy
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2925 Route 130 South, Delran, Burlington, NJ 08075]]></description>
+        <Point><coordinates>-74.9664694444444,40.0110805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

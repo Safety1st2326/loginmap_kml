@@ -10,5 +10,14 @@
       Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
         <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47825-A</name>
+        <description><![CDATA[Date: 7/17/25 12:46 AM
+      Site Name: Self Storage
+      AGL: 140
+      Tower Type: Monopole
+      Address: 945 W. New Hope Rd, Cedar Park, Williamson, TX 78613]]></description>
+        <Point><coordinates>-97.8479191111111,30.5319048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

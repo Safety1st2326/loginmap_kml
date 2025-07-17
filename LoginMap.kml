@@ -2620,5 +2620,23 @@
       Address: 1923 Slate Road, Jefferson City, Jefferson, TN 37760]]></description>
         <Point><coordinates>-83.4757521111111,36.1299271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN14157-A</name>
+        <description><![CDATA[Date: 7/17/25 5:09 PM
+      Site Name: Satterfield
+      AGL: 205
+      Tower Type: Self Support
+      Address: 1923 Slate Road, Jefferson City, Jefferson, TN 37760]]></description>
+        <Point><coordinates>-83.4757521111111,36.1299271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02414-S</name>
+        <description><![CDATA[Date: 7/17/25 5:09 PM
+      Site Name: West Holopaw
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
+        <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1423,5 +1423,50 @@
       Address: 5332 Shore Drive, Virginia Beach, Virginia Beach, VA 23455]]></description>
         <Point><coordinates>-76.1661722222222,36.9090916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/17/25 9:30 AM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46716-A</name>
+        <description><![CDATA[Date: 7/17/25 9:30 AM
+      Site Name: Lake Shore 2 MD
+      AGL: 116
+      Tower Type: Monopole
+      Address: 8670 Fort Smallwood Road, Pasadena, Anne Arundel, MD 21122]]></description>
+        <Point><coordinates>-76.5266104444444,39.1485552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45146-A</name>
+        <description><![CDATA[Date: 7/17/25 9:30 AM
+      Site Name: South Davis
+      AGL: 65
+      Tower Type: Monopole
+      Address: 17-F Aboretum Drive, Davis, Yolo, CA 95616]]></description>
+        <Point><coordinates>-121.742180222222,38.5388468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11028-A</name>
+        <description><![CDATA[Date: 7/17/25 9:31 AM
+      Site Name: Crawfordville 2 GA
+      AGL: 251
+      Tower Type: Guyed
+      Address: 637 Water Tank Road, Crawfordville, Taliaferro, GA 30631]]></description>
+        <Point><coordinates>-82.915475,33.563875,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS17104-A</name>
+        <description><![CDATA[Date: 7/17/25 9:35 AM
+      Site Name: Sammy's Southaven
+      AGL: 157
+      Tower Type: Flagpole
+      Address: 6755 Airways Blvd, Southhaven, Desoto, MS 38671]]></description>
+        <Point><coordinates>-89.9911191111111,34.9591472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

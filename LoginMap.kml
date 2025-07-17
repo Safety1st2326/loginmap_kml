@@ -793,5 +793,68 @@
       Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
         <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20222-A</name>
+        <description><![CDATA[Date: 7/17/25 8:01 AM
+      Site Name: Fredricksberg-San Antonio
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1300 West Woodlawn Avenue, San Antonio, Bexar, TX 78201]]></description>
+        <Point><coordinates>-98.5150744444445,29.4525377777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48100-A</name>
+        <description><![CDATA[Date: 7/17/25 8:01 AM
+      Site Name: Tazewell 2 VA
+      AGL: 280
+      Tower Type: Guyed
+      Address: 2969 TR Barrett Rd, N. Tazewell, Tazewell, VA 24651]]></description>
+        <Point><coordinates>-81.4930385555556,37.1947802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC10785-A</name>
+        <description><![CDATA[Date: 7/17/25 8:05 AM
+      Site Name: Allendale
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2500 Barnwell Road, Allendale, Allendale, SC 29810]]></description>
+        <Point><coordinates>-81.3135777777778,33.0314326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 7/17/25 8:00 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12370-A</name>
+        <description><![CDATA[Date: 7/17/25 8:00 AM
+      Site Name: Ferndale 2 KY
+      AGL: 190
+      Tower Type: Guyed
+      Address: 3150 Pickett Lane, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.8128083333333,38.6876607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/17/25 8:01 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA07280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:55 AM
+      Site Name: Medford MWV
+      AGL: 240
+      Tower Type: Self Support
+      Address: 124 Murray Street, Medford, Middlesex, MA 02155]]></description>
+        <Point><coordinates>-71.0894441111111,42.4305548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2575,5 +2575,41 @@
       Address: 8750 Pride Place, Sandy Springs, Fulton, GA 30350]]></description>
         <Point><coordinates>-84.3387774444444,33.9940552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20323-A</name>
+        <description><![CDATA[Date: 7/17/25 4:58 PM
+      Site Name: Lamar University Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 1110 Colorado Avenue, Beaumont, Jefferson, TX 77705]]></description>
+        <Point><coordinates>-94.0706271111111,30.0409218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN14157-A</name>
+        <description><![CDATA[Date: 7/17/25 4:58 PM
+      Site Name: Satterfield
+      AGL: 205
+      Tower Type: Self Support
+      Address: 1923 Slate Road, Jefferson City, Jefferson, TN 37760]]></description>
+        <Point><coordinates>-83.4757521111111,36.1299271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN14157-A</name>
+        <description><![CDATA[Date: 7/17/25 4:58 PM
+      Site Name: Satterfield
+      AGL: 205
+      Tower Type: Self Support
+      Address: 1923 Slate Road, Jefferson City, Jefferson, TN 37760]]></description>
+        <Point><coordinates>-83.4757521111111,36.1299271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21318-A</name>
+        <description><![CDATA[Date: 7/17/25 4:58 PM
+      Site Name: Interstate
+      AGL: 170
+      Tower Type: Self Support
+      Address: S39W30771 County Road D, Waukesha, Waukesha, WI 53189]]></description>
+        <Point><coordinates>-88.3599388888889,42.9726382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

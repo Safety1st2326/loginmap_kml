@@ -289,5 +289,23 @@
       Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
         <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA01897-B</name>
+        <description><![CDATA[Date: 7/17/25 6:37 AM
+      Site Name: Hartfield
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
+        <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA04256-S</name>
+        <description><![CDATA[Date: 7/17/25 6:37 AM
+      Site Name: Tate
+      AGL: 250
+      Tower Type: Self Support
+      Address: 686 Pea Ridge Road, Ball Ground, Pickens, GA 30107-5623]]></description>
+        <Point><coordinates>-84.3231521111111,34.4124055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

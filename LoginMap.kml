@@ -2278,5 +2278,23 @@
       Address: 8199 Joe Primeaux Rd., Hayes, Calcasieu, LA 70646]]></description>
         <Point><coordinates>-92.9280743333333,30.1089861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10791-A</name>
+        <description><![CDATA[Date: 7/17/25 1:31 PM
+      Site Name: Carters Lake
+      AGL: 302
+      Tower Type: Self Support
+      Address: 6058 Highway 382 West, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.5887191111111,34.6176465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46262-A</name>
+        <description><![CDATA[Date: 7/17/25 1:31 PM
+      Site Name: Palatka NE
+      AGL: 169
+      Tower Type: Monopole
+      Address: 184 Comfort Road , PALATKA, PUTNAM, FL 32177]]></description>
+        <Point><coordinates>-81.6583333333333,29.6841218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

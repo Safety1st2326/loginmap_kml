@@ -1342,5 +1342,86 @@
       Address: 607 S. Allen Avenue, Monahans, Ward, TX 79756]]></description>
         <Point><coordinates>-102.890360777778,31.5893468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT11215-A</name>
+        <description><![CDATA[Date: 7/17/25 9:10 AM
+      Site Name: Mt Cobb
+      AGL: 76
+      Tower Type: Monopole
+      Address: 1233 Cobb Hill Road, Moretown, Washington, VT 05660]]></description>
+        <Point><coordinates>-72.737833,44.3046666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05106-A</name>
+        <description><![CDATA[Date: 7/17/25 9:12 AM
+      Site Name: Lake Cormorant
+      AGL: 190
+      Tower Type: Self Support
+      Address: Hwy 61, Lake Cormorant, Desoto, MS 38641]]></description>
+        <Point><coordinates>-90.2133805555556,34.8887663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13621-A</name>
+        <description><![CDATA[Date: 7/17/25 9:13 AM
+      Site Name: Balm-Riverview
+      AGL: 200
+      Tower Type: Monopole
+      Address: 11507 Doneymoor Drive, Riverview, Hillsborough, FL 33569]]></description>
+        <Point><coordinates>-82.2828604444445,27.8300548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12757-A</name>
+        <description><![CDATA[Date: 7/17/25 9:09 AM
+      Site Name: Lakeland Airport
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2812 West Pipkin Road, Lakeland, Polk, FL 33811]]></description>
+        <Point><coordinates>-82.0039305555556,27.9751076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/17/25 9:10 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE22437-A</name>
+        <description><![CDATA[Date: 7/17/25 9:16 AM
+      Site Name: 180th & Pacific
+      AGL: 49
+      Tower Type: Monopole
+      Address: 17979 Pierce Plaza, Omaha, Douglas, NE 68130]]></description>
+        <Point><coordinates>-96.1948052222222,41.2469913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20302-A</name>
+        <description><![CDATA[Date: 7/17/25 9:16 AM
+      Site Name: I-65 BROOKSTON TOWER (CHALMERS)
+      AGL: 270
+      Tower Type: Guyed
+      Address: 7752 West 700 South, Chalmers, WHITE, IN 47929]]></description>
+        <Point><coordinates>-87.0174993333333,40.648333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05106-A</name>
+        <description><![CDATA[Date: 7/17/25 9:18 AM
+      Site Name: Lake Cormorant
+      AGL: 190
+      Tower Type: Self Support
+      Address: Hwy 61, Lake Cormorant, Desoto, MS 38641]]></description>
+        <Point><coordinates>-90.2133805555556,34.8887663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA23534-A</name>
+        <description><![CDATA[Date: 7/17/25 9:18 AM
+      Site Name: ChesLiz WTP
+      AGL: 115
+      Tower Type: Monopole
+      Address: 5332 Shore Drive, Virginia Beach, Virginia Beach, VA 23455]]></description>
+        <Point><coordinates>-76.1661722222222,36.9090916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

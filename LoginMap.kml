@@ -307,5 +307,32 @@
       Address: 686 Pea Ridge Road, Ball Ground, Pickens, GA 30107-5623]]></description>
         <Point><coordinates>-84.3231521111111,34.4124055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10806-A</name>
+        <description><![CDATA[Date: 7/17/25 6:42 AM
+      Site Name: Lanier
+      AGL: 146
+      Tower Type: Monopole
+      Address: 124 Lanier Drive, Statesboro, Bulloch, GA 30458]]></description>
+        <Point><coordinates>-81.7790243333333,32.4163083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA15566-A</name>
+        <description><![CDATA[Date: 7/17/25 6:42 AM
+      Site Name: Moon Street
+      AGL: 121
+      Tower Type: Self Support
+      Address: 2239 Moon Street, Tucker, DeKalb, GA 30085]]></description>
+        <Point><coordinates>-84.2276104444445,33.849333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/17/25 6:42 AM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

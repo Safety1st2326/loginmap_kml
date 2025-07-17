@@ -3412,5 +3412,59 @@
       Address: 79290 Avenue 40, Indio, Riverside, CA 92203]]></description>
         <Point><coordinates>-116.281207666667,33.7554944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 6:52 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 6:52 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/16/25 6:52 PM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/16/25 6:52 PM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 7/16/25 6:58 PM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 7/16/25 6:58 PM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

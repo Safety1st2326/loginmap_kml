@@ -2557,5 +2557,14 @@
       Address: 2290 Rosenbaum Rd., Bluefield, Tazewell, VA 24605]]></description>
         <Point><coordinates>-81.3453052222222,37.2963607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20419-A</name>
+        <description><![CDATA[Date: 7/17/25 4:19 PM
+      Site Name: Nederland Tower
+      AGL: 140
+      Tower Type: Self Support
+      Address: 1991 Highway 69 North, Nederland, Jefferson, TX 77627]]></description>
+        <Point><coordinates>-94.0213604444444,29.9670548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

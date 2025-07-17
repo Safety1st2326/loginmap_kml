@@ -2440,5 +2440,32 @@
       Address: 1221 W. Boundary Road, Bradley, Grady, OK 73011]]></description>
         <Point><coordinates>-97.7225326666667,34.8833941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA08670-A</name>
+        <description><![CDATA[Date: 7/17/25 3:17 PM
+      Site Name: Morton Road
+      AGL: 301
+      Tower Type: Self Support
+      Address: 10735 Jones Bridge Road, Alpharetta, Fulton, GA 30022-6537]]></description>
+        <Point><coordinates>-84.2268076666667,34.0414024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA16448-A</name>
+        <description><![CDATA[Date: 7/17/25 3:08 PM
+      Site Name: Jennings
+      AGL: 252
+      Tower Type: Self Support
+      Address: 145 Columbia Dr., Tazewell, Tazewell, VA 24613]]></description>
+        <Point><coordinates>-81.3094444444444,37.2710548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS12631-A</name>
+        <description><![CDATA[Date: 7/17/25 3:19 PM
+      Site Name: Millard
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8957 Highway 11, Poplarville, Pearl River, MS 39470]]></description>
+        <Point><coordinates>-89.5973135555556,30.722541,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

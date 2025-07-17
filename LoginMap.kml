@@ -2044,5 +2044,32 @@
       Address: 166 West County Line Road, Delano, POLK, TN 37325]]></description>
         <Point><coordinates>-84.5511611111111,35.2665805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11065-A</name>
+        <description><![CDATA[Date: 7/17/25 12:10 PM
+      Site Name: Evadale 2 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2933 FM 105, Evadale, Jasper, TX 77615]]></description>
+        <Point><coordinates>-94.0640972222222,30.3200965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV11302-A</name>
+        <description><![CDATA[Date: 7/17/25 12:10 PM
+      Site Name: South Elkins
+      AGL: 127
+      Tower Type: Monopole
+      Address: 312 Good Dog Hill, Elkins, Randolph, WV 26241]]></description>
+        <Point><coordinates>-79.8457246666667,38.8738743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE14554-A</name>
+        <description><![CDATA[Date: 7/17/25 12:16 PM
+      Site Name: Waterbury NE
+      AGL: 245
+      Tower Type: Guyed
+      Address: 58897 873 Rd., Waterbury, Dixon, NE 68785]]></description>
+        <Point><coordinates>-96.7622111111111,42.4762326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -55,5 +55,41 @@
       Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
         <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 4:51 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 4:51 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 4:57 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01194-B</name>
+        <description><![CDATA[Date: 7/17/25 4:57 AM
+      Site Name: Georgetown 2 SC
+      AGL: 135
+      Tower Type: Monopole
+      Address: 474 Penny Royal Road, Georgetown, Georgetown, SC 29440-5023]]></description>
+        <Point><coordinates>-79.3214993333333,33.3337496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

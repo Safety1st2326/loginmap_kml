@@ -1720,5 +1720,32 @@
       Address: 14500 Rollins Ford Road, Nokesville, Prince William, VA 20181]]></description>
         <Point><coordinates>-77.6224993333333,38.7594583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40673-T</name>
+        <description><![CDATA[Date: 7/17/25 10:40 AM
+      Site Name: IE825 Oasis HOA Tree
+      AGL: 62
+      Tower Type: Monopole Tree
+      Address: 42301 ? Sand Dune Drive, Palm Desert, Riverside, CA 92211]]></description>
+        <Point><coordinates>-116.329988222222,33.7430135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI15625-B</name>
+        <description><![CDATA[Date: 7/17/25 10:41 AM
+      Site Name: Fall Creek 4 WI
+      AGL: 195
+      Tower Type: Self Support
+      Address: 3050 Schultz Road, Fall Creek, Eau Claire, WI 54742]]></description>
+        <Point><coordinates>-91.3484746666667,44.7877468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02641-A</name>
+        <description><![CDATA[Date: 7/17/25 10:37 AM
+      Site Name: Mall of Georgia
+      AGL: 260
+      Tower Type: Self Support
+      Address: 3320 Financial Center Way, Buford, Gwinnett, GA 30518]]></description>
+        <Point><coordinates>-83.9902774444444,34.0713882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

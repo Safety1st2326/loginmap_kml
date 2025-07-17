@@ -541,5 +541,32 @@
       Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
         <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13099-A</name>
+        <description><![CDATA[Date: 7/17/25 7:24 AM
+      Site Name: Sterling 7 GA
+      AGL: 351
+      Tower Type: Guyed
+      Address: 4696 Highway 99, Brunswick, Glynn, GA 31525]]></description>
+        <Point><coordinates>-81.5547166666667,31.2713854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD20005-A</name>
+        <description><![CDATA[Date: 7/17/25 7:25 AM
+      Site Name: Parkton Maryland Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 21131 Old York Road, Parkton, Baltimore, MD 21120]]></description>
+        <Point><coordinates>-76.6345468888889,39.7045472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46676-A</name>
+        <description><![CDATA[Date: 7/17/25 7:25 AM
+      Site Name: Wellesley College
+      AGL: 66
+      Tower Type: Stealth
+      Address: 106 Central Street, Wellesley, Norfolk, MA 02481]]></description>
+        <Point><coordinates>-71.298458,42.2932524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

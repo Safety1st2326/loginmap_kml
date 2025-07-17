@@ -2413,5 +2413,32 @@
       Address: 1211 Highway U, Bolivar, Polk, MO 65613]]></description>
         <Point><coordinates>-93.4115277777778,37.5568611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT42035-T</name>
+        <description><![CDATA[Date: 7/17/25 2:54 PM
+      Site Name: BV363-Bushey Property
+      AGL: 111
+      Tower Type: Monopole
+      Address: 15 Joy Rd, Milton, Chittenden/Milton, VT 05468]]></description>
+        <Point><coordinates>-73.130441,44.6814993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46129-A</name>
+        <description><![CDATA[Date: 7/17/25 2:54 PM
+      Site Name: Tolland-reed Rd
+      AGL: 150
+      Tower Type: Monopole
+      Address: 208 Reed Road, Tolland, Tolland/Tolland, CT 06084]]></description>
+        <Point><coordinates>-72.4061388888889,41.8533611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK09239-A</name>
+        <description><![CDATA[Date: 7/17/25 2:54 PM
+      Site Name: Alex
+      AGL: 281
+      Tower Type: Guyed
+      Address: 1221 W. Boundary Road, Bradley, Grady, OK 73011]]></description>
+        <Point><coordinates>-97.7225326666667,34.8833941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

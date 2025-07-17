@@ -1918,5 +1918,59 @@
       Address: 743 Houston St, Jacksonville, Duval, FL 32204]]></description>
         <Point><coordinates>-81.667416,30.3294048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN21633-A</name>
+        <description><![CDATA[Date: 7/17/25 11:13 AM
+      Site Name: Benton - Hwy 411
+      AGL: 270
+      Tower Type: Self Support
+      Address: 7675 Highway 411, Benton, POLK, TN 37307]]></description>
+        <Point><coordinates>-84.6086416666667,35.2089166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12129-A</name>
+        <description><![CDATA[Date: 7/17/25 11:25 AM
+      Site Name: Pocasset 2 OK
+      AGL: 140
+      Tower Type: Self Support
+      Address: 856 County Road 1280, Amber, Grady, OK 73004]]></description>
+        <Point><coordinates>-97.9600222222222,35.1607777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45408-A</name>
+        <description><![CDATA[Date: 7/17/25 11:25 AM
+      Site Name: Mayoma
+      AGL: 60
+      Tower Type: Tree
+      Address: 75050 Merle Dr. , Palm Desert, Riverside, CA 92211]]></description>
+        <Point><coordinates>-116.355747222222,33.7406913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/17/25 11:22 AM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE17129-A</name>
+        <description><![CDATA[Date: 7/17/25 11:22 AM
+      Site Name: Lyons
+      AGL: 195
+      Tower Type: Self Support
+      Address: 800 S. Cemetery Rd., Lyons, Burt, NE 68038]]></description>
+        <Point><coordinates>-96.4677715555556,41.930141,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC10744-A</name>
+        <description><![CDATA[Date: 7/17/25 11:13 AM
+      Site Name: McWhite
+      AGL: 300
+      Tower Type: Guyed
+      Address: 602 West Myrtle Beach Highway, Johnsonville, Florence, SC 29555]]></description>
+        <Point><coordinates>-79.4745965555556,33.8804326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

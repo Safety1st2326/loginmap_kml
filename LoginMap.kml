@@ -2638,5 +2638,14 @@
       Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
         <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45874-A</name>
+        <description><![CDATA[Date: 7/17/25 5:36 PM
+      Site Name: Mdj Warehouse
+      AGL: 65
+      Tower Type: Monopole
+      Address: 347 S. Stimson Ave, LA PUENTE, LOS ANGELES, CA 91744]]></description>
+        <Point><coordinates>-117.953383333333,34.0186576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2665,5 +2665,14 @@
       Address: 3731 Bethel Road, Weatherford, Parker, TX 76087]]></description>
         <Point><coordinates>-97.8276715555556,32.6808437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ22294-A</name>
+        <description><![CDATA[Date: 7/17/25 6:12 PM
+      Site Name: Goldfield
+      AGL: 146
+      Tower Type: Monopole
+      Address: 8311 N. Goldfield Road,, Mesa, Maricopa, AZ 85215]]></description>
+        <Point><coordinates>-111.614766722222,33.5547743888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

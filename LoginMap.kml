@@ -1594,5 +1594,50 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20971-A</name>
+        <description><![CDATA[Date: 7/17/25 10:10 AM
+      Site Name: College Station
+      AGL: 155
+      Tower Type: Monopole
+      Address: 3316 LONGMIRE DRIVE, COLLEGE STATION, BRAZOS, TX 77845]]></description>
+        <Point><coordinates>-96.2897377222222,30.584798,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45176-A</name>
+        <description><![CDATA[Date: 7/17/25 10:10 AM
+      Site Name: North Hwy 17
+      AGL: 59
+      Tower Type: Monopine
+      Address: 895 Thornton Way, San Jose, Santa Clara, CA 95128]]></description>
+        <Point><coordinates>-121.940049666667,37.3105416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01306-A</name>
+        <description><![CDATA[Date: 7/17/25 10:06 AM
+      Site Name: Rutland
+      AGL: 200
+      Tower Type: Self Support
+      Address: 1702 State Road 60 East, Plant City, Hillsborough, FL 33567-3760]]></description>
+        <Point><coordinates>-82.0922302222222,27.9390357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09921-A</name>
+        <description><![CDATA[Date: 7/17/25 10:07 AM
+      Site Name: Sharps Mtn
+      AGL: 185
+      Tower Type: Monopole
+      Address: 76 Tally Mountain Road South, Jasper, Pickens, GA 30143]]></description>
+        <Point><coordinates>-84.5054705555556,34.4506033333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

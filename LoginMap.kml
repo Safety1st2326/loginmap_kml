@@ -1468,5 +1468,14 @@
       Address: 6755 Airways Blvd, Southhaven, Desoto, MS 38671]]></description>
         <Point><coordinates>-89.9911191111111,34.9591472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/17/25 9:28 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

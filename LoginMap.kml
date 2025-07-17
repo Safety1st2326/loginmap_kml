@@ -1972,5 +1972,23 @@
       Address: 602 West Myrtle Beach Highway, Johnsonville, Florence, SC 29555]]></description>
         <Point><coordinates>-79.4745965555556,33.8804326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13483-A</name>
+        <description><![CDATA[Date: 7/17/25 11:33 AM
+      Site Name: Rochelle
+      AGL: 500
+      Tower Type: Guyed
+      Address: 4533 E. US Highway 190, Rochelle, McCulloch, TX 76872]]></description>
+        <Point><coordinates>-99.2215882222222,31.2137472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02864-B</name>
+        <description><![CDATA[Date: 7/17/25 11:29 AM
+      Site Name: Jasper
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3458 Highway 515 N, Jasper, Pickens, GA 30143]]></description>
+        <Point><coordinates>-84.4907524444445,34.4965524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

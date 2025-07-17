@@ -694,5 +694,104 @@
       Address: 3139 Glover Road, Springfield, Robertson, TN 37172-6002]]></description>
         <Point><coordinates>-86.9243048888889,36.46,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46361-A</name>
+        <description><![CDATA[Date: 7/17/25 7:50 AM
+      Site Name: Prospect 3 GA
+      AGL: 185
+      Tower Type: Monopole
+      Address: 622 Freeman Broch Road  (A), Auburn, Barrow, GA 30111]]></description>
+        <Point><coordinates>-83.8117222222222,34.0374718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:52 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15129-S</name>
+        <description><![CDATA[Date: 7/17/25 7:52 AM
+      Site Name: Georgetown 4 SC
+      AGL: 303
+      Tower Type: Self Support
+      Address: 6839 Walker Rd, Georgetown, Georgetown, SC 29440]]></description>
+        <Point><coordinates>-79.5583186111111,33.321896,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 7:52 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:52 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47710-A</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: Zeyzus-Export
+      AGL: 191
+      Tower Type: Monopole
+      Address: 5525 William Penn Hwy , Murrysville, Westmoreland, PA 15632]]></description>
+        <Point><coordinates>-79.6384996666667,40.4133333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 7:53 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

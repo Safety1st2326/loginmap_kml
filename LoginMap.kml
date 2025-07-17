@@ -2566,5 +2566,14 @@
       Address: 1991 Highway 69 North, Nederland, Jefferson, TX 77627]]></description>
         <Point><coordinates>-94.0213604444444,29.9670548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46301-A</name>
+        <description><![CDATA[Date: 7/17/25 4:30 PM
+      Site Name: Sandy Springs Middle School
+      AGL: 149
+      Tower Type: Stealth
+      Address: 8750 Pride Place, Sandy Springs, Fulton, GA 30350]]></description>
+        <Point><coordinates>-84.3387774444444,33.9940552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

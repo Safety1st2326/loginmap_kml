@@ -856,5 +856,131 @@
       Address: 124 Murray Street, Medford, Middlesex, MA 02155]]></description>
         <Point><coordinates>-71.0894441111111,42.4305548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC09031-S</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: Betty Lane
+      AGL: 250
+      Tower Type: Self Support
+      Address: PT Tract 3B Hwy 17A, Georgetown, Georgetown, SC 29440]]></description>
+        <Point><coordinates>-79.5454874444444,33.3505558333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41935-T</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: Bryant 4 TX
+      AGL: 145
+      Tower Type: Monopole
+      Address: 310 Park Meadow Boulevard, Georgetown, Williamson, TX 78628]]></description>
+        <Point><coordinates>-97.6900052222222,30.664375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01190-B</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: Awendaw
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5505 Huckleberry Ln, Awendaw, Charleston, SC 29429]]></description>
+        <Point><coordinates>-79.5888746666667,33.0363218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01191-B</name>
+        <description><![CDATA[Date: 7/17/25 8:10 AM
+      Site Name: McClellanville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1160 Hwy 45, McClellanville, Charleston, SC 29458-9401]]></description>
+        <Point><coordinates>-79.4784493333333,33.1031222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 8:11 AM
+      Site Name: Pawleys Island
+      AGL: 330
+      Tower Type: Guyed
+      Address: 715 Grate Avenue, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1390885555555,33.443333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC12280-A</name>
+        <description><![CDATA[Date: 7/17/25 8:11 AM
+      Site Name: Pawleys Island
+      AGL: 500
+      Tower Type: Guyed
+      Address: 859 Pinehurst Lane, Pawleys Island, Georgetown, SC 29585]]></description>
+        <Point><coordinates>-79.1400218888889,33.4429052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08247-A</name>
+        <description><![CDATA[Date: 7/17/25 7:59 AM
+      Site Name: Highway 27 2 FL
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4053 Apalachee Parkway, Tallahassee, Leon, FL 32311-4137]]></description>
+        <Point><coordinates>-84.1975163333333,30.4280965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA11366-A</name>
+        <description><![CDATA[Date: 7/17/25 7:59 AM
+      Site Name: Winnsboro 2 LA
+      AGL: 251
+      Tower Type: Guyed
+      Address: 1300 Polk Street, Winnsboro, Franklin, LA 71295]]></description>
+        <Point><coordinates>-91.7330132222222,32.1627138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10686-A</name>
+        <description><![CDATA[Date: 7/17/25 8:14 AM
+      Site Name: Wilderness Trail
+      AGL: 195
+      Tower Type: Guyed
+      Address: 4451 Stanford Road, Danville, Boyle, KY 40422]]></description>
+        <Point><coordinates>-84.7305882222222,37.5942857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/17/25 8:14 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/17/25 8:14 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/17/25 8:16 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

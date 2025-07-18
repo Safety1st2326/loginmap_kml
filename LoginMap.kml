@@ -2701,5 +2701,14 @@
       Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
         <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL12542-B</name>
+        <description><![CDATA[Date: 7/17/25 8:31 PM
+      Site Name: Thomasboro IL
+      AGL: 192
+      Tower Type: Self Support
+      Address: 1499 CR 2300N, Thomasboro, Champaign, IL 61878]]></description>
+        <Point><coordinates>-88.1830548888889,40.2141111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

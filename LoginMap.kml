@@ -1576,5 +1576,23 @@
       Address: 14861 Franklin, Tustin, Orange, CA 92780]]></description>
         <Point><coordinates>-117.812461111111,33.7131388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX18345-A</name>
+        <description><![CDATA[Date: 7/18/25 4:06 PM
+      Site Name: Steinhagen
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1500 FM 92N, Tyler, Tyler, TX 75936]]></description>
+        <Point><coordinates>-94.2433357777778,30.8656138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20445-A</name>
+        <description><![CDATA[Date: 7/18/25 4:19 PM
+      Site Name: Geneva 3 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 410 Hale Street, Geneva, Adams, IN 46740]]></description>
+        <Point><coordinates>-84.955,40.5883774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

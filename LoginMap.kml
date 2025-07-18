@@ -253,5 +253,41 @@
       Address: 22801 South Demarco Rd., Hartsburg, Boone, MO 65039]]></description>
         <Point><coordinates>-92.2482441111111,38.6753604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02869-B</name>
+        <description><![CDATA[Date: 7/18/25 7:22 AM
+      Site Name: Maxwell
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2885 Maxwell Rd., Blue Ridge, Gilmer, GA 30513]]></description>
+        <Point><coordinates>-84.360525,34.8243298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21687-A</name>
+        <description><![CDATA[Date: 7/18/25 7:22 AM
+      Site Name: Hopewell Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1421 Hopewell Rd. East, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-84.0053936111111,32.8032797222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT13063-A</name>
+        <description><![CDATA[Date: 7/18/25 7:22 AM
+      Site Name: Middle Turnpike
+      AGL: 152
+      Tower Type: Monopole
+      Address: 640 Hilliard Street, Manchester, Hartford/Manchester, CT 06040]]></description>
+        <Point><coordinates>-72.5508055555556,41.7844996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/18/25 7:27 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

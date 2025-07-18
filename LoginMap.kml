@@ -1000,5 +1000,68 @@
       Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
         <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10997-A</name>
+        <description><![CDATA[Date: 7/18/25 10:26 AM
+      Site Name: Battle Creek 5 MI
+      AGL: 150
+      Tower Type: Monopole
+      Address: 295 Wells Drive, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.2281382222222,42.3919024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21373-A</name>
+        <description><![CDATA[Date: 7/18/25 10:36 AM
+      Site Name: Village Mills 2 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 13492 Highway 69 North, Village Mills, Hardin, TX 77663]]></description>
+        <Point><coordinates>-94.3981107777778,30.5033888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA04006-S</name>
+        <description><![CDATA[Date: 7/18/25 10:37 AM
+      Site Name: Bayou Goula
+      AGL: 300
+      Tower Type: Self Support
+      Address: 32015 Catherine Road, White Castle, Iberville, LA 70788-3522]]></description>
+        <Point><coordinates>-91.165525,30.1763465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10601-S</name>
+        <description><![CDATA[Date: 7/18/25 10:40 AM
+      Site Name: Clio
+      AGL: 197
+      Tower Type: Monopole
+      Address: 4290 West Vienna Road, Clio, Genesee, MI 48420]]></description>
+        <Point><coordinates>-83.7674687777778,43.1804882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17533-A</name>
+        <description><![CDATA[Date: 7/18/25 10:43 AM
+      Site Name: Kankakee SE
+      AGL: 150
+      Tower Type: Self Support
+      Address: 2150 E. Maple Street, Kankakee, Kankakee, IL 60901]]></description>
+        <Point><coordinates>-87.8368941111111,41.1115722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09079-A</name>
+        <description><![CDATA[Date: 7/18/25 10:46 AM
+      Site Name: Hart 2 VA
+      AGL: 270
+      Tower Type: Guyed
+      Address: 1110 Red Hollow Road, Max Meadows, Wythe, VA 24630]]></description>
+        <Point><coordinates>-80.9127555555556,36.9387885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20645-A</name>
+        <description><![CDATA[Date: 7/18/25 10:47 AM
+      Site Name: Mercer 2 IL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3838 Highway 161, Centralia, MARION, IL 62801]]></description>
+        <Point><coordinates>-88.9673937777778,38.5187798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

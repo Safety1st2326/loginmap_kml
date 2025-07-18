@@ -1666,5 +1666,14 @@
       Address: Rt.1 Box 71, Rockford, Coosa, AL 35136-9614]]></description>
         <Point><coordinates>-86.2419802222222,32.8054277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT00302-S</name>
+        <description><![CDATA[Date: 7/18/25 6:04 PM
+      Site Name: Danielson
+      AGL: 158
+      Tower Type: Monopole
+      Address: 246 East Franklin Street, Danielson, Windham/Killingly, CT 06239-3806]]></description>
+        <Point><coordinates>-71.8703326666667,41.7958218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

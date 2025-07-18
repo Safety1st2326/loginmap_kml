@@ -1153,5 +1153,41 @@
       Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
         <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL02689-S</name>
+        <description><![CDATA[Date: 7/18/25 11:31 AM
+      Site Name: Cape Coral North 2 Fl
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3501 Burnt Store Road, Cape Coral, Lee, FL 33993-9016]]></description>
+        <Point><coordinates>-82.0372552222222,26.7150888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/18/25 11:31 AM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA20033-A</name>
+        <description><![CDATA[Date: 7/18/25 11:37 AM
+      Site Name: Gaffney Hill Tower
+      AGL: 247
+      Tower Type: Guyed
+      Address: 428 Gaffney Hill Road, Easton, Northhampton, PA 18042]]></description>
+        <Point><coordinates>-75.2546944444444,40.6258048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21378-A</name>
+        <description><![CDATA[Date: 7/18/25 11:37 AM
+      Site Name: Warren 2 TX
+      AGL: 250
+      Tower Type: Self Support
+      Address: 140 COUNTY ROAD 1500, WARREN, TYLER, TX 77664]]></description>
+        <Point><coordinates>-94.4098611111111,30.6148888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

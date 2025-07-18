@@ -1378,5 +1378,23 @@
       Address: 321 East Pleasant Run, DeSoto, Dallas, TX 75115]]></description>
         <Point><coordinates>-96.8516611111111,32.60475,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02876-B</name>
+        <description><![CDATA[Date: 7/18/25 1:15 PM
+      Site Name: Friendship 3 GA
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1700 Cedarview Ln., Hiawassee, Towns, GA 30546-1608]]></description>
+        <Point><coordinates>-83.7865468888889,34.9718854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH02160-A</name>
+        <description><![CDATA[Date: 7/18/25 1:28 PM
+      Site Name: Unionville 2 OH
+      AGL: 90
+      Tower Type: Monopole
+      Address: 1318 Glendale, Marietta, Washington, OH 45750-9312]]></description>
+        <Point><coordinates>-81.4356746666667,39.4421857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

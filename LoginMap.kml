@@ -1450,5 +1450,41 @@
       Address: 401 Pine Street, Woodville, Tyler, TX 75979]]></description>
         <Point><coordinates>-94.4185382222222,30.7816521111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46292-A</name>
+        <description><![CDATA[Date: 7/18/25 2:02 PM
+      Site Name: WATERS LAKE
+      AGL: 249
+      Tower Type: Self Support
+      Address: 4010 SE 15th St, Trenton, Gilchrist, FL 32693]]></description>
+        <Point><coordinates>-82.7402718888889,29.7190854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH01683-S</name>
+        <description><![CDATA[Date: 7/18/25 2:02 PM
+      Site Name: New Market
+      AGL: 190
+      Tower Type: Self Support
+      Address: DPW Garage, Route 152, Newmarket, Rockingham, NH 03857]]></description>
+        <Point><coordinates>-70.9758604444445,43.0823604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/18/25 2:04 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/18/25 2:04 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

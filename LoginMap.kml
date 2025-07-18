@@ -199,5 +199,59 @@
       Address: 1474 County Road North 1250 W, Kokomo, Howard, IN 46901]]></description>
         <Point><coordinates>-86.3644444444444,40.4927774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12657-B</name>
+        <description><![CDATA[Date: 7/18/25 7:14 AM
+      Site Name: Rozier Way
+      AGL: 120
+      Tower Type: Stealth
+      Address: 13827 Webb Road, CT01, Jacksonville, Duval, FL 32218]]></description>
+        <Point><coordinates>-81.5979857777778,30.4870163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV11302-A</name>
+        <description><![CDATA[Date: 7/18/25 7:14 AM
+      Site Name: South Elkins
+      AGL: 127
+      Tower Type: Monopole
+      Address: 312 Good Dog Hill, Elkins, Randolph, WV 26241]]></description>
+        <Point><coordinates>-79.8457246666667,38.8738743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME15902-A</name>
+        <description><![CDATA[Date: 7/18/25 7:14 AM
+      Site Name: Moody 3 ME
+      AGL: 190
+      Tower Type: Monopole
+      Address: 175 Northeast Rd. [Rte 35],, Standish, Cumberland, ME 4084]]></description>
+        <Point><coordinates>-70.5398607777778,43.7436802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02868-B</name>
+        <description><![CDATA[Date: 7/18/25 7:10 AM
+      Site Name: Route 515
+      AGL: 190
+      Tower Type: Monopole
+      Address: 653 Whitepath Springs Rd., Ellijay, Gilmer, GA 30540-1317]]></description>
+        <Point><coordinates>-84.4032305555556,34.7520861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41986-T</name>
+        <description><![CDATA[Date: 7/18/25 7:10 AM
+      Site Name: Graham Roaming Overbuild
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6054 Bald Knob Road, Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.8068,31.3953441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20809-A</name>
+        <description><![CDATA[Date: 7/18/25 7:06 AM
+      Site Name: Mt Pleasant 4 MO
+      AGL: 300
+      Tower Type: Self Support
+      Address: 22801 South Demarco Rd., Hartsburg, Boone, MO 65039]]></description>
+        <Point><coordinates>-92.2482441111111,38.6753604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

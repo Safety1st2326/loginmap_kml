@@ -1288,5 +1288,14 @@
       Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
         <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20828-A</name>
+        <description><![CDATA[Date: 7/18/25 12:23 PM
+      Site Name: MT VERNON 3 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: 9974 LAWRENCE RD 1175, MT. VERNON, LAWRENCE, MO 65712]]></description>
+        <Point><coordinates>-93.7412774444444,37.1291382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -712,5 +712,41 @@
       Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
         <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN03100-S</name>
+        <description><![CDATA[Date: 7/18/25 9:22 AM
+      Site Name: Mutton Hollow
+      AGL: 275
+      Tower Type: Self Support
+      Address: 753 Mutton Hollow Hill Road, Bethpage, Sumner, TN 37022-8550]]></description>
+        <Point><coordinates>-86.2717215555556,36.4708604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/18/25 9:08 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02872-B</name>
+        <description><![CDATA[Date: 7/18/25 9:22 AM
+      Site Name: Union 515
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8376 Spears Ln., Blairsville, Union, GA 30512]]></description>
+        <Point><coordinates>-84.1021444444444,34.8741493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14627-A</name>
+        <description><![CDATA[Date: 7/18/25 9:27 AM
+      Site Name: Virtz Corner
+      AGL: 125
+      Tower Type: Monopine
+      Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
+        <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

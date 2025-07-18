@@ -334,5 +334,95 @@
       Address: 333 W. Highland Street, Blue Ridge, Fannin, GA 30513]]></description>
         <Point><coordinates>-84.3337218888889,34.8675548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/18/25 7:52 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21081-A</name>
+        <description><![CDATA[Date: 7/18/25 7:44 AM
+      Site Name: Kountze 2
+      AGL: 240
+      Tower Type: Self Support
+      Address: 519 RICHARDSON RD., KOUNTZE, HARDIN, TX 77625]]></description>
+        <Point><coordinates>-94.3184493333333,30.3933302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS12807-A</name>
+        <description><![CDATA[Date: 7/18/25 7:44 AM
+      Site Name: Uniontown 4 KS
+      AGL: 346
+      Tower Type: Guyed
+      Address: 1159 Highway 3, Uniontown, Bourbon, KS 66779]]></description>
+        <Point><coordinates>-94.9782076666667,37.8275465555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48099-A</name>
+        <description><![CDATA[Date: 7/18/25 7:44 AM
+      Site Name: Richlands
+      AGL: 120
+      Tower Type: Self Support
+      Address: 740 Glenwood Street, Cedar Bluff, Tazewell, VA 24609]]></description>
+        <Point><coordinates>-81.7628,37.0752715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA12103-A</name>
+        <description><![CDATA[Date: 7/18/25 7:56 AM
+      Site Name: Methodist Hill
+      AGL: 442
+      Tower Type: Guyed
+      Address: 1700 Ridge Road, Shippensburg, Franklin, PA 17257]]></description>
+        <Point><coordinates>-77.4753798888889,39.9606972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15185-B</name>
+        <description><![CDATA[Date: 7/18/25 7:57 AM
+      Site Name: Olney 4 IL
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3537 N. Drummer Road, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.1547583333333,38.6982163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41935-T</name>
+        <description><![CDATA[Date: 7/18/25 7:57 AM
+      Site Name: Bryant 4 TX
+      AGL: 145
+      Tower Type: Monopole
+      Address: 310 Park Meadow Boulevard, Georgetown, Williamson, TX 78628]]></description>
+        <Point><coordinates>-97.6900052222222,30.664375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 7/18/25 7:57 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH13345-A</name>
+        <description><![CDATA[Date: 7/18/25 7:59 AM
+      Site Name: Seneca Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 53537 Seneca Lake Road, Seneca Township, Noble, OH 43780]]></description>
+        <Point><coordinates>-81.3973607777778,39.8765798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT14269-S</name>
+        <description><![CDATA[Date: 7/18/25 7:59 AM
+      Site Name: Putney VT
+      AGL: 99
+      Tower Type: Monopole
+      Address: 508 Pine Banks Road, Westminster, Windham, VT 05346]]></description>
+        <Point><coordinates>-72.4828382222222,43.0315493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

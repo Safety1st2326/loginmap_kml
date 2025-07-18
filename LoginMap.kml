@@ -1351,5 +1351,14 @@
       Address: 5442 Sampson Rd., Young Harris, Towns, GA 30582-2902]]></description>
         <Point><coordinates>-83.8534138888889,34.926116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ND15841-B</name>
+        <description><![CDATA[Date: 7/18/25 12:52 PM
+      Site Name: Mekinock
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2535 23rd Avenue, NE, City of Mekinock, Grand Forks, ND 58258]]></description>
+        <Point><coordinates>-97.3646430555555,47.9991168888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

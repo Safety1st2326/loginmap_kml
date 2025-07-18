@@ -1657,5 +1657,14 @@
       Address: 10 Tannery Knob Unit 3, Johnson City, Washington, TN 37601]]></description>
         <Point><coordinates>-82.3438163333333,36.3238771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL06376-A</name>
+        <description><![CDATA[Date: 7/18/25 5:51 PM
+      Site Name: Weoka
+      AGL: 251
+      Tower Type: Guyed
+      Address: Rt.1 Box 71, Rockford, Coosa, AL 35136-9614]]></description>
+        <Point><coordinates>-86.2419802222222,32.8054277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1360,5 +1360,23 @@
       Address: 2535 23rd Avenue, NE, City of Mekinock, Grand Forks, ND 58258]]></description>
         <Point><coordinates>-97.3646430555555,47.9991168888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN02104-B</name>
+        <description><![CDATA[Date: 7/18/25 1:10 PM
+      Site Name: Bright
+      AGL: 345
+      Tower Type: Guyed
+      Address: 24389 Grubbs Road, Lawrenceburg, Dearborn, IN 47025-8139]]></description>
+        <Point><coordinates>-84.8714632222222,39.2235798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40306-A</name>
+        <description><![CDATA[Date: 7/18/25 1:06 PM
+      Site Name: Hampton- Pleasant Run-TX
+      AGL: 100
+      Tower Type: Monopole
+      Address: 321 East Pleasant Run, DeSoto, Dallas, TX 75115]]></description>
+        <Point><coordinates>-96.8516611111111,32.60475,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

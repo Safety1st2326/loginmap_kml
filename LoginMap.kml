@@ -1072,5 +1072,23 @@
       Address: 1311 S. Robinson Avenue, Green Bay, Brown, WI 54311-5545]]></description>
         <Point><coordinates>-87.9531944444444,44.4773576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC09803-A</name>
+        <description><![CDATA[Date: 7/18/25 11:08 AM
+      Site Name: Guaranteed Supply Co
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1211 Rotherwood Rd., Greensboro, Guilford, NC 27406]]></description>
+        <Point><coordinates>-79.7666527777778,36.0433135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00027-A</name>
+        <description><![CDATA[Date: 7/18/25 11:08 AM
+      Site Name: Jax Airport
+      AGL: 244
+      Tower Type: Self Support
+      Address: 546 Owens Road, Jacksonville, Duval, FL 32218-1725]]></description>
+        <Point><coordinates>-81.6350941111111,30.4896441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

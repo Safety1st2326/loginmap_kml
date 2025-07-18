@@ -190,5 +190,14 @@
       Address: 6677 Grand River Drive NE, Ada Township, Kent, MI 49301]]></description>
         <Point><coordinates>-85.5033083333333,42.9633611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN21119-A</name>
+        <description><![CDATA[Date: 7/18/25 7:01 AM
+      Site Name: Burlington IN Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 1474 County Road North 1250 W, Kokomo, Howard, IN 46901]]></description>
+        <Point><coordinates>-86.3644444444444,40.4927774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

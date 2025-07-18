@@ -1261,5 +1261,32 @@
       Address: 414-B Colgate Road, Marietta, Washington, OH 45750]]></description>
         <Point><coordinates>-81.4354718888889,39.4254465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10788-A</name>
+        <description><![CDATA[Date: 7/18/25 12:16 PM
+      Site Name: Big Sky
+      AGL: 196
+      Tower Type: Monopole
+      Address: 813 Horseshoe Cove Road, Blairsville, Union, GA 30512]]></description>
+        <Point><coordinates>-83.8684493333333,34.7876663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21807-A</name>
+        <description><![CDATA[Date: 7/18/25 12:16 PM
+      Site Name: Nethery
+      AGL: 370
+      Tower Type: Guyed
+      Address: 2330 S. State Hwy 481, Junction, KIMBLE, TX 76849]]></description>
+        <Point><coordinates>-99.7365163333333,30.46335,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/18/25 12:13 PM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

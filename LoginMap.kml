@@ -685,5 +685,32 @@
       Address: 8079 College Street, Beaumont, Jefferson, TX 77707]]></description>
         <Point><coordinates>-94.1862838333333,30.0666798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/18/25 9:10 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/18/25 9:10 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/18/25 9:04 AM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1567,5 +1567,14 @@
       Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
         <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45485-A</name>
+        <description><![CDATA[Date: 7/18/25 3:55 PM
+      Site Name: Myford
+      AGL: 51
+      Tower Type: Tree
+      Address: 14861 Franklin, Tustin, Orange, CA 92780]]></description>
+        <Point><coordinates>-117.812461111111,33.7131388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

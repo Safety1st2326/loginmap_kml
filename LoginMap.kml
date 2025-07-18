@@ -901,5 +901,32 @@
       Address: 281 W. Jersey Street, Monroe, Licking, OH 43031]]></description>
         <Point><coordinates>-82.6869968888889,40.1438107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10805-A</name>
+        <description><![CDATA[Date: 7/18/25 10:10 AM
+      Site Name: Lake Nottely
+      AGL: 193
+      Tower Type: Monopole
+      Address: 5270 Cobb Mountain Circle, Blairsville, Union, GA 30512]]></description>
+        <Point><coordinates>-84.0436885555555,34.9536972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46899-A</name>
+        <description><![CDATA[Date: 7/18/25 10:10 AM
+      Site Name: Columbia Ave
+      AGL: 150
+      Tower Type: Monopole
+      Address: 202 Raymond Rd S, Battle Creek, Calhoun, MI 49014]]></description>
+        <Point><coordinates>-85.1466385555556,42.3086666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE17611-A</name>
+        <description><![CDATA[Date: 7/18/25 10:13 AM
+      Site Name: Bellevue
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15455 Hwy 75 S, Bellevue, Sarpy, NE 68123]]></description>
+        <Point><coordinates>-95.9267604444445,41.0858246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -928,5 +928,77 @@
       Address: 15455 Hwy 75 S, Bellevue, Sarpy, NE 68123]]></description>
         <Point><coordinates>-95.9267604444445,41.0858246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN09270-A</name>
+        <description><![CDATA[Date: 7/18/25 10:20 AM
+      Site Name: Angola
+      AGL: 191
+      Tower Type: Stealth
+      Address: 1475 South 150 West, Angola, Steuben, IN 46703]]></description>
+        <Point><coordinates>-85.0205548888889,41.6208326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22513-A</name>
+        <description><![CDATA[Date: 7/18/25 10:20 AM
+      Site Name: US-67 & I-280
+      AGL: 131
+      Tower Type: Monopole
+      Address: 125 W. 12th Avenue, Milan, Rock Island, IL 61264]]></description>
+        <Point><coordinates>-90.5695826666667,41.441108,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN09270-A</name>
+        <description><![CDATA[Date: 7/18/25 10:20 AM
+      Site Name: Angola
+      AGL: 240
+      Tower Type: Self Support
+      Address: 1475 South 150 West, Angola, Steuben, IN 46703]]></description>
+        <Point><coordinates>-85.0206771111111,41.6209854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12542-B</name>
+        <description><![CDATA[Date: 7/18/25 10:32 AM
+      Site Name: Thomasboro IL
+      AGL: 192
+      Tower Type: Self Support
+      Address: 1499 CR 2300N, Thomasboro, Champaign, IL 61878]]></description>
+        <Point><coordinates>-88.1830548888889,40.2141111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21379-A</name>
+        <description><![CDATA[Date: 7/18/25 10:34 AM
+      Site Name: Pine Forest
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4296 Barnhill Rd, Vidor, Orange, TX 77662]]></description>
+        <Point><coordinates>-94.0258882222222,30.1874441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ28610-A</name>
+        <description><![CDATA[Date: 7/18/25 10:34 AM
+      Site Name: Fort Tuthill
+      AGL: 119
+      Tower Type: Monopine
+      Address: Sec.6, T.20 N., R.7 E, Gila and Salt River Meridian, Flagstaff, Coconino, AZ 86005]]></description>
+        <Point><coordinates>-111.691580222222,35.1402496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02874-B</name>
+        <description><![CDATA[Date: 7/18/25 10:37 AM
+      Site Name: Blairsville
+      AGL: 254
+      Tower Type: Self Support
+      Address: 1083 Ledford Rd., Blairsville, Union, GA 30512]]></description>
+        <Point><coordinates>-83.9493718888889,34.8920857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02414-S</name>
+        <description><![CDATA[Date: 7/18/25 10:37 AM
+      Site Name: West Holopaw
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
+        <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

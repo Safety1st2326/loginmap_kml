@@ -1612,5 +1612,14 @@
       Address: 311 W. Reno Street, Knoxville, Marion, IA 50138]]></description>
         <Point><coordinates>-93.1017166666667,41.3250076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/18/25 4:49 PM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

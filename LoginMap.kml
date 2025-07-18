@@ -1621,5 +1621,32 @@
       Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
         <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM17137-A</name>
+        <description><![CDATA[Date: 7/18/25 5:12 PM
+      Site Name: Hope
+      AGL: 341
+      Tower Type: Guyed
+      Address: 9390 Hope Highway, Artesia, Eddy, NM 88210]]></description>
+        <Point><coordinates>-104.624166,32.836333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13414-A</name>
+        <description><![CDATA[Date: 7/18/25 5:06 PM
+      Site Name: San Geronimo 1
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18970 Bandera Road, Helotes, Bexar, TX 78023]]></description>
+        <Point><coordinates>-98.7788882222222,29.6217632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13414-A</name>
+        <description><![CDATA[Date: 7/18/25 5:06 PM
+      Site Name: San Geronimo 1
+      AGL: 400
+      Tower Type: Guyed
+      Address: 18970 Bandera Road, Helotes, Bexar, TX 78023]]></description>
+        <Point><coordinates>-98.7772743333333,29.6224854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

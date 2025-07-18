@@ -1549,5 +1549,14 @@
       Address: 1306 SOUTH WHEELER, Colmesneil, TYLER, TX 75938]]></description>
         <Point><coordinates>-94.4232771111111,30.8939163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH15949-A</name>
+        <description><![CDATA[Date: 7/18/25 3:25 PM
+      Site Name: Mt Washington
+      AGL: 244
+      Tower Type: Guyed
+      Address: 196 E. Main Street, Conway, Carroll, NH 3818]]></description>
+        <Point><coordinates>-71.11035,43.9800993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

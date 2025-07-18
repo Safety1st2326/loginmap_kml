@@ -1513,5 +1513,32 @@
       Address: 315 Baldwin Street, Red Oak, Ellis, TX 75154]]></description>
         <Point><coordinates>-96.8277993333333,32.524616,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM11958-A</name>
+        <description><![CDATA[Date: 7/18/25 2:46 PM
+      Site Name: Jefferson 3 NM
+      AGL: 171
+      Tower Type: Self Support
+      Address: 205 W Jefferson Avenue, Lovington, Lea, NM 88260]]></description>
+        <Point><coordinates>-103.351641666667,32.9509527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM11185-A</name>
+        <description><![CDATA[Date: 7/18/25 2:46 PM
+      Site Name: Lovington
+      AGL: 360
+      Tower Type: Guyed
+      Address: 424 Quarter Horse Lane, Lovington, Lea, NM 88260]]></description>
+        <Point><coordinates>-103.354752777778,32.9646,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM17724-B</name>
+        <description><![CDATA[Date: 7/18/25 2:46 PM
+      Site Name: Briscoe
+      AGL: 65
+      Tower Type: Monopole
+      Address: 1060 S. Thirteenth Street, Artesia, Eddy, NM 88202]]></description>
+        <Point><coordinates>-104.412960833333,32.8300087777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -325,5 +325,14 @@
       Address: 9076 Perryville Road, Springfield, Washington, KY 40069]]></description>
         <Point><coordinates>-85.0778832222222,37.650875,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA15889-A</name>
+        <description><![CDATA[Date: 7/18/25 7:46 AM
+      Site Name: Blue Ridge 4 GA
+      AGL: 405
+      Tower Type: Self Support
+      Address: 333 W. Highland Street, Blue Ridge, Fannin, GA 30513]]></description>
+        <Point><coordinates>-84.3337218888889,34.8675548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

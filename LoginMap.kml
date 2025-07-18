@@ -1090,5 +1090,50 @@
       Address: 546 Owens Road, Jacksonville, Duval, FL 32218-1725]]></description>
         <Point><coordinates>-81.6350941111111,30.4896441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 7/18/25 11:10 AM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46676-A</name>
+        <description><![CDATA[Date: 7/18/25 11:10 AM
+      Site Name: Wellesley College
+      AGL: 66
+      Tower Type: Stealth
+      Address: 106 Central Street, Wellesley, Norfolk, MA 02481]]></description>
+        <Point><coordinates>-71.298458,42.2932524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN04798-A</name>
+        <description><![CDATA[Date: 7/18/25 11:18 AM
+      Site Name: Scarboro Road
+      AGL: 301
+      Tower Type: Self Support
+      Address: 599 Scarboro Road, Oak Ridge, Anderson, TN 37830]]></description>
+        <Point><coordinates>-84.2373246666667,35.9980885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16464-B</name>
+        <description><![CDATA[Date: 7/18/25 11:14 AM
+      Site Name: Galesburg 4 IL
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2129 Timberview Lane, Wataga, Knox, IL 61488]]></description>
+        <Point><coordinates>-90.2714632222222,41.0201326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI13843-A</name>
+        <description><![CDATA[Date: 7/18/25 11:19 AM
+      Site Name: Nike
+      AGL: 192
+      Tower Type: Self Support
+      Address: 275 Provident Place, Coventry, Kent, RI 02816]]></description>
+        <Point><coordinates>-71.6313354444444,41.6929635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -676,5 +676,14 @@
       Address: 1712 Owentown Rd, Corinth, Grant, KY 41010]]></description>
         <Point><coordinates>-84.5861663333333,38.485833,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21127-A</name>
+        <description><![CDATA[Date: 7/18/25 9:02 AM
+      Site Name: Beaumont West (College) Tower
+      AGL: 179
+      Tower Type: Self Support
+      Address: 8079 College Street, Beaumont, Jefferson, TX 77707]]></description>
+        <Point><coordinates>-94.1862838333333,30.0666798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1135,5 +1135,23 @@
       Address: 275 Provident Place, Coventry, Kent, RI 02816]]></description>
         <Point><coordinates>-71.6313354444444,41.6929635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46264-A</name>
+        <description><![CDATA[Date: 7/18/25 11:22 AM
+      Site Name: Bell 3 FL
+      AGL: 245
+      Tower Type: Self Support
+      Address: 50 N US Hwy 129 , BELL, GILCHRIST, FL 32619]]></description>
+        <Point><coordinates>-82.8571966666667,29.7382543888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05300-S</name>
+        <description><![CDATA[Date: 7/18/25 11:28 AM
+      Site Name: Williamstown 3 NY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 458 County Route 30 Unit 1, Williamstown, Oswego, NY 13493]]></description>
+        <Point><coordinates>-75.9200937777778,43.459075,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

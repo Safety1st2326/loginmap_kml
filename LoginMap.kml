@@ -1405,5 +1405,32 @@
       Address: 2337 Rainbow Ridge Rd., Hiawassee, Towns, GA 30546-3654]]></description>
         <Point><coordinates>-83.717966,34.9307021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ME15902-A</name>
+        <description><![CDATA[Date: 7/18/25 1:41 PM
+      Site Name: Moody 3 ME
+      AGL: 190
+      Tower Type: Monopole
+      Address: 175 Northeast Rd. [Rte 35],, Standish, Cumberland, ME 4084]]></description>
+        <Point><coordinates>-70.5398607777778,43.7436802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20772-A</name>
+        <description><![CDATA[Date: 7/18/25 1:43 PM
+      Site Name: Waite Park
+      AGL: 496
+      Tower Type: Guyed
+      Address: 1912 OLD COUNTY RD 6, WAITE PARK, STEARNS, MN 56387]]></description>
+        <Point><coordinates>-94.2423524444444,45.5004694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH01683-S</name>
+        <description><![CDATA[Date: 7/18/25 1:40 PM
+      Site Name: New Market
+      AGL: 190
+      Tower Type: Self Support
+      Address: DPW Garage, Route 152, Newmarket, Rockingham, NH 03857]]></description>
+        <Point><coordinates>-70.9758604444445,43.0823604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

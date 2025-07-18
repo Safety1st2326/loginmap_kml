@@ -496,5 +496,14 @@
       Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
         <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS04574-B</name>
+        <description><![CDATA[Date: 7/18/25 8:19 AM
+      Site Name: Maxie
+      AGL: 320
+      Tower Type: Guyed
+      Address: 1404 Old Hwy 49 East, Hattiesburg, Forrest, MS 39401]]></description>
+        <Point><coordinates>-89.1979941111111,31.0010416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1558,5 +1558,14 @@
       Address: 196 E. Main Street, Conway, Carroll, NH 3818]]></description>
         <Point><coordinates>-71.11035,43.9800993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/18/25 3:40 PM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

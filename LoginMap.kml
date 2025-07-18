@@ -1189,5 +1189,77 @@
       Address: 140 COUNTY ROAD 1500, WARREN, TYLER, TX 77664]]></description>
         <Point><coordinates>-94.4098611111111,30.6148888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41950-T</name>
+        <description><![CDATA[Date: 7/18/25 11:52 AM
+      Site Name: Thomas Silver Springs
+      AGL: 240
+      Tower Type: Self Support
+      Address: 10025 Silver Springs Rd , Conroe, Montgomery, TX 77303]]></description>
+        <Point><coordinates>-95.4758882222222,30.3892496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10462-A</name>
+        <description><![CDATA[Date: 7/18/25 11:46 AM
+      Site Name: Coal Mine
+      AGL: 127
+      Tower Type: Self Support
+      Address: 968 Interstate 70, Palisade, Mesa, CO 81526]]></description>
+        <Point><coordinates>-108.309988888889,39.1438885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA00911-B</name>
+        <description><![CDATA[Date: 7/18/25 11:48 AM
+      Site Name: Glade Spring
+      AGL: 275
+      Tower Type: Self Support
+      Address: 35000 Lee Highway, Glade Spring, Washington, VA 24340]]></description>
+        <Point><coordinates>-81.7604611111111,36.7734882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH40204-A</name>
+        <description><![CDATA[Date: 7/18/25 11:55 AM
+      Site Name: Dtwn Bucyrus - Triple M Partnership
+      AGL: 230
+      Tower Type: Self Support
+      Address: 1115 W Mansfield St, Bucyrus, Crawford, OH 44820]]></description>
+        <Point><coordinates>-82.9927107777778,40.8107638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00348-B</name>
+        <description><![CDATA[Date: 7/18/25 11:55 AM
+      Site Name: Tigerville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2324A North Highway 25, Travelers Rest, Greenville, SC 29690-8968]]></description>
+        <Point><coordinates>-82.425241,35.0589666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00348-B</name>
+        <description><![CDATA[Date: 7/18/25 11:55 AM
+      Site Name: Tigerville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2324A North Highway 25, Travelers Rest, Greenville, SC 29690-8968]]></description>
+        <Point><coordinates>-82.425241,35.0589666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00348-B</name>
+        <description><![CDATA[Date: 7/18/25 11:55 AM
+      Site Name: Tigerville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2324A North Highway 25, Travelers Rest, Greenville, SC 29690-8968]]></description>
+        <Point><coordinates>-82.425241,35.0589666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH11047-A</name>
+        <description><![CDATA[Date: 7/18/25 11:42 AM
+      Site Name: Downtown Marietta
+      AGL: 131
+      Tower Type: Monopole
+      Address: 414-B Colgate Road, Marietta, Washington, OH 45750]]></description>
+        <Point><coordinates>-81.4354718888889,39.4254465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

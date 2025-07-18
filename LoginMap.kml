@@ -865,5 +865,41 @@
       Address: 161 Pitkin Hwy., Leesville, Vernon, LA 71446]]></description>
         <Point><coordinates>-93.2680826666667,31.0323243333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45191-A</name>
+        <description><![CDATA[Date: 7/18/25 10:02 AM
+      Site Name: Five Miles
+      AGL: 88
+      Tower Type: Tree
+      Address: 3950 Carson Rd , Camino, El Dorado, CA 95709]]></description>
+        <Point><coordinates>-120.693199666667,38.7398441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20965-A</name>
+        <description><![CDATA[Date: 7/18/25 9:57 AM
+      Site Name: Phillip
+      AGL: 245
+      Tower Type: Self Support
+      Address: GREAT HOUSE LANE, HEMPSTEAD, WALLER, TX 77445]]></description>
+        <Point><coordinates>-96.0550611111111,30.0843968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13107-A</name>
+        <description><![CDATA[Date: 7/18/25 10:04 AM
+      Site Name: Graham 2 GA
+      AGL: 262
+      Tower Type: Guyed
+      Address: 135 Holt Rentz Road, Hazlehurst, Appling, GA 31539]]></description>
+        <Point><coordinates>-82.4995607777778,31.8325298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16260-B</name>
+        <description><![CDATA[Date: 7/18/25 10:07 AM
+      Site Name: Johnstown South 2 OH
+      AGL: 195
+      Tower Type: Self Support
+      Address: 281 W. Jersey Street, Monroe, Licking, OH 43031]]></description>
+        <Point><coordinates>-82.6869968888889,40.1438107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

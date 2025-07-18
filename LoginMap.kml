@@ -793,5 +793,41 @@
       Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
         <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00760-B</name>
+        <description><![CDATA[Date: 7/18/25 9:40 AM
+      Site Name: Murdock 2 FL
+      AGL: 240
+      Tower Type: Self Support
+      Address: 1510 Market Circle, Port Charlotte, Charlotte, FL 33953-3835]]></description>
+        <Point><coordinates>-82.1554166666667,27.01375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02873-B</name>
+        <description><![CDATA[Date: 7/18/25 9:40 AM
+      Site Name: King Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4125 Hayfield Rd., Blairsville, Union, GA 30512-4284]]></description>
+        <Point><coordinates>-84.0303965555556,34.8643861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00760-B</name>
+        <description><![CDATA[Date: 7/18/25 9:40 AM
+      Site Name: Murdock 2 FL
+      AGL: 240
+      Tower Type: Self Support
+      Address: 1510 Market Circle, Port Charlotte, Charlotte, FL 33953-3835]]></description>
+        <Point><coordinates>-82.1554166666667,27.01375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10332-A</name>
+        <description><![CDATA[Date: 7/18/25 9:47 AM
+      Site Name: Raleigh
+      AGL: 250
+      Tower Type: Guyed
+      Address: 17466 NE 85th Street, Williston, Levy, FL 32696]]></description>
+        <Point><coordinates>-82.4834552222222,29.4555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

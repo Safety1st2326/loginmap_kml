@@ -10,5 +10,32 @@
       Address: 433 North Bradley Lane, Oakland, Garrett, MD 21550]]></description>
         <Point><coordinates>-79.4017611111111,39.4237965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA10605-S</name>
+        <description><![CDATA[Date: 7/18/25 6:10 AM
+      Site Name: Lucinda
+      AGL: 270
+      Tower Type: Self Support
+      Address: 23 Madden Drive, Lucinda, Clarion, PA 16235]]></description>
+        <Point><coordinates>-79.3826021111111,41.2931607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40950-A</name>
+        <description><![CDATA[Date: 7/18/25 6:19 AM
+      Site Name: Turkey Mtn
+      AGL: 195
+      Tower Type: Monopole
+      Address: 326 Barnes Drive, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.6089833333333,34.7728243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11610-B</name>
+        <description><![CDATA[Date: 7/18/25 6:19 AM
+      Site Name: N Chickasaw
+      AGL: 141
+      Tower Type: Monopole
+      Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
+        <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -424,5 +424,77 @@
       Address: 508 Pine Banks Road, Westminster, Windham, VT 05346]]></description>
         <Point><coordinates>-72.4828382222222,43.0315493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/18/25 8:02 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11058-A</name>
+        <description><![CDATA[Date: 7/18/25 7:50 AM
+      Site Name: Ed Noble Pkwy
+      AGL: 148
+      Tower Type: Monopole
+      Address: 996 Ed Noble Drive, Norman, Cleveland, OK 73072]]></description>
+        <Point><coordinates>-97.4832335,35.2064513888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/18/25 8:02 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/18/25 8:05 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA08409-S</name>
+        <description><![CDATA[Date: 7/18/25 8:06 AM
+      Site Name: Atta
+      AGL: 250
+      Tower Type: Self Support
+      Address: 194 N. Griffin Ave., Attapulgus, Decatur, GA 39815]]></description>
+        <Point><coordinates>-84.4867496666667,30.7566666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47523-A</name>
+        <description><![CDATA[Date: 7/18/25 8:08 AM
+      Site Name: Forest Hills 2 OH
+      AGL: 114
+      Tower Type: Monopole
+      Address: 2446 E. Dublin-Granville Road , Columbus, Franklin, OH 43229]]></description>
+        <Point><coordinates>-82.9525833333333,40.0868052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/18/25 8:08 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23573-A</name>
+        <description><![CDATA[Date: 7/18/25 8:08 AM
+      Site Name: Parkside HS
+      AGL: 105
+      Tower Type: Self Support
+      Address: 1015 South Schumaker Dr., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5728271111111,38.3504888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

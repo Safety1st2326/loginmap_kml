@@ -1063,5 +1063,14 @@
       Address: 3838 Highway 161, Centralia, MARION, IL 62801]]></description>
         <Point><coordinates>-88.9673937777778,38.5187798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI16244-B</name>
+        <description><![CDATA[Date: 7/18/25 10:58 AM
+      Site Name: Green Bay Walker Dr
+      AGL: 145
+      Tower Type: Monopole
+      Address: 1311 S. Robinson Avenue, Green Bay, Brown, WI 54311-5545]]></description>
+        <Point><coordinates>-87.9531944444444,44.4773576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1297,5 +1297,23 @@
       Address: 9974 LAWRENCE RD 1175, MT. VERNON, LAWRENCE, MO 65712]]></description>
         <Point><coordinates>-93.7412774444444,37.1291382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21374-A</name>
+        <description><![CDATA[Date: 7/18/25 12:33 PM
+      Site Name: Hillister
+      AGL: 320
+      Tower Type: Guyed
+      Address: 5341 US Hwy 69 South, Woodville, Tyler, TX 75979]]></description>
+        <Point><coordinates>-94.3993885555555,30.699583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10964-A</name>
+        <description><![CDATA[Date: 7/18/25 12:38 PM
+      Site Name: Beachville
+      AGL: 241
+      Tower Type: Self Support
+      Address: 21649 29th Rd, Lake City, Suwannee, FL 32024]]></description>
+        <Point><coordinates>-82.8037416666667,30.057475,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

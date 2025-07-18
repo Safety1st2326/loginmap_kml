@@ -595,5 +595,41 @@
       Address: 14187 Highway 43, Russellville, Franklin, AL 35653-2847]]></description>
         <Point><coordinates>-87.7212437777778,34.4996107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL20147-A</name>
+        <description><![CDATA[Date: 7/18/25 8:36 AM
+      Site Name: Enterprise AL Tower
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1532 Parker Lane, Enterprise, Coffee/Enterprise, AL 36330]]></description>
+        <Point><coordinates>-85.8673354444444,31.3407052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/18/25 8:43 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41176-T</name>
+        <description><![CDATA[Date: 7/18/25 8:49 AM
+      Site Name: North Lebanon
+      AGL: 195
+      Tower Type: Monopole
+      Address: 645 Henrickson Drive, Lebanon, Marion, KY 40033]]></description>
+        <Point><coordinates>-85.2490635555556,37.5913107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21281-A</name>
+        <description><![CDATA[Date: 7/18/25 8:49 AM
+      Site Name: OAKFIELD
+      AGL: 195
+      Tower Type: Self Support
+      Address: N4156 WOLF ROAD, OAKFIELD, FOND DU LAC, WI 53065]]></description>
+        <Point><coordinates>-88.6133416666667,43.6920607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

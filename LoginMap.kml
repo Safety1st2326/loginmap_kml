@@ -532,5 +532,68 @@
       Address: 1777 FM 2412, Gatesville, Coryell, TX 76528]]></description>
         <Point><coordinates>-97.7883635555555,31.448808,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17650-A</name>
+        <description><![CDATA[Date: 7/18/25 8:16 AM
+      Site Name: Friendship
+      AGL: 251
+      Tower Type: Self Support
+      Address: 1658 - 8th Drive, Friendship, Adams, WI 53934]]></description>
+        <Point><coordinates>-89.7467293888889,44.0171107222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04241-A</name>
+        <description><![CDATA[Date: 7/18/25 8:31 AM
+      Site Name: Sandersville
+      AGL: 304
+      Tower Type: Guyed
+      Address: 208 County Road 33, Heidelberg, Jasper, MS 39439-3745]]></description>
+        <Point><coordinates>-89.0519472222222,31.8318437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/18/25 8:31 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04241-A</name>
+        <description><![CDATA[Date: 7/18/25 8:32 AM
+      Site Name: Sandersville
+      AGL: 304
+      Tower Type: Guyed
+      Address: 208 County Road 33, Heidelberg, Jasper, MS 39439-3745]]></description>
+        <Point><coordinates>-89.0519472222222,31.8318437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/18/25 8:22 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45133-A</name>
+        <description><![CDATA[Date: 7/18/25 8:34 AM
+      Site Name: Smith Jr High
+      AGL: 65
+      Tower Type: Monopole
+      Address: 10100 E Adobe Rd, Mesa, Maricopa, AZ 85207]]></description>
+        <Point><coordinates>-111.612222222222,33.4322215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL04760-A</name>
+        <description><![CDATA[Date: 7/18/25 8:34 AM
+      Site Name: Russellville
+      AGL: 295
+      Tower Type: Guyed
+      Address: 14187 Highway 43, Russellville, Franklin, AL 35653-2847]]></description>
+        <Point><coordinates>-87.7212437777778,34.4996107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

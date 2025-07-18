@@ -1396,5 +1396,14 @@
       Address: 1318 Glendale, Marietta, Washington, OH 45750-9312]]></description>
         <Point><coordinates>-81.4356746666667,39.4421857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02877-B</name>
+        <description><![CDATA[Date: 7/18/25 1:37 PM
+      Site Name: Hiawassee
+      AGL: 190
+      Tower Type: Monopole
+      Address: 2337 Rainbow Ridge Rd., Hiawassee, Towns, GA 30546-3654]]></description>
+        <Point><coordinates>-83.717966,34.9307021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

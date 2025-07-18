@@ -748,5 +748,50 @@
       Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
         <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/18/25 9:24 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR41696-T</name>
+        <description><![CDATA[Date: 7/18/25 9:24 AM
+      Site Name: Bend South- Country Club
+      AGL: 110
+      Tower Type: Monopole Tree
+      Address: 61045 Country Club Drive, Bend, Deschutes, OR 97702]]></description>
+        <Point><coordinates>-121.310086111111,44.0129583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/18/25 9:31 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/18/25 9:24 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41442-T</name>
+        <description><![CDATA[Date: 7/18/25 9:24 AM
+      Site Name: Rockport
+      AGL: 100
+      Tower Type: Monopole
+      Address: 349 Blau Rd., Hackettstown, Warren, NJ 07840]]></description>
+        <Point><coordinates>-74.8817771111111,40.8138055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -37,5 +37,50 @@
       Address: 2480 Harrell Road, Orlando, Orange, FL 32817]]></description>
         <Point><coordinates>-81.2737326666667,28.5794048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17647-A</name>
+        <description><![CDATA[Date: 7/18/25 6:10 AM
+      Site Name: Draper
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3803 West WI State Highway 70, Draper, Sawyer, WI 54896]]></description>
+        <Point><coordinates>-90.868341,45.8821132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/18/25 6:21 AM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01127-B</name>
+        <description><![CDATA[Date: 7/18/25 6:21 AM
+      Site Name: West Grant
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
+        <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16402-A</name>
+        <description><![CDATA[Date: 7/18/25 6:10 AM
+      Site Name: MCF Oxford
+      AGL: 152
+      Tower Type: Monopole
+      Address: 68 Huguenot Road, Oxford, Worcester, MA 01540]]></description>
+        <Point><coordinates>-71.8551305555555,42.1050055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08247-A</name>
+        <description><![CDATA[Date: 7/18/25 6:25 AM
+      Site Name: Highway 27 2 FL
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4053 Apalachee Parkway, Tallahassee, Leon, FL 32311-4137]]></description>
+        <Point><coordinates>-84.1975163333333,30.4280965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

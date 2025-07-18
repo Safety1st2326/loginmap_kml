@@ -1315,5 +1315,41 @@
       Address: 21649 29th Rd, Lake City, Suwannee, FL 32024]]></description>
         <Point><coordinates>-82.8037416666667,30.057475,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00620-B</name>
+        <description><![CDATA[Date: 7/18/25 12:42 PM
+      Site Name: Erie Lane
+      AGL: 180
+      Tower Type: Monopole
+      Address: 10308 North US 301, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.4578083333333,27.5536138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40056-T</name>
+        <description><![CDATA[Date: 7/18/25 12:43 PM
+      Site Name: Thompson Hill
+      AGL: 55
+      Tower Type: Slimline Monopole
+      Address: 1242 Oro Loma Rd., Placerville, El Dorado, CA 95667]]></description>
+        <Point><coordinates>-120.905558333333,38.7650416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20508-A</name>
+        <description><![CDATA[Date: 7/18/25 12:43 PM
+      Site Name: GADSDEN
+      AGL: 150
+      Tower Type: Self Support
+      Address: HWY. 95-2, GADSDEN, YUMA, AZ 85336]]></description>
+        <Point><coordinates>-114.786471888889,32.5486385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02875-B</name>
+        <description><![CDATA[Date: 7/18/25 12:46 PM
+      Site Name: Young Harris
+      AGL: 250
+      Tower Type: Self Support
+      Address: 5442 Sampson Rd., Young Harris, Towns, GA 30582-2902]]></description>
+        <Point><coordinates>-83.8534138888889,34.926116,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

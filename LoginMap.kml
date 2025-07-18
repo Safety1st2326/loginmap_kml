@@ -505,5 +505,32 @@
       Address: 1404 Old Hwy 49 East, Hattiesburg, Forrest, MS 39401]]></description>
         <Point><coordinates>-89.1979941111111,31.0010416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY08912-A</name>
+        <description><![CDATA[Date: 7/18/25 8:16 AM
+      Site Name: Niagra Falls
+      AGL: 104
+      Tower Type: Monopole
+      Address: 1703 James Ave., Niagara Falls, Niagara, NY 14092]]></description>
+        <Point><coordinates>-79.0407024444444,43.125866,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY08912-A</name>
+        <description><![CDATA[Date: 7/18/25 8:16 AM
+      Site Name: Niagra Falls
+      AGL: 104
+      Tower Type: Monopole
+      Address: 1703 James Ave., Niagara Falls, Niagara, NY 14092]]></description>
+        <Point><coordinates>-79.0407024444444,43.125866,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41987-T</name>
+        <description><![CDATA[Date: 7/18/25 8:16 AM
+      Site Name: Robert G Shelton
+      AGL: 251
+      Tower Type: Self Support
+      Address: 1777 FM 2412, Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7883635555555,31.448808,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

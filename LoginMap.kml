@@ -163,5 +163,32 @@
       Address: 17437 Johnson's Mill Road, Sedley, Southampton, VA 23878]]></description>
         <Point><coordinates>-76.9809437777778,36.7785271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA17416-A</name>
+        <description><![CDATA[Date: 7/18/25 6:51 AM
+      Site Name: Absher
+      AGL: 250
+      Tower Type: Self Support
+      Address: 650 Grannys Road, Pounding Mill, Tazewell, VA 24637]]></description>
+        <Point><coordinates>-81.7342218888889,37.0746382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48013-A</name>
+        <description><![CDATA[Date: 7/18/25 6:55 AM
+      Site Name: Shavano Park-tx
+      AGL: 99
+      Tower Type: Monopole
+      Address: 12720 Nw Military Highway, San Antonio, Bexar, TX 78231]]></description>
+        <Point><coordinates>-98.534033,29.5588555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI09356-S</name>
+        <description><![CDATA[Date: 7/18/25 6:59 AM
+      Site Name: Alticor
+      AGL: 193
+      Tower Type: Monopole
+      Address: 6677 Grand River Drive NE, Ada Township, Kent, MI 49301]]></description>
+        <Point><coordinates>-85.5033083333333,42.9633611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

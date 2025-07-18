@@ -1648,5 +1648,14 @@
       Address: 18970 Bandera Road, Helotes, Bexar, TX 78023]]></description>
         <Point><coordinates>-98.7772743333333,29.6224854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01745-A</name>
+        <description><![CDATA[Date: 7/18/25 5:39 PM
+      Site Name: Tannery Knob
+      AGL: 250
+      Tower Type: Self Support
+      Address: 10 Tannery Knob Unit 3, Johnson City, Washington, TN 37601]]></description>
+        <Point><coordinates>-82.3438163333333,36.3238771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

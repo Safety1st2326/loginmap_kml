@@ -1540,5 +1540,14 @@
       Address: 1060 S. Thirteenth Street, Artesia, Eddy, NM 88202]]></description>
         <Point><coordinates>-104.412960833333,32.8300087777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21377-A</name>
+        <description><![CDATA[Date: 7/18/25 3:19 PM
+      Site Name: Colmesneil
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1306 SOUTH WHEELER, Colmesneil, TYLER, TX 75938]]></description>
+        <Point><coordinates>-94.4232771111111,30.8939163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

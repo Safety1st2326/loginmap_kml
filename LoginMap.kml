@@ -145,5 +145,32 @@
       Address: 1988 All American Road, Hanover, Washington, KS 66945]]></description>
         <Point><coordinates>-96.8616222222222,39.8547222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX15974-A</name>
+        <description><![CDATA[Date: 7/19/25 8:24 AM
+      Site Name: Livingston 4 TX
+      AGL: 320
+      Tower Type: Guyed
+      Address: 4068 US Highway 190 East, Livingston, Polk, TX 77351]]></description>
+        <Point><coordinates>-94.8716521111111,30.7086055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15020-A</name>
+        <description><![CDATA[Date: 7/19/25 8:24 AM
+      Site Name: Williams - JV
+      AGL: 193
+      Tower Type: Monopole
+      Address: 1138  Anderson Road, Rock Hill, York, SC 29730]]></description>
+        <Point><coordinates>-80.9823882222222,34.9093333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN00150-B</name>
+        <description><![CDATA[Date: 7/19/25 8:29 AM
+      Site Name: Zionsville
+      AGL: 151
+      Tower Type: Self Support
+      Address: 2981 S. US 421, Zionsville, Boone, IN 46077]]></description>
+        <Point><coordinates>-86.2632555555556,39.9998524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

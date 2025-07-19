@@ -532,5 +532,14 @@
       Address: 25 Brimstone Hill Road, Epsom, Merrimack, NH 03234]]></description>
         <Point><coordinates>-71.3665277777778,43.2288604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41960-T</name>
+        <description><![CDATA[Date: 7/19/25 12:28 PM
+      Site Name: JTM Transport
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3831 N. Foster Road, San Antonio, Bexar, TX 78244]]></description>
+        <Point><coordinates>-98.3596805555556,29.4640805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

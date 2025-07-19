@@ -460,5 +460,32 @@
       Address: 4280 IH-10 E., San Antonio, Bexar, TX 78219]]></description>
         <Point><coordinates>-98.4095055555556,29.4298326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY01831-B</name>
+        <description><![CDATA[Date: 7/19/25 11:42 AM
+      Site Name: Glencoe
+      AGL: 350
+      Tower Type: Guyed
+      Address: 164 US Highway 127, Glencoe, Gallatin, KY 41046]]></description>
+        <Point><coordinates>-84.8260687777778,38.7437274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41855-T</name>
+        <description><![CDATA[Date: 7/19/25 11:46 AM
+      Site Name: FM-1187-Koenigseder RL
+      AGL: 100
+      Tower Type: Monopole
+      Address: 12420 South Freeway, Ft. Worth, Tarrant, TX 76028]]></description>
+        <Point><coordinates>-97.3227493333333,32.5766104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47951-A</name>
+        <description><![CDATA[Date: 7/19/25 11:48 AM
+      Site Name: Oakland Cemetery
+      AGL: 79
+      Tower Type: Monopole
+      Address: 3223 Pennsylvania Ave., Dallas, Dallas, TX 75210]]></description>
+        <Point><coordinates>-96.7618083333333,32.7726993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

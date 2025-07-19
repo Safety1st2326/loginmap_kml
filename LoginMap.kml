@@ -316,5 +316,32 @@
       Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
         <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY01832-B</name>
+        <description><![CDATA[Date: 7/19/25 10:21 AM
+      Site Name: Station
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1330 Walnut Lick Road, Verona, Gallatin, KY 41092]]></description>
+        <Point><coordinates>-84.7311104444445,38.7961107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46293-A</name>
+        <description><![CDATA[Date: 7/19/25 10:21 AM
+      Site Name: WORTHINGTON SPRINGS
+      AGL: 245
+      Tower Type: Self Support
+      Address: 11850 S W 42ND STREET , LAKE BUTLER, UNION, FL 32054]]></description>
+        <Point><coordinates>-82.4255632222222,29.9382191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL41034-A</name>
+        <description><![CDATA[Date: 7/19/25 10:25 AM
+      Site Name: Lion Field
+      AGL: 100
+      Tower Type: Monopole
+      Address: 12535 S. Halstead St., Chicago, Cook, IL 60628]]></description>
+        <Point><coordinates>-87.6411357777778,41.6660833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -28,5 +28,14 @@
       Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
         <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS12807-A</name>
+        <description><![CDATA[Date: 7/19/25 6:58 AM
+      Site Name: Uniontown 4 KS
+      AGL: 346
+      Tower Type: Guyed
+      Address: 1159 Highway 3, Uniontown, Bourbon, KS 66779]]></description>
+        <Point><coordinates>-94.9782076666667,37.8275465555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

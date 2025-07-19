@@ -658,5 +658,14 @@
       Address: 929 City Road 324, Jack, Coffee /Enterprise, AL 36346]]></description>
         <Point><coordinates>-86.0205354444444,31.5648472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT14269-S</name>
+        <description><![CDATA[Date: 7/19/25 2:34 PM
+      Site Name: Putney VT
+      AGL: 99
+      Tower Type: Monopole
+      Address: 508 Pine Banks Road, Westminster, Windham, VT 05346]]></description>
+        <Point><coordinates>-72.4828382222222,43.0315493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

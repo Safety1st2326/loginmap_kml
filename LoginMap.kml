@@ -541,5 +541,14 @@
       Address: 3831 N. Foster Road, San Antonio, Bexar, TX 78244]]></description>
         <Point><coordinates>-98.3596805555556,29.4640805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47904-A</name>
+        <description><![CDATA[Date: 7/19/25 12:34 PM
+      Site Name: 3f Utility
+      AGL: 149
+      Tower Type: Monopole
+      Address: 5106 N. Inspiration Rd, Mission, Hidalgo, TX 78572]]></description>
+        <Point><coordinates>-98.3386107777778,26.2735548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

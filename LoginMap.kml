@@ -379,5 +379,14 @@
       Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
         <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO47077-A</name>
+        <description><![CDATA[Date: 7/19/25 10:45 AM
+      Site Name: Dekalb Mo - Crockett
+      AGL: 184
+      Tower Type: Monopole
+      Address: 12200 SW 66 Road , RUSHVILLE, BUCHANAN, MO 64484]]></description>
+        <Point><coordinates>-94.9738965555556,39.6361413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

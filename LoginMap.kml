@@ -613,5 +613,23 @@
       Address: 1151 11th St., NE, Thompson, GRAND FORKS, ND 58278]]></description>
         <Point><coordinates>-97.0730271111111,47.8383052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX16085-B</name>
+        <description><![CDATA[Date: 7/19/25 1:43 PM
+      Site Name: Crocket 3 TX
+      AGL: 230
+      Tower Type: Guyed
+      Address: 1003 FM 2712, Crockett, Houston, TX 75835]]></description>
+        <Point><coordinates>-95.4420468888889,31.2822271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA07127-B</name>
+        <description><![CDATA[Date: 7/19/25 1:47 PM
+      Site Name: North Warren
+      AGL: 250
+      Tower Type: Self Support
+      Address: Daugherty Run Road, Warren, Warren, PA 16365]]></description>
+        <Point><coordinates>-79.1784298888889,41.9055194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

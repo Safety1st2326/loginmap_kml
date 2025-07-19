@@ -19,5 +19,14 @@
       Address: 12720 Nw Military Highway, San Antonio, Bexar, TX 78231]]></description>
         <Point><coordinates>-98.534033,29.5588555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01127-B</name>
+        <description><![CDATA[Date: 7/19/25 6:34 AM
+      Site Name: West Grant
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
+        <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

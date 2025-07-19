@@ -496,5 +496,14 @@
       Address: 8523 State Highway 103 E, Bronson, San Augustine, TX 75930]]></description>
         <Point><coordinates>-94.0481385555556,31.4083333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX16552-B</name>
+        <description><![CDATA[Date: 7/19/25 12:01 PM
+      Site Name: Trinity Livingston
+      AGL: 300
+      Tower Type: Guyed
+      Address: 112 Trinity  Cove, Trinity, Trinity, TX 75862]]></description>
+        <Point><coordinates>-95.3325812777778,30.920821,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

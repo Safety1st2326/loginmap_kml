@@ -397,5 +397,32 @@
       Address: 3024 Orchard Road, Evansville, Vanderburgh, IN 47720]]></description>
         <Point><coordinates>-87.6078472222222,38.0785771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX15495-S</name>
+        <description><![CDATA[Date: 7/19/25 11:04 AM
+      Site Name: Gaston 3 TX
+      AGL: 120
+      Tower Type: Monopole
+      Address: 801 N. Good Latimer Expressway, Dallas, Dallas, TX 75204]]></description>
+        <Point><coordinates>-96.7911871666667,32.7877841111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 7/19/25 11:02 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/19/25 11:09 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

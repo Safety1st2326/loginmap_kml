@@ -37,5 +37,23 @@
       Address: 1159 Highway 3, Uniontown, Bourbon, KS 66779]]></description>
         <Point><coordinates>-94.9782076666667,37.8275465555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX15975-A</name>
+        <description><![CDATA[Date: 7/19/25 7:04 AM
+      Site Name: Woodville 4 TX
+      AGL: 320
+      Tower Type: Guyed
+      Address: 4486 Highway 190 West, Woodville, Tyler, TX 75979]]></description>
+        <Point><coordinates>-94.5126833333333,30.7615861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ22709-A</name>
+        <description><![CDATA[Date: 7/19/25 7:07 AM
+      Site Name: Bridgeton
+      AGL: 285
+      Tower Type: Guyed
+      Address: 382 Centerton Road, Centerton, Cumberland, NJ 08302]]></description>
+        <Point><coordinates>-75.1861052222222,39.5034583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

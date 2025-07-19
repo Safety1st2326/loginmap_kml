@@ -253,5 +253,14 @@
       Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
         <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/19/25 9:28 AM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

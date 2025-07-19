@@ -766,5 +766,14 @@
       Address: 505 Easton Ave, DALLAS, DALLAS, TX 75218]]></description>
         <Point><coordinates>-96.703625,32.855675,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47831-A</name>
+        <description><![CDATA[Date: 7/19/25 4:13 PM
+      Site Name: Skillman
+      AGL: 140
+      Tower Type: Monopole
+      Address: 9535 Skillman St, Dallas, Dallas, TX 75243]]></description>
+        <Point><coordinates>-96.7105833333333,32.9070444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

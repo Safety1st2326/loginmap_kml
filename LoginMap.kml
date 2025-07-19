@@ -181,5 +181,23 @@
       Address: #17 Christian Camp Rd, Carlsbad, Eddy, NM 88220]]></description>
         <Point><coordinates>-104.736977444444,32.1971802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12128-A</name>
+        <description><![CDATA[Date: 7/19/25 8:45 AM
+      Site Name: Ninnekah 2 OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3029 CS 2860, Ninnekah, Grady, OK 73067]]></description>
+        <Point><coordinates>-97.8990024444444,34.9530055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13933-A</name>
+        <description><![CDATA[Date: 7/19/25 8:49 AM
+      Site Name: Charleston 4  WV
+      AGL: 181
+      Tower Type: Monopole
+      Address: 1551 Garfield Avenue, Charleston, Kanawha, WV 25312]]></description>
+        <Point><coordinates>-81.6573277777778,38.3757354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

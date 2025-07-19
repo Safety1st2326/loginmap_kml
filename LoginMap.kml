@@ -838,5 +838,14 @@
       Address: ACR 4452, Palestine, Anderson, TX 75801]]></description>
         <Point><coordinates>-95.6482532777778,31.9262593333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM17779-B</name>
+        <description><![CDATA[Date: 7/19/25 6:10 PM
+      Site Name: Bohemia
+      AGL: 85
+      Tower Type: Monopole
+      Address: 2432 W Pierce St, Carlsbad, Eddy, NM 88220]]></description>
+        <Point><coordinates>-104.257608333333,32.4435274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

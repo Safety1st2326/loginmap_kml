@@ -649,5 +649,14 @@
       Address: 9115 Scyene Road, Dallas, Dallas, TX 75227]]></description>
         <Point><coordinates>-96.6661972222222,32.7640388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL16057-A</name>
+        <description><![CDATA[Date: 7/19/25 2:24 PM
+      Site Name: Jack
+      AGL: 239
+      Tower Type: Self Support
+      Address: 929 City Road 324, Jack, Coffee /Enterprise, AL 36346]]></description>
+        <Point><coordinates>-86.0205354444444,31.5648472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

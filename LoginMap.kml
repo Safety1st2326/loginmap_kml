@@ -631,5 +631,14 @@
       Address: Daugherty Run Road, Warren, Warren, PA 16365]]></description>
         <Point><coordinates>-79.1784298888889,41.9055194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM11962-A</name>
+        <description><![CDATA[Date: 7/19/25 1:55 PM
+      Site Name: San Jose Carlsbad
+      AGL: 110
+      Tower Type: Monopole
+      Address: 2401 San Jose Boulevard, Carlsbad, Eddy, NM 88220]]></description>
+        <Point><coordinates>-104.229441,32.3946996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

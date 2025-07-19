@@ -586,5 +586,32 @@
       Address: 9217 Elam Rd, Dallas, Dallas, TX 75217]]></description>
         <Point><coordinates>-96.6617777777778,32.7201937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ND20232-A</name>
+        <description><![CDATA[Date: 7/19/25 1:21 PM
+      Site Name: Thompson - Red River Valley Potato Farm Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1151 11th St., NE, Thompson, GRAND FORKS, ND 58278]]></description>
+        <Point><coordinates>-97.0730271111111,47.8383052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10811-A</name>
+        <description><![CDATA[Date: 7/19/25 1:22 PM
+      Site Name: Sal
+      AGL: 180
+      Tower Type: Monopole
+      Address: 2830 GA Highway 20 SE, Conyers, Rockdale, GA 30013]]></description>
+        <Point><coordinates>-84.012225,33.6141361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20232-A</name>
+        <description><![CDATA[Date: 7/19/25 1:22 PM
+      Site Name: Thompson - Red River Valley Potato Farm Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1151 11th St., NE, Thompson, GRAND FORKS, ND 58278]]></description>
+        <Point><coordinates>-97.0730271111111,47.8383052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

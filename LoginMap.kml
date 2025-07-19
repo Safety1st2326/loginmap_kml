@@ -388,5 +388,14 @@
       Address: 12200 SW 66 Road , RUSHVILLE, BUCHANAN, MO 64484]]></description>
         <Point><coordinates>-94.9738965555556,39.6361413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41129-T</name>
+        <description><![CDATA[Date: 7/19/25 10:51 AM
+      Site Name: Bittner Lake
+      AGL: 260
+      Tower Type: Self Support
+      Address: 3024 Orchard Road, Evansville, Vanderburgh, IN 47720]]></description>
+        <Point><coordinates>-87.6078472222222,38.0785771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

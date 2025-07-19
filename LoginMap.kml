@@ -820,5 +820,14 @@
       Address: 1897 Stoney Ridge Road, Blountsville, Blount, AL 35031]]></description>
         <Point><coordinates>-86.5508111111111,34.0966774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK14828-S</name>
+        <description><![CDATA[Date: 7/19/25 5:04 PM
+      Site Name: Beaver 5 OK
+      AGL: 230
+      Tower Type: Self Support
+      Address: 407 Drive 7 th, Beaver, Beaver, OK 73932]]></description>
+        <Point><coordinates>-100.513308333333,36.8116555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

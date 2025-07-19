@@ -10,5 +10,14 @@
       Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
         <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48013-A</name>
+        <description><![CDATA[Date: 7/19/25 6:10 AM
+      Site Name: Shavano Park-tx
+      AGL: 99
+      Tower Type: Monopole
+      Address: 12720 Nw Military Highway, San Antonio, Bexar, TX 78231]]></description>
+        <Point><coordinates>-98.534033,29.5588555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -91,5 +91,14 @@
       Address: RR#1 State Road 465, Sparta, Gallatin, KY 41086-9802]]></description>
         <Point><coordinates>-84.9062305555556,38.7033388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH40204-A</name>
+        <description><![CDATA[Date: 7/19/25 7:52 AM
+      Site Name: Dtwn Bucyrus - Triple M Partnership
+      AGL: 230
+      Tower Type: Self Support
+      Address: 1115 W Mansfield St, Bucyrus, Crawford, OH 44820]]></description>
+        <Point><coordinates>-82.9927107777778,40.8107638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

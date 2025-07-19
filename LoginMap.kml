@@ -505,5 +505,32 @@
       Address: 112 Trinity  Cove, Trinity, Trinity, TX 75862]]></description>
         <Point><coordinates>-95.3325812777778,30.920821,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47870-A</name>
+        <description><![CDATA[Date: 7/19/25 12:13 PM
+      Site Name: Atomic Crusher
+      AGL: 148
+      Tower Type: Monopole
+      Address: 5301 2nd Ave, Ste A, Dallas, Dallas, TX 75210]]></description>
+        <Point><coordinates>-96.7424968888889,32.7534888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY12333-B</name>
+        <description><![CDATA[Date: 7/19/25 12:04 PM
+      Site Name: Plattsburgh Broderick Rd
+      AGL: 119
+      Tower Type: Monopole
+      Address: 70 Broderick Road, Plattsburgh, Clinton, NY 12944]]></description>
+        <Point><coordinates>-73.4962385555556,44.6326326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH02253-S</name>
+        <description><![CDATA[Date: 7/19/25 12:04 PM
+      Site Name: Epsom
+      AGL: 120
+      Tower Type: Flagpole
+      Address: 25 Brimstone Hill Road, Epsom, Merrimack, NH 03234]]></description>
+        <Point><coordinates>-71.3665277777778,43.2288604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

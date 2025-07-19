@@ -199,5 +199,14 @@
       Address: 1551 Garfield Avenue, Charleston, Kanawha, WV 25312]]></description>
         <Point><coordinates>-81.6573277777778,38.3757354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ22709-A</name>
+        <description><![CDATA[Date: 7/19/25 8:55 AM
+      Site Name: Bridgeton
+      AGL: 285
+      Tower Type: Guyed
+      Address: 382 Centerton Road, Centerton, Cumberland, NJ 08302]]></description>
+        <Point><coordinates>-75.1861052222222,39.5034583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -775,5 +775,14 @@
       Address: 9535 Skillman St, Dallas, Dallas, TX 75243]]></description>
         <Point><coordinates>-96.7105833333333,32.9070444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM11950-A</name>
+        <description><![CDATA[Date: 7/19/25 4:28 PM
+      Site Name: Church St - Carlsbad
+      AGL: 110
+      Tower Type: Monopole
+      Address: 2413 W. Church Street, Carlsbad, Eddy, NM 88220]]></description>
+        <Point><coordinates>-104.257311111111,32.4283132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

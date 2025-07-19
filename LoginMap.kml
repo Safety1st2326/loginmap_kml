@@ -271,5 +271,32 @@
       Address: 295 Wells Drive, Battle Creek, Calhoun, MI 49017]]></description>
         <Point><coordinates>-85.2281382222222,42.3919024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA03448-B</name>
+        <description><![CDATA[Date: 7/19/25 9:52 AM
+      Site Name: Cheyney
+      AGL: 162
+      Tower Type: Tree
+      Address: 6 Township Drive, Cheyney, Delaware, PA 19319-1008]]></description>
+        <Point><coordinates>-75.5262882222222,39.9346468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08892-A</name>
+        <description><![CDATA[Date: 7/19/25 9:54 AM
+      Site Name: San Augustine Wos
+      AGL: 356
+      Tower Type: Guyed
+      Address: 1145 State Highway 21, San Augustine, San Augustine, TX 75972]]></description>
+        <Point><coordinates>-94.0749437777778,31.5297493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM47247-A</name>
+        <description><![CDATA[Date: 7/19/25 9:58 AM
+      Site Name: Autobrite
+      AGL: 65
+      Tower Type: Monopole
+      Address: 107 Sin Nombre Court NE, Albuquerque, Bernalillo, NM 87113]]></description>
+        <Point><coordinates>-106.621666,35.1619722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

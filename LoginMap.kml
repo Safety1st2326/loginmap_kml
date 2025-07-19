@@ -226,5 +226,32 @@
       Address: 164 Hickory Avenue, Crawfordville, Wakulla, FL 32327]]></description>
         <Point><coordinates>-84.3675771111111,30.185483,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13623-A</name>
+        <description><![CDATA[Date: 7/19/25 9:12 AM
+      Site Name: Broadway 4 FL
+      AGL: 180
+      Tower Type: Monopole
+      Address: 3113 Cherry Palm Drive, Tampa, Hillsborough, FL 33619]]></description>
+        <Point><coordinates>-82.3439441111111,27.9723604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21575-A</name>
+        <description><![CDATA[Date: 7/19/25 9:12 AM
+      Site Name: East Aberdeen - Hwy 45
+      AGL: 301
+      Tower Type: Self Support
+      Address: 715-A East Commerce Street, Aberdeen, Monroe, MS 39730]]></description>
+        <Point><coordinates>-88.5318104444444,33.8195798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/19/25 9:15 AM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

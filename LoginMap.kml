@@ -640,5 +640,14 @@
       Address: 2401 San Jose Boulevard, Carlsbad, Eddy, NM 88220]]></description>
         <Point><coordinates>-104.229441,32.3946996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX14037-A</name>
+        <description><![CDATA[Date: 7/19/25 2:01 PM
+      Site Name: Scyene
+      AGL: 68
+      Tower Type: Monopole
+      Address: 9115 Scyene Road, Dallas, Dallas, TX 75227]]></description>
+        <Point><coordinates>-96.6661972222222,32.7640388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

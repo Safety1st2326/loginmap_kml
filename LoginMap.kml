@@ -172,5 +172,14 @@
       Address: 2981 S. US 421, Zionsville, Boone, IN 46077]]></description>
         <Point><coordinates>-86.2632555555556,39.9998524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM17138-A</name>
+        <description><![CDATA[Date: 7/19/25 8:31 AM
+      Site Name: Queen
+      AGL: 499
+      Tower Type: Guyed
+      Address: #17 Christian Camp Rd, Carlsbad, Eddy, NM 88220]]></description>
+        <Point><coordinates>-104.736977444444,32.1971802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

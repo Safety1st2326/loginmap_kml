@@ -1675,5 +1675,14 @@
       Address: 246 East Franklin Street, Danielson, Windham/Killingly, CT 06239-3806]]></description>
         <Point><coordinates>-71.8703326666667,41.7958218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL00650-B</name>
+        <description><![CDATA[Date: 7/18/25 10:10 PM
+      Site Name: AL Airport
+      AGL: 150
+      Tower Type: Self Support
+      Address: 4998 Selma Highway, Montgomery, Montgomery, AL 36108]]></description>
+        <Point><coordinates>-86.4015777777778,32.3066527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

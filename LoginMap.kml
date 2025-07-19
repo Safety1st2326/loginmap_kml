@@ -73,5 +73,23 @@
       Address: 2741 Lehman Road, Chesapeake, Chesapeake, VA 23322-1328]]></description>
         <Point><coordinates>-76.1249132222222,36.6896718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>DE40880-T</name>
+        <description><![CDATA[Date: 7/19/25 7:40 AM
+      Site Name: First State Rawland
+      AGL: 90
+      Tower Type: Monopole
+      Address: 1300 First State Blvd, Wilmington, New Castle/Wilmington (All Other), DE 19804]]></description>
+        <Point><coordinates>-75.6369552222222,39.7073472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY01830-B</name>
+        <description><![CDATA[Date: 7/19/25 7:25 AM
+      Site Name: Sparta 2 KY
+      AGL: 350
+      Tower Type: Guyed
+      Address: RR#1 State Road 465, Sparta, Gallatin, KY 41086-9802]]></description>
+        <Point><coordinates>-84.9062305555556,38.7033388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

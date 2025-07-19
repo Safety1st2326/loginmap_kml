@@ -343,5 +343,41 @@
       Address: 12535 S. Halstead St., Chicago, Cook, IL 60628]]></description>
         <Point><coordinates>-87.6411357777778,41.6660833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VI18238-A</name>
+        <description><![CDATA[Date: 7/19/25 10:31 AM
+      Site Name: Crown Mountain
+      AGL: 180
+      Tower Type: Self Support
+      Address: Parcel No 8-1, Estate Caret Bay, No. 8 Little Northside Quarter, Charlotte Amalie, St. Thomas, VI 00801]]></description>
+        <Point><coordinates>-64.9713076666667,18.35685,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47993-A</name>
+        <description><![CDATA[Date: 7/19/25 10:31 AM
+      Site Name: Willow Spring-tx
+      AGL: 351
+      Tower Type: Self Support
+      Address: 30 Carter Rd, Coldspring, San Jacinto, TX 77331]]></description>
+        <Point><coordinates>-95.2199854444444,30.6706798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20307-A</name>
+        <description><![CDATA[Date: 7/19/25 10:33 AM
+      Site Name: Mongo 2 IN
+      AGL: 300
+      Tower Type: Guyed
+      Address: 8485 EAST 300 NORTH, LAGRANGE, LAGRANGE, IN 46761]]></description>
+        <Point><coordinates>-85.2652777777778,41.6897218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE20850-A</name>
+        <description><![CDATA[Date: 7/19/25 10:39 AM
+      Site Name: Decatur
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2345 ER21, LYONS, BURT, NE 68038]]></description>
+        <Point><coordinates>-96.3654916666667,42.008375,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

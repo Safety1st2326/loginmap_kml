@@ -433,5 +433,32 @@
       Address: 1710 Jeffries St, Dallas, Dallas, TX 75226]]></description>
         <Point><coordinates>-96.7764215555556,32.7788437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA16442-A</name>
+        <description><![CDATA[Date: 7/19/25 11:31 AM
+      Site Name: Brier Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 7097 Hwy 221 North, Wrens, Jefferson, GA 28016]]></description>
+        <Point><coordinates>-82.3769437777778,33.3031388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH02251-S</name>
+        <description><![CDATA[Date: 7/19/25 11:34 AM
+      Site Name: Chichester
+      AGL: 190
+      Tower Type: Monopole
+      Address: 284 Dover Road, Chichester, Merrimack, NH 03263]]></description>
+        <Point><coordinates>-71.4255826666667,43.2489163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41969-T</name>
+        <description><![CDATA[Date: 7/19/25 11:39 AM
+      Site Name: Collision Country
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4280 IH-10 E., San Antonio, Bexar, TX 78219]]></description>
+        <Point><coordinates>-98.4095055555556,29.4298326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

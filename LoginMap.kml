@@ -712,5 +712,23 @@
       Address: 556-562 Saint James Avenue, Springfield, Hampden, MA 01109-3832]]></description>
         <Point><coordinates>-72.5693326666667,42.1243298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47797-A</name>
+        <description><![CDATA[Date: 7/19/25 3:15 PM
+      Site Name: La Prada
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1820 Pinehurst Lane B, Mesquite, Dallas, TX 75150]]></description>
+        <Point><coordinates>-96.6357023888889,32.8414880555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM11954-A</name>
+        <description><![CDATA[Date: 7/19/25 3:19 PM
+      Site Name: Halagueno - Carlsbad
+      AGL: 109
+      Tower Type: Self Support
+      Address: 427 S. Halagueno Street, Carlsbad, Eddy, NM 88220]]></description>
+        <Point><coordinates>-104.230835444444,32.4158,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

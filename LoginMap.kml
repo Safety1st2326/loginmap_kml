@@ -55,5 +55,23 @@
       Address: 382 Centerton Road, Centerton, Cumberland, NJ 08302]]></description>
         <Point><coordinates>-75.1861052222222,39.5034583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>DE40880-T</name>
+        <description><![CDATA[Date: 7/19/25 7:36 AM
+      Site Name: First State Rawland
+      AGL: 90
+      Tower Type: Monopole
+      Address: 1300 First State Blvd, Wilmington, New Castle/Wilmington (All Other), DE 19804]]></description>
+        <Point><coordinates>-75.6369552222222,39.7073472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA02682-S</name>
+        <description><![CDATA[Date: 7/19/25 7:25 AM
+      Site Name: Fentress
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2741 Lehman Road, Chesapeake, Chesapeake, VA 23322-1328]]></description>
+        <Point><coordinates>-76.1249132222222,36.6896718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

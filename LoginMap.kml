@@ -118,5 +118,32 @@
       Address: 144 FM 1415 South, Weirgate, Newton, TX 75932]]></description>
         <Point><coordinates>-93.7178271111111,30.9957552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/19/25 8:12 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13877-A</name>
+        <description><![CDATA[Date: 7/19/25 8:12 AM
+      Site Name: Center 2 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 412 CR 1005, Center, Shelby, TX 75935]]></description>
+        <Point><coordinates>-94.1836107777778,31.7512972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS15261-S</name>
+        <description><![CDATA[Date: 7/19/25 8:18 AM
+      Site Name: Hanover 2 KS
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1988 All American Road, Hanover, Washington, KS 66945]]></description>
+        <Point><coordinates>-96.8616222222222,39.8547222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

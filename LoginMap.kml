@@ -829,5 +829,14 @@
       Address: 407 Drive 7 th, Beaver, Beaver, OK 73932]]></description>
         <Point><coordinates>-100.513308333333,36.8116555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX14631-A</name>
+        <description><![CDATA[Date: 7/19/25 6:03 PM
+      Site Name: Elmwood 3 TX
+      AGL: 562
+      Tower Type: Guyed
+      Address: ACR 4452, Palestine, Anderson, TX 75801]]></description>
+        <Point><coordinates>-95.6482532777778,31.9262593333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

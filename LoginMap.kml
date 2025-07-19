@@ -559,5 +559,32 @@
       Address: 6510 CF Hawn Freeway , Dallas, Dallas, TX 75217]]></description>
         <Point><coordinates>-96.7095138888889,32.7317215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/19/25 1:11 PM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL21527-A</name>
+        <description><![CDATA[Date: 7/19/25 1:00 PM
+      Site Name: Ashford
+      AGL: 180
+      Tower Type: Monopole
+      Address: 209 N. Broadway Street, Ashford, HOUSTON, AL 36312]]></description>
+        <Point><coordinates>-85.2376502222222,31.1814785,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47873-A</name>
+        <description><![CDATA[Date: 7/19/25 1:12 PM
+      Site Name: Dearls C-store
+      AGL: 79
+      Tower Type: Monopole
+      Address: 9217 Elam Rd, Dallas, Dallas, TX 75217]]></description>
+        <Point><coordinates>-96.6617777777778,32.7201937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

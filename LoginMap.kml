@@ -424,5 +424,14 @@
       Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
         <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47936-A</name>
+        <description><![CDATA[Date: 7/19/25 11:24 AM
+      Site Name: Deep Ellum
+      AGL: 106
+      Tower Type: Monopole
+      Address: 1710 Jeffries St, Dallas, Dallas, TX 75226]]></description>
+        <Point><coordinates>-96.7764215555556,32.7788437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

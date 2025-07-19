@@ -262,5 +262,14 @@
       Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
         <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10997-A</name>
+        <description><![CDATA[Date: 7/19/25 9:46 AM
+      Site Name: Battle Creek 5 MI
+      AGL: 150
+      Tower Type: Monopole
+      Address: 295 Wells Drive, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.2281382222222,42.3919024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

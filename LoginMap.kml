@@ -667,5 +667,14 @@
       Address: 508 Pine Banks Road, Westminster, Windham, VT 05346]]></description>
         <Point><coordinates>-72.4828382222222,43.0315493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN14364-A</name>
+        <description><![CDATA[Date: 7/19/25 2:46 PM
+      Site Name: Pleasant Ridge
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4140 Pleasant Ridge Road, Knoxville, Knox, TN 37912]]></description>
+        <Point><coordinates>-83.9763354444444,35.9839635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

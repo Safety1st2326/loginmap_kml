@@ -703,5 +703,14 @@
       Address: 2764 Interstate 30, Mesquite, Dallas, TX 75150]]></description>
         <Point><coordinates>-96.6395857777778,32.8164361111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12225-A</name>
+        <description><![CDATA[Date: 7/19/25 3:03 PM
+      Site Name: Springfield 6 MA
+      AGL: 99
+      Tower Type: Flagpole
+      Address: 556-562 Saint James Avenue, Springfield, Hampden, MA 01109-3832]]></description>
+        <Point><coordinates>-72.5693326666667,42.1243298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

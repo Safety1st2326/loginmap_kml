@@ -487,5 +487,14 @@
       Address: 3223 Pennsylvania Ave., Dallas, Dallas, TX 75210]]></description>
         <Point><coordinates>-96.7618083333333,32.7726993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08880-A</name>
+        <description><![CDATA[Date: 7/19/25 11:54 AM
+      Site Name: Bronson
+      AGL: 454
+      Tower Type: Guyed
+      Address: 8523 State Highway 103 E, Bronson, San Augustine, TX 75930]]></description>
+        <Point><coordinates>-94.0481385555556,31.4083333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

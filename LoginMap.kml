@@ -730,5 +730,23 @@
       Address: 427 S. Halagueno Street, Carlsbad, Eddy, NM 88220]]></description>
         <Point><coordinates>-104.230835444444,32.4158,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL40925-T</name>
+        <description><![CDATA[Date: 7/19/25 3:21 PM
+      Site Name: Russell Oaks
+      AGL: 127
+      Tower Type: Stealth
+      Address: 155-1 Waller Way, Green Cove Springs, Clay, FL 32043]]></description>
+        <Point><coordinates>-81.8167215555556,30.0471135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14629-A</name>
+        <description><![CDATA[Date: 7/19/25 3:27 PM
+      Site Name: Palestine 3 TX
+      AGL: 462
+      Tower Type: Guyed
+      Address: 300 ACR 2150, Palestine, Anderson, TX 75801]]></description>
+        <Point><coordinates>-95.6496468888889,31.7178021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

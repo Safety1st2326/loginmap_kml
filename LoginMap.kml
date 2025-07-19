@@ -748,5 +748,14 @@
       Address: 300 ACR 2150, Palestine, Anderson, TX 75801]]></description>
         <Point><coordinates>-95.6496468888889,31.7178021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14897-B</name>
+        <description><![CDATA[Date: 7/19/25 3:30 PM
+      Site Name: Steven's Point 3 WI
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
+        <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

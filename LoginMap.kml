@@ -676,5 +676,32 @@
       Address: 4140 Pleasant Ridge Road, Knoxville, Knox, TN 37912]]></description>
         <Point><coordinates>-83.9763354444444,35.9839635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL14937-A</name>
+        <description><![CDATA[Date: 7/19/25 2:39 PM
+      Site Name: Berlin
+      AGL: 300
+      Tower Type: Guyed
+      Address: 271 County Road 1640, Cullman, Cullman, AL 35058]]></description>
+        <Point><coordinates>-86.695833,34.1760021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17623-A</name>
+        <description><![CDATA[Date: 7/19/25 2:58 PM
+      Site Name: Palestine
+      AGL: 320
+      Tower Type: Guyed
+      Address: 1770 AN County Road 2101, Palestine, Anderson, TX 75801]]></description>
+        <Point><coordinates>-95.6544694444444,31.7228104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14850-A</name>
+        <description><![CDATA[Date: 7/19/25 2:58 PM
+      Site Name: Mesquite 4 TX
+      AGL: 100
+      Tower Type: Stealth
+      Address: 2764 Interstate 30, Mesquite, Dallas, TX 75150]]></description>
+        <Point><coordinates>-96.6395857777778,32.8164361111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

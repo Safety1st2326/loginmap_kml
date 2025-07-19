@@ -100,5 +100,23 @@
       Address: 1115 W Mansfield St, Bucyrus, Crawford, OH 44820]]></description>
         <Point><coordinates>-82.9927107777778,40.8107638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN08519-S</name>
+        <description><![CDATA[Date: 7/19/25 8:01 AM
+      Site Name: Cherokee Springs
+      AGL: 195
+      Tower Type: Monopole
+      Address: 255 Taylor Bridge Road, Jonesborough, Washington, TN 37659]]></description>
+        <Point><coordinates>-82.4831465555556,36.2093583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX18343-A</name>
+        <description><![CDATA[Date: 7/19/25 8:06 AM
+      Site Name: Burkeville
+      AGL: 260
+      Tower Type: Self Support
+      Address: 144 FM 1415 South, Weirgate, Newton, TX 75932]]></description>
+        <Point><coordinates>-93.7178271111111,30.9957552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

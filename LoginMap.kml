@@ -757,5 +757,14 @@
       Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
         <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47868-A</name>
+        <description><![CDATA[Date: 7/19/25 3:42 PM
+      Site Name: Robert Hill Middle School
+      AGL: 65
+      Tower Type: Stealth
+      Address: 505 Easton Ave, DALLAS, DALLAS, TX 75218]]></description>
+        <Point><coordinates>-96.703625,32.855675,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

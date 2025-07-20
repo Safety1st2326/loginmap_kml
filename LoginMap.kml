@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>KY12371-A</name>
+        <description><![CDATA[Date: 7/20/25 4:36 AM
+      Site Name: Fernleaf
+      AGL: 191
+      Tower Type: Guyed
+      Address: 4771 KY 435, Dover, Mason, KY 41034]]></description>
+        <Point><coordinates>-83.9148527777778,38.6607583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

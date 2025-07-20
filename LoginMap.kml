@@ -865,5 +865,14 @@
       Address: 150 FM #250, Lone Star, Morris, TX 75668]]></description>
         <Point><coordinates>-94.6951385555556,32.9385274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40312-A</name>
+        <description><![CDATA[Date: 7/19/25 7:31 PM
+      Site Name: Morrow Lake-TX
+      AGL: 180
+      Tower Type: Self Support
+      Address: 4205 FM 753, Athens, Henderson, TX 75751]]></description>
+        <Point><coordinates>-95.8498885555556,32.1565555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

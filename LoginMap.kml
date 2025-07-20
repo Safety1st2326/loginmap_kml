@@ -10,5 +10,14 @@
       Address: 4771 KY 435, Dover, Mason, KY 41034]]></description>
         <Point><coordinates>-83.9148527777778,38.6607583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY13790-A</name>
+        <description><![CDATA[Date: 7/20/25 5:45 AM
+      Site Name: Alden South (0504)
+      AGL: 150
+      Tower Type: Monopole
+      Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
+        <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

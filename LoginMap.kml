@@ -883,5 +883,14 @@
       Address: 508 W. Corsicana Street, Athens, Henderson, TX 75751]]></description>
         <Point><coordinates>-95.8490385555556,32.2040444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM11959-A</name>
+        <description><![CDATA[Date: 7/19/25 8:12 PM
+      Site Name: Loving - Carlsbad
+      AGL: 397
+      Tower Type: Guyed
+      Address: R124 E. Ash Rural, Loving, Eddy, NM 88256]]></description>
+        <Point><coordinates>-104.078543777778,32.2841802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

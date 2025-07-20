@@ -19,5 +19,14 @@
       Address: 644 Exchange St, Alden, Erie, NY 14004]]></description>
         <Point><coordinates>-78.499608,42.8811632222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01127-B</name>
+        <description><![CDATA[Date: 7/20/25 6:00 AM
+      Site Name: West Grant
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
+        <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

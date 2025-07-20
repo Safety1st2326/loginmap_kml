@@ -847,5 +847,14 @@
       Address: 2432 W Pierce St, Carlsbad, Eddy, NM 88220]]></description>
         <Point><coordinates>-104.257608333333,32.4435274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX12121-A</name>
+        <description><![CDATA[Date: 7/19/25 6:57 PM
+      Site Name: Hwy 19-Bradford
+      AGL: 320
+      Tower Type: Guyed
+      Address: 14872 SH 19 S, Athens, Henderson, TX 75751]]></description>
+        <Point><coordinates>-95.792083,32.0397885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

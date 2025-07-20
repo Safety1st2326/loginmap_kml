@@ -28,5 +28,14 @@
       Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
         <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47966-A</name>
+        <description><![CDATA[Date: 7/20/25 6:21 AM
+      Site Name: Canton 7 TX
+      AGL: 230
+      Tower Type: Guyed
+      Address: 17668 Ste Highway 19, Canton, Van Zandt, TX 75103]]></description>
+        <Point><coordinates>-95.8650510975,32.5309562238889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

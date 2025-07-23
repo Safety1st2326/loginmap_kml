@@ -2557,5 +2557,32 @@
       Address: 13921 Polecat Hollow Road, Clear Spring, Washington, MD 21722]]></description>
         <Point><coordinates>-77.928416,39.6962218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10910-S</name>
+        <description><![CDATA[Date: 7/23/25 4:02 PM
+      Site Name: Oak Grove 6 AR
+      AGL: 300
+      Tower Type: Guyed
+      Address: 243 CR 614, Oak Grove, Carroll/Eastern District, AR 72638]]></description>
+        <Point><coordinates>-93.431116,36.4547055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47942-A</name>
+        <description><![CDATA[Date: 7/23/25 4:02 PM
+      Site Name: Oak Leaf
+      AGL: 252
+      Tower Type: Self Support
+      Address: 315 Baldwin Street, Red Oak, Ellis, TX 75154]]></description>
+        <Point><coordinates>-96.8277993333333,32.524616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11247-A</name>
+        <description><![CDATA[Date: 7/23/25 4:03 PM
+      Site Name: Partlow Road
+      AGL: 196
+      Tower Type: Monopole
+      Address: 2530 Partlow Road, Beaverdam, Spotsylvania, VA 23015]]></description>
+        <Point><coordinates>-77.6309771111111,38.0274937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

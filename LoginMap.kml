@@ -2377,5 +2377,32 @@
       Address: 150 Virginia Avenue NE, Norton, Wise/Norton City, VA 24273-1530]]></description>
         <Point><coordinates>-82.6243021111111,36.9396774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI10051-A</name>
+        <description><![CDATA[Date: 7/23/25 2:55 PM
+      Site Name: Blooming Grove 2 WI
+      AGL: 191
+      Tower Type: Self Support
+      Address: 6015 E. Buckeye Rd., Madison, Dane, WI 53718]]></description>
+        <Point><coordinates>-89.2757382222222,43.0736076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40622-T</name>
+        <description><![CDATA[Date: 7/23/25 2:55 PM
+      Site Name: RL Cupids Hot Dogs
+      AGL: 45
+      Tower Type: Monopole Tree
+      Address: 9039 Lindley Ave., Northridge, Los Angeles, CA 91325]]></description>
+        <Point><coordinates>-118.527855333333,34.2348636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40622-T</name>
+        <description><![CDATA[Date: 7/23/25 2:55 PM
+      Site Name: RL Cupids Hot Dogs
+      AGL: 45
+      Tower Type: Monopole Tree
+      Address: 9039 Lindley Ave., Northridge, Los Angeles, CA 91325]]></description>
+        <Point><coordinates>-118.527855333333,34.2348636666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

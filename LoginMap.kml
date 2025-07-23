@@ -2359,5 +2359,23 @@
       Address: 8935 River Road, Columbus, Muscogee, GA 31907]]></description>
         <Point><coordinates>-85.0185937777778,32.5796965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01098-B</name>
+        <description><![CDATA[Date: 7/23/25 2:40 PM
+      Site Name: Salina
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4776 Route 981, Avonmore, Westmoreland, PA 15618]]></description>
+        <Point><coordinates>-79.5052,40.51085,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA06629-S</name>
+        <description><![CDATA[Date: 7/23/25 2:37 PM
+      Site Name: Beech Avenue
+      AGL: 248
+      Tower Type: Self Support
+      Address: 150 Virginia Avenue NE, Norton, Wise/Norton City, VA 24273-1530]]></description>
+        <Point><coordinates>-82.6243021111111,36.9396774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

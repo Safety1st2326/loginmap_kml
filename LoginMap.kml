@@ -2593,5 +2593,41 @@
       Address: 5788 Cane Ridge Rd, Antioch, Davidson, TN 37013]]></description>
         <Point><coordinates>-86.6382941111111,36.0204271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01984-A</name>
+        <description><![CDATA[Date: 7/23/25 4:10 PM
+      Site Name: Cane Ridge
+      AGL: 304
+      Tower Type: Self Support
+      Address: 5788 Cane Ridge Rd, Antioch, Davidson, TN 37013]]></description>
+        <Point><coordinates>-86.6382941111111,36.0204271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 4:21 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 4:21 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12690-A</name>
+        <description><![CDATA[Date: 7/23/25 4:24 PM
+      Site Name: Pinckneyville
+      AGL: 220
+      Tower Type: Self Support
+      Address: 3299 Dalmation, Pickneyville, Perry, IL 62274]]></description>
+        <Point><coordinates>-89.3855413333333,38.0674798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

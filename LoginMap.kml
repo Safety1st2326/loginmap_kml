@@ -2737,5 +2737,41 @@
       Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
         <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 5:34 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/23/25 5:34 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/23/25 5:34 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/23/25 5:34 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

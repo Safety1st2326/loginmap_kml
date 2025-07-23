@@ -2584,5 +2584,14 @@
       Address: 2530 Partlow Road, Beaverdam, Spotsylvania, VA 23015]]></description>
         <Point><coordinates>-77.6309771111111,38.0274937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01984-A</name>
+        <description><![CDATA[Date: 7/23/25 4:07 PM
+      Site Name: Cane Ridge
+      AGL: 304
+      Tower Type: Self Support
+      Address: 5788 Cane Ridge Rd, Antioch, Davidson, TN 37013]]></description>
+        <Point><coordinates>-86.6382941111111,36.0204271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

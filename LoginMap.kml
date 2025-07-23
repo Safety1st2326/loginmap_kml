@@ -2629,5 +2629,14 @@
       Address: 3299 Dalmation, Pickneyville, Perry, IL 62274]]></description>
         <Point><coordinates>-89.3855413333333,38.0674798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41818-T</name>
+        <description><![CDATA[Date: 7/23/25 4:37 PM
+      Site Name: Yoda-Lucas
+      AGL: 150
+      Tower Type: Monopole
+      Address: 26203 Beckham Rd, Unit 3, Harlingen, Cameron, TX 78552]]></description>
+        <Point><coordinates>-97.7652222222222,26.1788048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

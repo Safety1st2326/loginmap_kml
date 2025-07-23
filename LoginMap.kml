@@ -2296,5 +2296,50 @@
       Address: 210855 E. County Road 50, Sharon, Woodward, OK 73801]]></description>
         <Point><coordinates>-99.2500277777778,36.2898968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK41674-T</name>
+        <description><![CDATA[Date: 7/23/25 2:08 PM
+      Site Name: Sharon 
+      AGL: 340
+      Tower Type: Guyed
+      Address: 210855 E. County Road 50, Sharon, Woodward, OK 73801]]></description>
+        <Point><coordinates>-99.2500277777778,36.2898968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA17484-A</name>
+        <description><![CDATA[Date: 7/23/25 2:07 PM
+      Site Name: Green Island
+      AGL: 160
+      Tower Type: Monopine
+      Address: River Road aka Georgia Hwy 219, Columbus, Muscogee, GA 31904]]></description>
+        <Point><coordinates>-84.9960607777778,32.5379413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR20106-A</name>
+        <description><![CDATA[Date: 7/23/25 2:22 PM
+      Site Name: BARLING TOWER
+      AGL: 250
+      Tower Type: Self Support
+      Address: 300 A St, Barling, Sebastian, AR 72923]]></description>
+        <Point><coordinates>-94.2991774444444,35.3268576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41138-T</name>
+        <description><![CDATA[Date: 7/23/25 2:23 PM
+      Site Name: David and Karen Redding
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7689 State Road 46, Nashville, Brown, IN 47448]]></description>
+        <Point><coordinates>-86.1056277777778,39.1951885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12906-A</name>
+        <description><![CDATA[Date: 7/23/25 2:29 PM
+      Site Name: Trees N' Things
+      AGL: 50
+      Tower Type: Monopine
+      Address: 9354 Oso Avenue, Chatsworth, Los Angeles, CA 91311]]></description>
+        <Point><coordinates>-118.574399333333,34.2405857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

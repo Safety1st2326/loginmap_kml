@@ -2404,5 +2404,23 @@
       Address: 9039 Lindley Ave., Northridge, Los Angeles, CA 91325]]></description>
         <Point><coordinates>-118.527855333333,34.2348636666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 3:07 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 3:07 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

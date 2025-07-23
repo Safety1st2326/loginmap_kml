@@ -2845,5 +2845,14 @@
       Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
         <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45523-A</name>
+        <description><![CDATA[Date: 7/23/25 6:30 PM
+      Site Name: Norton 5 CA
+      AGL: 51
+      Tower Type: Tree
+      Address: 875 E. Mill Street, San Bernardino, San Bernardino, CA 92408]]></description>
+        <Point><coordinates>-117.265322222222,34.0919968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

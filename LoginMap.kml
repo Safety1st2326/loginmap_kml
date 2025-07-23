@@ -2701,5 +2701,41 @@
       Address: 486 Majestic Valley Road, Lebanon, Russell, VA 24266]]></description>
         <Point><coordinates>-82.0073388888889,36.9091833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45573-A</name>
+        <description><![CDATA[Date: 7/23/25 5:21 PM
+      Site Name: Sd Country Estates
+      AGL: 50
+      Tower Type: Tree
+      Address: 23658 - 60 San Vicente Rd , Ramona, San Diego, CA 92065]]></description>
+        <Point><coordinates>-116.818632666667,33.0062916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02514-A</name>
+        <description><![CDATA[Date: 7/23/25 5:24 PM
+      Site Name: Ft Myers
+      AGL: 180
+      Tower Type: Self Support
+      Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
+        <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02514-A</name>
+        <description><![CDATA[Date: 7/23/25 5:24 PM
+      Site Name: Ft Myers
+      AGL: 180
+      Tower Type: Self Support
+      Address: 940 Tarpon Street, Fort Myers, Lee, FL 33916-1139]]></description>
+        <Point><coordinates>-81.8453663333333,26.659925,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41644-T</name>
+        <description><![CDATA[Date: 7/23/25 5:28 PM
+      Site Name: Renfrow
+      AGL: 340
+      Tower Type: Guyed
+      Address: 31923 County Road 1030, Medford, Grant, OK 73759]]></description>
+        <Point><coordinates>-97.6074083333333,36.8679298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

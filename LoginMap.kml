@@ -2476,5 +2476,50 @@
       Address: 1081 Hospital Road, Franklin, Johnson, IN 46131]]></description>
         <Point><coordinates>-86.0743521111111,39.4776215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS18313-A</name>
+        <description><![CDATA[Date: 7/23/25 3:30 PM
+      Site Name: Gambrell Loop
+      AGL: 348
+      Tower Type: Guyed
+      Address: 702 Gambrell Loop, Taylorsville, Jones, MS 39168]]></description>
+        <Point><coordinates>-89.3700382222222,31.7911413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL00653-B</name>
+        <description><![CDATA[Date: 7/23/25 3:34 PM
+      Site Name: Wetumpka South
+      AGL: 292
+      Tower Type: Self Support
+      Address: 2335 US Highway 231, Wetumpka, Elmore, AL 36093-1213]]></description>
+        <Point><coordinates>-86.2000388888889,32.4782465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX06081-A</name>
+        <description><![CDATA[Date: 7/23/25 3:34 PM
+      Site Name: Jacksonville 2 TX
+      AGL: 250
+      Tower Type: Guyed
+      Address: Rt1 Hwy 69, Jacksonville, Cherokee, TX 75766-9801]]></description>
+        <Point><coordinates>-95.2186937777778,31.8927496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 7/23/25 3:37 PM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00365-B</name>
+        <description><![CDATA[Date: 7/23/25 3:37 PM
+      Site Name: Saddle Ridge
+      AGL: 181
+      Tower Type: Self Support
+      Address: 1637 Peachtree Parkway, Cumming, Forsyth, GA 30041]]></description>
+        <Point><coordinates>-84.1712354444444,34.1212076666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

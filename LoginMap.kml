@@ -2422,5 +2422,41 @@
       Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
         <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40692-T</name>
+        <description><![CDATA[Date: 7/23/25 3:07 PM
+      Site Name: Reaser
+      AGL: 60
+      Tower Type: Monopole Tree
+      Address: 1531 Mountain Ave, San Jacinto, Riverside, CA 92583]]></description>
+        <Point><coordinates>-116.928743777778,33.772916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28021-S</name>
+        <description><![CDATA[Date: 7/23/25 3:01 PM
+      Site Name: Arborwood
+      AGL: 159
+      Tower Type: Monopole
+      Address: 11599 Plantation Gardens Dr, Fort Myers, Lee, FL 33913]]></description>
+        <Point><coordinates>-81.7664861111111,26.5777521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40618-T</name>
+        <description><![CDATA[Date: 7/23/25 3:05 PM
+      Site Name: United Methodist Church
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 5650 Shoup Ave., Woodland Hills, Los Angeles, CA 91367]]></description>
+        <Point><coordinates>-118.614203,34.1736073333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA07425-A</name>
+        <description><![CDATA[Date: 7/23/25 3:19 PM
+      Site Name: Coeburn MTN
+      AGL: 200
+      Tower Type: Self Support
+      Address: 5339 Pole Bridge Road, Coeburn, Wise, VA 24230]]></description>
+        <Point><coordinates>-82.515,36.9606388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

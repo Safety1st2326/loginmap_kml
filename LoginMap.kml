@@ -2800,5 +2800,14 @@
       Address: 219 County Road 1501, Rusk, Cherokee, TX 75785-9325]]></description>
         <Point><coordinates>-95.1646944444445,31.819416,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40631-T</name>
+        <description><![CDATA[Date: 7/23/25 6:19 PM
+      Site Name: IE587 Our Lady of Valley
+      AGL: 65
+      Tower Type: Monopalm
+      Address: 780 S. State St., Hemet, Riverside, CA 92543]]></description>
+        <Point><coordinates>-116.970413222222,33.735458,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

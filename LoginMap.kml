@@ -2692,5 +2692,14 @@
       Address: 1955 Hilltop Road, Silver City, Grant, NM 88061-7930]]></description>
         <Point><coordinates>-108.258855555556,32.7825882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14507-A</name>
+        <description><![CDATA[Date: 7/23/25 5:19 PM
+      Site Name: Hale
+      AGL: 268
+      Tower Type: Guyed
+      Address: 486 Majestic Valley Road, Lebanon, Russell, VA 24266]]></description>
+        <Point><coordinates>-82.0073388888889,36.9091833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

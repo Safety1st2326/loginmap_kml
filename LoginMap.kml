@@ -2809,5 +2809,41 @@
       Address: 780 S. State St., Hemet, Riverside, CA 92543]]></description>
         <Point><coordinates>-116.970413222222,33.735458,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA11416-B</name>
+        <description><![CDATA[Date: 7/23/25 6:16 PM
+      Site Name: Tazewell 3 VA
+      AGL: 195
+      Tower Type: Self Support
+      Address: 162 Combs Court, Tazewell, Tazewell, VA 24651]]></description>
+        <Point><coordinates>-81.5078027777778,37.115,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12577-A</name>
+        <description><![CDATA[Date: 7/23/25 6:24 PM
+      Site Name: Emmetsburg North
+      AGL: 123
+      Tower Type: Monopole
+      Address: 2020 N. Main, Emmetsburg, Palo Alto, IA 50536]]></description>
+        <Point><coordinates>-94.6772104444445,43.1116083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14630-A</name>
+        <description><![CDATA[Date: 7/23/25 6:21 PM
+      Site Name: Rusk 2 TX
+      AGL: 400
+      Tower Type: Guyed
+      Address: 112 FM 343 East, Rusk, Cherokee, TX 75785]]></description>
+        <Point><coordinates>-95.1187798888889,31.7927163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40654-T</name>
+        <description><![CDATA[Date: 7/23/25 6:15 PM
+      Site Name: IE853 American Self Strg
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
+        <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

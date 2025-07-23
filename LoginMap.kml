@@ -2791,5 +2791,14 @@
       Address: 44820 State Highway 74, Hemet, Riverside, CA 92544]]></description>
         <Point><coordinates>-116.878229888889,33.7484441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX06051-A</name>
+        <description><![CDATA[Date: 7/23/25 5:58 PM
+      Site Name: Rusk
+      AGL: 229
+      Tower Type: Self Support
+      Address: 219 County Road 1501, Rusk, Cherokee, TX 75785-9325]]></description>
+        <Point><coordinates>-95.1646944444445,31.819416,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2638,5 +2638,59 @@
       Address: 26203 Beckham Rd, Unit 3, Harlingen, Cameron, TX 78552]]></description>
         <Point><coordinates>-97.7652222222222,26.1788048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08885-A</name>
+        <description><![CDATA[Date: 7/23/25 4:51 PM
+      Site Name: Jacksonville 4 TX
+      AGL: 252
+      Tower Type: Guyed
+      Address: 29597 US Highway 69 N, Rusk, Cherokee, TX 75785]]></description>
+        <Point><coordinates>-95.1821965555556,31.8387441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17513-A</name>
+        <description><![CDATA[Date: 7/23/25 4:52 PM
+      Site Name: Dundas
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6706 N IL 130, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.0930302222222,38.8154444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09075-A</name>
+        <description><![CDATA[Date: 7/23/25 4:52 PM
+      Site Name: Tazewell
+      AGL: 300
+      Tower Type: Guyed
+      Address: 554 Sawmill Road, North Tazewell, Tazewell, VA 24630]]></description>
+        <Point><coordinates>-81.5949941111111,37.1336607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46204-A</name>
+        <description><![CDATA[Date: 7/23/25 4:54 PM
+      Site Name: Eastwood 2 FL
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4052 Colonial Boulevard, Fort Meyers, Lee, FL 33966]]></description>
+        <Point><coordinates>-81.8275465555556,26.6016555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46204-A</name>
+        <description><![CDATA[Date: 7/23/25 4:54 PM
+      Site Name: Eastwood 2 FL
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4052 Colonial Boulevard, Fort Meyers, Lee, FL 33966]]></description>
+        <Point><coordinates>-81.8275465555556,26.6016555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM09203-A</name>
+        <description><![CDATA[Date: 7/23/25 4:58 PM
+      Site Name: SW Concrete
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 1955 Hilltop Road, Silver City, Grant, NM 88061-7930]]></description>
+        <Point><coordinates>-108.258855555556,32.7825882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

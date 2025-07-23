@@ -2521,5 +2521,23 @@
       Address: 1637 Peachtree Parkway, Cumming, Forsyth, GA 30041]]></description>
         <Point><coordinates>-84.1712354444444,34.1212076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13117-A</name>
+        <description><![CDATA[Date: 7/23/25 3:43 PM
+      Site Name: Peachtree Mall
+      AGL: 197
+      Tower Type: Monopole
+      Address: 4191 Milgen Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.9248243333333,32.5135972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15882-A</name>
+        <description><![CDATA[Date: 7/23/25 3:46 PM
+      Site Name: Alico Center
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 17430 Alico Center Road, Fort Myers, Lee, FL 33912]]></description>
+        <Point><coordinates>-81.831401,26.4858407777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

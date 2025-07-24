@@ -2485,5 +2485,14 @@
       Address: 225 North Hill Road, Bernalillo, Sandoval, NM 87004]]></description>
         <Point><coordinates>-106.533441333333,35.3201243333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL13136-A</name>
+        <description><![CDATA[Date: 7/24/25 5:19 PM
+      Site Name: Marion DT
+      AGL: 187
+      Tower Type: Self Support
+      Address: 2408 Ingersoll Lane, Marion, Williamson, IL 62959]]></description>
+        <Point><coordinates>-88.9604611111111,37.7373718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

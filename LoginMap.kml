@@ -775,5 +775,68 @@
       Address: 11091 Hwy 54, Village of Amherst, Portage, WI 54406]]></description>
         <Point><coordinates>-89.2337246666667,44.3514583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20203-A</name>
+        <description><![CDATA[Date: 7/24/25 9:02 AM
+      Site Name: Swanville MN Tower
+      AGL: 341
+      Tower Type: Guyed
+      Address: 24033 CR 10, Swanville, Todd, MN 56382]]></description>
+        <Point><coordinates>-94.6514444444445,45.9786937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18064-A</name>
+        <description><![CDATA[Date: 7/24/25 9:04 AM
+      Site Name: Gateway Elementary
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 13280 Griffin Dr., Ft. Myers, Lee, FL 33913]]></description>
+        <Point><coordinates>-81.7349635555556,26.5764937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/24/25 9:06 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS16055-A</name>
+        <description><![CDATA[Date: 7/24/25 9:06 AM
+      Site Name: Hamilton Industrial
+      AGL: 180
+      Tower Type: Self Support
+      Address: 40017 Holloway Road, Hamilton, Monroe, MS 39746]]></description>
+        <Point><coordinates>-88.4443941111111,33.7252021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41133-T</name>
+        <description><![CDATA[Date: 7/24/25 9:02 AM
+      Site Name: LB Mold Inc
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1031 South Main Street, Edinburgh, Bartholomew, IN 46124]]></description>
+        <Point><coordinates>-85.9668743333333,39.3416885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14894-B</name>
+        <description><![CDATA[Date: 7/24/25 9:02 AM
+      Site Name: Hayward WI
+      AGL: 190
+      Tower Type: Monopole
+      Address: 15997 Dyno Drive, Hayward, Sawyer, WI 54843]]></description>
+        <Point><coordinates>-91.4919024444444,46.0054472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 7/24/25 9:02 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

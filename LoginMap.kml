@@ -478,5 +478,59 @@
       Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
         <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/24/25 8:05 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN01603-B</name>
+        <description><![CDATA[Date: 7/24/25 8:05 AM
+      Site Name: Broad Street
+      AGL: 148
+      Tower Type: Monopole
+      Address: 1400 S Broad Street, Griffith, Lake, IN 46319-3212]]></description>
+        <Point><coordinates>-87.4297576666667,41.5005916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14348-A</name>
+        <description><![CDATA[Date: 7/24/25 8:02 AM
+      Site Name: Ashby 2 AL
+      AGL: 401
+      Tower Type: Guyed
+      Address: 14971 Highway 139, Ashby, Bibb, AL 35035]]></description>
+        <Point><coordinates>-86.9155944444445,32.9809743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46676-A</name>
+        <description><![CDATA[Date: 7/24/25 8:02 AM
+      Site Name: Wellesley College
+      AGL: 66
+      Tower Type: Stealth
+      Address: 106 Central Street, Wellesley, Norfolk, MA 02481]]></description>
+        <Point><coordinates>-71.298458,42.2932524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL14866-A</name>
+        <description><![CDATA[Date: 7/24/25 8:07 AM
+      Site Name: Opus Media - Tallahassee
+      AGL: 493
+      Tower Type: Guyed
+      Address: 3002 Olson Road, Tallahassee, Leon, FL 32301]]></description>
+        <Point><coordinates>-84.2330493333333,30.4941357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10283-A</name>
+        <description><![CDATA[Date: 7/24/25 7:54 AM
+      Site Name: MOR
+      AGL: 281
+      Tower Type: Self Support
+      Address: 13086 Adel Highway, Barney, Brooks, GA 31625]]></description>
+        <Point><coordinates>-83.5018583333333,30.9679743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

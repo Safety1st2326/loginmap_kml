@@ -1981,5 +1981,23 @@
       Address: 40501 Bermont Road, Punta Gorda, Charlotte, FL 33982]]></description>
         <Point><coordinates>-81.7781993333333,26.9453024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46205-A</name>
+        <description><![CDATA[Date: 7/24/25 1:52 PM
+      Site Name: Babcock-west
+      AGL: 300
+      Tower Type: Guyed
+      Address: 40501 Bermont Road, Punta Gorda, Charlotte, FL 33982]]></description>
+        <Point><coordinates>-81.7781993333333,26.9453024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ17745-B</name>
+        <description><![CDATA[Date: 7/24/25 1:55 PM
+      Site Name: Buzzard
+      AGL: 195
+      Tower Type: Self Support
+      Address: 499 Columbia Ave, Holbrook, Navajo, AZ 86025]]></description>
+        <Point><coordinates>-110.135368555556,34.9168718333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

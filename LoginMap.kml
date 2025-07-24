@@ -1684,5 +1684,77 @@
       Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
         <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/24/25 11:57 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47466-A</name>
+        <description><![CDATA[Date: 7/24/25 12:10 PM
+      Site Name: Oberlin 4 OH
+      AGL: 300
+      Tower Type: Self Support
+      Address: 47179 State Route 20, Oberlin, Lorain, OH 44074]]></description>
+        <Point><coordinates>-82.2393635555556,41.2636805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47830-A</name>
+        <description><![CDATA[Date: 7/24/25 11:58 AM
+      Site Name: Blue Mound
+      AGL: 160
+      Tower Type: Monopole
+      Address: 955 Kennedy Lane, Saginaw, Tarrant, TX 76131]]></description>
+        <Point><coordinates>-97.3464718888889,32.857475,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08893-A</name>
+        <description><![CDATA[Date: 7/24/25 12:02 PM
+      Site Name: South Lufkin
+      AGL: 450
+      Tower Type: Guyed
+      Address: 1310 Whitehouse Dr., Lufkin, Angelina, TX 75901-6051]]></description>
+        <Point><coordinates>-94.7125638888889,31.2947107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/24/25 12:02 PM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14151-A</name>
+        <description><![CDATA[Date: 7/24/25 12:02 PM
+      Site Name: Euharlee
+      AGL: 296
+      Tower Type: Guyed
+      Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
+        <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00585-B</name>
+        <description><![CDATA[Date: 7/24/25 12:14 PM
+      Site Name: Kelly Mill
+      AGL: 246
+      Tower Type: Self Support
+      Address: 1946 Kelly Mill Road, Cumming, Forsyth, GA 30040-5123]]></description>
+        <Point><coordinates>-84.1879524444444,34.2007388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA21122-A</name>
+        <description><![CDATA[Date: 7/24/25 12:19 PM
+      Site Name: Fort Jessup Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1761 Central Loop Rd., Robeline, Natchitoches, LA 71469]]></description>
+        <Point><coordinates>-93.3262798888889,31.6573888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

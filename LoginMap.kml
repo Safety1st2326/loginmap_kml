@@ -2557,5 +2557,14 @@
       Address: 1907 Fosse Road, Marion, Williamson, IL 62959]]></description>
         <Point><coordinates>-88.9552861111111,37.7060083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11412-S</name>
+        <description><![CDATA[Date: 7/24/25 6:27 PM
+      Site Name: Lone Oak 2 TX
+      AGL: 301
+      Tower Type: Self Support
+      Address: 412 Church Street, Lone Oak, Hunt, TX 75453]]></description>
+        <Point><coordinates>-95.936333,32.9937774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

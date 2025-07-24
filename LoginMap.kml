@@ -208,5 +208,77 @@
       Address: 8218 Hanley Road, Tampa, Hillsborough, FL 33634]]></description>
         <Point><coordinates>-82.5632833333333,28.0239521111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN21118-A</name>
+        <description><![CDATA[Date: 7/24/25 7:10 AM
+      Site Name: Fort Wayne SE Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 12211 S US 27, Fort Wayne, Allen, IN 46816]]></description>
+        <Point><coordinates>-85.0788882222222,40.9730548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08582-A</name>
+        <description><![CDATA[Date: 7/24/25 7:00 AM
+      Site Name: Mount Gilead 2 OH
+      AGL: 251
+      Tower Type: Self Support
+      Address: 6022 State Route 95, Mount Gilead, Morrow, OH 43338-9528]]></description>
+        <Point><coordinates>-82.7214298888889,40.4977607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15185-B</name>
+        <description><![CDATA[Date: 7/24/25 7:16 AM
+      Site Name: Olney 4 IL
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3537 N. Drummer Road, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.1547583333333,38.6982163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17656-A</name>
+        <description><![CDATA[Date: 7/24/25 7:16 AM
+      Site Name: Headquarters
+      AGL: 251
+      Tower Type: Self Support
+      Address: W7695 - 22nd Street W, Necedah, Juneau, WI 54646]]></description>
+        <Point><coordinates>-90.1519463888889,44.0200404444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15158-A</name>
+        <description><![CDATA[Date: 7/24/25 7:13 AM
+      Site Name: Holy Trinity Church
+      AGL: 125
+      Tower Type: Flagpole
+      Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
+        <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL20135-A</name>
+        <description><![CDATA[Date: 7/24/25 7:13 AM
+      Site Name: Brantley AL Tower
+      AGL: 330
+      Tower Type: Guyed
+      Address: 239 Kennedy Road, Brantley, Crenshaw, AL 36009]]></description>
+        <Point><coordinates>-86.2373552222222,31.5411996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14507-A</name>
+        <description><![CDATA[Date: 7/24/25 7:13 AM
+      Site Name: Hale
+      AGL: 268
+      Tower Type: Guyed
+      Address: 486 Majestic Valley Road, Lebanon, Russell, VA 24266]]></description>
+        <Point><coordinates>-82.0073388888889,36.9091833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 7/24/25 7:18 AM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

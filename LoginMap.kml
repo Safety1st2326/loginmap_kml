@@ -631,5 +631,95 @@
       Address: 6058 Highway 382 West, Ellijay, Gilmer, GA 30540]]></description>
         <Point><coordinates>-84.5887191111111,34.6176465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI15214-B</name>
+        <description><![CDATA[Date: 7/24/25 8:38 AM
+      Site Name: Princeton 4 WI
+      AGL: 250
+      Tower Type: Self Support
+      Address: N5721 County Road T, Princeton, Green Lake, WI 54968]]></description>
+        <Point><coordinates>-89.1315687777778,43.8364496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17605-A</name>
+        <description><![CDATA[Date: 7/24/25 8:43 AM
+      Site Name: Kid Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
+        <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13619-A</name>
+        <description><![CDATA[Date: 7/24/25 8:43 AM
+      Site Name: Arcadia-West
+      AGL: 252
+      Tower Type: Self Support
+      Address: 2644 NW Tom Mizell Rd, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-82.0048055555555,27.2313326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41554-T</name>
+        <description><![CDATA[Date: 7/24/25 8:43 AM
+      Site Name: Strain -RL
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5611 Waterville Swanton Road, Swanton, Lucas, OH 43558]]></description>
+        <Point><coordinates>-83.8687021111111,41.5378413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40365-T</name>
+        <description><![CDATA[Date: 7/24/25 8:45 AM
+      Site Name: Hillcrest Cleaners RL
+      AGL: 75
+      Tower Type: Monopole
+      Address: 1509 Gina Dr, Arlington, Tarrant, TX 76013]]></description>
+        <Point><coordinates>-97.1359441111111,32.7207215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS17889-A</name>
+        <description><![CDATA[Date: 7/24/25 8:47 AM
+      Site Name: Pittsboro 3 MS
+      AGL: 307
+      Tower Type: Self Support
+      Address: 170 Hwy 9 North, Pittsboro, Calhoun, MS 38951]]></description>
+        <Point><coordinates>-89.3422413333333,33.9600722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01226-A</name>
+        <description><![CDATA[Date: 7/24/25 8:47 AM
+      Site Name: Apopka
+      AGL: 280
+      Tower Type: Guyed
+      Address: 215 W. Fourth Street, Apopka, Orange, FL 32703-5140]]></description>
+        <Point><coordinates>-81.516525,28.6738854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45662-A</name>
+        <description><![CDATA[Date: 7/24/25 8:47 AM
+      Site Name: Harrison 2 CA
+      AGL: 60
+      Tower Type: Tree
+      Address: 26750 Sanderson Ave , Hemet, Riverside, CA 92545]]></description>
+        <Point><coordinates>-117.007127777778,33.7341441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21687-A</name>
+        <description><![CDATA[Date: 7/24/25 8:48 AM
+      Site Name: Hopewell Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1421 Hopewell Rd. East, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-84.0053936111111,32.8032797222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10114-A</name>
+        <description><![CDATA[Date: 7/24/25 8:49 AM
+      Site Name: Gordon 2 GA
+      AGL: 195
+      Tower Type: Monopole
+      Address: 93 Jackson Street, Gordon, Wilkinson, GA 31031]]></description>
+        <Point><coordinates>-83.3346552222222,32.8813576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

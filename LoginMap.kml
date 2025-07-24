@@ -901,5 +901,104 @@
       Address: 501 West Walnut, Huntington, Angelina, TX 75949]]></description>
         <Point><coordinates>-94.5835607777778,31.2819382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT11215-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Mt Cobb
+      AGL: 76
+      Tower Type: Monopole
+      Address: 1233 Cobb Hill Road, Moretown, Washington, VT 05660]]></description>
+        <Point><coordinates>-72.737833,44.3046666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 9:31 AM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14500-A</name>
+        <description><![CDATA[Date: 7/24/25 9:19 AM
+      Site Name: Pennington
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11965 Grape Field Road, Bastian, Bland, VA 24314]]></description>
+        <Point><coordinates>-81.1475885555555,37.1805437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00461-B</name>
+        <description><![CDATA[Date: 7/24/25 9:19 AM
+      Site Name: Pilgrim
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1481 Ventura Drive, Cumming, Forsyth, GA 30040-4501]]></description>
+        <Point><coordinates>-84.1067194444444,34.2310882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 7/24/25 9:24 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL41103-T</name>
+        <description><![CDATA[Date: 7/24/25 9:24 AM
+      Site Name: Chester -Rogers Redi Mix
+      AGL: 203
+      Tower Type: Self Support
+      Address: 827 Opdyke, Chester, Randolph, IL 62233]]></description>
+        <Point><coordinates>-89.8108444444444,37.9034472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08773-B</name>
+        <description><![CDATA[Date: 7/24/25 9:37 AM
+      Site Name: Hickory Nut
+      AGL: 250
+      Tower Type: Self Support
+      Address: 395 Nandina Heights Blvd., Easley, Pickens, SC 29640-7025]]></description>
+        <Point><coordinates>-82.607,34.9205826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

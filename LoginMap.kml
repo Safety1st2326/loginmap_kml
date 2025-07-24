@@ -2233,5 +2233,113 @@
       Address: 602 East Park Street, Carbondale, Jackson, IL 62901-3805]]></description>
         <Point><coordinates>-89.2075222222222,37.7166715555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA01266-S</name>
+        <description><![CDATA[Date: 7/24/25 3:13 PM
+      Site Name: Macedonia
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11711 East Cherokee Drive, Ball Ground, Cherokee, GA 30107]]></description>
+        <Point><coordinates>-84.3633638888889,34.2655638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME18035-A</name>
+        <description><![CDATA[Date: 7/24/25 3:24 PM
+      Site Name: Steuben II
+      AGL: 190
+      Tower Type: Self Support
+      Address: 50 Tower Road, Steuben, Washington, ME 04680]]></description>
+        <Point><coordinates>-67.9234437777778,44.4938885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA22605-A</name>
+        <description><![CDATA[Date: 7/24/25 3:19 PM
+      Site Name: Ranchita 1
+      AGL: 31
+      Tower Type: Monopine
+      Address: 27865 Old Mine Road, Ranchita, San Diego, CA 92066]]></description>
+        <Point><coordinates>-116.5563,33.2167798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46344-A</name>
+        <description><![CDATA[Date: 7/24/25 3:19 PM
+      Site Name: McIntosh 3 GA
+      AGL: 181
+      Tower Type: Monopole
+      Address: 174 McIntosh Trail, Sharpsburg, Coweta, GA 30277]]></description>
+        <Point><coordinates>-84.6404163333333,33.3428885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA22605-A</name>
+        <description><![CDATA[Date: 7/24/25 3:19 PM
+      Site Name: Ranchita 1
+      AGL: 30
+      Tower Type: Monopine
+      Address: 27865 Old Mine Road, Ranchita, San Diego, CA 92066]]></description>
+        <Point><coordinates>-116.556347222222,33.2168243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA10090-A</name>
+        <description><![CDATA[Date: 7/24/25 3:19 PM
+      Site Name: Kisatchie
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1334 Highway 117, Leesville, Vernon, LA 71446]]></description>
+        <Point><coordinates>-93.1742771111111,31.330416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX48048-A</name>
+        <description><![CDATA[Date: 7/24/25 3:24 PM
+      Site Name: Public Storage - Gulf
+      AGL: 103
+      Tower Type: Monopole
+      Address: 8430 Gulf Freeway, Houston, Harris, TX 77061]]></description>
+        <Point><coordinates>-95.2665722222222,29.6734993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME18035-A</name>
+        <description><![CDATA[Date: 7/24/25 3:24 PM
+      Site Name: Steuben II
+      AGL: 190
+      Tower Type: Self Support
+      Address: 50 Tower Road, Steuben, Washington, ME 04680]]></description>
+        <Point><coordinates>-67.9234437777778,44.4938885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21714-A</name>
+        <description><![CDATA[Date: 7/24/25 3:20 PM
+      Site Name: West Cicero
+      AGL: 300
+      Tower Type: Guyed
+      Address: W5330 County Road F, Nichols, OUTAGAMIE, WI 54152]]></description>
+        <Point><coordinates>-88.4502944444445,44.5659222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME18035-A</name>
+        <description><![CDATA[Date: 7/24/25 3:25 PM
+      Site Name: Steuben II
+      AGL: 190
+      Tower Type: Self Support
+      Address: 50 Tower Road, Steuben, Washington, ME 04680]]></description>
+        <Point><coordinates>-67.9234437777778,44.4938885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/24/25 3:22 PM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL17994-A</name>
+        <description><![CDATA[Date: 7/24/25 3:29 PM
+      Site Name: Del Prado - Ft Myers
+      AGL: 139
+      Tower Type: Flagpole
+      Address: 18251 N. Tamiami Trail, N. Fort Myers, Lee, FL 33903]]></description>
+        <Point><coordinates>-81.9104277777778,26.7288243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

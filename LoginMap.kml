@@ -1027,5 +1027,68 @@
       Address: 17100 Palmetto Pass Lane, Punta Gorda, Charlotte, FL 33982]]></description>
         <Point><coordinates>-81.7350441111111,26.7817076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06383-A</name>
+        <description><![CDATA[Date: 7/24/25 9:40 AM
+      Site Name: Columbus AFB
+      AGL: 160
+      Tower Type: Self Support
+      Address: 10917 Highway 45 North, Columbus, Lowndes, MS 39701]]></description>
+        <Point><coordinates>-88.4198048888889,33.6506944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE17611-A</name>
+        <description><![CDATA[Date: 7/24/25 9:39 AM
+      Site Name: Bellevue
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15455 Hwy 75 S, Bellevue, Sarpy, NE 68123]]></description>
+        <Point><coordinates>-95.9267604444445,41.0858246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN41772-T</name>
+        <description><![CDATA[Date: 7/24/25 9:56 AM
+      Site Name: Neelys Bend
+      AGL: 151
+      Tower Type: Monopole
+      Address: 736 Neelys Bend Road, Madison, Davidson, TN 37115]]></description>
+        <Point><coordinates>-86.6968052222222,36.2489163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/24/25 9:57 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21576-A</name>
+        <description><![CDATA[Date: 7/24/25 9:46 AM
+      Site Name: Burton Ferry - Hwy 45
+      AGL: 146
+      Tower Type: Monopole
+      Address: 11170 HWY 45 NORTH, COLUMBUS, LOWNDES, MS 39705]]></description>
+        <Point><coordinates>-88.417091,33.6530388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/24/25 9:54 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21406-A</name>
+        <description><![CDATA[Date: 7/24/25 9:54 AM
+      Site Name: Denman
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2346 Carrell Road, Lufkin, Angelina, TX 75901]]></description>
+        <Point><coordinates>-94.6679354444445,31.3064111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

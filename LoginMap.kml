@@ -1351,5 +1351,14 @@
       Address: 565 Geoghagan Road, Many, Sabine, LA 71449]]></description>
         <Point><coordinates>-93.3969135555555,31.6084972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14897-B</name>
+        <description><![CDATA[Date: 7/24/25 11:03 AM
+      Site Name: Steven's Point 3 WI
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
+        <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2368,5 +2368,32 @@
       Address: 574 Myers Hill Road, Brunswick, Glynn, GA 31523]]></description>
         <Point><coordinates>-81.6135611111111,31.1475302222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM21333-A</name>
+        <description><![CDATA[Date: 7/24/25 3:43 PM
+      Site Name: Rio Bravo & Coors Tower
+      AGL: 65
+      Tower Type: Monopole
+      Address: 3107 Love Road SW, Albuquerque, Bernalillo, NM 87121]]></description>
+        <Point><coordinates>-106.720927666667,35.0133275,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22494-A</name>
+        <description><![CDATA[Date: 7/24/25 3:46 PM
+      Site Name: N Casey
+      AGL: 146
+      Tower Type: Self Support
+      Address: 11501 N. 180th Street, Casey, Clark, IL 62420]]></description>
+        <Point><coordinates>-87.9803882222222,39.3136944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20798-A</name>
+        <description><![CDATA[Date: 7/24/25 3:46 PM
+      Site Name: US 36 MO
+      AGL: 310
+      Tower Type: Self Support
+      Address: 1507 Main Street, Stewartsville, DEKALB, MO 64490]]></description>
+        <Point><coordinates>-94.494858,39.7611166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

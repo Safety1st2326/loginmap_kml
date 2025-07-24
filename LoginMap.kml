@@ -2458,5 +2458,23 @@
       Address: 3501 Burnt Store Road, Cape Coral, Lee, FL 33993-9016]]></description>
         <Point><coordinates>-82.0372552222222,26.7150888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ND13329-A</name>
+        <description><![CDATA[Date: 7/24/25 4:40 PM
+      Site Name: Fargo
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2303 Main Ave., Fargo, Cass, ND 58103]]></description>
+        <Point><coordinates>-96.8184548888889,46.8764937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20492-A</name>
+        <description><![CDATA[Date: 7/24/25 4:42 PM
+      Site Name: Ligonier 2 IN
+      AGL: 260
+      Tower Type: Self Support
+      Address: 520 West Union St, Ligonier, Noble, IN 46767]]></description>
+        <Point><coordinates>-85.5956746666667,41.4620194444445,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

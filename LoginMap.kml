@@ -1918,5 +1918,23 @@
       Address: SE 3280, Kerens, NAVARRO, TX 75144]]></description>
         <Point><coordinates>-96.1842913333333,32.0278604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/24/25 1:15 PM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11310-A</name>
+        <description><![CDATA[Date: 7/24/25 1:21 PM
+      Site Name: Southwest Andrews
+      AGL: 301
+      Tower Type: Guyed
+      Address: 7340 W. Hwy 115, Andrews, Andrews, TX 79714]]></description>
+        <Point><coordinates>-102.775007666667,32.1713354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

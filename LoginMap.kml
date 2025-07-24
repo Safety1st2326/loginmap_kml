@@ -1360,5 +1360,59 @@
       Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
         <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45575-A</name>
+        <description><![CDATA[Date: 7/24/25 11:10 AM
+      Site Name: Barona
+      AGL: 48
+      Tower Type: Monopine
+      Address: 13136 Old Barona Road, Lakeside, San Diego, CA 92040]]></description>
+        <Point><coordinates>-116.885555222222,32.926666,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21276-A</name>
+        <description><![CDATA[Date: 7/24/25 11:11 AM
+      Site Name: Flying Dollar
+      AGL: 185
+      Tower Type: Self Support
+      Address: 10167 Schley Road, Maribel, Manitowoc, WI 54227]]></description>
+        <Point><coordinates>-87.8015361111111,44.288408,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14327-A</name>
+        <description><![CDATA[Date: 7/24/25 11:11 AM
+      Site Name: Smith-Rosedale
+      AGL: 195
+      Tower Type: Self Support
+      Address: 12650 Mountain Road, Rosedale, Russell, VA 24280]]></description>
+        <Point><coordinates>-81.9446246666667,36.9444913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46265-A</name>
+        <description><![CDATA[Date: 7/24/25 11:12 AM
+      Site Name: Labelle
+      AGL: 132
+      Tower Type: Monopole
+      Address: 999 W Cowboy Way, LaBelle, Hendry, FL 33935]]></description>
+        <Point><coordinates>-81.4537583333333,26.7453024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46265-A</name>
+        <description><![CDATA[Date: 7/24/25 11:12 AM
+      Site Name: Labelle
+      AGL: 132
+      Tower Type: Monopole
+      Address: 999 W Cowboy Way, LaBelle, Hendry, FL 33935]]></description>
+        <Point><coordinates>-81.4537583333333,26.7453024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15495-S</name>
+        <description><![CDATA[Date: 7/24/25 11:18 AM
+      Site Name: Gaston 3 TX
+      AGL: 120
+      Tower Type: Monopole
+      Address: 801 N. Good Latimer Expressway, Dallas, Dallas, TX 75204]]></description>
+        <Point><coordinates>-96.7911871666667,32.7877841111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

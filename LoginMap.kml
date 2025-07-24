@@ -1000,5 +1000,32 @@
       Address: 395 Nandina Heights Blvd., Easley, Pickens, SC 29640-7025]]></description>
         <Point><coordinates>-82.607,34.9205826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41935-T</name>
+        <description><![CDATA[Date: 7/24/25 9:40 AM
+      Site Name: Bryant 4 TX
+      AGL: 145
+      Tower Type: Monopole
+      Address: 310 Park Meadow Boulevard, Georgetown, Williamson, TX 78628]]></description>
+        <Point><coordinates>-97.6900052222222,30.664375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12149-A</name>
+        <description><![CDATA[Date: 7/24/25 9:49 AM
+      Site Name: Brightside LA
+      AGL: 149
+      Tower Type: Monopole
+      Address: 1444 Brightside Lane, Baton Rouge, East Baton Rouge, LA 70820]]></description>
+        <Point><coordinates>-91.174366,30.3885468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL29606-S</name>
+        <description><![CDATA[Date: 7/24/25 9:49 AM
+      Site Name: Babcock Ranch-Sports Complex
+      AGL: 199
+      Tower Type: Monopole
+      Address: 17100 Palmetto Pass Lane, Punta Gorda, Charlotte, FL 33982]]></description>
+        <Point><coordinates>-81.7350441111111,26.7817076666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

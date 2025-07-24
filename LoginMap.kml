@@ -721,5 +721,59 @@
       Address: 93 Jackson Street, Gordon, Wilkinson, GA 31031]]></description>
         <Point><coordinates>-83.3346552222222,32.8813576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA14153-A</name>
+        <description><![CDATA[Date: 7/24/25 8:39 AM
+      Site Name: Waverly Hall
+      AGL: 266
+      Tower Type: Self Support
+      Address: 305 Seldon Street, Waverly Hall, Harris, GA 31831]]></description>
+        <Point><coordinates>-84.7356691111111,32.6984746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 7/24/25 8:40 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16262-B</name>
+        <description><![CDATA[Date: 7/24/25 8:39 AM
+      Site Name: Lazelle Sancus
+      AGL: 115
+      Tower Type: Monopole
+      Address: 541 Lazelle Rd., Westerville, Franklin, OH 43081]]></description>
+        <Point><coordinates>-82.9892552222222,40.1346191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA02561-B</name>
+        <description><![CDATA[Date: 7/24/25 8:54 AM
+      Site Name: Mundy's Corner
+      AGL: 262
+      Tower Type: Self Support
+      Address: R.D. #1 Box 393, Nanty Glo, Cambria, PA 15943-9801]]></description>
+        <Point><coordinates>-78.8537361111111,40.4683576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ21252-A</name>
+        <description><![CDATA[Date: 7/24/25 8:55 AM
+      Site Name: Bahia Hermosa Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 2700 JAMAICA, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.301555555556,34.4638055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14592-B</name>
+        <description><![CDATA[Date: 7/24/25 8:58 AM
+      Site Name: Amherst 3 WI
+      AGL: 195
+      Tower Type: Monopole
+      Address: 11091 Hwy 54, Village of Amherst, Portage, WI 54406]]></description>
+        <Point><coordinates>-89.2337246666667,44.3514583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

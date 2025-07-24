@@ -2071,5 +2071,41 @@
       Address: 25925 Hwy 189, Elba, Coffee/Elba, AL 36323]]></description>
         <Point><coordinates>-86.1572027777778,31.5182076666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40314-A</name>
+        <description><![CDATA[Date: 7/24/25 2:10 PM
+      Site Name: GREENE
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3706 Valley View Lane, Granite Shoals, Burnet, TX 78654]]></description>
+        <Point><coordinates>-98.3492326666667,30.5978716666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45644-A</name>
+        <description><![CDATA[Date: 7/24/25 2:10 PM
+      Site Name: Waterman
+      AGL: 60
+      Tower Type: Tree
+      Address: 3012 N. Waterman Ave, San Bernardino, San Bernardino, CA 92404]]></description>
+        <Point><coordinates>-117.278971555556,34.1468607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20647-A</name>
+        <description><![CDATA[Date: 7/24/25 2:28 PM
+      Site Name: South Carbondale
+      AGL: 250
+      Tower Type: Self Support
+      Address: R.R. 6, Box 56 Minnesota Road, Carbondale, JACKSON, IL 62901]]></description>
+        <Point><coordinates>-89.2135416666667,37.6998552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13461-A</name>
+        <description><![CDATA[Date: 7/24/25 2:28 PM
+      Site Name: Cloud Mountain
+      AGL: 199
+      Tower Type: Guyed
+      Address: 484 Waddel Tower Road, Junction, Kimble, TX 76849]]></description>
+        <Point><coordinates>-99.7516666666667,30.4758326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

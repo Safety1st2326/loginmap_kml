@@ -1999,5 +1999,50 @@
       Address: 499 Columbia Ave, Holbrook, Navajo, AZ 86025]]></description>
         <Point><coordinates>-110.135368555556,34.9168718333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA48121-A</name>
+        <description><![CDATA[Date: 7/24/25 2:01 PM
+      Site Name: Craddock
+      AGL: 151
+      Tower Type: Monopole
+      Address: 1933 Victory Blvd, PORTSMOUTH, Portsmouth City, VA 23701]]></description>
+        <Point><coordinates>-76.3238215555556,36.7939552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC10640-A</name>
+        <description><![CDATA[Date: 7/24/25 2:01 PM
+      Site Name: Wilmington 2 NC
+      AGL: 302
+      Tower Type: Self Support
+      Address: 112 Harley Road, Wilmington, New Hanover, NC 28405]]></description>
+        <Point><coordinates>-77.8494413333333,34.2546333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13172-A</name>
+        <description><![CDATA[Date: 7/24/25 2:04 PM
+      Site Name: Jamestown 2 KY
+      AGL: 250
+      Tower Type: Self Support
+      Address: 96 Harris Lane, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0674965555556,36.987483,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15789-A</name>
+        <description><![CDATA[Date: 7/24/25 2:07 PM
+      Site Name: Columbus 8 MS
+      AGL: 451
+      Tower Type: Guyed
+      Address: 5364 Military Rd., Columbus, Lowndes, MS 39705]]></description>
+        <Point><coordinates>-88.3730298888889,33.5539222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00168-B</name>
+        <description><![CDATA[Date: 7/24/25 2:07 PM
+      Site Name: Ebenezer
+      AGL: 190
+      Tower Type: Monopole
+      Address: 164 Flat Creek Trail, Fayetteville, Fayette, GA 30214-4702]]></description>
+        <Point><coordinates>-84.5437052222222,33.4471552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

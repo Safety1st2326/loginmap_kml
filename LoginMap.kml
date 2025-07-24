@@ -1846,5 +1846,41 @@
       Address: 35 Belfast School Rd, Cedar Bluff, Russell, VA 24609]]></description>
         <Point><coordinates>-81.8689771111111,36.9699576666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47956-A</name>
+        <description><![CDATA[Date: 7/24/25 12:49 PM
+      Site Name: Allison-tx
+      AGL: 228
+      Tower Type: Guyed
+      Address: 139 Private Road 4013 , Decatur, Wise, TX 76234]]></description>
+        <Point><coordinates>-97.4689326666667,33.2423774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA40263-T</name>
+        <description><![CDATA[Date: 7/24/25 12:50 PM
+      Site Name: Fairless Hills Vol Fire
+      AGL: 120
+      Tower Type: Monopole
+      Address: 417 Hood Blvd, Fairless Hills, Bucks, PA 19030]]></description>
+        <Point><coordinates>-74.8515027777778,40.174366,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY01837-B</name>
+        <description><![CDATA[Date: 7/24/25 1:04 PM
+      Site Name: Crittenden
+      AGL: 300
+      Tower Type: Self Support
+      Address: 220 Mount Zion-Crittenden Road, Dry Ridge, Grant, KY 41035]]></description>
+        <Point><coordinates>-84.6069777777778,38.7629555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00204-B</name>
+        <description><![CDATA[Date: 7/24/25 1:07 PM
+      Site Name: Ducktown
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2882 Canton Highway, Cumming, Forsyth, GA 30040]]></description>
+        <Point><coordinates>-84.2113194444444,34.2402663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1882,5 +1882,41 @@
       Address: 2882 Canton Highway, Cumming, Forsyth, GA 30040]]></description>
         <Point><coordinates>-84.2113194444444,34.2402663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46248-A</name>
+        <description><![CDATA[Date: 7/24/25 1:12 PM
+      Site Name: Babcock-east
+      AGL: 300
+      Tower Type: Self Support
+      Address: 14255 County Rd. 74, Venus, Glades, FL 33960]]></description>
+        <Point><coordinates>-81.5301382222222,26.944583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46248-A</name>
+        <description><![CDATA[Date: 7/24/25 1:13 PM
+      Site Name: Babcock-east
+      AGL: 300
+      Tower Type: Self Support
+      Address: 14255 County Rd. 74, Venus, Glades, FL 33960]]></description>
+        <Point><coordinates>-81.5301382222222,26.944583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16586-S</name>
+        <description><![CDATA[Date: 7/24/25 1:19 PM
+      Site Name: Litchfield West
+      AGL: 190
+      Tower Type: Self Support
+      Address: 10761 Twr Jones Road, Litchfield Township, Medina, OH 44253]]></description>
+        <Point><coordinates>-82.071516,41.1570388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20989-A</name>
+        <description><![CDATA[Date: 7/24/25 1:19 PM
+      Site Name: KERNS 2 TX
+      AGL: 685
+      Tower Type: Guyed
+      Address: SE 3280, Kerens, NAVARRO, TX 75144]]></description>
+        <Point><coordinates>-96.1842913333333,32.0278604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

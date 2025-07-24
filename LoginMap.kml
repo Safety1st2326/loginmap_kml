@@ -172,5 +172,41 @@
       Address: 13921 Polecat Hollow Road, Clear Spring, Washington, MD 21722]]></description>
         <Point><coordinates>-77.928416,39.6962218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 7/24/25 6:49 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02637-A</name>
+        <description><![CDATA[Date: 7/24/25 7:03 AM
+      Site Name: St Mary's 3 GA
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
+        <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH10007-A</name>
+        <description><![CDATA[Date: 7/24/25 7:03 AM
+      Site Name: Chester 5 NH
+      AGL: 402
+      Tower Type: Guyed
+      Address: 132 Derry Road, Chester, Rockingham, NH 03036]]></description>
+        <Point><coordinates>-71.2678771111111,42.9514361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13653-A</name>
+        <description><![CDATA[Date: 7/24/25 7:03 AM
+      Site Name: Town - Country
+      AGL: 162
+      Tower Type: Monopole
+      Address: 8218 Hanley Road, Tampa, Hillsborough, FL 33634]]></description>
+        <Point><coordinates>-82.5632833333333,28.0239521111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

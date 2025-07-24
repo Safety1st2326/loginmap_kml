@@ -2107,5 +2107,41 @@
       Address: 484 Waddel Tower Road, Junction, Kimble, TX 76849]]></description>
         <Point><coordinates>-99.7516666666667,30.4758326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA11084-A</name>
+        <description><![CDATA[Date: 7/24/25 2:33 PM
+      Site Name: Fort Jessup 2 LA
+      AGL: 302
+      Tower Type: Guyed
+      Address: 565 Geoghagan Road, Many, Sabine, LA 71449]]></description>
+        <Point><coordinates>-93.3969135555555,31.6084972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14415-A</name>
+        <description><![CDATA[Date: 7/24/25 2:31 PM
+      Site Name: New Jagger
+      AGL: 301
+      Tower Type: Self Support
+      Address: 2102 Hillard Loop, Townley, Walker, AL 35587]]></description>
+        <Point><coordinates>-87.3713298888889,33.8287076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21408-A</name>
+        <description><![CDATA[Date: 7/24/25 2:32 PM
+      Site Name: Trout
+      AGL: 240
+      Tower Type: Self Support
+      Address: 190 Holcomb Road, Lufkin, Angelina, TX 75904]]></description>
+        <Point><coordinates>-94.7555833333333,31.3729326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM17973-B</name>
+        <description><![CDATA[Date: 7/24/25 2:32 PM
+      Site Name: Delia Gallegos
+      AGL: 63
+      Tower Type: Clocktower
+      Address: 3248 Isleta Blvd. SW, Albuquerque, Bernalillo, NM 87105]]></description>
+        <Point><coordinates>-106.678221555556,35.029666,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

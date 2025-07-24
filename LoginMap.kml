@@ -2854,5 +2854,14 @@
       Address: 875 E. Mill Street, San Bernardino, San Bernardino, CA 92408]]></description>
         <Point><coordinates>-117.265322222222,34.0919968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/23/25 9:33 PM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

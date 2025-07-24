@@ -64,5 +64,14 @@
       Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
         <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21574-A</name>
+        <description><![CDATA[Date: 7/24/25 6:24 AM
+      Site Name: New Hamilton - Hwy 45
+      AGL: 331
+      Tower Type: Guyed
+      Address: 40551 OLD HWY 45 SOUTH, HAMILTON, MONROE, MS 39746]]></description>
+        <Point><coordinates>-88.4491163333333,33.7468774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

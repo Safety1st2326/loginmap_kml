@@ -1756,5 +1756,59 @@
       Address: 1761 Central Loop Rd., Robeline, Natchitoches, LA 71469]]></description>
         <Point><coordinates>-93.3262798888889,31.6573888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH11634-S</name>
+        <description><![CDATA[Date: 7/24/25 12:24 PM
+      Site Name: Hartwell
+      AGL: 95
+      Tower Type: Monopine
+      Address: 200 Old Peterborough Road, Dublin, Cheshire, NH 03444]]></description>
+        <Point><coordinates>-71.9983996666667,42.8867746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46451-A</name>
+        <description><![CDATA[Date: 7/24/25 12:22 PM
+      Site Name: Aurora Fire Station No 5 Raw Land
+      AGL: 149
+      Tower Type: Monopole
+      Address: 730 Hill Avenue, Aurora, Kane, IL 60505]]></description>
+        <Point><coordinates>-88.2869718888889,41.7419441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11844-B</name>
+        <description><![CDATA[Date: 7/24/25 12:22 PM
+      Site Name: Pine Mountain 2 PA
+      AGL: 195
+      Tower Type: Monopole Tree
+      Address: Route 447, East Stroudsburg, Monroe, PA 18301]]></description>
+        <Point><coordinates>-75.2135888888889,41.1031083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA21122-A</name>
+        <description><![CDATA[Date: 7/24/25 12:17 PM
+      Site Name: Fort Jessup Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1761 Central Loop Rd., Robeline, Natchitoches, LA 71469]]></description>
+        <Point><coordinates>-93.3262798888889,31.6573888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/24/25 12:27 PM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46292-A</name>
+        <description><![CDATA[Date: 7/24/25 12:27 PM
+      Site Name: WATERS LAKE
+      AGL: 249
+      Tower Type: Self Support
+      Address: 4010 SE 15th St, Trenton, Gilchrist, FL 32693]]></description>
+        <Point><coordinates>-82.7402718888889,29.7190854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

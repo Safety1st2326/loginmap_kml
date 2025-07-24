@@ -1207,5 +1207,32 @@
       Address: 4929 Patterson Ave., Perris, Riverside, CA 92571]]></description>
         <Point><coordinates>-117.252369444444,33.8615861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL11541-S</name>
+        <description><![CDATA[Date: 7/24/25 10:30 AM
+      Site Name: Lehigh Acres North
+      AGL: 146
+      Tower Type: Flagpole
+      Address: 1112 Joel Boulevard, Lehigh Acres, Lee, FL 33972]]></description>
+        <Point><coordinates>-81.597858,26.6411691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11541-S</name>
+        <description><![CDATA[Date: 7/24/25 10:30 AM
+      Site Name: Lehigh Acres North
+      AGL: 146
+      Tower Type: Flagpole
+      Address: 1112 Joel Boulevard, Lehigh Acres, Lee, FL 33972]]></description>
+        <Point><coordinates>-81.597858,26.6411691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL41082-T</name>
+        <description><![CDATA[Date: 7/24/25 10:35 AM
+      Site Name: Shields - Sarensen Rd
+      AGL: 190
+      Tower Type: Self Support
+      Address: 590 Sarensen Rd., Gorham, Jackson, IL 62940]]></description>
+        <Point><coordinates>-89.4546083333333,37.7618444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

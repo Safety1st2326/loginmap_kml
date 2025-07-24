@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>CA20076-A</name>
+        <description><![CDATA[Date: 7/23/25 11:30 PM
+      Site Name: Silver Peak
+      AGL: 60
+      Tower Type: Monopole
+      Address: 85 WHITE MOUNTAIN DRIVE, BISHOP, INYO, CA 93514]]></description>
+        <Point><coordinates>-118.186105222222,37.4119138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA20076-A</name>
+        <description><![CDATA[Date: 7/23/25 11:30 PM
+      Site Name: Silver Peak
+      AGL: 49
+      Tower Type: Monopole
+      Address: 85 WHITE MOUNTAIN DRIVE, BISHOP, INYO, CA 93514]]></description>
+        <Point><coordinates>-118.186113555556,37.4119166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

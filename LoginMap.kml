@@ -2503,5 +2503,32 @@
       Address: 5320 8th St Extension, Meridian, Lauderdale, MS 39307]]></description>
         <Point><coordinates>-88.7327493333333,32.3648888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13477-A</name>
+        <description><![CDATA[Date: 7/24/25 5:30 PM
+      Site Name: Loyal Valley-ATC
+      AGL: 225
+      Tower Type: Guyed
+      Address: 18140 S US Hwy 87, Mason, Mason, TX 76856]]></description>
+        <Point><coordinates>-99.0226521111111,30.5790354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11583-B</name>
+        <description><![CDATA[Date: 7/24/25 5:30 PM
+      Site Name: Riner 2
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3160 Riner Road, Christiansburg, Montgomery, VA 24073]]></description>
+        <Point><coordinates>-80.4473857777778,37.0860135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11583-B</name>
+        <description><![CDATA[Date: 7/24/25 5:34 PM
+      Site Name: Riner 2
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3160 Riner Road, Christiansburg, Montgomery, VA 24073]]></description>
+        <Point><coordinates>-80.4473857777778,37.0860135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

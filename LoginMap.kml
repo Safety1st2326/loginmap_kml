@@ -1198,5 +1198,14 @@
       Address: 13626 Vanowen Avenue, Van Nuys, Los Angeles, CA 91401]]></description>
         <Point><coordinates>-118.429882666667,34.1935218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40560-T</name>
+        <description><![CDATA[Date: 7/24/25 10:21 AM
+      Site Name: Chelsea
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 4929 Patterson Ave., Perris, Riverside, CA 92571]]></description>
+        <Point><coordinates>-117.252369444444,33.8615861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

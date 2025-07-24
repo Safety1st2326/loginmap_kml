@@ -343,5 +343,86 @@
       Address: 395 Nandina Heights Blvd., Easley, Pickens, SC 29640-7025]]></description>
         <Point><coordinates>-82.607,34.9205826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 7/24/25 7:40 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS14916-A</name>
+        <description><![CDATA[Date: 7/24/25 7:40 AM
+      Site Name: Big Point II
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7612 Brinkman Rd, Moss Point, Jackson, MS 39562]]></description>
+        <Point><coordinates>-88.4815215555556,30.598258,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07235-A</name>
+        <description><![CDATA[Date: 7/24/25 7:43 AM
+      Site Name: Paducah
+      AGL: 194
+      Tower Type: Guyed
+      Address: 5810 US HWY 60W, Paducah, McCracken, KY 42001-9087]]></description>
+        <Point><coordinates>-88.7154666666667,37.0652805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21403-A</name>
+        <description><![CDATA[Date: 7/24/25 7:43 AM
+      Site Name: Zavalla
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1012 Carter Drive, Zavalla, Angelina, TX 75980]]></description>
+        <Point><coordinates>-94.424916,31.1735548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA02761-A</name>
+        <description><![CDATA[Date: 7/24/25 7:46 AM
+      Site Name: Hancock
+      AGL: 199
+      Tower Type: Self Support
+      Address: 2000 Apperson Drive, Salem, Salem, VA 24153-7232]]></description>
+        <Point><coordinates>-80.0217076666667,37.2666611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02626-A</name>
+        <description><![CDATA[Date: 7/24/25 7:46 AM
+      Site Name: Cumming
+      AGL: 180
+      Tower Type: Monopole
+      Address: 582 Atlanta Road, Cumming, Forsyth, GA 30040-2702]]></description>
+        <Point><coordinates>-84.1364968888889,34.1888607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 7/24/25 7:48 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46144-A</name>
+        <description><![CDATA[Date: 7/24/25 7:48 AM
+      Site Name: Cammilletti Property
+      AGL: 148
+      Tower Type: Monopole
+      Address: 10 Ashpohtag Rd, Norfolk, Litchfield/Norfolk, CT 06058]]></description>
+        <Point><coordinates>-73.221391,42.0026972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/24/25 7:49 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2188,5 +2188,23 @@
       Address: 61 George Revell Street, Turin, Coweta, GA 30289]]></description>
         <Point><coordinates>-84.6376663333333,33.3288882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY12372-A</name>
+        <description><![CDATA[Date: 7/24/25 2:51 PM
+      Site Name: Freedom 4 KY
+      AGL: 281
+      Tower Type: Guyed
+      Address: 653 Clifty Creek Road, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0925996666667,36.9251715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46965-A</name>
+        <description><![CDATA[Date: 7/24/25 2:57 PM
+      Site Name: Hillman 2 MN
+      AGL: 400
+      Tower Type: Guyed
+      Address: 20385 370th AVE, Hillman, Morrison, MN 56338]]></description>
+        <Point><coordinates>-93.8952405,46.0561291666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -46,5 +46,14 @@
       Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
         <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47444-A</name>
+        <description><![CDATA[Date: 7/24/25 6:04 AM
+      Site Name: Ez Self Storage - Warren Township
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
+        <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

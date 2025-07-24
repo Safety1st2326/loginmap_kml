@@ -2395,5 +2395,14 @@
       Address: 1507 Main Street, Stewartsville, DEKALB, MO 64490]]></description>
         <Point><coordinates>-94.494858,39.7611166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL13133-A</name>
+        <description><![CDATA[Date: 7/24/25 3:52 PM
+      Site Name: Carbondale East
+      AGL: 185
+      Tower Type: Monopole
+      Address: 8989 Giant City Rd., Carbondale, Jackson, IL 62901]]></description>
+        <Point><coordinates>-89.1871357777778,37.713725,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

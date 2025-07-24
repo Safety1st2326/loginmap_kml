@@ -1432,5 +1432,68 @@
       Address: 191 Hawk Ln., Easley, Pickens, SC 29640]]></description>
         <Point><coordinates>-82.6406441111111,34.890133,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA48169-A</name>
+        <description><![CDATA[Date: 7/24/25 11:33 AM
+      Site Name: Bre001
+      AGL: 135
+      Tower Type: Self Support
+      Address: 3027 Olympus Drive NE, Bremerton, Kitsap, WA 98310]]></description>
+        <Point><coordinates>-122.619985444444,47.5906691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08853-A</name>
+        <description><![CDATA[Date: 7/24/25 11:33 AM
+      Site Name: Burke
+      AGL: 102
+      Tower Type: Self Support
+      Address: 4814 W. Admiral Doyle Drive Lot 4A, New Iberia, Iberia, LA 70560]]></description>
+        <Point><coordinates>-91.8746826666667,30.0519416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA46662-A</name>
+        <description><![CDATA[Date: 7/24/25 11:33 AM
+      Site Name: Nl60xc696
+      AGL: 99
+      Tower Type: Monopole
+      Address: 11970 Hayne Blvd, Suite T, New Orleans, Orleans, LA 70128]]></description>
+        <Point><coordinates>-89.968816,30.0570833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15320-A</name>
+        <description><![CDATA[Date: 7/24/25 11:34 AM
+      Site Name: Phoenixville PA
+      AGL: 167
+      Tower Type: Water Tower
+      Address: 400 Franklin Avenue, Phoenixville, Chester, PA 19460]]></description>
+        <Point><coordinates>-75.5213715555556,40.140533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/24/25 11:22 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/24/25 11:22 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR40510-T</name>
+        <description><![CDATA[Date: 7/24/25 11:22 AM
+      Site Name: Rhoda Raw Land
+      AGL: 165
+      Tower Type: Monopole
+      Address: 313 Junior Road, Clinton, Van Buren, AR 72031]]></description>
+        <Point><coordinates>-92.4533919444444,35.6482743888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

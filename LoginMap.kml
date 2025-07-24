@@ -1135,5 +1135,68 @@
       Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
         <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/24/25 10:13 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA16536-S</name>
+        <description><![CDATA[Date: 7/24/25 10:10 AM
+      Site Name: Ashford 3 WA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 33904 SR 706, Ashford, Pierce, WA 98304]]></description>
+        <Point><coordinates>-121.984638555556,46.75675,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS20457-A</name>
+        <description><![CDATA[Date: 7/24/25 10:16 AM
+      Site Name: Woodville MS Tower
+      AGL: 483
+      Tower Type: Guyed
+      Address: 3199 US Highway 61 North, Woodville, Wilkinson, MS 39669]]></description>
+        <Point><coordinates>-91.2814576666667,31.1440524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00332-B</name>
+        <description><![CDATA[Date: 7/24/25 10:16 AM
+      Site Name: Burdine Creek
+      AGL: 300
+      Tower Type: Guyed
+      Address: 852 N. Old Mill Road, Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5706382222222,34.8830076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13457-A</name>
+        <description><![CDATA[Date: 7/24/25 10:16 AM
+      Site Name: Buckhorn Lake
+      AGL: 482
+      Tower Type: Guyed
+      Address: 2885 Goat Creek Road, Kerrville, Kerr, TX 78028]]></description>
+        <Point><coordinates>-99.2047611111111,30.1213937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA21091-A</name>
+        <description><![CDATA[Date: 7/24/25 10:19 AM
+      Site Name: Grapeview
+      AGL: 150
+      Tower Type: Monopole
+      Address: 291 East Twilight Way, Allyn, Mason, WA 98584]]></description>
+        <Point><coordinates>-122.880552111111,47.329741,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12875-A</name>
+        <description><![CDATA[Date: 7/24/25 10:19 AM
+      Site Name: Vanowen Avenue
+      AGL: 50
+      Tower Type: Monopine
+      Address: 13626 Vanowen Avenue, Van Nuys, Los Angeles, CA 91401]]></description>
+        <Point><coordinates>-118.429882666667,34.1935218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

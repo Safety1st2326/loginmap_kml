@@ -1621,5 +1621,14 @@
       Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
         <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40829-T</name>
+        <description><![CDATA[Date: 7/24/25 11:51 AM
+      Site Name: Presbytery San Fernando
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 14225 and 14255 Roscoe Blvd., Los Angeles, Los Angeles, CA 91402]]></description>
+        <Point><coordinates>-118.442999666667,34.2218215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

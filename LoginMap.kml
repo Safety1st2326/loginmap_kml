@@ -2413,5 +2413,32 @@
       Address: 18548 Ranch Road 479, Harper, Kimble, TX 78631]]></description>
         <Point><coordinates>-99.3394885555555,30.3328937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL15813-B</name>
+        <description><![CDATA[Date: 7/24/25 4:07 PM
+      Site Name: Cape Coral Zenoni
+      AGL: 148
+      Tower Type: Stealth Monopole
+      Address: 3316 Andalusia Blvd., Cape Coral, Lee, FL 33909]]></description>
+        <Point><coordinates>-81.9576138888889,26.7169554444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15813-B</name>
+        <description><![CDATA[Date: 7/24/25 4:07 PM
+      Site Name: Cape Coral Zenoni
+      AGL: 148
+      Tower Type: Stealth Monopole
+      Address: 3316 Andalusia Blvd., Cape Coral, Lee, FL 33909]]></description>
+        <Point><coordinates>-81.9576138888889,26.7169554444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08891-A</name>
+        <description><![CDATA[Date: 7/24/25 4:18 PM
+      Site Name: Pollok
+      AGL: 394
+      Tower Type: Guyed
+      Address: 12595 US Highway 69 N, Pollok, Angelina, TX 75969]]></description>
+        <Point><coordinates>-94.8865524444444,31.4604027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

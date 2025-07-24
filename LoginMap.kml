@@ -1333,5 +1333,23 @@
       Address: 4260 Shea Road, Emmetsburg, Palo Alto, IA 50536]]></description>
         <Point><coordinates>-94.6749021111111,43.0323826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/24/25 10:55 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA11084-A</name>
+        <description><![CDATA[Date: 7/24/25 10:55 AM
+      Site Name: Fort Jessup 2 LA
+      AGL: 302
+      Tower Type: Guyed
+      Address: 565 Geoghagan Road, Many, Sabine, LA 71449]]></description>
+        <Point><coordinates>-93.3969135555555,31.6084972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

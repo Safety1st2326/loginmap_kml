@@ -2206,5 +2206,32 @@
       Address: 20385 370th AVE, Hillman, Morrison, MN 56338]]></description>
         <Point><coordinates>-93.8952405,46.0561291666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 7/24/25 3:03 PM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE14554-A</name>
+        <description><![CDATA[Date: 7/24/25 3:04 PM
+      Site Name: Waterbury NE
+      AGL: 245
+      Tower Type: Guyed
+      Address: 58897 873 Rd., Waterbury, Dixon, NE 68785]]></description>
+        <Point><coordinates>-96.7622111111111,42.4762326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL09002-A</name>
+        <description><![CDATA[Date: 7/24/25 3:06 PM
+      Site Name: Carbondale 2 IL
+      AGL: 149
+      Tower Type: Monopole
+      Address: 602 East Park Street, Carbondale, Jackson, IL 62901-3805]]></description>
+        <Point><coordinates>-89.2075222222222,37.7166715555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

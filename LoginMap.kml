@@ -838,5 +838,68 @@
       Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
         <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/24/25 9:10 AM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07241-A</name>
+        <description><![CDATA[Date: 7/24/25 9:23 AM
+      Site Name: North 8th Street
+      AGL: 260
+      Tower Type: Self Support
+      Address: 1945 North 8th St., Paducah, McCracken, KY 42001-7423]]></description>
+        <Point><coordinates>-88.6300854444444,37.0965163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05109-A</name>
+        <description><![CDATA[Date: 7/24/25 9:13 AM
+      Site Name: Yellow Dog
+      AGL: 250
+      Tower Type: Self Support
+      Address: 16458 Hwy 4 East, Senatobia, Tate, MS 38668-6549]]></description>
+        <Point><coordinates>-89.9182604444445,34.611225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 7/24/25 9:15 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00797-B</name>
+        <description><![CDATA[Date: 7/24/25 9:13 AM
+      Site Name: Pooler
+      AGL: 160
+      Tower Type: Monopole
+      Address: 1013 East Highway 80, Pooler, Chatham, GA 31322]]></description>
+        <Point><coordinates>-81.2344052222222,32.107575,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 7/24/25 9:28 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21405-A</name>
+        <description><![CDATA[Date: 7/24/25 9:28 AM
+      Site Name: Huntington 3 TX
+      AGL: 260
+      Tower Type: Self Support
+      Address: 501 West Walnut, Huntington, Angelina, TX 75949]]></description>
+        <Point><coordinates>-94.5835607777778,31.2819382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

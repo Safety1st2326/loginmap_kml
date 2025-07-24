@@ -1936,5 +1936,50 @@
       Address: 7340 W. Hwy 115, Andrews, Andrews, TX 79714]]></description>
         <Point><coordinates>-102.775007666667,32.1713354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH02102-B</name>
+        <description><![CDATA[Date: 7/24/25 1:43 PM
+      Site Name: Afton
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4174 Half Acre Road, Batavia, Clermont, OH 45103-3250]]></description>
+        <Point><coordinates>-84.0957913333333,39.0620694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20834-A</name>
+        <description><![CDATA[Date: 7/24/25 1:46 PM
+      Site Name: Highway 160 2 MO
+      AGL: 165
+      Tower Type: Monopole
+      Address: 425 W. Plainview Road Suite B, Springfield, Greene, MO 65810]]></description>
+        <Point><coordinates>-93.2983274444444,37.1179465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21407-A</name>
+        <description><![CDATA[Date: 7/24/25 1:46 PM
+      Site Name: Lufkin Downtown
+      AGL: 180
+      Tower Type: Self Support
+      Address: 424 EAST FRANK ST., LUFKIN, ANGELINA, TX 75901]]></description>
+        <Point><coordinates>-94.7241743333333,31.338458,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15789-A</name>
+        <description><![CDATA[Date: 7/24/25 1:49 PM
+      Site Name: Columbus 8 MS
+      AGL: 451
+      Tower Type: Guyed
+      Address: 5364 Military Rd., Columbus, Lowndes, MS 39705]]></description>
+        <Point><coordinates>-88.3730298888889,33.5539222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46205-A</name>
+        <description><![CDATA[Date: 7/24/25 1:49 PM
+      Site Name: Babcock-west
+      AGL: 300
+      Tower Type: Guyed
+      Address: 40501 Bermont Road, Punta Gorda, Charlotte, FL 33982]]></description>
+        <Point><coordinates>-81.7781993333333,26.9453024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

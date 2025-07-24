@@ -2143,5 +2143,50 @@
       Address: 3248 Isleta Blvd. SW, Albuquerque, Bernalillo, NM 87105]]></description>
         <Point><coordinates>-106.678221555556,35.029666,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA15888-A</name>
+        <description><![CDATA[Date: 7/24/25 2:41 PM
+      Site Name: Rincon Tower
+      AGL: 501
+      Tower Type: Guyed
+      Address: 390 Caroni Road, Rincon, Effingham, GA 31326]]></description>
+        <Point><coordinates>-81.1942274444445,32.2804882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21730-A</name>
+        <description><![CDATA[Date: 7/24/25 2:41 PM
+      Site Name: Cowboy Rigs
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2108 W. 450, Pryor, Mayes, OK 74361]]></description>
+        <Point><coordinates>-95.2940385555556,36.3655694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY12668-B</name>
+        <description><![CDATA[Date: 7/24/25 2:42 PM
+      Site Name: Erie Canal
+      AGL: 160
+      Tower Type: Monopole
+      Address: 103 Button Shores Road, Van Buren, Onondaga, NY 13027]]></description>
+        <Point><coordinates>-76.3958468888889,43.1552638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL21535-A</name>
+        <description><![CDATA[Date: 7/24/25 2:43 PM
+      Site Name: Bon Secour
+      AGL: 241
+      Tower Type: Guyed
+      Address: 6640 County Road 19, Foley, Baldwin, AL 36535]]></description>
+        <Point><coordinates>-87.7417174444444,30.3217212777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13093-A</name>
+        <description><![CDATA[Date: 7/24/25 2:49 PM
+      Site Name: Sharpsburg-Turin
+      AGL: 250
+      Tower Type: Guyed
+      Address: 61 George Revell Street, Turin, Coweta, GA 30289]]></description>
+        <Point><coordinates>-84.6376663333333,33.3288882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2566,5 +2566,14 @@
       Address: 412 Church Street, Lone Oak, Hunt, TX 75453]]></description>
         <Point><coordinates>-95.936333,32.9937774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA15762-B</name>
+        <description><![CDATA[Date: 7/24/25 6:39 PM
+      Site Name: Cedar Rapids IA
+      AGL: 100
+      Tower Type: Monopole
+      Address: 3215 Johnson Avenue NW, Cedar Rapids, Linn, IA 52405]]></description>
+        <Point><coordinates>-91.7149444444444,41.9738048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

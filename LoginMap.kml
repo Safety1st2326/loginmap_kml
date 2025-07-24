@@ -1810,5 +1810,32 @@
       Address: 4010 SE 15th St, Trenton, Gilchrist, FL 32693]]></description>
         <Point><coordinates>-82.7402718888889,29.7190854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/24/25 12:30 PM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/24/25 12:30 PM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46851-A</name>
+        <description><![CDATA[Date: 7/24/25 12:35 PM
+      Site Name: Atlas Feed And Grain
+      AGL: 189
+      Tower Type: Monopole
+      Address: 429 West Franklin Road, Clinton, Lenawee, MI 49236]]></description>
+        <Point><coordinates>-83.9775271111111,42.0702771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2476,5 +2476,14 @@
       Address: 520 West Union St, Ligonier, Noble, IN 46767]]></description>
         <Point><coordinates>-85.5956746666667,41.4620194444445,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM20860-A</name>
+        <description><![CDATA[Date: 7/24/25 4:57 PM
+      Site Name: Bernalillo
+      AGL: 127
+      Tower Type: Monopole
+      Address: 225 North Hill Road, Bernalillo, Sandoval, NM 87004]]></description>
+        <Point><coordinates>-106.533441333333,35.3201243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

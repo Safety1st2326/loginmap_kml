@@ -424,5 +424,59 @@
       Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
         <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00363-S</name>
+        <description><![CDATA[Date: 7/24/25 7:52 AM
+      Site Name: North Port Charlotte
+      AGL: 250
+      Tower Type: Self Support
+      Address: 470 Bamboo Drive, Port Charlotte, Charlotte, FL 33954]]></description>
+        <Point><coordinates>-82.1884441111111,27.023166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01952-B</name>
+        <description><![CDATA[Date: 7/24/25 7:52 AM
+      Site Name: West Furman 3 SC
+      AGL: 225
+      Tower Type: Self Support
+      Address: 1248 New McElhaney Rd., Travelers Rest, Greenville, SC 29690]]></description>
+        <Point><coordinates>-82.4782493333333,34.9485691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00363-S</name>
+        <description><![CDATA[Date: 7/24/25 7:52 AM
+      Site Name: North Port Charlotte
+      AGL: 250
+      Tower Type: Self Support
+      Address: 470 Bamboo Drive, Port Charlotte, Charlotte, FL 33954]]></description>
+        <Point><coordinates>-82.1884441111111,27.023166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13632-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 AM
+      Site Name: Immokalee II
+      AGL: 280
+      Tower Type: Self Support
+      Address: 19665 Immokalee Road, Immokalee, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.5698798888889,26.3674715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13632-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 AM
+      Site Name: Immokalee II
+      AGL: 280
+      Tower Type: Self Support
+      Address: 19665 Immokalee Road, Immokalee, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.5698798888889,26.3674715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

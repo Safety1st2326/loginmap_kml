@@ -1414,5 +1414,23 @@
       Address: 801 N. Good Latimer Expressway, Dallas, Dallas, TX 75204]]></description>
         <Point><coordinates>-96.7911871666667,32.7877841111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA05909-S</name>
+        <description><![CDATA[Date: 7/24/25 11:07 AM
+      Site Name: North Cumming
+      AGL: 198
+      Tower Type: Monopole
+      Address: 527 Canton Highway, Cumming, Forsyth, GA 30040-2003]]></description>
+        <Point><coordinates>-84.1524083333333,34.2220382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00402-B</name>
+        <description><![CDATA[Date: 7/24/25 11:25 AM
+      Site Name: Cedar Rock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 191 Hawk Ln., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.6406441111111,34.890133,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

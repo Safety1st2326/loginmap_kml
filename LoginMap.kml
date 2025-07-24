@@ -2044,5 +2044,32 @@
       Address: 164 Flat Creek Trail, Fayetteville, Fayette, GA 30214-4702]]></description>
         <Point><coordinates>-84.5437052222222,33.4471552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09077-A</name>
+        <description><![CDATA[Date: 7/24/25 2:18 PM
+      Site Name: Blf VA
+      AGL: 300
+      Tower Type: Guyed
+      Address: 163 Communications Road, Bluefield, Tazewell, VA 24605]]></description>
+        <Point><coordinates>-81.2697326666667,37.247033,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL16051-A</name>
+        <description><![CDATA[Date: 7/24/25 2:18 PM
+      Site Name: Brandy
+      AGL: 249
+      Tower Type: Guyed
+      Address: 25925 Hwy 189, Elba, Coffee/Elba, AL 36323]]></description>
+        <Point><coordinates>-86.1572027777778,31.5182076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL16051-A</name>
+        <description><![CDATA[Date: 7/24/25 2:18 PM
+      Site Name: Brandy
+      AGL: 249
+      Tower Type: Guyed
+      Address: 25925 Hwy 189, Elba, Coffee/Elba, AL 36323]]></description>
+        <Point><coordinates>-86.1572027777778,31.5182076666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

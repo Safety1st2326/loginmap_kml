@@ -2494,5 +2494,14 @@
       Address: 2408 Ingersoll Lane, Marion, Williamson, IL 62959]]></description>
         <Point><coordinates>-88.9604611111111,37.7373718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS47109-A</name>
+        <description><![CDATA[Date: 7/24/25 5:21 PM
+      Site Name: Meridian CC
+      AGL: 150
+      Tower Type: Monopole
+      Address: 5320 8th St Extension, Meridian, Lauderdale, MS 39307]]></description>
+        <Point><coordinates>-88.7327493333333,32.3648888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

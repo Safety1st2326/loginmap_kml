@@ -73,5 +73,68 @@
       Address: 40551 OLD HWY 45 SOUTH, HAMILTON, MONROE, MS 39746]]></description>
         <Point><coordinates>-88.4491163333333,33.7468774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10961-A</name>
+        <description><![CDATA[Date: 7/24/25 6:30 AM
+      Site Name: Bass
+      AGL: 251
+      Tower Type: Self Support
+      Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
+        <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13118-A</name>
+        <description><![CDATA[Date: 7/24/25 6:18 AM
+      Site Name: Pratt Whitney
+      AGL: 199
+      Tower Type: Monopole
+      Address: 8839 Macon Road, Midland, Muscogee, GA 31820]]></description>
+        <Point><coordinates>-84.8327215555556,32.5411941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA11914-B</name>
+        <description><![CDATA[Date: 7/24/25 6:19 AM
+      Site Name: Byron 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 224 Highway 49S, Byron, Peach, GA 31008]]></description>
+        <Point><coordinates>-83.7645555555556,32.6464996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/24/25 6:34 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/24/25 6:34 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21402-A</name>
+        <description><![CDATA[Date: 7/24/25 6:34 AM
+      Site Name: Crown Colony
+      AGL: 220
+      Tower Type: Self Support
+      Address: 4310 SOUTH FIRST ST., LUFKIN, ANGELINA, TX 75901]]></description>
+        <Point><coordinates>-94.7362774444444,31.2804965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40962-T</name>
+        <description><![CDATA[Date: 7/24/25 6:37 AM
+      Site Name: Picketts Mill
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6642 Hiram Acworth Hwy, Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.7405274444445,33.9819437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

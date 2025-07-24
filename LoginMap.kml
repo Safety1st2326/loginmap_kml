@@ -136,5 +136,14 @@
       Address: 6642 Hiram Acworth Hwy, Dallas, Paulding, GA 30157]]></description>
         <Point><coordinates>-84.7405274444445,33.9819437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13114-A</name>
+        <description><![CDATA[Date: 7/24/25 6:46 AM
+      Site Name: Parceispe
+      AGL: 198
+      Tower Type: Monopole
+      Address: 7501 Midland Rd., Midland, Muscogee, GA 31820]]></description>
+        <Point><coordinates>-84.781266,32.5577027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

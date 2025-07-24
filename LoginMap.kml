@@ -1234,5 +1234,104 @@
       Address: 590 Sarensen Rd., Gorham, Jackson, IL 62940]]></description>
         <Point><coordinates>-89.4546083333333,37.7618444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14015-B</name>
+        <description><![CDATA[Date: 7/24/25 10:40 AM
+      Site Name: Eureka 7 WI
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4158 County Road K, Omro, Winnebago, WI 54963]]></description>
+        <Point><coordinates>-88.8444302222222,44.043433,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/24/25 10:40 AM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14152-A</name>
+        <description><![CDATA[Date: 7/24/25 10:43 AM
+      Site Name: Hamilton 8 GA
+      AGL: 298
+      Tower Type: Self Support
+      Address: 11343 US Highway 27, Hamilton, Harris, GA 31811]]></description>
+        <Point><coordinates>-84.8726604444444,32.7428246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14985-A</name>
+        <description><![CDATA[Date: 7/24/25 10:43 AM
+      Site Name: Hawkins 2 SC
+      AGL: 189
+      Tower Type: Monopole
+      Address: 624 Robert P. Jeanes Road, Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.6152222222222,34.8666937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA21091-A</name>
+        <description><![CDATA[Date: 7/24/25 10:38 AM
+      Site Name: Grapeview
+      AGL: 150
+      Tower Type: Monopole
+      Address: 291 East Twilight Way, Allyn, Mason, WA 98584]]></description>
+        <Point><coordinates>-122.880552111111,47.329741,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA21091-A</name>
+        <description><![CDATA[Date: 7/24/25 10:38 AM
+      Site Name: Grapeview
+      AGL: 150
+      Tower Type: Monopole
+      Address: 291 East Twilight Way, Allyn, Mason, WA 98584]]></description>
+        <Point><coordinates>-122.880552111111,47.329741,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA10742-A</name>
+        <description><![CDATA[Date: 7/24/25 10:38 AM
+      Site Name: Ketron
+      AGL: 251
+      Tower Type: Self Support
+      Address: 210 Huckleberry Road, Lebanon, Russell, VA 24266]]></description>
+        <Point><coordinates>-82.0552111111111,36.9098055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13878-A</name>
+        <description><![CDATA[Date: 7/24/25 10:38 AM
+      Site Name: Circleville 2 TX
+      AGL: 197
+      Tower Type: Guyed
+      Address: 3140 CR, 409, Taylor, Williamson, TX 76574]]></description>
+        <Point><coordinates>-97.4024305555556,30.6006027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 7/24/25 10:40 AM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA17379-A</name>
+        <description><![CDATA[Date: 7/24/25 10:34 AM
+      Site Name: Egger
+      AGL: 185
+      Tower Type: Self Support
+      Address: 240 Stone Road, Franklin, Venango, PA 16323]]></description>
+        <Point><coordinates>-79.8684576666667,41.4042083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12578-A</name>
+        <description><![CDATA[Date: 7/24/25 10:49 AM
+      Site Name: Emmetsburg South
+      AGL: 300
+      Tower Type: Guyed
+      Address: 4260 Shea Road, Emmetsburg, Palo Alto, IA 50536]]></description>
+        <Point><coordinates>-94.6749021111111,43.0323826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1090,5 +1090,50 @@
       Address: 2346 Carrell Road, Lufkin, Angelina, TX 75901]]></description>
         <Point><coordinates>-94.6679354444445,31.3064111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL29606-S</name>
+        <description><![CDATA[Date: 7/24/25 9:46 AM
+      Site Name: Babcock Ranch-Sports Complex
+      AGL: 199
+      Tower Type: Monopole
+      Address: 17100 Palmetto Pass Lane, Punta Gorda, Charlotte, FL 33982]]></description>
+        <Point><coordinates>-81.7350441111111,26.7817076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47520-A</name>
+        <description><![CDATA[Date: 7/24/25 9:46 AM
+      Site Name: Somerset 3 OH
+      AGL: 300
+      Tower Type: Self Support
+      Address: 6964 State Route 383 NE, Somerset, Perry, OH 43783]]></description>
+        <Point><coordinates>-82.281866,39.7949746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA07705-B</name>
+        <description><![CDATA[Date: 7/24/25 10:02 AM
+      Site Name: McDowells Corners
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1706 West Main Street Extension, Grove City, Mercer, PA 16127]]></description>
+        <Point><coordinates>-80.1250354444444,41.173691,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45146-A</name>
+        <description><![CDATA[Date: 7/24/25 10:04 AM
+      Site Name: South Davis
+      AGL: 65
+      Tower Type: Monopole
+      Address: 17-F Aboretum Drive, Davis, Yolo, CA 95616]]></description>
+        <Point><coordinates>-121.742180222222,38.5388468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/24/25 10:04 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

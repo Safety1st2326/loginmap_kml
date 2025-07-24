@@ -613,5 +613,23 @@
       Address: 5957 Dew Drop Landing, Evansville, Randolph, IL 62242]]></description>
         <Point><coordinates>-89.9473135555556,38.0650138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH40204-A</name>
+        <description><![CDATA[Date: 7/24/25 8:34 AM
+      Site Name: Dtwn Bucyrus - Triple M Partnership
+      AGL: 230
+      Tower Type: Self Support
+      Address: 1115 W Mansfield St, Bucyrus, Crawford, OH 44820]]></description>
+        <Point><coordinates>-82.9927107777778,40.8107638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10791-A</name>
+        <description><![CDATA[Date: 7/24/25 8:35 AM
+      Site Name: Carters Lake
+      AGL: 302
+      Tower Type: Self Support
+      Address: 6058 Highway 382 West, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.5887191111111,34.6176465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

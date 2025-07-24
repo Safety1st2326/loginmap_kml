@@ -1837,5 +1837,14 @@
       Address: 429 West Franklin Road, Clinton, Lenawee, MI 49236]]></description>
         <Point><coordinates>-83.9775271111111,42.0702771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA16694-A</name>
+        <description><![CDATA[Date: 7/24/25 12:43 PM
+      Site Name: Russell 9
+      AGL: 271
+      Tower Type: Self Support
+      Address: 35 Belfast School Rd, Cedar Bluff, Russell, VA 24609]]></description>
+        <Point><coordinates>-81.8689771111111,36.9699576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

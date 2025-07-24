@@ -19,5 +19,23 @@
       Address: 85 WHITE MOUNTAIN DRIVE, BISHOP, INYO, CA 93514]]></description>
         <Point><coordinates>-118.186113555556,37.4119166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV20224-A</name>
+        <description><![CDATA[Date: 7/24/25 12:12 AM
+      Site Name: Painted Rock
+      AGL: 150
+      Tower Type: Monopole
+      Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
+        <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20224-A</name>
+        <description><![CDATA[Date: 7/24/25 12:13 AM
+      Site Name: Painted Rock
+      AGL: 150
+      Tower Type: Monopole
+      Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
+        <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -55,5 +55,14 @@
       Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
         <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10961-A</name>
+        <description><![CDATA[Date: 7/24/25 6:13 AM
+      Site Name: Bass
+      AGL: 251
+      Tower Type: Self Support
+      Address: 4741 SW Birley Avenue, Lake City, Columbia, FL 32024]]></description>
+        <Point><coordinates>-82.7329937777778,30.1260854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

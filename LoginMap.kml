@@ -2530,5 +2530,14 @@
       Address: 3160 Riner Road, Christiansburg, Montgomery, VA 24073]]></description>
         <Point><coordinates>-80.4473857777778,37.0860135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45660-A</name>
+        <description><![CDATA[Date: 7/24/25 5:48 PM
+      Site Name: Little Mountain
+      AGL: 75
+      Tower Type: Tree
+      Address: 1311 W. Kendall Drive, San Bernardino, San Bernardino, CA 92407]]></description>
+        <Point><coordinates>-117.314191666667,34.1677687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

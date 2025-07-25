@@ -847,5 +847,104 @@
       Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
         <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 10:14 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI15215-B</name>
+        <description><![CDATA[Date: 7/25/25 10:15 AM
+      Site Name: Wild Rose WI
+      AGL: 250
+      Tower Type: Self Support
+      Address: W7540 County Road O, Wild Rose, Waushara, WI 54984]]></description>
+        <Point><coordinates>-89.2581444444444,44.1581166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15887-A</name>
+        <description><![CDATA[Date: 7/25/25 10:15 AM
+      Site Name: Beneva
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1111 Beneva Road, Sarasota, Sarasota, FL 34232]]></description>
+        <Point><coordinates>-82.4958088333333,27.3243007222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 10:15 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08813-A</name>
+        <description><![CDATA[Date: 7/25/25 10:10 AM
+      Site Name: Independence
+      AGL: 301
+      Tower Type: Guyed
+      Address: 53343 W. Fontanna Road, Independence, Tangipahoa, LA 70443-4531]]></description>
+        <Point><coordinates>-90.531041,30.6299132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 10:10 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21397-A</name>
+        <description><![CDATA[Date: 7/25/25 10:10 AM
+      Site Name: Nacogdoches DT
+      AGL: 209
+      Tower Type: Self Support
+      Address: 209 Muller Street, Nacogdoches, NACOGDOCHES, TX 75961]]></description>
+        <Point><coordinates>-94.6552583333333,31.6092083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40680-T</name>
+        <description><![CDATA[Date: 7/25/25 10:16 AM
+      Site Name: Northpark University Park
+      AGL: 75
+      Tower Type: Monopole Tree
+      Address: 5287 N University Pkwy, San Bernardino, San Bernardino, CA 92407]]></description>
+        <Point><coordinates>-117.326041,34.1776326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ07874-B</name>
+        <description><![CDATA[Date: 7/25/25 10:19 AM
+      Site Name: Sparta Township 3 NJ
+      AGL: 79
+      Tower Type: Monopole Tree
+      Address: 386 Lafayette Road, Sparta Township, Sussex, NJ 07871]]></description>
+        <Point><coordinates>-74.6562666666667,41.0683271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA16536-S</name>
+        <description><![CDATA[Date: 7/25/25 10:19 AM
+      Site Name: Ashford 3 WA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 33904 SR 706, Ashford, Pierce, WA 98304]]></description>
+        <Point><coordinates>-121.984638555556,46.75675,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL21305-A</name>
+        <description><![CDATA[Date: 7/25/25 10:19 AM
+      Site Name: Lenon
+      AGL: 250
+      Tower Type: Self Support
+      Address: 880 Gore Canyon Road, Goreville, Johnson, IL 62939]]></description>
+        <Point><coordinates>-88.9480552222222,37.5394441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

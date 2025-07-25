@@ -1036,5 +1036,14 @@
       Address: 3784 Cape Haze Drive, Rotonda West, Charlotte, FL 33947]]></description>
         <Point><coordinates>-82.2917524444444,26.8700465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46362-A</name>
+        <description><![CDATA[Date: 7/25/25 10:51 AM
+      Site Name: Angelo
+      AGL: 146
+      Tower Type: Monopole
+      Address: 2521 W. Hwy 16, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.8735826666667,33.4419218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1441,5 +1441,14 @@
       Address: 10507 Holmes Road, Kansas City, Jackson (Kansas City), MO 64131]]></description>
         <Point><coordinates>-94.573291,38.9380607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13499-A</name>
+        <description><![CDATA[Date: 7/25/25 2:37 PM
+      Site Name: Timpson - North
+      AGL: 331
+      Tower Type: Guyed
+      Address: 1152 Hwy 59 North, Timpson, Shelby, TX 75975]]></description>
+        <Point><coordinates>-94.3730548888889,31.9097222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

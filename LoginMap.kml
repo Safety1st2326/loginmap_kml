@@ -1558,5 +1558,14 @@
       Address: 4908 South Main Street, Rockford, Winnebago, IL 61102]]></description>
         <Point><coordinates>-89.1076916666667,42.2099055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ME23029-A</name>
+        <description><![CDATA[Date: 7/25/25 4:10 PM
+      Site Name: Dallas Plantation
+      AGL: 190
+      Tower Type: Self Support
+      Address: Dallas Hill Road, Dallas Plantation, Franklin, ME 04970]]></description>
+        <Point><coordinates>-70.6034722222222,44.9658055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

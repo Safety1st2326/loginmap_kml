@@ -1468,5 +1468,14 @@
       Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
         <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45137-A</name>
+        <description><![CDATA[Date: 7/25/25 2:51 PM
+      Site Name: Corwin Park
+      AGL: 83
+      Tower Type: Monopine
+      Address: 18575 Corwin Rd, Apple Valley, San Bernardino, CA 92307]]></description>
+        <Point><coordinates>-117.258222222222,34.5409718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

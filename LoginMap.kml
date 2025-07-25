@@ -1324,5 +1324,23 @@
       Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
         <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09906-A</name>
+        <description><![CDATA[Date: 7/25/25 12:51 PM
+      Site Name: Moofarm
+      AGL: 148
+      Tower Type: Monopole
+      Address: 881 Millard Farmer Road, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.8172215555555,33.3351191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07251-A</name>
+        <description><![CDATA[Date: 7/25/25 12:58 PM
+      Site Name: N Mayfield
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1068 St. Rt. 45N, Mayfield, GRAVES, KY 42066]]></description>
+        <Point><coordinates>-88.6451441111111,36.7644138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1099,5 +1099,32 @@
       Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
         <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16794-B</name>
+        <description><![CDATA[Date: 7/25/25 11:24 AM
+      Site Name: Goreville DT
+      AGL: 150
+      Tower Type: Monopole
+      Address: Hubbard Street and Jones Street, Goreville, Johnson, IL 62939]]></description>
+        <Point><coordinates>-88.9705104444444,37.5541138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14151-A</name>
+        <description><![CDATA[Date: 7/25/25 11:24 AM
+      Site Name: Euharlee
+      AGL: 296
+      Tower Type: Guyed
+      Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
+        <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08797-A</name>
+        <description><![CDATA[Date: 7/25/25 11:31 AM
+      Site Name: Fairmount 2 IN
+      AGL: 251
+      Tower Type: Self Support
+      Address: 8719 S E 00 W, Fairmount, Grant, IN 46928]]></description>
+        <Point><coordinates>-85.6715048888889,40.426491,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

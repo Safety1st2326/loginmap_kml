@@ -1396,5 +1396,23 @@
       Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
         <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06382-A</name>
+        <description><![CDATA[Date: 7/25/25 1:40 PM
+      Site Name: Brooksville
+      AGL: 280
+      Tower Type: Guyed
+      Address: 14311 E. Main St., Brooksville, Noxubee, MS 39739]]></description>
+        <Point><coordinates>-88.5750771111111,33.2363441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12907-A</name>
+        <description><![CDATA[Date: 7/25/25 1:51 PM
+      Site Name: Valley Wide Park
+      AGL: 77
+      Tower Type: Light Pole
+      Address: 901 W Esplanade Avenue, San Jacinto, Riverside, CA 92582]]></description>
+        <Point><coordinates>-116.977466,33.7750048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

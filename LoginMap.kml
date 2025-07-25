@@ -694,5 +694,50 @@
       Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
         <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/25/25 9:23 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:24 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00363-S</name>
+        <description><![CDATA[Date: 7/25/25 9:25 AM
+      Site Name: North Port Charlotte
+      AGL: 250
+      Tower Type: Self Support
+      Address: 470 Bamboo Drive, Port Charlotte, Charlotte, FL 33954]]></description>
+        <Point><coordinates>-82.1884441111111,27.023166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00363-S</name>
+        <description><![CDATA[Date: 7/25/25 9:25 AM
+      Site Name: North Port Charlotte
+      AGL: 250
+      Tower Type: Self Support
+      Address: 470 Bamboo Drive, Port Charlotte, Charlotte, FL 33954]]></description>
+        <Point><coordinates>-82.1884441111111,27.023166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41133-T</name>
+        <description><![CDATA[Date: 7/25/25 9:28 AM
+      Site Name: LB Mold Inc
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1031 South Main Street, Edinburgh, Bartholomew, IN 46124]]></description>
+        <Point><coordinates>-85.9668743333333,39.3416885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

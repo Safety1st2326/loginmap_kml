@@ -820,5 +820,32 @@
       Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
         <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK14828-S</name>
+        <description><![CDATA[Date: 7/25/25 9:57 AM
+      Site Name: Beaver 5 OK
+      AGL: 230
+      Tower Type: Self Support
+      Address: 407 Drive 7 th, Beaver, Beaver, OK 73932]]></description>
+        <Point><coordinates>-100.513308333333,36.8116555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17656-A</name>
+        <description><![CDATA[Date: 7/25/25 9:57 AM
+      Site Name: Headquarters
+      AGL: 251
+      Tower Type: Self Support
+      Address: W7695 - 22nd Street W, Necedah, Juneau, WI 54646]]></description>
+        <Point><coordinates>-90.1519463888889,44.0200404444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:57 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

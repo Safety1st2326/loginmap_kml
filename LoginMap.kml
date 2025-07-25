@@ -442,5 +442,68 @@
       Address: 12900 US Highway 27 South, Waynesburg, Lincoln, KY 40489]]></description>
         <Point><coordinates>-84.6594027777778,37.3529305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH17141-A</name>
+        <description><![CDATA[Date: 7/25/25 8:41 AM
+      Site Name: N Hamilton Twp
+      AGL: 181
+      Tower Type: Monopole
+      Address: 4514 Lockbourne Rd., Columbus, Franklin, OH 43207]]></description>
+        <Point><coordinates>-82.9689687777778,39.8717465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA23545-A</name>
+        <description><![CDATA[Date: 7/25/25 8:41 AM
+      Site Name: Graham Road ES
+      AGL: 131
+      Tower Type: Self Support
+      Address: 3036 Graham Road, Falls Church, Fairfax, VA 22042]]></description>
+        <Point><coordinates>-77.1958496666667,38.8672937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46350-A</name>
+        <description><![CDATA[Date: 7/25/25 8:28 AM
+      Site Name: Old Hwy 34
+      AGL: 149
+      Tower Type: Monopole
+      Address: 83 Almajack Rd, Shenandoah Indust Park, Newnan, Coweta, GA 30264]]></description>
+        <Point><coordinates>-84.743658,33.4154777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12609-A</name>
+        <description><![CDATA[Date: 7/25/25 8:34 AM
+      Site Name: Spirit Lake Downtown
+      AGL: 169
+      Tower Type: Monopole
+      Address: 1304 20th Street, Spirit Lake, Dickinson, IA 51360]]></description>
+        <Point><coordinates>-95.1082555555555,43.4216521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ21252-A</name>
+        <description><![CDATA[Date: 7/25/25 8:46 AM
+      Site Name: Bahia Hermosa Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 2700 JAMAICA, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.301555555556,34.4638055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14348-A</name>
+        <description><![CDATA[Date: 7/25/25 8:48 AM
+      Site Name: Ashby 2 AL
+      AGL: 401
+      Tower Type: Guyed
+      Address: 14971 Highway 139, Ashby, Bibb, AL 35035]]></description>
+        <Point><coordinates>-86.9155944444445,32.9809743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12426-A</name>
+        <description><![CDATA[Date: 7/25/25 8:34 AM
+      Site Name: St James Church
+      AGL: 110
+      Tower Type: Flagpole
+      Address: 1365 Viscaya Drive, Port Charlotte, Charlotte, FL 33952]]></description>
+        <Point><coordinates>-82.1054138888889,27.0076527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

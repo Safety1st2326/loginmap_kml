@@ -2638,5 +2638,23 @@
       Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
         <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/24/25 9:07 PM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR21826-A</name>
+        <description><![CDATA[Date: 7/24/25 8:54 PM
+      Site Name: Prairie Grove 2 AR
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1170 Old Apple Hill Rd., Prairie Grove, Washington, AR 72753]]></description>
+        <Point><coordinates>-94.3448802222222,35.9552583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

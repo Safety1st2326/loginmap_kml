@@ -82,5 +82,23 @@
       Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
         <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13870-A</name>
+        <description><![CDATA[Date: 7/25/25 6:50 AM
+      Site Name: Ardis Heights
+      AGL: 200
+      Tower Type: Self Support
+      Address: 623 Forrester, Greenville, Hunt, TX 75401]]></description>
+        <Point><coordinates>-96.069116,33.1402746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10398-A</name>
+        <description><![CDATA[Date: 7/25/25 6:57 AM
+      Site Name: Coldwater 3 MS
+      AGL: 296
+      Tower Type: Guyed
+      Address: 10151 CR 1127, Philadelphia, Neshoba, MS 39350]]></description>
+        <Point><coordinates>-89.2228437777778,32.7043861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

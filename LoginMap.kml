@@ -1126,5 +1126,59 @@
       Address: 8719 S E 00 W, Fairmount, Grant, IN 46928]]></description>
         <Point><coordinates>-85.6715048888889,40.426491,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI13245-A</name>
+        <description><![CDATA[Date: 7/25/25 11:48 AM
+      Site Name: Suicide-Negaunee
+      AGL: 226
+      Tower Type: Guyed
+      Address: 650 Cliffs Dr., Negaunee, Marquette, MI 49866]]></description>
+        <Point><coordinates>-87.6269437777778,46.4799993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/25/25 11:49 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47666-A</name>
+        <description><![CDATA[Date: 7/25/25 11:39 AM
+      Site Name: Route 443
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
+        <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL17937-A</name>
+        <description><![CDATA[Date: 7/25/25 11:39 AM
+      Site Name: Hargrove
+      AGL: 120
+      Tower Type: Monopine
+      Address: 2112 Hargrove Road East, Tuscaloosa, Tuscaloosa, AL 35405]]></description>
+        <Point><coordinates>-87.5064194444444,33.1822326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/25/25 11:39 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 75
+      Tower Type: Slimline Monopole
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332235444444,38.0325687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40649-T</name>
+        <description><![CDATA[Date: 7/25/25 11:39 AM
+      Site Name: SR583 Moose Lodge 391
+      AGL: 70
+      Tower Type: Monopine
+      Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
+        <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

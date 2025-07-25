@@ -946,5 +946,32 @@
       Address: 880 Gore Canyon Road, Goreville, Johnson, IL 62939]]></description>
         <Point><coordinates>-88.9480552222222,37.5394441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/25/25 10:07 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18068-A</name>
+        <description><![CDATA[Date: 7/25/25 10:07 AM
+      Site Name: Rotonda East
+      AGL: 201
+      Tower Type: Self Support
+      Address: 12820 Gulfstream Blvd, Rotonda, Charlotte, FL 33981]]></description>
+        <Point><coordinates>-82.2379774444444,26.9293354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02619-A</name>
+        <description><![CDATA[Date: 7/25/25 10:25 AM
+      Site Name: Plant Yates
+      AGL: 404
+      Tower Type: Guyed
+      Address: 708 Dyer Road, Newnan, Coweta, GA 30263-3720]]></description>
+        <Point><coordinates>-84.8932246666667,33.4631194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

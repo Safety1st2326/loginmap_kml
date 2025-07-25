@@ -2593,5 +2593,14 @@
       Address: 2515 Viebahn Street, Manitowoc, MANITOWOC, WI 54220]]></description>
         <Point><coordinates>-87.6793854444444,44.0639972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK05110-A</name>
+        <description><![CDATA[Date: 7/24/25 6:54 PM
+      Site Name: Muldrow OK-Knight-Butcher
+      AGL: 300
+      Tower Type: Self Support
+      Address: 509 SW 10th St., Muldrow, Sequoyah, OK 74948]]></description>
+        <Point><coordinates>-94.6041388888889,35.402025,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

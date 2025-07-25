@@ -604,5 +604,95 @@
       Address: 96 Harris Lane, Jamestown, Russell, KY 42629]]></description>
         <Point><coordinates>-85.0674965555556,36.987483,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA07433-A</name>
+        <description><![CDATA[Date: 7/25/25 9:10 AM
+      Site Name: Bald Knob 2 VA
+      AGL: 66
+      Tower Type: Guyed
+      Address: 200 Bald Nob Tower Road, Town of Pembroke, Giles, VA 24136]]></description>
+        <Point><coordinates>-80.5369802222222,37.3503333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 7/25/25 9:10 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC14877-A</name>
+        <description><![CDATA[Date: 7/25/25 9:13 AM
+      Site Name: Tanner Plantation
+      AGL: 170
+      Tower Type: Monopole
+      Address: 7000 Channel Park Drive, Hanahan, Berkeley, SC 29410]]></description>
+        <Point><coordinates>-80.0036333333333,32.9308632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14897-B</name>
+        <description><![CDATA[Date: 7/25/25 8:55 AM
+      Site Name: Steven's Point 3 WI
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
+        <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11238-A</name>
+        <description><![CDATA[Date: 7/25/25 9:04 AM
+      Site Name: Oak Grove 5 AL
+      AGL: 207
+      Tower Type: Self Support
+      Address: 640 Grover Road, Hartford, Geneva, AL 36344]]></description>
+        <Point><coordinates>-85.7900552222222,31.087333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40958-T</name>
+        <description><![CDATA[Date: 7/25/25 9:16 AM
+      Site Name: North Newnan
+      AGL: 150
+      Tower Type: Monopole
+      Address: 35 Orren's Pond Road, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.8013916666667,33.4300798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17605-A</name>
+        <description><![CDATA[Date: 7/25/25 9:16 AM
+      Site Name: Kid Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
+        <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL16058-A</name>
+        <description><![CDATA[Date: 7/25/25 9:04 AM
+      Site Name: Lapidus
+      AGL: 300
+      Tower Type: Guyed
+      Address: Centreville, Bibb, Bibb, AL 35042]]></description>
+        <Point><coordinates>-87.11395,32.862175,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08722-A</name>
+        <description><![CDATA[Date: 7/25/25 9:04 AM
+      Site Name: Valparaiso
+      AGL: 177
+      Tower Type: Self Support
+      Address: 2055 Heavilin Rd., Valparaiso, Porter, IN 46385-7333]]></description>
+        <Point><coordinates>-87.0751798888889,41.4492413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:13 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

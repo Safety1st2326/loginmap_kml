@@ -739,5 +739,14 @@
       Address: 1031 South Main Street, Edinburgh, Bartholomew, IN 46124]]></description>
         <Point><coordinates>-85.9668743333333,39.3416885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:30 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

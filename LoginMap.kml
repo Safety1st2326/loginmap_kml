@@ -991,5 +991,50 @@
       Address: 15520 Cabrito Road, Van Nuys, Los Angeles, CA 91406]]></description>
         <Point><coordinates>-118.471068333333,34.216297,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM47265-A</name>
+        <description><![CDATA[Date: 7/25/25 10:31 AM
+      Site Name: Moriarty - Schwebach Raw Land
+      AGL: 199
+      Tower Type: Self Support
+      Address: 901 W. Martinez Road, Moriarty, Torrance, NM 87035]]></description>
+        <Point><coordinates>-106.059055555556,35.0039166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17665-A</name>
+        <description><![CDATA[Date: 7/25/25 10:39 AM
+      Site Name: Mason
+      AGL: 302
+      Tower Type: Guyed
+      Address: 58617 Wilson Road, Mason, Bayfield, WI 54856]]></description>
+        <Point><coordinates>-91.0571111111111,46.4227354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT11215-A</name>
+        <description><![CDATA[Date: 7/25/25 10:46 AM
+      Site Name: Mt Cobb
+      AGL: 76
+      Tower Type: Monopole
+      Address: 1233 Cobb Hill Road, Moretown, Washington, VT 05660]]></description>
+        <Point><coordinates>-72.737833,44.3046666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18069-A</name>
+        <description><![CDATA[Date: 7/25/25 10:46 AM
+      Site Name: Rotonda SW
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3784 Cape Haze Drive, Rotonda West, Charlotte, FL 33947]]></description>
+        <Point><coordinates>-82.2917524444444,26.8700465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18069-A</name>
+        <description><![CDATA[Date: 7/25/25 10:46 AM
+      Site Name: Rotonda SW
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3784 Cape Haze Drive, Rotonda West, Charlotte, FL 33947]]></description>
+        <Point><coordinates>-82.2917524444444,26.8700465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

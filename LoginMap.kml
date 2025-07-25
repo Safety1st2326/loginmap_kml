@@ -1414,5 +1414,14 @@
       Address: 901 W Esplanade Avenue, San Jacinto, Riverside, CA 92582]]></description>
         <Point><coordinates>-116.977466,33.7750048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR40512-T</name>
+        <description><![CDATA[Date: 7/25/25 2:07 PM
+      Site Name: 901 Building
+      AGL: 160
+      Tower Type: Monopole
+      Address: 901 N 1st Street, Jacksonville, Pulaski, AR 72076]]></description>
+        <Point><coordinates>-92.1103115,34.8761224166667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

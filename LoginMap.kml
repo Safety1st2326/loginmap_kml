@@ -1225,5 +1225,23 @@
       Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
         <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/25/25 12:07 PM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40903-T</name>
+        <description><![CDATA[Date: 7/25/25 12:16 PM
+      Site Name: Rockledge Country Club
+      AGL: 130
+      Tower Type: Stealth
+      Address: 1591 South Fiske Blvd, Rockledge, Brevard, FL 32955]]></description>
+        <Point><coordinates>-80.7488024444445,28.3331937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

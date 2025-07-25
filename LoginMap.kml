@@ -325,5 +325,95 @@
       Address: 565 Geoghagan Road, Many, Sabine, LA 71449]]></description>
         <Point><coordinates>-93.3969135555555,31.6084972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/25/25 8:16 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN23599-A</name>
+        <description><![CDATA[Date: 7/25/25 8:11 AM
+      Site Name: LaPorte 4 IN
+      AGL: 326
+      Tower Type: Guyed
+      Address: 4268 N 525 W, Center Township, LaPorte, IN 46350]]></description>
+        <Point><coordinates>-86.8038194444444,41.6693243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN23599-A</name>
+        <description><![CDATA[Date: 7/25/25 8:11 AM
+      Site Name: LaPorte 4 IN
+      AGL: 191
+      Tower Type: Guyed
+      Address: 4268 N 525 W, Center Township, LaPorte, IN 46350]]></description>
+        <Point><coordinates>-86.8038138888889,41.6692576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13539-A</name>
+        <description><![CDATA[Date: 7/25/25 8:07 AM
+      Site Name: Sisterdale
+      AGL: 348
+      Tower Type: Guyed
+      Address: 1121 FM 473, Boerne, Kendall, TX 78006]]></description>
+        <Point><coordinates>-98.7323048888889,29.9770271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20655-A</name>
+        <description><![CDATA[Date: 7/25/25 8:09 AM
+      Site Name: 57 Junction
+      AGL: 240
+      Tower Type: Self Support
+      Address: 10271 Day Road, Marion, Williamson, IL 62959]]></description>
+        <Point><coordinates>-88.9895218888889,37.6144694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN01603-B</name>
+        <description><![CDATA[Date: 7/25/25 8:09 AM
+      Site Name: Broad Street
+      AGL: 148
+      Tower Type: Monopole
+      Address: 1400 S Broad Street, Griffith, Lake, IN 46319-3212]]></description>
+        <Point><coordinates>-87.4297576666667,41.5005916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08636-A</name>
+        <description><![CDATA[Date: 7/25/25 8:22 AM
+      Site Name: Midlothian
+      AGL: 350
+      Tower Type: Guyed
+      Address: 1092 Mt. Zion Road, Midlothian, Ellis, TX 76065]]></description>
+        <Point><coordinates>-96.9852218888889,32.4583333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05109-A</name>
+        <description><![CDATA[Date: 7/25/25 8:22 AM
+      Site Name: Yellow Dog
+      AGL: 250
+      Tower Type: Self Support
+      Address: 16458 Hwy 4 East, Senatobia, Tate, MS 38668-6549]]></description>
+        <Point><coordinates>-89.9182604444445,34.611225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM13334-A</name>
+        <description><![CDATA[Date: 7/25/25 8:10 AM
+      Site Name: Albuquerque 3 NM
+      AGL: 197
+      Tower Type: Guyed
+      Address: 101 Radio Lane NW, Albuquerque, Bernalillo, NM 87110]]></description>
+        <Point><coordinates>-106.613868611111,35.183438,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/25/25 8:24 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1216,5 +1216,14 @@
       Address: 1200 Old Waxahachie Road , Waxahachie, Ellis, TX 75119]]></description>
         <Point><coordinates>-96.7255548888889,32.3115055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/25/25 12:07 PM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1423,5 +1423,23 @@
       Address: 901 N 1st Street, Jacksonville, Pulaski, AR 72076]]></description>
         <Point><coordinates>-92.1103115,34.8761224166667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL46440-A</name>
+        <description><![CDATA[Date: 7/25/25 2:22 PM
+      Site Name: Follis
+      AGL: 275
+      Tower Type: Self Support
+      Address: State Route 146 West, Jonesboro, Union, IL 62952]]></description>
+        <Point><coordinates>-89.3932663333333,37.4490607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO15937-A</name>
+        <description><![CDATA[Date: 7/25/25 2:22 PM
+      Site Name: Mt Moriah
+      AGL: 150
+      Tower Type: Monopole
+      Address: 10507 Holmes Road, Kansas City, Jackson (Kansas City), MO 64131]]></description>
+        <Point><coordinates>-94.573291,38.9380607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

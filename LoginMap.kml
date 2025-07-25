@@ -1315,5 +1315,14 @@
       Address: 400 Baker Street, Jonesboro, Union, IL 62952]]></description>
         <Point><coordinates>-89.2587944444444,37.4518138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/25/25 12:48 PM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

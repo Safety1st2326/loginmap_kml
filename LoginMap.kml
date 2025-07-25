@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>TX48048-A</name>
+        <description><![CDATA[Date: 7/25/25 6:16 AM
+      Site Name: Public Storage - Gulf
+      AGL: 103
+      Tower Type: Monopole
+      Address: 8430 Gulf Freeway, Houston, Harris, TX 77061]]></description>
+        <Point><coordinates>-95.2665722222222,29.6734993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40087-A</name>
+        <description><![CDATA[Date: 7/25/25 6:13 AM
+      Site Name: Bexley
+      AGL: 142
+      Tower Type: Monopole
+      Address: 414 Shack Hunter Rd., Senoia, Coweta, GA 30276]]></description>
+        <Point><coordinates>-84.6775826666667,33.291083,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

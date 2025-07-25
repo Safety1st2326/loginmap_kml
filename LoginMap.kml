@@ -1243,5 +1243,41 @@
       Address: 1591 South Fiske Blvd, Rockledge, Brevard, FL 32955]]></description>
         <Point><coordinates>-80.7488024444445,28.3331937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40687-T</name>
+        <description><![CDATA[Date: 7/25/25 12:21 PM
+      Site Name: American Dock Box
+      AGL: 69
+      Tower Type: Monopole Tree
+      Address: 19940 Hansen Ave., Nuevo, Riverside, CA 92567]]></description>
+        <Point><coordinates>-117.115202777778,33.8339663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL41050-T</name>
+        <description><![CDATA[Date: 7/25/25 12:10 PM
+      Site Name: Lou Von Field
+      AGL: 124
+      Tower Type: Monopole
+      Address: 21961 S. River Road, Joliet, Will, IL 60434]]></description>
+        <Point><coordinates>-88.2161111111111,41.4852774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO08966-A</name>
+        <description><![CDATA[Date: 7/25/25 12:27 PM
+      Site Name: Peculiar
+      AGL: 152
+      Tower Type: Monopole
+      Address: 12707 E. 221st Street, Peculiar, Cass, MO 64078]]></description>
+        <Point><coordinates>-94.4494385555556,38.7208937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 7/25/25 12:27 PM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

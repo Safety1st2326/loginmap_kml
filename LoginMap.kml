@@ -505,5 +505,68 @@
       Address: 1365 Viscaya Drive, Port Charlotte, Charlotte, FL 33952]]></description>
         <Point><coordinates>-82.1054138888889,27.0076527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21400-A</name>
+        <description><![CDATA[Date: 7/25/25 8:55 AM
+      Site Name: Park
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1222 County Road 220, Nacogdoches, Nacogdoches, TX 75961]]></description>
+        <Point><coordinates>-94.6106916666667,31.6115194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08722-A</name>
+        <description><![CDATA[Date: 7/25/25 8:55 AM
+      Site Name: Valparaiso
+      AGL: 177
+      Tower Type: Self Support
+      Address: 2055 Heavilin Rd., Valparaiso, Porter, IN 46385-7333]]></description>
+        <Point><coordinates>-87.0751798888889,41.4492413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00760-B</name>
+        <description><![CDATA[Date: 7/25/25 8:58 AM
+      Site Name: Murdock 2 FL
+      AGL: 240
+      Tower Type: Self Support
+      Address: 1510 Market Circle, Port Charlotte, Charlotte, FL 33953-3835]]></description>
+        <Point><coordinates>-82.1554166666667,27.01375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 8:57 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00760-B</name>
+        <description><![CDATA[Date: 7/25/25 8:58 AM
+      Site Name: Murdock 2 FL
+      AGL: 240
+      Tower Type: Self Support
+      Address: 1510 Market Circle, Port Charlotte, Charlotte, FL 33953-3835]]></description>
+        <Point><coordinates>-82.1554166666667,27.01375,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/25/25 8:58 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/25/25 8:58 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

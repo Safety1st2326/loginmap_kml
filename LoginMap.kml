@@ -109,5 +109,32 @@
       Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
         <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC04876-A</name>
+        <description><![CDATA[Date: 7/25/25 7:28 AM
+      Site Name: Woodruff 2 SC
+      AGL: 252
+      Tower Type: Self Support
+      Address: 800 North Main Street, Woodruff, Spartanburg, SC 29388-9001]]></description>
+        <Point><coordinates>-82.0465191111111,34.7492441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02856-B</name>
+        <description><![CDATA[Date: 7/25/25 7:29 AM
+      Site Name: Bonaire
+      AGL: 250
+      Tower Type: Self Support
+      Address: 125 Highway 96, Bonaire, Houston, GA 31005]]></description>
+        <Point><coordinates>-83.5892107777778,32.5470107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10398-A</name>
+        <description><![CDATA[Date: 7/25/25 7:24 AM
+      Site Name: Coldwater 3 MS
+      AGL: 296
+      Tower Type: Guyed
+      Address: 10151 CR 1127, Philadelphia, Neshoba, MS 39350]]></description>
+        <Point><coordinates>-89.2228437777778,32.7043861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

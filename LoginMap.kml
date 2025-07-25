@@ -1585,5 +1585,14 @@
       Address: 7865 US 41, Schererville, Lake, IN 46373]]></description>
         <Point><coordinates>-87.4695965555556,41.4760965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13437-A</name>
+        <description><![CDATA[Date: 7/25/25 4:36 PM
+      Site Name: Fredericksburg-Equilon
+      AGL: 360
+      Tower Type: Guyed
+      Address: 13089 FM 2093, Fredericksburg, Gillespie, TX 78624]]></description>
+        <Point><coordinates>-99.1064,30.2487413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

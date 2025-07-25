@@ -748,5 +748,77 @@
       Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
         <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:43 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07254-A</name>
+        <description><![CDATA[Date: 7/25/25 9:37 AM
+      Site Name: Calvert City
+      AGL: 312
+      Tower Type: Guyed
+      Address: 1245 US Hwy 95, Calvert City, Marshall, KY 42029-8858]]></description>
+        <Point><coordinates>-88.3551666666667,36.9860691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14596-B</name>
+        <description><![CDATA[Date: 7/25/25 9:43 AM
+      Site Name: Steven's Point 2 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3737 Sunset Drive, Stevens Point, Portage, WI 54482]]></description>
+        <Point><coordinates>-89.6319798888889,44.6478357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:39 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46314-A</name>
+        <description><![CDATA[Date: 7/25/25 9:39 AM
+      Site Name: Roscoe
+      AGL: 144
+      Tower Type: Monopole
+      Address: 242 William Cole Drive, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.8280548888889,33.4693048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/25/25 9:34 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20772-A</name>
+        <description><![CDATA[Date: 7/25/25 9:49 AM
+      Site Name: Waite Park
+      AGL: 496
+      Tower Type: Guyed
+      Address: 1912 OLD COUNTY RD 6, WAITE PARK, STEARNS, MN 56387]]></description>
+        <Point><coordinates>-94.2423524444444,45.5004694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:49 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

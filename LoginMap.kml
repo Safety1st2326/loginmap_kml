@@ -1504,5 +1504,32 @@
       Address: 218 South Polk Avenue, Arcadia, DeSoto, FL 34266]]></description>
         <Point><coordinates>-81.8627444444444,27.2116888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40840-T</name>
+        <description><![CDATA[Date: 7/25/25 3:28 PM
+      Site Name: Zion 2 CA
+      AGL: 60
+      Tower Type: Stealth
+      Address: 21750 Alessandro Avenue, San Jacinto, Riverside, CA 92583]]></description>
+        <Point><coordinates>-116.956744444444,33.8021972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12907-A</name>
+        <description><![CDATA[Date: 7/25/25 3:28 PM
+      Site Name: Valley Wide Park
+      AGL: 77
+      Tower Type: Light Pole
+      Address: 901 W Esplanade Avenue, San Jacinto, Riverside, CA 92582]]></description>
+        <Point><coordinates>-116.977466,33.7750048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12907-A</name>
+        <description><![CDATA[Date: 7/25/25 3:28 PM
+      Site Name: Valley Wide Park
+      AGL: 77
+      Tower Type: Light Pole
+      Address: 901 W Esplanade Avenue, San Jacinto, Riverside, CA 92582]]></description>
+        <Point><coordinates>-116.977466,33.7750048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

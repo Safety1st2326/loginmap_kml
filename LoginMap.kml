@@ -1054,5 +1054,23 @@
       Address: 478 E. County Road 1000 N., Chesterton, Porter, IN 46304]]></description>
         <Point><coordinates>-86.9754437777778,41.573916,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL23562-A</name>
+        <description><![CDATA[Date: 7/25/25 11:16 AM
+      Site Name: Lemon Bay HS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2201 Placida Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3293576666667,26.9260493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL23562-A</name>
+        <description><![CDATA[Date: 7/25/25 11:16 AM
+      Site Name: Lemon Bay HS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2201 Placida Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3293576666667,26.9260493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

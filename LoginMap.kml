@@ -1351,5 +1351,32 @@
       Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
         <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR40508-T</name>
+        <description><![CDATA[Date: 7/25/25 1:15 PM
+      Site Name: Bradley 3 AR
+      AGL: 151
+      Tower Type: Monopole
+      Address: 22500 Hwy 107, Hill, Pulaski, AR 72076]]></description>
+        <Point><coordinates>-92.1681965555556,34.9181196111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45528-A</name>
+        <description><![CDATA[Date: 7/25/25 1:07 PM
+      Site Name: Sanderson
+      AGL: 76
+      Tower Type: Tree
+      Address: 770 N Sanderson Ave, San Jacinto, Riverside, CA 92582]]></description>
+        <Point><coordinates>-117.008683333333,33.7972968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40943-A</name>
+        <description><![CDATA[Date: 7/25/25 1:22 PM
+      Site Name: Goodwyn
+      AGL: 150
+      Tower Type: Monopole
+      Address: 275 Pine Road, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.7889163333333,33.3309715555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

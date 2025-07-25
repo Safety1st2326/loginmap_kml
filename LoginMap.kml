@@ -1567,5 +1567,23 @@
       Address: Dallas Hill Road, Dallas Plantation, Franklin, ME 04970]]></description>
         <Point><coordinates>-70.6034722222222,44.9658055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40674-T</name>
+        <description><![CDATA[Date: 7/25/25 4:19 PM
+      Site Name: Anne Sherrils Park
+      AGL: 75
+      Tower Type: Monopole
+      Address: 1298 N. Pennsylvania Ave., San Bernardino, San Bernardino, CA 92411]]></description>
+        <Point><coordinates>-117.329349333333,34.1232715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN46588-A</name>
+        <description><![CDATA[Date: 7/25/25 4:24 PM
+      Site Name: Crestview 3 IN
+      AGL: 117
+      Tower Type: Monopole
+      Address: 7865 US 41, Schererville, Lake, IN 46373]]></description>
+        <Point><coordinates>-87.4695965555556,41.4760965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

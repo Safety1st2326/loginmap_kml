@@ -1486,5 +1486,23 @@
       Address: 1593 NW County Road 25A, Lake City, Columbia, FL 32056]]></description>
         <Point><coordinates>-82.6521666666667,30.2264437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13618-A</name>
+        <description><![CDATA[Date: 7/25/25 3:15 PM
+      Site Name: Arcadia 4 FL
+      AGL: 222
+      Tower Type: Self Support
+      Address: 218 South Polk Avenue, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-81.8627444444444,27.2116888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13618-A</name>
+        <description><![CDATA[Date: 7/25/25 3:15 PM
+      Site Name: Arcadia 4 FL
+      AGL: 222
+      Tower Type: Self Support
+      Address: 218 South Polk Avenue, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-81.8627444444444,27.2116888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

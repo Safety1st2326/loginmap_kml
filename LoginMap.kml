@@ -1378,5 +1378,23 @@
       Address: 275 Pine Road, Newnan, Coweta, GA 30263]]></description>
         <Point><coordinates>-84.7889163333333,33.3309715555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/25/25 1:28 PM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/25/25 1:28 PM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

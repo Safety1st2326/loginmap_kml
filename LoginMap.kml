@@ -2602,5 +2602,41 @@
       Address: 509 SW 10th St., Muldrow, Sequoyah, OK 74948]]></description>
         <Point><coordinates>-94.6041388888889,35.402025,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13536-A</name>
+        <description><![CDATA[Date: 7/24/25 7:49 PM
+      Site Name: Morris Ranch 2 TX
+      AGL: 335
+      Tower Type: Guyed
+      Address: 11660 South State Hwy 16, Fredericksburg, Gillespie, TX 78624]]></description>
+        <Point><coordinates>-99.0207048888889,30.1967246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45299-A</name>
+        <description><![CDATA[Date: 7/24/25 7:58 PM
+      Site Name: Cool
+      AGL: 66
+      Tower Type: Tree
+      Address: 1050 Northside Drive, COOL, EL DORADO, CA 95614]]></description>
+        <Point><coordinates>-121.014077777778,38.8882746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

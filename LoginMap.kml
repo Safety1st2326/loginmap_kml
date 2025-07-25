@@ -19,5 +19,23 @@
       Address: 414 Shack Hunter Rd., Senoia, Coweta, GA 30276]]></description>
         <Point><coordinates>-84.6775826666667,33.291083,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 7/25/25 6:30 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40086-A</name>
+        <description><![CDATA[Date: 7/25/25 6:37 AM
+      Site Name: Grantville
+      AGL: 145
+      Tower Type: Monopole
+      Address: 2528 Highway 54, Moreland, Coweta, GA 30259]]></description>
+        <Point><coordinates>-84.719166,33.2681937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

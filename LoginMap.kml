@@ -136,5 +136,50 @@
       Address: 10151 CR 1127, Philadelphia, Neshoba, MS 39350]]></description>
         <Point><coordinates>-89.2228437777778,32.7043861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47686-A</name>
+        <description><![CDATA[Date: 7/25/25 7:31 AM
+      Site Name: Strawntown
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1925-B East Sawmill Road, Haycock, Bucks, PA 18951]]></description>
+        <Point><coordinates>-75.2334218888889,40.478291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14627-A</name>
+        <description><![CDATA[Date: 7/25/25 7:22 AM
+      Site Name: Virtz Corner
+      AGL: 125
+      Tower Type: Monopine
+      Address: 19443 James Monroe Highway, Leesburg, Loudoun, VA 20175]]></description>
+        <Point><coordinates>-77.6053611111111,39.0815021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46211-A</name>
+        <description><![CDATA[Date: 7/25/25 7:22 AM
+      Site Name: Central Azalea Park
+      AGL: 129
+      Tower Type: Stealth
+      Address: 5756 Dahlia Drive  , Orlando, ORANGE, FL 32807]]></description>
+        <Point><coordinates>-81.3096094444444,28.5454252222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40962-T</name>
+        <description><![CDATA[Date: 7/25/25 7:33 AM
+      Site Name: Picketts Mill
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6642 Hiram Acworth Hwy, Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.7405274444445,33.9819437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 7/25/25 7:22 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

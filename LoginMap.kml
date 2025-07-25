@@ -280,5 +280,14 @@
       Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
         <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/25/25 7:57 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

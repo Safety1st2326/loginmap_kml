@@ -37,5 +37,50 @@
       Address: 2528 Highway 54, Moreland, Coweta, GA 30259]]></description>
         <Point><coordinates>-84.719166,33.2681937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/25/25 6:43 AM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15185-B</name>
+        <description><![CDATA[Date: 7/25/25 6:43 AM
+      Site Name: Olney 4 IL
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3537 N. Drummer Road, Olney, Richland, IL 62450]]></description>
+        <Point><coordinates>-88.1547583333333,38.6982163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13870-A</name>
+        <description><![CDATA[Date: 7/25/25 6:40 AM
+      Site Name: Ardis Heights
+      AGL: 200
+      Tower Type: Self Support
+      Address: 623 Forrester, Greenville, Hunt, TX 75401]]></description>
+        <Point><coordinates>-96.069116,33.1402746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD10782-B</name>
+        <description><![CDATA[Date: 7/25/25 6:34 AM
+      Site Name: Blair Valley
+      AGL: 195
+      Tower Type: Self Support
+      Address: 13921 Polecat Hollow Road, Clear Spring, Washington, MD 21722]]></description>
+        <Point><coordinates>-77.928416,39.6962218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 7/25/25 6:34 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

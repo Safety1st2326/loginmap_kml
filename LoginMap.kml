@@ -1072,5 +1072,32 @@
       Address: 2201 Placida Road, Englewood, Charlotte, FL 34224]]></description>
         <Point><coordinates>-82.3293576666667,26.9260493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45420-A</name>
+        <description><![CDATA[Date: 7/25/25 11:22 AM
+      Site Name: Kendall 4 CA
+      AGL: 75
+      Tower Type: Tree
+      Address: 4400 Varsity Avenue, San Bernardino, San Bernardino, CA 92407]]></description>
+        <Point><coordinates>-117.333360777778,34.1667576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45146-A</name>
+        <description><![CDATA[Date: 7/25/25 11:22 AM
+      Site Name: South Davis
+      AGL: 65
+      Tower Type: Monopole
+      Address: 17-F Aboretum Drive, Davis, Yolo, CA 95616]]></description>
+        <Point><coordinates>-121.742180222222,38.5388468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16166-B</name>
+        <description><![CDATA[Date: 7/25/25 11:28 AM
+      Site Name: Monmouth 3
+      AGL: 110
+      Tower Type: Monopole
+      Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

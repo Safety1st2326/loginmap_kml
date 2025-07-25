@@ -1531,5 +1531,32 @@
       Address: 901 W Esplanade Avenue, San Jacinto, Riverside, CA 92582]]></description>
         <Point><coordinates>-116.977466,33.7750048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL03001-A</name>
+        <description><![CDATA[Date: 7/25/25 3:31 PM
+      Site Name: Arcadia 6 FL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 17 East Oak Street, Arcadia, DeSoto, FL 34266-4422]]></description>
+        <Point><coordinates>-81.8593583333333,27.2156222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45949-A</name>
+        <description><![CDATA[Date: 7/25/25 3:34 PM
+      Site Name: Buddhist Youth Center
+      AGL: 70
+      Tower Type: Tree
+      Address: 1838 W Baseline Street, San Bernardino, San Bernardino, CA 92411]]></description>
+        <Point><coordinates>-117.327932666667,34.1226604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22525-A</name>
+        <description><![CDATA[Date: 7/25/25 3:24 PM
+      Site Name: Rockford Airport N
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4908 South Main Street, Rockford, Winnebago, IL 61102]]></description>
+        <Point><coordinates>-89.1076916666667,42.2099055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1450,5 +1450,23 @@
       Address: 1152 Hwy 59 North, Timpson, Shelby, TX 75975]]></description>
         <Point><coordinates>-94.3730548888889,31.9097222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07248-A</name>
+        <description><![CDATA[Date: 7/25/25 2:34 PM
+      Site Name: N Murray
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1500 N 4th ST., MURRAY, CALLOWAY, KY 42071-9818]]></description>
+        <Point><coordinates>-88.303325,36.6343052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/25/25 2:49 PM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

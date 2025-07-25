@@ -1657,5 +1657,14 @@
       Address: 2257 Reum Rd, Niles, Cass, MI 49120]]></description>
         <Point><coordinates>-86.219016,41.8127972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45993-A</name>
+        <description><![CDATA[Date: 7/25/25 6:02 PM
+      Site Name: Water Tank
+      AGL: 58
+      Tower Type: Monopole
+      Address: 575 Vaca Valley Parkway, Vacaville, Solano, CA 95688]]></description>
+        <Point><coordinates>-121.986860777778,38.3884413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

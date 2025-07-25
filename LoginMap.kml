@@ -1279,5 +1279,41 @@
       Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
         <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR40509-T</name>
+        <description><![CDATA[Date: 7/25/25 12:18 PM
+      Site Name: Zion Hill Baptist Church
+      AGL: 160
+      Tower Type: Monopole
+      Address: 11923 Zion Hill Road, Cabot, Pulaski, AR 72023]]></description>
+        <Point><coordinates>-92.1397427222222,34.9763471111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46271-A</name>
+        <description><![CDATA[Date: 7/25/25 12:31 PM
+      Site Name: Bartow South
+      AGL: 180
+      Tower Type: Monopole
+      Address: 2303 Hwy 17 South, Bartow, Polk, FL 33830]]></description>
+        <Point><coordinates>-81.8303271111111,27.8693132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40081-A</name>
+        <description><![CDATA[Date: 7/25/25 12:18 PM
+      Site Name: Providence 3 GA
+      AGL: 145
+      Tower Type: Monopole
+      Address: 1640 Hwy 34 W, Newnan, Coweta, GA 30263]]></description>
+        <Point><coordinates>-84.8839385555555,33.3685076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22645-A</name>
+        <description><![CDATA[Date: 7/25/25 12:33 PM
+      Site Name: Jonesboro 5 IL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 400 Baker Street, Jonesboro, Union, IL 62952]]></description>
+        <Point><coordinates>-89.2587944444444,37.4518138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

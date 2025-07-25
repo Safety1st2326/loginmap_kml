@@ -1180,5 +1180,41 @@
       Address: 9047 Davis Rd., Stockton, San Joaquin, CA 95209]]></description>
         <Point><coordinates>-121.332207666667,38.0325604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL12773-A</name>
+        <description><![CDATA[Date: 7/25/25 11:51 AM
+      Site Name: Washington 4 IL
+      AGL: 196
+      Tower Type: Self Support
+      Address: 415 East Guth Road, Washington, Tazewell, IL 61571]]></description>
+        <Point><coordinates>-89.4021555555556,40.6904107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12773-A</name>
+        <description><![CDATA[Date: 7/25/25 11:51 AM
+      Site Name: Washington 4 IL
+      AGL: 196
+      Tower Type: Self Support
+      Address: 415 East Guth Road, Washington, Tazewell, IL 61571]]></description>
+        <Point><coordinates>-89.4021555555556,40.6904107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08895-A</name>
+        <description><![CDATA[Date: 7/25/25 11:40 AM
+      Site Name: Timpson
+      AGL: 455
+      Tower Type: Guyed
+      Address: 119  CR4789, Timpson, Shelby, TX 75975]]></description>
+        <Point><coordinates>-94.4049722222222,31.8989718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47943-A</name>
+        <description><![CDATA[Date: 7/25/25 11:57 AM
+      Site Name: West Ennis
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1200 Old Waxahachie Road , Waxahachie, Ellis, TX 75119]]></description>
+        <Point><coordinates>-96.7255548888889,32.3115055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

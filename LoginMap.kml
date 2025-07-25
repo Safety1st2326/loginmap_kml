@@ -100,5 +100,14 @@
       Address: 10151 CR 1127, Philadelphia, Neshoba, MS 39350]]></description>
         <Point><coordinates>-89.2228437777778,32.7043861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02637-A</name>
+        <description><![CDATA[Date: 7/25/25 7:17 AM
+      Site Name: St Mary's 3 GA
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
+        <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

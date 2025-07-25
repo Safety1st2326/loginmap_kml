@@ -181,5 +181,104 @@
       Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
         <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY47380-A</name>
+        <description><![CDATA[Date: 7/25/25 7:42 AM
+      Site Name: Rapp Rd
+      AGL: 164
+      Tower Type: Monopole
+      Address: 38 Rapp Rd., Monticello, Sullivan, NY 12701]]></description>
+        <Point><coordinates>-74.7358052222222,41.6971663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09892-A</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: Foxtrot
+      AGL: 150
+      Tower Type: Monopole
+      Address: 60 Hollz Parkway, Newnan, Coweta, GA 30265]]></description>
+        <Point><coordinates>-84.7245104444444,33.4028138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21687-A</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: Hopewell Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1421 Hopewell Rd. East, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-84.0053936111111,32.8032797222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC40187-A</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: NW Benson
+      AGL: 180
+      Tower Type: Monopole
+      Address: 1117 Benson Hardee Road, Benson, Johnston, NC 27504]]></description>
+        <Point><coordinates>-78.581166,35.3946385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA02224-S</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: Northfield
+      AGL: 190
+      Tower Type: Monopole
+      Address: 31 Caldwell Road, Northfield, Franklin, MA 01360-9518]]></description>
+        <Point><coordinates>-72.4756215555556,42.7005555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28247-S</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: Jerry Avenue
+      AGL: 163
+      Tower Type: Flagless Flagpole
+      Address: 2506 Jerry Avenue, Punta Gorda, Charlotte, FL 33950]]></description>
+        <Point><coordinates>-82.0425218888889,26.91605,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/25/25 7:43 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/25/25 7:46 AM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 7/25/25 7:46 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/25/25 7:46 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/25/25 7:48 AM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

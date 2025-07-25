@@ -973,5 +973,23 @@
       Address: 708 Dyer Road, Newnan, Coweta, GA 30263-3720]]></description>
         <Point><coordinates>-84.8932246666667,33.4631194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20981-A</name>
+        <description><![CDATA[Date: 7/25/25 10:37 AM
+      Site Name: Baker-Kingsbury
+      AGL: 259
+      Tower Type: Self Support
+      Address: 4901 FM 1104, KINGSBURY, GUADALUPE, TX 78638]]></description>
+        <Point><coordinates>-97.7770771111111,29.6189437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40592-T</name>
+        <description><![CDATA[Date: 7/25/25 10:37 AM
+      Site Name: VY413 Cabrito
+      AGL: 45
+      Tower Type: Monopalm
+      Address: 15520 Cabrito Road, Van Nuys, Los Angeles, CA 91406]]></description>
+        <Point><coordinates>-118.471068333333,34.216297,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

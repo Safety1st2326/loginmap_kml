@@ -568,5 +568,41 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05011-A</name>
+        <description><![CDATA[Date: 7/25/25 9:06 AM
+      Site Name: Rocky Valley
+      AGL: 150
+      Tower Type: Monopole
+      Address: 10901 Rocky Valley Dr., Little Rock, Pulaski, AR 72212-3125]]></description>
+        <Point><coordinates>-92.3924857777778,34.7822743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20216-A</name>
+        <description><![CDATA[Date: 7/25/25 9:01 AM
+      Site Name: Osage MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 49495 Minnesota Highway 34, Osage, Becker, MN 56570]]></description>
+        <Point><coordinates>-95.3568055555556,46.8979996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14516-A</name>
+        <description><![CDATA[Date: 7/25/25 9:01 AM
+      Site Name: Atlanta 2 GA
+      AGL: 400
+      Tower Type: Self Support
+      Address: 225 Corey Center Drive SE, Atlanta, Fulton, GA 30312]]></description>
+        <Point><coordinates>-84.3822937777778,33.7485857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13172-A</name>
+        <description><![CDATA[Date: 7/25/25 9:01 AM
+      Site Name: Jamestown 2 KY
+      AGL: 250
+      Tower Type: Self Support
+      Address: 96 Harris Lane, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0674965555556,36.987483,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

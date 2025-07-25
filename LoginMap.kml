@@ -1342,5 +1342,14 @@
       Address: 1068 St. Rt. 45N, Mayfield, GRAVES, KY 42066]]></description>
         <Point><coordinates>-88.6451441111111,36.7644138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 7/25/25 1:04 PM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

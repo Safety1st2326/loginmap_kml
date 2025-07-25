@@ -1666,5 +1666,14 @@
       Address: 575 Vaca Valley Parkway, Vacaville, Solano, CA 95688]]></description>
         <Point><coordinates>-121.986860777778,38.3884413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM20855-A</name>
+        <description><![CDATA[Date: 7/25/25 6:21 PM
+      Site Name: Glorieta
+      AGL: 185
+      Tower Type: Guyed
+      Address: 90 Joya Del Padre Lane, Pecos, San Miguel, NM 87552]]></description>
+        <Point><coordinates>-105.7125875,35.5576275,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

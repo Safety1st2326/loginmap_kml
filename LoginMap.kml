@@ -1045,5 +1045,14 @@
       Address: 2521 W. Hwy 16, Newnan, Coweta, GA 30263]]></description>
         <Point><coordinates>-84.8735826666667,33.4419218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN02764-S</name>
+        <description><![CDATA[Date: 7/25/25 11:08 AM
+      Site Name: Mander
+      AGL: 199
+      Tower Type: Monopole
+      Address: 478 E. County Road 1000 N., Chesterton, Porter, IN 46304]]></description>
+        <Point><coordinates>-86.9754437777778,41.573916,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

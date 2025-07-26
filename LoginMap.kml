@@ -604,5 +604,14 @@
       Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
         <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH13782-A</name>
+        <description><![CDATA[Date: 7/26/25 12:27 PM
+      Site Name: Marlboro 1
+      AGL: 100
+      Tower Type: Monopole Tree
+      Address: 400 Old Chesham Road, Marlborough, Cheshire, NH 03455]]></description>
+        <Point><coordinates>-72.1608333333333,42.921416,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -613,5 +613,14 @@
       Address: 400 Old Chesham Road, Marlborough, Cheshire, NH 03455]]></description>
         <Point><coordinates>-72.1608333333333,42.921416,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA47666-A</name>
+        <description><![CDATA[Date: 7/26/25 12:30 PM
+      Site Name: Route 443
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
+        <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

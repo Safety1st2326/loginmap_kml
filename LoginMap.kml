@@ -19,5 +19,14 @@
       Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
         <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48048-A</name>
+        <description><![CDATA[Date: 7/26/25 6:07 AM
+      Site Name: Public Storage - Gulf
+      AGL: 103
+      Tower Type: Monopole
+      Address: 8430 Gulf Freeway, Houston, Harris, TX 77061]]></description>
+        <Point><coordinates>-95.2665722222222,29.6734993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

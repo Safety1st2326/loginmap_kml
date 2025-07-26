@@ -640,5 +640,14 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA11234-A</name>
+        <description><![CDATA[Date: 7/26/25 12:58 PM
+      Site Name: North West Point
+      AGL: 220
+      Tower Type: Self Support
+      Address: 5605 Roanoke Rd., La Grange, Troup, GA 30240]]></description>
+        <Point><coordinates>-85.1856385555556,33.0411885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

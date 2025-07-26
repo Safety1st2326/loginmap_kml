@@ -685,5 +685,14 @@
       Address: 65 US Highway 51, Mounds, Pulaski, IL 62964]]></description>
         <Point><coordinates>-89.1836135555556,37.0841441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45216-A</name>
+        <description><![CDATA[Date: 7/26/25 1:57 PM
+      Site Name: Western Clarksburg
+      AGL: 100
+      Tower Type: Monopole
+      Address: 49120 Clarksburg Road, Clarksburg, Yolo, CA 95612]]></description>
+        <Point><coordinates>-121.599999638889,38.4156388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

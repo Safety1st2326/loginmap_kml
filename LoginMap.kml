@@ -172,5 +172,14 @@
       Address: 12700 Sugar Bowl Rd., Myakka City, Manatee, FL 34251]]></description>
         <Point><coordinates>-82.1191632222222,27.30925,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16435-A</name>
+        <description><![CDATA[Date: 7/26/25 8:10 AM
+      Site Name: McClure
+      AGL: 290
+      Tower Type: Self Support
+      Address: 9056 Old Cape Road, Jonesboro, Union, IL 62952]]></description>
+        <Point><coordinates>-89.393333,37.3686937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

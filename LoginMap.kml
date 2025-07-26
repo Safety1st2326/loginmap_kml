@@ -802,5 +802,23 @@
       Address: 1000 Old Bloomfield Road, Vienna, Johnson, IL 62995]]></description>
         <Point><coordinates>-88.8859413333333,37.4346163333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL17439-A</name>
+        <description><![CDATA[Date: 7/26/25 3:55 PM
+      Site Name: Bradenton Beach
+      AGL: 157
+      Tower Type: Monopole
+      Address: 306 Church Ave, Bradenton, Manatee, FL 34217]]></description>
+        <Point><coordinates>-82.6978413333333,27.4678826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL17439-A</name>
+        <description><![CDATA[Date: 7/26/25 3:55 PM
+      Site Name: Bradenton Beach
+      AGL: 157
+      Tower Type: Monopole
+      Address: 306 Church Ave, Bradenton, Manatee, FL 34217]]></description>
+        <Point><coordinates>-82.6978413333333,27.4678826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -10,5 +10,14 @@
       Address: 3470 Gretna Drive, Spring Hill, Hernando, FL 34609]]></description>
         <Point><coordinates>-82.5219993333333,28.485833,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC00376-B</name>
+        <description><![CDATA[Date: 7/26/25 5:34 AM
+      Site Name: Little Beaver Dam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
+        <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

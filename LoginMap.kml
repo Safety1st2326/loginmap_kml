@@ -694,5 +694,14 @@
       Address: 49120 Clarksburg Road, Clarksburg, Yolo, CA 95612]]></description>
         <Point><coordinates>-121.599999638889,38.4156388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL00647-B</name>
+        <description><![CDATA[Date: 7/26/25 2:07 PM
+      Site Name: Perry Hills
+      AGL: 189
+      Tower Type: Monopole
+      Address: 3364 Harrison Road, Montgomery, Montgomery, AL 36109-4351]]></description>
+        <Point><coordinates>-86.2566722222222,32.3663888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -82,5 +82,23 @@
       Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
         <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH08582-A</name>
+        <description><![CDATA[Date: 7/26/25 7:33 AM
+      Site Name: Mount Gilead 2 OH
+      AGL: 251
+      Tower Type: Self Support
+      Address: 6022 State Route 95, Mount Gilead, Morrow, OH 43338-9528]]></description>
+        <Point><coordinates>-82.7214298888889,40.4977607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 7/26/25 7:37 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

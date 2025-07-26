@@ -496,5 +496,23 @@
       Address: 100 Harding Avenue, Aliquippa, Beaver, PA 15001]]></description>
         <Point><coordinates>-80.2591805555556,40.6124111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA41724-T</name>
+        <description><![CDATA[Date: 7/26/25 11:27 AM
+      Site Name: McCall Country Club
+      AGL: 125
+      Tower Type: Monopole
+      Address: 201 N. Lynn Blvd, Upper Darby, Delaware, PA 19082]]></description>
+        <Point><coordinates>-75.2795354444444,39.9723298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24392-A</name>
+        <description><![CDATA[Date: 7/26/25 11:27 AM
+      Site Name: Panther Ridge
+      AGL: 195
+      Tower Type: Monopole
+      Address: 20107 SR 70 East, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.3354774444444,27.4116722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -424,5 +424,32 @@
       Address: 3559 Hamilton Rd, LaGrange, Troup, GA 30241]]></description>
         <Point><coordinates>-84.9818048888889,32.9644166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN17609-A</name>
+        <description><![CDATA[Date: 7/26/25 10:45 AM
+      Site Name: Tofte
+      AGL: 181
+      Tower Type: Monopole
+      Address: 75 Tofte Homestead Drive, Tofte, Cook, MN 55615]]></description>
+        <Point><coordinates>-90.8409974444444,47.5766062777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 7/26/25 10:48 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 7/26/25 10:48 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

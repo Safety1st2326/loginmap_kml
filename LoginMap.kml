@@ -451,5 +451,23 @@
       Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
         <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR06771-B</name>
+        <description><![CDATA[Date: 7/26/25 10:55 AM
+      Site Name: Morgan Humnoke
+      AGL: 300
+      Tower Type: Self Support
+      Address: 510 WILSON ROAD, HUMNOKE, Lonoke, AR 72072-8623]]></description>
+        <Point><coordinates>-91.7657,34.5408496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16495-A</name>
+        <description><![CDATA[Date: 7/26/25 10:55 AM
+      Site Name: Becket
+      AGL: 150
+      Tower Type: Monopole
+      Address: 60 Cross Road, Becket, Berkshire, MA 01223]]></description>
+        <Point><coordinates>-73.0572777777778,42.2866663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -820,5 +820,14 @@
       Address: 306 Church Ave, Bradenton, Manatee, FL 34217]]></description>
         <Point><coordinates>-82.6978413333333,27.4678826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40691-T</name>
+        <description><![CDATA[Date: 7/26/25 4:18 PM
+      Site Name: Beaumont Health Clinic
+      AGL: 60
+      Tower Type: Monopole Tree
+      Address: 81 South Highland Springs Avenue, Beaumont, Riverside, CA 92220]]></description>
+        <Point><coordinates>-116.947110777778,33.9186715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

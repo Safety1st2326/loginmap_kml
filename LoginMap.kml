@@ -1675,5 +1675,23 @@
       Address: 90 Joya Del Padre Lane, Pecos, San Miguel, NM 87552]]></description>
         <Point><coordinates>-105.7125875,35.5576275,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20772-A</name>
+        <description><![CDATA[Date: 7/25/25 8:16 PM
+      Site Name: Waite Park
+      AGL: 496
+      Tower Type: Guyed
+      Address: 1912 OLD COUNTY RD 6, WAITE PARK, STEARNS, MN 56387]]></description>
+        <Point><coordinates>-94.2423524444444,45.5004694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17609-A</name>
+        <description><![CDATA[Date: 7/25/25 8:16 PM
+      Site Name: Tofte
+      AGL: 181
+      Tower Type: Monopole
+      Address: 75 Tofte Homestead Drive, Tofte, Cook, MN 55615]]></description>
+        <Point><coordinates>-90.8409974444444,47.5766062777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

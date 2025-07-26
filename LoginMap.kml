@@ -568,5 +568,41 @@
       Address: 14615 59th Ave E, Bradenton, Manatee, FL 34211]]></description>
         <Point><coordinates>-82.3938755,27.4363752222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/26/25 12:10 PM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/26/25 12:12 PM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC01038-B</name>
+        <description><![CDATA[Date: 7/26/25 12:16 PM
+      Site Name: Henderson Mountain
+      AGL: 250
+      Tower Type: Self Support
+      Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
+        <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC01038-B</name>
+        <description><![CDATA[Date: 7/26/25 12:16 PM
+      Site Name: Henderson Mountain
+      AGL: 250
+      Tower Type: Self Support
+      Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
+        <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

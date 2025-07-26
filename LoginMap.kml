@@ -748,5 +748,41 @@
       Address: 5088 W. Michigan Ave, Oshtemo Township, Kalamazoo, MI 49009]]></description>
         <Point><coordinates>-85.6530166666667,42.2754771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM47263-A</name>
+        <description><![CDATA[Date: 7/26/25 2:51 PM
+      Site Name: Angel Fire
+      AGL: 150
+      Tower Type: Self Support
+      Address: 200 Tank Nine Road, Angel Fire, Colfax, NM 87710]]></description>
+        <Point><coordinates>-105.239110777778,36.3813326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO46068-A</name>
+        <description><![CDATA[Date: 7/26/25 2:52 PM
+      Site Name: West Alameda
+      AGL: 75
+      Tower Type: Monopole
+      Address: 181 Vallejo St., Denver, Denver, CO 80223]]></description>
+        <Point><coordinates>-105.013597222222,39.7196087777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46174-A</name>
+        <description><![CDATA[Date: 7/26/25 2:54 PM
+      Site Name: Longwood Park - Bradenton
+      AGL: 100
+      Tower Type: MonoCross
+      Address: 7225 N. Lockwood Ridge Rd., Sarasota, Manatee, FL 34243]]></description>
+        <Point><coordinates>-82.50435,27.4120388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46174-A</name>
+        <description><![CDATA[Date: 7/26/25 2:54 PM
+      Site Name: Longwood Park - Bradenton
+      AGL: 100
+      Tower Type: MonoCross
+      Address: 7225 N. Lockwood Ridge Rd., Sarasota, Manatee, FL 34243]]></description>
+        <Point><coordinates>-82.50435,27.4120388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

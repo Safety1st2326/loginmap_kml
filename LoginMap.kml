@@ -64,5 +64,23 @@
       Address: 2644 NW Tom Mizell Rd, Arcadia, DeSoto, FL 34266]]></description>
         <Point><coordinates>-82.0048055555555,27.2313326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA11914-B</name>
+        <description><![CDATA[Date: 7/26/25 7:22 AM
+      Site Name: Byron 2 GA
+      AGL: 176
+      Tower Type: Monopole
+      Address: 224 Highway 49S, Byron, Peach, GA 31008]]></description>
+        <Point><coordinates>-83.7645555555556,32.6464996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/26/25 7:19 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -370,5 +370,41 @@
       Address: 675 Bessie Duboise Rd., Russellville, Franklin, AL 35654]]></description>
         <Point><coordinates>-87.6761048888889,34.4302493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40365-T</name>
+        <description><![CDATA[Date: 7/26/25 10:06 AM
+      Site Name: Hillcrest Cleaners RL
+      AGL: 75
+      Tower Type: Monopole
+      Address: 1509 Gina Dr, Arlington, Tarrant, TX 76013]]></description>
+        <Point><coordinates>-97.1359441111111,32.7207215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH04686-B</name>
+        <description><![CDATA[Date: 7/26/25 10:12 AM
+      Site Name: Barnesville
+      AGL: 230
+      Tower Type: Self Support
+      Address: 95 Shady Lane, Barnesville, Belmont, OH 43713-2400]]></description>
+        <Point><coordinates>-81.1716771111111,39.9829215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24394-A</name>
+        <description><![CDATA[Date: 7/26/25 10:12 AM
+      Site Name: Duette Park South
+      AGL: 195
+      Tower Type: Monopole
+      Address: 37725 SR 64 East, Myakka City, Manatee, FL 34251]]></description>
+        <Point><coordinates>-82.1550416666667,27.4608444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA20187-A</name>
+        <description><![CDATA[Date: 7/26/25 10:01 AM
+      Site Name: EASTERN LA GRANGE GA TOWER
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1660 UPPER BIG SPRINGS ROAD, LAGRANGE, TROUP, GA 30241]]></description>
+        <Point><coordinates>-84.9858996666667,33.0186771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -856,5 +856,14 @@
       Address: 905 Wiard Street, Klamath Falls, Klamath, OR 97603]]></description>
         <Point><coordinates>-121.733485777778,42.2221215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13629-A</name>
+        <description><![CDATA[Date: 7/26/25 5:52 PM
+      Site Name: Eustis 2 FL
+      AGL: 195
+      Tower Type: Monopole
+      Address: 31000 State Road 44, Eustis, Lake, FL 32736]]></description>
+        <Point><coordinates>-81.4402385555556,28.9187771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1693,5 +1693,23 @@
       Address: 75 Tofte Homestead Drive, Tofte, Cook, MN 55615]]></description>
         <Point><coordinates>-90.8409974444444,47.5766062777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40788-T</name>
+        <description><![CDATA[Date: 7/25/25 9:34 PM
+      Site Name: Eas Highland Shopping Ctr
+      AGL: 60
+      Tower Type: Stealth
+      Address: 7223 Church Street, Highland, San Bernardino, CA 92346]]></description>
+        <Point><coordinates>-117.172788222222,34.1218576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40788-T</name>
+        <description><![CDATA[Date: 7/25/25 9:34 PM
+      Site Name: Eas Highland Shopping Ctr
+      AGL: 70
+      Tower Type: Mono-Eucalyptus
+      Address: 7223 Church Street, Highland, San Bernardino, CA 92346]]></description>
+        <Point><coordinates>-117.172788222222,34.1218576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

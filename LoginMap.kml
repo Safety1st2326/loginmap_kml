@@ -649,5 +649,23 @@
       Address: 5605 Roanoke Rd., La Grange, Troup, GA 30240]]></description>
         <Point><coordinates>-85.1856385555556,33.0411885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL40884-A</name>
+        <description><![CDATA[Date: 7/26/25 1:10 PM
+      Site Name: Gulf Gate
+      AGL: 110
+      Tower Type: Stealth
+      Address: 7200 Bounty Drive, Sarasota, Sarasota, FL 34231]]></description>
+        <Point><coordinates>-82.5044611111111,27.25085,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40884-A</name>
+        <description><![CDATA[Date: 7/26/25 1:10 PM
+      Site Name: Gulf Gate
+      AGL: 110
+      Tower Type: Stealth
+      Address: 7200 Bounty Drive, Sarasota, Sarasota, FL 34231]]></description>
+        <Point><coordinates>-82.5044611111111,27.25085,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

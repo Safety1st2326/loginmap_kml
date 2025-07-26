@@ -703,5 +703,50 @@
       Address: 3364 Harrison Road, Montgomery, Montgomery, AL 36109-4351]]></description>
         <Point><coordinates>-86.2566722222222,32.3663888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL11921-A</name>
+        <description><![CDATA[Date: 7/26/25 2:13 PM
+      Site Name: Meadow Country Club
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 3101 Longmeadow, Sarasota, Sarasota, FL 34235]]></description>
+        <Point><coordinates>-82.4646861111111,27.3591666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40671-T</name>
+        <description><![CDATA[Date: 7/26/25 2:13 PM
+      Site Name: IE939 Red Fox New
+      AGL: 66
+      Tower Type: Monopole Tree
+      Address: 3140 N. E Street, San Bernardino, San Bernardino, CA 92405]]></description>
+        <Point><coordinates>-117.294794111111,34.1481776666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15294-A</name>
+        <description><![CDATA[Date: 7/26/25 2:16 PM
+      Site Name: Quail Run - KLAM
+      AGL: 227
+      Tower Type: Monopole
+      Address: 5088 W. Michigan Ave, Oshtemo Township, Kalamazoo, MI 49009]]></description>
+        <Point><coordinates>-85.6541888888889,42.2755798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15294-A</name>
+        <description><![CDATA[Date: 7/26/25 2:16 PM
+      Site Name: Quail Run - KLAM
+      AGL: 402
+      Tower Type: Guyed
+      Address: 5088 W. Michigan Ave, Oshtemo Township, Kalamazoo, MI 49009]]></description>
+        <Point><coordinates>-85.6534361111111,42.2756215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15294-A</name>
+        <description><![CDATA[Date: 7/26/25 2:16 PM
+      Site Name: Quail Run - KLAM
+      AGL: 480
+      Tower Type: Guyed
+      Address: 5088 W. Michigan Ave, Oshtemo Township, Kalamazoo, MI 49009]]></description>
+        <Point><coordinates>-85.6530166666667,42.2754771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

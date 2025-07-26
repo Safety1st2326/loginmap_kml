@@ -37,5 +37,14 @@
       Address: 3355 Stickney Ave., Toledo, Lucas, OH 43608]]></description>
         <Point><coordinates>-83.5270521111111,41.6845663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 7/26/25 6:49 AM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

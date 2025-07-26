@@ -271,5 +271,23 @@
       Address: 14670 Gilman Springs Road , Moreno Valley, RIVERSIDE, CA 92555]]></description>
         <Point><coordinates>-117.105636111111,33.9214798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK41650-T</name>
+        <description><![CDATA[Date: 7/26/25 9:04 AM
+      Site Name: Earlsboro
+      AGL: 340
+      Tower Type: Guyed
+      Address: 49874 EW 1210, Earlsboro, Pottawatomie, OK 74840]]></description>
+        <Point><coordinates>-96.7783132222222,35.2613944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV14253-A</name>
+        <description><![CDATA[Date: 7/26/25 9:07 AM
+      Site Name: Tunnelton
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
+        <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

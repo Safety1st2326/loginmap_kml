@@ -199,5 +199,41 @@
       Address: 14971 Highway 139, Ashby, Bibb, AL 35035]]></description>
         <Point><coordinates>-86.9155944444445,32.9809743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14596-B</name>
+        <description><![CDATA[Date: 7/26/25 8:32 AM
+      Site Name: Steven's Point 2 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3737 Sunset Drive, Stevens Point, Portage, WI 54482]]></description>
+        <Point><coordinates>-89.6319798888889,44.6478357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 7/26/25 8:34 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20286-A</name>
+        <description><![CDATA[Date: 7/26/25 8:34 AM
+      Site Name: Buchanan Tower
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2210 - 78 Ave SE, Pingree, Stutsman, ND 58476]]></description>
+        <Point><coordinates>-98.8466718888889,47.0943413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24391-A</name>
+        <description><![CDATA[Date: 7/26/25 8:36 AM
+      Site Name: Myakka North
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15890 Sugar Bowl Road, Myakka City, Manatee, FL 34251]]></description>
+        <Point><coordinates>-82.1225104444444,27.2517166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

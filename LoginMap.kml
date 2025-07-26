@@ -28,5 +28,14 @@
       Address: 8430 Gulf Freeway, Houston, Harris, TX 77061]]></description>
         <Point><coordinates>-95.2665722222222,29.6734993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH41535-T</name>
+        <description><![CDATA[Date: 7/26/25 6:27 AM
+      Site Name: Freds Pro Hardware- RL
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3355 Stickney Ave., Toledo, Lucas, OH 43608]]></description>
+        <Point><coordinates>-83.5270521111111,41.6845663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -181,5 +181,23 @@
       Address: 9056 Old Cape Road, Jonesboro, Union, IL 62952]]></description>
         <Point><coordinates>-89.393333,37.3686937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN17605-A</name>
+        <description><![CDATA[Date: 7/26/25 8:28 AM
+      Site Name: Kid Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
+        <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14348-A</name>
+        <description><![CDATA[Date: 7/26/25 8:28 AM
+      Site Name: Ashby 2 AL
+      AGL: 401
+      Tower Type: Guyed
+      Address: 14971 Highway 139, Ashby, Bibb, AL 35035]]></description>
+        <Point><coordinates>-86.9155944444445,32.9809743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

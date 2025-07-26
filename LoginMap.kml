@@ -829,5 +829,23 @@
       Address: 81 South Highland Springs Avenue, Beaumont, Riverside, CA 92220]]></description>
         <Point><coordinates>-116.947110777778,33.9186715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA20552-A</name>
+        <description><![CDATA[Date: 7/26/25 4:21 PM
+      Site Name: San Pasqual
+      AGL: 60
+      Tower Type: Monopole
+      Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
+        <Point><coordinates>-116.903158333333,33.0668354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA20552-A</name>
+        <description><![CDATA[Date: 7/26/25 4:21 PM
+      Site Name: San Pasqual
+      AGL: 61
+      Tower Type: Monopole Tree
+      Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
+        <Point><coordinates>-116.903058333333,33.0668215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

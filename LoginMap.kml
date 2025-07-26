@@ -487,5 +487,14 @@
       Address: W7695 - 22nd Street W, Necedah, Juneau, WI 54646]]></description>
         <Point><coordinates>-90.1519463888889,44.0200404444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA41729-T</name>
+        <description><![CDATA[Date: 7/26/25 11:18 AM
+      Site Name: Woodlawn- Aliquippa HS RL
+      AGL: 102
+      Tower Type: Monopole
+      Address: 100 Harding Avenue, Aliquippa, Beaver, PA 15001]]></description>
+        <Point><coordinates>-80.2591805555556,40.6124111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

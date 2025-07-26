@@ -847,5 +847,14 @@
       Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
         <Point><coordinates>-116.903058333333,33.0668215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47635-A</name>
+        <description><![CDATA[Date: 7/26/25 5:10 PM
+      Site Name: Klamath Sports Complex
+      AGL: 70
+      Tower Type: Stealth
+      Address: 905 Wiard Street, Klamath Falls, Klamath, OR 97603]]></description>
+        <Point><coordinates>-121.733485777778,42.2221215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

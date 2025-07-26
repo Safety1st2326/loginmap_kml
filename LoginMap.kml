@@ -352,5 +352,14 @@
       Address: 18901 South Gouger, New Lenox, Will, IL 60451]]></description>
         <Point><coordinates>-88.0025138888889,41.5458441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR40505-T</name>
+        <description><![CDATA[Date: 7/26/25 9:51 AM
+      Site Name: I-530 at Stagecoach Rd
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3970 Stagecoach Road, Jefferson, Jefferson, AR 72079]]></description>
+        <Point><coordinates>-92.1788218333333,34.3814218333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -361,5 +361,14 @@
       Address: 3970 Stagecoach Road, Jefferson, Jefferson, AR 72079]]></description>
         <Point><coordinates>-92.1788218333333,34.3814218333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL14661-A</name>
+        <description><![CDATA[Date: 7/26/25 9:55 AM
+      Site Name: Suggs Mountain
+      AGL: 131
+      Tower Type: Guyed
+      Address: 675 Bessie Duboise Rd., Russellville, Franklin, AL 35654]]></description>
+        <Point><coordinates>-87.6761048888889,34.4302493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

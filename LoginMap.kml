@@ -325,5 +325,32 @@
       Address: 19 Apple Hill Road, Sullivan, Cheshire, NH 03445]]></description>
         <Point><coordinates>-72.1878913333333,42.9928968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02640-A</name>
+        <description><![CDATA[Date: 7/26/25 9:40 AM
+      Site Name: LaGrange
+      AGL: 262
+      Tower Type: Self Support
+      Address: 26 Robertson Street, Lagrange, Troup, GA 30241-3519]]></description>
+        <Point><coordinates>-85.0087222222222,33.0414996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40661-T</name>
+        <description><![CDATA[Date: 7/26/25 9:42 AM
+      Site Name: Alamo Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 5164 Fry Road, Vacaville, Solano, CA 95687]]></description>
+        <Point><coordinates>-121.923313222222,38.3357357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL41097-T</name>
+        <description><![CDATA[Date: 7/26/25 9:48 AM
+      Site Name: Jacobs Farm
+      AGL: 150
+      Tower Type: Monopole
+      Address: 18901 South Gouger, New Lenox, Will, IL 60451]]></description>
+        <Point><coordinates>-88.0025138888889,41.5458441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

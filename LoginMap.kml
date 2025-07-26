@@ -667,5 +667,14 @@
       Address: 7200 Bounty Drive, Sarasota, Sarasota, FL 34231]]></description>
         <Point><coordinates>-82.5044611111111,27.25085,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13124-A</name>
+        <description><![CDATA[Date: 7/26/25 1:22 PM
+      Site Name: Hammett
+      AGL: 165
+      Tower Type: Monopole
+      Address: 2391 Roanoke Road, La Grange, Troup, GA 30240]]></description>
+        <Point><coordinates>-85.0827215555556,33.032141,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

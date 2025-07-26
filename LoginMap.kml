@@ -289,5 +289,41 @@
       Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
         <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/26/25 9:10 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14897-B</name>
+        <description><![CDATA[Date: 7/26/25 9:10 AM
+      Site Name: Steven's Point 3 WI
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7394 Deer Road, Custer, Portage, WI 54423]]></description>
+        <Point><coordinates>-89.4093305555556,44.5124083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13081-A</name>
+        <description><![CDATA[Date: 7/26/25 9:10 AM
+      Site Name: Quincy
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1218 West Clark Street, Quincy, Gadsden, FL 32351]]></description>
+        <Point><coordinates>-84.5923441111111,30.5864135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14052-S</name>
+        <description><![CDATA[Date: 7/26/25 9:12 AM
+      Site Name: Nelson 2 NH
+      AGL: 150
+      Tower Type: Monopole
+      Address: 19 Apple Hill Road, Sullivan, Cheshire, NH 03445]]></description>
+        <Point><coordinates>-72.1878913333333,42.9928968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

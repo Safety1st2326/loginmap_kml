@@ -676,5 +676,14 @@
       Address: 2391 Roanoke Road, La Grange, Troup, GA 30240]]></description>
         <Point><coordinates>-85.0827215555556,33.032141,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL20657-A</name>
+        <description><![CDATA[Date: 7/26/25 1:25 PM
+      Site Name: Malone Mounds
+      AGL: 191
+      Tower Type: Self Support
+      Address: 65 US Highway 51, Mounds, Pulaski, IL 62964]]></description>
+        <Point><coordinates>-89.1836135555556,37.0841441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -46,5 +46,14 @@
       Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
         <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20826-A</name>
+        <description><![CDATA[Date: 7/26/25 6:59 AM
+      Site Name: Carthage 3 MO
+      AGL: 250
+      Tower Type: Self Support
+      Address: 730 East Java Street, Carthage, JASPER, MO 64836]]></description>
+        <Point><coordinates>-94.3061944444444,37.1929718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -235,5 +235,14 @@
       Address: 15890 Sugar Bowl Road, Myakka City, Manatee, FL 34251]]></description>
         <Point><coordinates>-82.1225104444444,27.2517166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13894-A</name>
+        <description><![CDATA[Date: 7/26/25 8:49 AM
+      Site Name: Lone Star 3 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2022 County Road 3155, Cookville, Titus, TX 75455]]></description>
+        <Point><coordinates>-94.8424718888889,33.2175548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

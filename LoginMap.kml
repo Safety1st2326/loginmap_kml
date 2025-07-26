@@ -55,5 +55,14 @@
       Address: 730 East Java Street, Carthage, JASPER, MO 64836]]></description>
         <Point><coordinates>-94.3061944444444,37.1929718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13619-A</name>
+        <description><![CDATA[Date: 7/26/25 7:12 AM
+      Site Name: Arcadia-West
+      AGL: 252
+      Tower Type: Self Support
+      Address: 2644 NW Tom Mizell Rd, Arcadia, DeSoto, FL 34266]]></description>
+        <Point><coordinates>-82.0048055555555,27.2313326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

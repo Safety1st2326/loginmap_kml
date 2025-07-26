@@ -244,5 +244,32 @@
       Address: 2022 County Road 3155, Cookville, Titus, TX 75455]]></description>
         <Point><coordinates>-94.8424718888889,33.2175548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA17486-A</name>
+        <description><![CDATA[Date: 7/26/25 8:52 AM
+      Site Name: Lagrange Spur
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3322 Hogansville Road, Lagrange, Troup, GA 30241]]></description>
+        <Point><coordinates>-84.9793965555556,33.0549611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02933-S</name>
+        <description><![CDATA[Date: 7/26/25 8:55 AM
+      Site Name: Bishop
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1361 Old Bishop Road, Bishop, Oconee, GA 30621]]></description>
+        <Point><coordinates>-83.4324437777778,33.8271993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45916-A</name>
+        <description><![CDATA[Date: 7/26/25 8:58 AM
+      Site Name: Eubanks Property
+      AGL: 54
+      Tower Type: Tree
+      Address: 14670 Gilman Springs Road , Moreno Valley, RIVERSIDE, CA 92555]]></description>
+        <Point><coordinates>-117.105636111111,33.9214798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -514,5 +514,14 @@
       Address: 20107 SR 70 East, Bradenton, Manatee, FL 34211]]></description>
         <Point><coordinates>-82.3354774444444,27.4116722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL24392-A</name>
+        <description><![CDATA[Date: 7/26/25 11:31 AM
+      Site Name: Panther Ridge
+      AGL: 195
+      Tower Type: Monopole
+      Address: 20107 SR 70 East, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.3354774444444,27.4116722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

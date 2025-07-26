@@ -541,5 +541,32 @@
       Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
         <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK14828-S</name>
+        <description><![CDATA[Date: 7/26/25 11:46 AM
+      Site Name: Beaver 5 OK
+      AGL: 230
+      Tower Type: Self Support
+      Address: 407 Drive 7 th, Beaver, Beaver, OK 73932]]></description>
+        <Point><coordinates>-100.513308333333,36.8116555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22291-S</name>
+        <description><![CDATA[Date: 7/26/25 11:57 AM
+      Site Name: Lakewood Lorraine
+      AGL: 195
+      Tower Type: Monopole
+      Address: 14615 59th Ave E, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.3938755,27.4363752222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22291-S</name>
+        <description><![CDATA[Date: 7/26/25 11:58 AM
+      Site Name: Lakewood Lorraine
+      AGL: 195
+      Tower Type: Monopole
+      Address: 14615 59th Ave E, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.3938755,27.4363752222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

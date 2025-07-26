@@ -784,5 +784,14 @@
       Address: 7225 N. Lockwood Ridge Rd., Sarasota, Manatee, FL 34243]]></description>
         <Point><coordinates>-82.50435,27.4120388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47478-A</name>
+        <description><![CDATA[Date: 7/26/25 3:20 PM
+      Site Name: Uhrichsville
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4987 Spanson Drive, Uhrichsville, Tuscarawas, OH 44683]]></description>
+        <Point><coordinates>-81.3747493333333,40.4000027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

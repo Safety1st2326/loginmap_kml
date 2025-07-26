@@ -406,5 +406,23 @@
       Address: 1660 UPPER BIG SPRINGS ROAD, LAGRANGE, TROUP, GA 30241]]></description>
         <Point><coordinates>-84.9858996666667,33.0186771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL24394-A</name>
+        <description><![CDATA[Date: 7/26/25 10:16 AM
+      Site Name: Duette Park South
+      AGL: 195
+      Tower Type: Monopole
+      Address: 37725 SR 64 East, Myakka City, Manatee, FL 34251]]></description>
+        <Point><coordinates>-82.1550416666667,27.4608444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40098-T</name>
+        <description><![CDATA[Date: 7/26/25 10:25 AM
+      Site Name: Hamilton 9 GA
+      AGL: 161
+      Tower Type: Monopole
+      Address: 3559 Hamilton Rd, LaGrange, Troup, GA 30241]]></description>
+        <Point><coordinates>-84.9818048888889,32.9644166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -127,5 +127,50 @@
       Address: N5721 County Road T, Princeton, Green Lake, WI 54968]]></description>
         <Point><coordinates>-89.1315687777778,43.8364496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN10419-A</name>
+        <description><![CDATA[Date: 7/26/25 8:02 AM
+      Site Name: West Dickson
+      AGL: 276
+      Tower Type: Self Support
+      Address: 155 Bordeau Drive, Dickson, Dickson, TN 37055]]></description>
+        <Point><coordinates>-87.3422774444444,36.0179715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10968-A</name>
+        <description><![CDATA[Date: 7/26/25 8:04 AM
+      Site Name: Beech Creek 2 GA
+      AGL: 251
+      Tower Type: Guyed
+      Address: 117 E. Hopson Road, Hogansville, Troup, GA 30230]]></description>
+        <Point><coordinates>-84.8990413333333,33.1160916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS05109-A</name>
+        <description><![CDATA[Date: 7/26/25 8:08 AM
+      Site Name: Yellow Dog
+      AGL: 250
+      Tower Type: Self Support
+      Address: 16458 Hwy 4 East, Senatobia, Tate, MS 38668-6549]]></description>
+        <Point><coordinates>-89.9182604444445,34.611225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR40500-T</name>
+        <description><![CDATA[Date: 7/26/25 8:08 AM
+      Site Name: I-530 at Hensley AR
+      AGL: 220
+      Tower Type: Self Support
+      Address: 9254 Grant 58, Redfield, Grant, AR 72132]]></description>
+        <Point><coordinates>-92.215101,34.4928336666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18072-A</name>
+        <description><![CDATA[Date: 7/26/25 8:09 AM
+      Site Name: SugarBowl North
+      AGL: 195
+      Tower Type: Monopole
+      Address: 12700 Sugar Bowl Rd., Myakka City, Manatee, FL 34251]]></description>
+        <Point><coordinates>-82.1191632222222,27.30925,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

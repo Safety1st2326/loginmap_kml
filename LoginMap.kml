@@ -667,5 +667,14 @@
       Address: 36342 Highway 78, Julian, San Diego, CA 92036]]></description>
         <Point><coordinates>-116.547127444444,33.0690048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO47016-A</name>
+        <description><![CDATA[Date: 7/27/25 5:42 PM
+      Site Name: Sunwest Properties
+      AGL: 125
+      Tower Type: Monopole
+      Address: 3508 S. Prospect Ave., Kansas City, Jackson (Kansas City), MO 64128]]></description>
+        <Point><coordinates>-94.5536555555556,39.0621027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

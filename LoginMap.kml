@@ -244,5 +244,14 @@
       Address: 4220 Almond Street Ross Transport, Philadelphia, Philadelphia, PA 19137]]></description>
         <Point><coordinates>-75.0800104444444,39.9983107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO11991-B</name>
+        <description><![CDATA[Date: 7/27/25 9:54 AM
+      Site Name: West Line
+      AGL: 230
+      Tower Type: Self Support
+      Address: 27822 State Route D, West Line, Cass, MO 64734]]></description>
+        <Point><coordinates>-94.5945524444444,38.6224493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

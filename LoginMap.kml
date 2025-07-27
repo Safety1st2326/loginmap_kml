@@ -19,5 +19,14 @@
       Address: 3531 Highway 54, Hogansville, Troup, GA 30230]]></description>
         <Point><coordinates>-85.0095916666667,33.180616,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC01038-B</name>
+        <description><![CDATA[Date: 7/27/25 6:48 AM
+      Site Name: Henderson Mountain
+      AGL: 250
+      Tower Type: Self Support
+      Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
+        <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

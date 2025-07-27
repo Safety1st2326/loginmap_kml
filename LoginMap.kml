@@ -136,5 +136,23 @@
       Address: 494 Lane Bridge Road, Odum, Appling, GA 31555]]></description>
         <Point><coordinates>-82.1020527777778,31.8377691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22262-A</name>
+        <description><![CDATA[Date: 7/27/25 8:03 AM
+      Site Name: Upper Manatee
+      AGL: 155
+      Tower Type: Monopole
+      Address: 252 Gates Creek Road, Bradenton, Manatee, FL 34212]]></description>
+        <Point><coordinates>-82.4306271111111,27.501975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22262-A</name>
+        <description><![CDATA[Date: 7/27/25 8:06 AM
+      Site Name: Upper Manatee
+      AGL: 155
+      Tower Type: Monopole
+      Address: 252 Gates Creek Road, Bradenton, Manatee, FL 34212]]></description>
+        <Point><coordinates>-82.4306271111111,27.501975,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -64,5 +64,23 @@
       Address: 3531 Highway 54, Hogansville, Troup, GA 30230]]></description>
         <Point><coordinates>-85.0095916666667,33.180616,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13647-A</name>
+        <description><![CDATA[Date: 7/27/25 7:23 AM
+      Site Name: Rye & SR 64
+      AGL: 246
+      Tower Type: Self Support
+      Address: 16996 Waterline Road, Bradenton, Manatee, FL 34212]]></description>
+        <Point><coordinates>-82.3699715555556,27.4826382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13647-A</name>
+        <description><![CDATA[Date: 7/27/25 7:25 AM
+      Site Name: Rye & SR 64
+      AGL: 246
+      Tower Type: Self Support
+      Address: 16996 Waterline Road, Bradenton, Manatee, FL 34212]]></description>
+        <Point><coordinates>-82.3699715555556,27.4826382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

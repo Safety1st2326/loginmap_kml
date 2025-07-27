@@ -28,5 +28,32 @@
       Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
         <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM21759-A</name>
+        <description><![CDATA[Date: 7/27/25 7:07 AM
+      Site Name: White Rock NM Tower
+      AGL: 190
+      Tower Type: Guyed
+      Address: 1 Pajarito Road, Los Alamos, Los Alamos, NM 87544]]></description>
+        <Point><coordinates>-106.222407666667,35.8243521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20868-A</name>
+        <description><![CDATA[Date: 7/27/25 7:07 AM
+      Site Name: MORRISON
+      AGL: 340
+      Tower Type: Guyed
+      Address: Route 1, Box 143, Stillwater, Noble, OK 73061]]></description>
+        <Point><coordinates>-97.0490302222222,36.2746604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 7/27/25 7:09 AM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

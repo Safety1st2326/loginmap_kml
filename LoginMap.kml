@@ -307,5 +307,23 @@
       Address: 5709 Hickman, Wimauma, Hillsborough, FL 33598]]></description>
         <Point><coordinates>-82.3030027777778,27.7103916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA20554-A</name>
+        <description><![CDATA[Date: 7/27/25 10:36 AM
+      Site Name: Marysville 2 CA
+      AGL: 140
+      Tower Type: Self Support
+      Address: 5724 Chestnut Road, Marysville, Yuba, CA 95901]]></description>
+        <Point><coordinates>-121.567166,39.1173882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20646-A</name>
+        <description><![CDATA[Date: 7/27/25 10:39 AM
+      Site Name: Vienna 5 IL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 745 Ganntown Lane, Grantsburg, Johnson, IL 62943]]></description>
+        <Point><coordinates>-88.7978635555556,37.3673437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

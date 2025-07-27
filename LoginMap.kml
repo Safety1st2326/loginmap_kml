@@ -271,5 +271,41 @@
       Address: 5004 NE 45th Terrace, Kansas City, Clay, MO 64117]]></description>
         <Point><coordinates>-94.5209521111111,39.1767326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17656-A</name>
+        <description><![CDATA[Date: 7/27/25 10:24 AM
+      Site Name: Headquarters
+      AGL: 251
+      Tower Type: Self Support
+      Address: W7695 - 22nd Street W, Necedah, Juneau, WI 54646]]></description>
+        <Point><coordinates>-90.1519463888889,44.0200404444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA17053-A</name>
+        <description><![CDATA[Date: 7/27/25 10:19 AM
+      Site Name: Smithfield GA
+      AGL: 252
+      Tower Type: Self Support
+      Address: 101 Thomas Road, Bowdon, Carroll, GA 30182]]></description>
+        <Point><coordinates>-85.25075,33.5914496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12462-A</name>
+        <description><![CDATA[Date: 7/27/25 10:19 AM
+      Site Name: Wimauma 2 FL
+      AGL: 161
+      Tower Type: Monopole
+      Address: 5709 Hickman, Wimauma, Hillsborough, FL 33598]]></description>
+        <Point><coordinates>-82.3030027777778,27.7103916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12462-A</name>
+        <description><![CDATA[Date: 7/27/25 10:19 AM
+      Site Name: Wimauma 2 FL
+      AGL: 161
+      Tower Type: Monopole
+      Address: 5709 Hickman, Wimauma, Hillsborough, FL 33598]]></description>
+        <Point><coordinates>-82.3030027777778,27.7103916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

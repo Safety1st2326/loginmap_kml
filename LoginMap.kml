@@ -469,5 +469,32 @@
       Address: 2802 Buren Avenue, Camden, Camden, NJ 08005]]></description>
         <Point><coordinates>-75.0955218888889,39.960825,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL06917-B</name>
+        <description><![CDATA[Date: 7/27/25 1:04 PM
+      Site Name: Metropolis
+      AGL: 200
+      Tower Type: Self Support
+      Address: 5148 Gurley Road, Metropolis, Massac, IL 62960-3131]]></description>
+        <Point><coordinates>-88.6953857777778,37.1729243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX29621-A</name>
+        <description><![CDATA[Date: 7/27/25 1:04 PM
+      Site Name: Wallis, TX
+      AGL: 191
+      Tower Type: Guyed
+      Address: 6918 Marek Street, Wallis, Austin, TX 77485]]></description>
+        <Point><coordinates>-96.0638888888889,29.639083,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO47064-A</name>
+        <description><![CDATA[Date: 7/27/25 1:01 PM
+      Site Name: Oakview
+      AGL: 125
+      Tower Type: Monopole
+      Address: 6404 N. Locust St., Oakview, Clay, MO 64118]]></description>
+        <Point><coordinates>-94.5756237777778,39.2106397222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -514,5 +514,14 @@
       Address: 2942 East Tioga Street, Philadelphia, Philadelphia, PA 19134]]></description>
         <Point><coordinates>-75.0920802222222,39.983608,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46284-A</name>
+        <description><![CDATA[Date: 7/27/25 1:36 PM
+      Site Name: Bloomingdale (Clearshot)
+      AGL: 188
+      Tower Type: Monopole
+      Address: 2998 Duncan Cove Way, Valrico, Hillsborough, FL 33598]]></description>
+        <Point><coordinates>-82.227391,27.8769271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

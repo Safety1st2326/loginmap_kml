@@ -586,5 +586,23 @@
       Address: 3948 South Semoran Boulevard, Orlando, Orange, FL 32822]]></description>
         <Point><coordinates>-81.3127805555555,28.5034527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10331-A</name>
+        <description><![CDATA[Date: 7/27/25 3:33 PM
+      Site Name: Osceola 3 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2712 Lithia Pinecrest Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2550222222222,27.905325,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40945-A</name>
+        <description><![CDATA[Date: 7/27/25 3:33 PM
+      Site Name: Cremmins
+      AGL: 195
+      Tower Type: Monopole
+      Address: 468 Shiloh Road, Cedartown, Polk, GA 30125]]></description>
+        <Point><coordinates>-85.3583277777778,33.9539027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

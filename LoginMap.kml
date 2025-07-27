@@ -694,5 +694,14 @@
       Address: 3819 Kensington Ave., Kansas City, Jackson (Kansas City), MO 64130]]></description>
         <Point><coordinates>-94.5317965555556,39.0556916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22534-A</name>
+        <description><![CDATA[Date: 7/27/25 6:16 PM
+      Site Name: Woodstock North
+      AGL: 156
+      Tower Type: Monopole
+      Address: 12410 Charles Road, Woodstock, McHenry, IL 60098]]></description>
+        <Point><coordinates>-88.4386913333333,42.36105,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

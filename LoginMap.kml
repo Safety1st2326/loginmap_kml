@@ -82,5 +82,14 @@
       Address: 16996 Waterline Road, Bradenton, Manatee, FL 34212]]></description>
         <Point><coordinates>-82.3699715555556,27.4826382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/27/25 7:36 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

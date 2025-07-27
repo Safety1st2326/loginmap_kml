@@ -181,5 +181,14 @@
       Address: 650-B Boll Weevil Circle, Enterprise, Coffee, AL 36330]]></description>
         <Point><coordinates>-85.8294826666667,31.3209132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM11940-A</name>
+        <description><![CDATA[Date: 7/27/25 8:42 AM
+      Site Name: Arroyo Seco 2 NM
+      AGL: 191
+      Tower Type: Self Support
+      Address: 18473 US 84/285, Espanola, Santa Fe, NM 87532]]></description>
+        <Point><coordinates>-106.021957666667,35.9536055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

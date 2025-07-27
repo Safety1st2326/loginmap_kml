@@ -676,5 +676,14 @@
       Address: 3508 S. Prospect Ave., Kansas City, Jackson (Kansas City), MO 64128]]></description>
         <Point><coordinates>-94.5536555555556,39.0621027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL21851-A</name>
+        <description><![CDATA[Date: 7/27/25 5:39 PM
+      Site Name: LINEVILLE AL TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 154 Denson Subdivision Road, Lineville, CLAY, AL 36266]]></description>
+        <Point><coordinates>-85.7219715555556,33.3083611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -199,5 +199,14 @@
       Address: 2022 County Road 3155, Cookville, Titus, TX 75455]]></description>
         <Point><coordinates>-94.8424718888889,33.2175548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46383-A</name>
+        <description><![CDATA[Date: 7/27/25 9:03 AM
+      Site Name: North Tec
+      AGL: 193
+      Tower Type: Monopole
+      Address: 85 Tyus Carrollton Road, Carrollton, Carroll, GA 30117]]></description>
+        <Point><coordinates>-85.1168493333333,33.5600305555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

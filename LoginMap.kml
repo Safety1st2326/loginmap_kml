@@ -343,5 +343,14 @@
       Address: 3208 East Surona Road, Wimauma, Hillsborough, FL 33598-7414]]></description>
         <Point><coordinates>-82.3773104444444,27.6492718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO41386-T</name>
+        <description><![CDATA[Date: 7/27/25 11:13 AM
+      Site Name: Flora Park East
+      AGL: 122
+      Tower Type: Monopole
+      Address: 5925 N. Flora Ave., Gladstone, Clay, MO 64118]]></description>
+        <Point><coordinates>-94.5619527777778,39.2026555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

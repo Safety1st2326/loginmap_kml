@@ -55,5 +55,14 @@
       Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
         <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09917-A</name>
+        <description><![CDATA[Date: 7/27/25 7:12 AM
+      Site Name: Philpot
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3531 Highway 54, Hogansville, Troup, GA 30230]]></description>
+        <Point><coordinates>-85.0095916666667,33.180616,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

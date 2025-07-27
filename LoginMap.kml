@@ -550,5 +550,14 @@
       Address: 4583 Orwood Road, Brentwood, Contra Costa, CA 94513]]></description>
         <Point><coordinates>-121.599924666667,37.929066,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO41364-T</name>
+        <description><![CDATA[Date: 7/27/25 2:33 PM
+      Site Name: DECO RL
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1900 Nicholson Avenue, Kansas City, Jackson, MO 64120]]></description>
+        <Point><coordinates>-94.559875,39.1188937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

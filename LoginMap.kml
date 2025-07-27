@@ -325,5 +325,14 @@
       Address: 745 Ganntown Lane, Grantsburg, Johnson, IL 62943]]></description>
         <Point><coordinates>-88.7978635555556,37.3673437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47635-A</name>
+        <description><![CDATA[Date: 7/27/25 10:51 AM
+      Site Name: Klamath Sports Complex
+      AGL: 70
+      Tower Type: Stealth
+      Address: 905 Wiard Street, Klamath Falls, Klamath, OR 97603]]></description>
+        <Point><coordinates>-121.733485777778,42.2221215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

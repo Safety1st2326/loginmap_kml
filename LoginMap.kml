@@ -352,5 +352,14 @@
       Address: 5925 N. Flora Ave., Gladstone, Clay, MO 64118]]></description>
         <Point><coordinates>-94.5619527777778,39.2026555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02623-A</name>
+        <description><![CDATA[Date: 7/27/25 11:33 AM
+      Site Name: Tallapoosa
+      AGL: 361
+      Tower Type: Guyed
+      Address: 2174 Old Highway 100, Tallapoosa, Haralson, GA 30176-4216]]></description>
+        <Point><coordinates>-85.3027361111111,33.6848552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

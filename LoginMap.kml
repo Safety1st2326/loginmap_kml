@@ -253,5 +253,14 @@
       Address: 27822 State Route D, West Line, Cass, MO 64734]]></description>
         <Point><coordinates>-94.5945524444444,38.6224493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK08897-A</name>
+        <description><![CDATA[Date: 7/27/25 10:00 AM
+      Site Name: McAlester
+      AGL: 195
+      Tower Type: Self Support
+      Address: 10 West Washington Street, McAlester, Pittsburg, OK 74501-4441]]></description>
+        <Point><coordinates>-95.7705298888889,34.9343302222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

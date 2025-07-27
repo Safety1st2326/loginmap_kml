@@ -703,5 +703,14 @@
       Address: 12410 Charles Road, Woodstock, McHenry, IL 60098]]></description>
         <Point><coordinates>-88.4386913333333,42.36105,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20762-A</name>
+        <description><![CDATA[Date: 7/27/25 6:33 PM
+      Site Name: Hibbing
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3621 TOWER ROAD, HIBBING, St. Louis, MN 55746]]></description>
+        <Point><coordinates>-92.9554861111111,47.3809271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

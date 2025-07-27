@@ -262,5 +262,14 @@
       Address: 10 West Washington Street, McAlester, Pittsburg, OK 74501-4441]]></description>
         <Point><coordinates>-95.7705298888889,34.9343302222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO41375-T</name>
+        <description><![CDATA[Date: 7/27/25 10:12 AM
+      Site Name: Hylton
+      AGL: 140
+      Tower Type: Monopole
+      Address: 5004 NE 45th Terrace, Kansas City, Clay, MO 64117]]></description>
+        <Point><coordinates>-94.5209521111111,39.1767326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

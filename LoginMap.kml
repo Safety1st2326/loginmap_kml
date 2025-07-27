@@ -874,5 +874,23 @@
       Address: 18677 State Hwy 160, Rio Vista, Sacramento, CA 94571]]></description>
         <Point><coordinates>-121.700622222222,38.1033527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM20858-A</name>
+        <description><![CDATA[Date: 7/26/25 7:02 PM
+      Site Name: TAOS TOWN
+      AGL: 146
+      Tower Type: Guyed
+      Address: 107 B Kit Lane, Taos, Taos, NM 87571]]></description>
+        <Point><coordinates>-105.586888555556,36.3900552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM20858-A</name>
+        <description><![CDATA[Date: 7/26/25 7:02 PM
+      Site Name: TAOS TOWN
+      AGL: 50
+      Tower Type: Wood Pole
+      Address: 107 B Kit Lane, Taos, Taos, NM 87571]]></description>
+        <Point><coordinates>-105.586888555556,36.3900552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

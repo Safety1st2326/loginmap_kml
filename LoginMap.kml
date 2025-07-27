@@ -208,5 +208,23 @@
       Address: 85 Tyus Carrollton Road, Carrollton, Carroll, GA 30117]]></description>
         <Point><coordinates>-85.1168493333333,33.5600305555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL14794-B</name>
+        <description><![CDATA[Date: 7/27/25 9:16 AM
+      Site Name: Elwood 2 IL
+      AGL: 195
+      Tower Type: Monopole
+      Address: 25945 S. Tehle Road, Elwood, Will, IL 60421]]></description>
+        <Point><coordinates>-88.0907441111111,41.4143138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20286-A</name>
+        <description><![CDATA[Date: 7/27/25 9:16 AM
+      Site Name: Buchanan Tower
+      AGL: 340
+      Tower Type: Guyed
+      Address: 2210 - 78 Ave SE, Pingree, Stutsman, ND 58476]]></description>
+        <Point><coordinates>-98.8466718888889,47.0943413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

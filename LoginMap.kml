@@ -532,5 +532,14 @@
       Address: 1940 Sunset Rd, East Contra Costa, Contra Costa, CA 94513]]></description>
         <Point><coordinates>-121.659761111111,37.9551055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA08903-A</name>
+        <description><![CDATA[Date: 7/27/25 2:09 PM
+      Site Name: Poplar Springs 2 GA
+      AGL: 253
+      Tower Type: Self Support
+      Address: 5981 Georgia Highway 100 N, Tallapoosa, Haralson, GA 30176]]></description>
+        <Point><coordinates>-85.2919524444444,33.8096611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

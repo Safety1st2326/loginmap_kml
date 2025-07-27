@@ -388,5 +388,59 @@
       Address: 11507 Doneymoor Drive, Riverview, Hillsborough, FL 33569]]></description>
         <Point><coordinates>-82.2828604444445,27.8300548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA10014-A</name>
+        <description><![CDATA[Date: 7/27/25 12:15 PM
+      Site Name: Holland
+      AGL: 190
+      Tower Type: Self Support
+      Address: 49 Leno Road, Holland, Hampden, MA 01521]]></description>
+        <Point><coordinates>-72.1449913333333,42.0699715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT15944-A</name>
+        <description><![CDATA[Date: 7/27/25 12:15 PM
+      Site Name: Shorey
+      AGL: 161
+      Tower Type: Guyed
+      Address: Junction of Molt Road & Popelka Road, Billings, Yellowstone, MT 59106]]></description>
+        <Point><coordinates>-108.764291666667,45.8533277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT15944-A</name>
+        <description><![CDATA[Date: 7/27/25 12:15 PM
+      Site Name: Shorey
+      AGL: 60
+      Tower Type: Self Support
+      Address: Junction of Molt Road & Popelka Road, Billings, Yellowstone, MT 59106]]></description>
+        <Point><coordinates>-108.764375,45.8533111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40700-T</name>
+        <description><![CDATA[Date: 7/27/25 12:18 PM
+      Site Name: Green Valley Church
+      AGL: 65
+      Tower Type: Church Steeple
+      Address: 11652 Bryant St., Yucaipa, San Bernardino, CA 92399]]></description>
+        <Point><coordinates>-117.034874666667,34.0416357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13537-A</name>
+        <description><![CDATA[Date: 7/27/25 12:18 PM
+      Site Name: North Fredericksburg
+      AGL: 345
+      Tower Type: Guyed
+      Address: 2087 Ranch Road 965, Fredericksburg, Gillespie, TX 78624]]></description>
+        <Point><coordinates>-98.8647222222222,30.3041666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA23846-A</name>
+        <description><![CDATA[Date: 7/27/25 12:18 PM
+      Site Name: Knightsen Ave
+      AGL: 81
+      Tower Type: Monopine
+      Address: 4318 Knightsen Ave, Oakley, Contra Costa, CA 94561]]></description>
+        <Point><coordinates>-121.662647222222,37.9870496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

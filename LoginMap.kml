@@ -658,5 +658,14 @@
       Address: 1506 Heather Lakes Boulevard, Brandon, Hillsborough, FL 33511]]></description>
         <Point><coordinates>-82.3074527777778,27.91485,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA22606-A</name>
+        <description><![CDATA[Date: 7/27/25 5:15 PM
+      Site Name: Banner Grade
+      AGL: 55
+      Tower Type: Monopine
+      Address: 36342 Highway 78, Julian, San Diego, CA 92036]]></description>
+        <Point><coordinates>-116.547127444444,33.0690048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

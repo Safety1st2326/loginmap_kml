@@ -361,5 +361,14 @@
       Address: 2174 Old Highway 100, Tallapoosa, Haralson, GA 30176-4216]]></description>
         <Point><coordinates>-85.3027361111111,33.6848552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL06636-A</name>
+        <description><![CDATA[Date: 7/27/25 11:44 AM
+      Site Name: Quint
+      AGL: 298
+      Tower Type: Self Support
+      Address: 3963 BENTON RD., METROPOLIS, MASSAC, IL 62960-3500]]></description>
+        <Point><coordinates>-88.7415746666667,37.274216,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

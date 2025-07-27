@@ -334,5 +334,14 @@
       Address: 905 Wiard Street, Klamath Falls, Klamath, OR 97603]]></description>
         <Point><coordinates>-121.733485777778,42.2221215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL08418-A</name>
+        <description><![CDATA[Date: 7/27/25 11:03 AM
+      Site Name: Wimauma
+      AGL: 299
+      Tower Type: Self Support
+      Address: 3208 East Surona Road, Wimauma, Hillsborough, FL 33598-7414]]></description>
+        <Point><coordinates>-82.3773104444444,27.6492718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

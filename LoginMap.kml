@@ -568,5 +568,23 @@
       Address: 5415 Steadman Road, Buchanan, Haralson, GA 30113]]></description>
         <Point><coordinates>-85.3173798888889,33.8792187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL14866-A</name>
+        <description><![CDATA[Date: 7/27/25 3:13 PM
+      Site Name: Opus Media - Tallahassee
+      AGL: 493
+      Tower Type: Guyed
+      Address: 3002 Olson Road, Tallahassee, Leon, FL 32301]]></description>
+        <Point><coordinates>-84.2330493333333,30.4941357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11866-A</name>
+        <description><![CDATA[Date: 7/27/25 3:18 PM
+      Site Name: Semoran Ave
+      AGL: 146
+      Tower Type: Monopole
+      Address: 3948 South Semoran Boulevard, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.3127805555555,28.5034527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

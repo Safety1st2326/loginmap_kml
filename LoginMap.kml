@@ -496,5 +496,23 @@
       Address: 6404 N. Locust St., Oakview, Clay, MO 64118]]></description>
         <Point><coordinates>-94.5756237777778,39.2106397222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA41720-T</name>
+        <description><![CDATA[Date: 7/27/25 1:21 PM
+      Site Name: Braddock Hills-Mon CemRL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1586 Brinton Rd., Pittsburgh, Allegheny, PA 15221]]></description>
+        <Point><coordinates>-79.8586472222222,40.4118805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA41704-A</name>
+        <description><![CDATA[Date: 7/27/25 1:24 PM
+      Site Name: PGW Tioga
+      AGL: 95
+      Tower Type: Monopole
+      Address: 2942 East Tioga Street, Philadelphia, Philadelphia, PA 19134]]></description>
+        <Point><coordinates>-75.0920802222222,39.983608,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

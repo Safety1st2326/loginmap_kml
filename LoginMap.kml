@@ -685,5 +685,14 @@
       Address: 154 Denson Subdivision Road, Lineville, CLAY, AL 36266]]></description>
         <Point><coordinates>-85.7219715555556,33.3083611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO41368-T</name>
+        <description><![CDATA[Date: 7/27/25 6:01 PM
+      Site Name: Houston Rawland
+      AGL: 151
+      Tower Type: Flagpole
+      Address: 3819 Kensington Ave., Kansas City, Jackson (Kansas City), MO 64130]]></description>
+        <Point><coordinates>-94.5317965555556,39.0556916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

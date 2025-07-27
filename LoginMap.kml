@@ -523,5 +523,14 @@
       Address: 2998 Duncan Cove Way, Valrico, Hillsborough, FL 33598]]></description>
         <Point><coordinates>-82.227391,27.8769271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40783-T</name>
+        <description><![CDATA[Date: 7/27/25 1:54 PM
+      Site Name: Eden Plains
+      AGL: 77
+      Tower Type: Silo
+      Address: 1940 Sunset Rd, East Contra Costa, Contra Costa, CA 94513]]></description>
+        <Point><coordinates>-121.659761111111,37.9551055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

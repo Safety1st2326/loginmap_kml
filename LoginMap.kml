@@ -154,5 +154,14 @@
       Address: 252 Gates Creek Road, Bradenton, Manatee, FL 34212]]></description>
         <Point><coordinates>-82.4306271111111,27.501975,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/27/25 8:16 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

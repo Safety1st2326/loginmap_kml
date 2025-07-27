@@ -226,5 +226,23 @@
       Address: 2210 - 78 Ave SE, Pingree, Stutsman, ND 58476]]></description>
         <Point><coordinates>-98.8466718888889,47.0943413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA41730-T</name>
+        <description><![CDATA[Date: 7/27/25 9:49 AM
+      Site Name: Perrysville-Hiland Presby
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 400 Hiland Valley Drive, Ross, Allegheny, PA 15229]]></description>
+        <Point><coordinates>-80.0371857777778,40.531766,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47685-A</name>
+        <description><![CDATA[Date: 7/27/25 9:49 AM
+      Site Name: Betsy Ross
+      AGL: 102
+      Tower Type: Monopole
+      Address: 4220 Almond Street Ross Transport, Philadelphia, Philadelphia, PA 19137]]></description>
+        <Point><coordinates>-75.0800104444444,39.9983107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

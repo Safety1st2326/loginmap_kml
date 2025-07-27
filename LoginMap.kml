@@ -640,5 +640,23 @@
       Address: 2402 Bell Shoals Road, Brandon, Hillsborough, FL 33511]]></description>
         <Point><coordinates>-82.2723548888889,27.9108305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12459-A</name>
+        <description><![CDATA[Date: 7/27/25 4:31 PM
+      Site Name: Mintz
+      AGL: 160
+      Tower Type: Monopole
+      Address: 1506 Heather Lakes Boulevard, Brandon, Hillsborough, FL 33511]]></description>
+        <Point><coordinates>-82.3074527777778,27.91485,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12459-A</name>
+        <description><![CDATA[Date: 7/27/25 4:31 PM
+      Site Name: Mintz
+      AGL: 160
+      Tower Type: Monopole
+      Address: 1506 Heather Lakes Boulevard, Brandon, Hillsborough, FL 33511]]></description>
+        <Point><coordinates>-82.3074527777778,27.91485,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

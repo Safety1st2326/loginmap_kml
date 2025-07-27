@@ -451,5 +451,23 @@
       Address: 12104 McMullen Loop, Riverview (unincorporated), Hillsborough, FL 33569]]></description>
         <Point><coordinates>-82.2941968888889,27.8657,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41911-T</name>
+        <description><![CDATA[Date: 7/27/25 12:43 PM
+      Site Name: Vader-FM 1015
+      AGL: 130
+      Tower Type: Monopole
+      Address: 1702 N. International Blvd. , Weslaco, Hidalgo, TX 78596]]></description>
+        <Point><coordinates>-97.9579444444445,26.1785826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ41471-T</name>
+        <description><![CDATA[Date: 7/27/25 12:49 PM
+      Site Name: Express Marine
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2802 Buren Avenue, Camden, Camden, NJ 08005]]></description>
+        <Point><coordinates>-75.0955218888889,39.960825,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

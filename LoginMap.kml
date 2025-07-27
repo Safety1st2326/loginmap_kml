@@ -622,5 +622,23 @@
       Address: 39364 Oak Glen Rd, Yucaipa, San Bernardino, CA 92399]]></description>
         <Point><coordinates>-116.938585777778,34.0492274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL18322-A</name>
+        <description><![CDATA[Date: 7/27/25 4:03 PM
+      Site Name: Bell Shoals Church
+      AGL: 150
+      Tower Type: Stealth
+      Address: 2402 Bell Shoals Road, Brandon, Hillsborough, FL 33511]]></description>
+        <Point><coordinates>-82.2723548888889,27.9108305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18322-A</name>
+        <description><![CDATA[Date: 7/27/25 4:03 PM
+      Site Name: Bell Shoals Church
+      AGL: 150
+      Tower Type: Stealth
+      Address: 2402 Bell Shoals Road, Brandon, Hillsborough, FL 33511]]></description>
+        <Point><coordinates>-82.2723548888889,27.9108305555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -541,5 +541,14 @@
       Address: 5981 Georgia Highway 100 N, Tallapoosa, Haralson, GA 30176]]></description>
         <Point><coordinates>-85.2919524444444,33.8096611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40548-T</name>
+        <description><![CDATA[Date: 7/27/25 2:27 PM
+      Site Name: Discovery Bay
+      AGL: 123
+      Tower Type: Monopine
+      Address: 4583 Orwood Road, Brentwood, Contra Costa, CA 94513]]></description>
+        <Point><coordinates>-121.599924666667,37.929066,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

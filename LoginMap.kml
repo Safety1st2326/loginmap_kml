@@ -91,5 +91,50 @@
       Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
         <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS10872-A</name>
+        <description><![CDATA[Date: 7/27/25 7:51 AM
+      Site Name: Valley Center 2 KS
+      AGL: 180
+      Tower Type: Self Support
+      Address: 200 South Cedar, Valley Center, Sedgwick, KS 67147]]></description>
+        <Point><coordinates>-97.3778048888889,37.8296104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/27/25 7:54 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14086-S</name>
+        <description><![CDATA[Date: 7/27/25 7:54 AM
+      Site Name: Viola 2 GA
+      AGL: 180
+      Tower Type: Monopole
+      Address: North side of Georgia Highway 34 at Highway 219, Franklin, Heard, GA 30217]]></description>
+        <Point><coordinates>-85.1616944444444,33.2444996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/27/25 7:57 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14386-A</name>
+        <description><![CDATA[Date: 7/27/25 7:57 AM
+      Site Name: Hwy 121
+      AGL: 301
+      Tower Type: Guyed
+      Address: 494 Lane Bridge Road, Odum, Appling, GA 31555]]></description>
+        <Point><coordinates>-82.1020527777778,31.8377691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

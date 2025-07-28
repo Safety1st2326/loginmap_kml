@@ -1270,5 +1270,23 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR45036-A</name>
+        <description><![CDATA[Date: 7/28/25 12:27 PM
+      Site Name: Diaz-Holden
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3710 HWY 67 NORTH , DIAZ, Jackson, AR 72043]]></description>
+        <Point><coordinates>-91.2513583333333,35.6424268888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41998-T</name>
+        <description><![CDATA[Date: 7/28/25 12:14 PM
+      Site Name: Hoelker
+      AGL: 125
+      Tower Type: Monopole
+      Address: 802 #A Summer Park Dr., Stafford, Fort Bend, TX 77477]]></description>
+        <Point><coordinates>-95.5689437777778,29.6089444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

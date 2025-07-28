@@ -2035,5 +2035,14 @@
       Address: 1330  East Lugonia, Redlands, San Bernardino, CA 92374]]></description>
         <Point><coordinates>-117.159333333333,34.0683326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21555-A</name>
+        <description><![CDATA[Date: 7/28/25 5:40 PM
+      Site Name: Blossom Hill
+      AGL: 180
+      Tower Type: Monopole
+      Address: 107 Anderson Street NE, Rome, Floyd, GA 30161]]></description>
+        <Point><coordinates>-85.1552055555556,34.2692298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

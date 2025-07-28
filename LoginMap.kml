@@ -1810,5 +1810,32 @@
       Address: 17811 Forest Service 742 Rd, Flagstaff, Coconino, AZ 86001]]></description>
         <Point><coordinates>-111.551536111111,35.3930941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL40114-T</name>
+        <description><![CDATA[Date: 7/28/25 4:05 PM
+      Site Name: Village of Bridgeview
+      AGL: 120
+      Tower Type: Monopole
+      Address: 8900 South 77th Ave, Bridgeview, Cook, IL 60455]]></description>
+        <Point><coordinates>-87.8089,41.7288326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41139-T</name>
+        <description><![CDATA[Date: 7/28/25 4:05 PM
+      Site Name: DATT Inc RL
+      AGL: 251
+      Tower Type: Self Support
+      Address: RR#2 Box 216, Jasonville, Greene, IN 47438]]></description>
+        <Point><coordinates>-87.186358,39.1658388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01225-A</name>
+        <description><![CDATA[Date: 7/28/25 3:54 PM
+      Site Name: Tampa
+      AGL: 185
+      Tower Type: Self Support
+      Address: 5131 North Florida Avenue, Tampa, Hillsborough, FL 33603-2137]]></description>
+        <Point><coordinates>-82.4591055555556,27.993783,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

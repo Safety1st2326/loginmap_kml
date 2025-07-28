@@ -1126,5 +1126,50 @@
       Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
         <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45656-A</name>
+        <description><![CDATA[Date: 7/28/25 11:51 AM
+      Site Name: Bryant 5 CA
+      AGL: 73
+      Tower Type: Tree
+      Address: 1096 Calimesa Blvd., Calimesa, Riverside, CA 92320]]></description>
+        <Point><coordinates>-117.061188888889,33.9976996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC14972-A</name>
+        <description><![CDATA[Date: 7/28/25 11:57 AM
+      Site Name: Carpenter 5 NC
+      AGL: 195
+      Tower Type: Monopole
+      Address: 43 Broyles Rd., Hendersonville, Henderson, NC 28791]]></description>
+        <Point><coordinates>-82.534108,35.342783,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46291-A</name>
+        <description><![CDATA[Date: 7/28/25 11:57 AM
+      Site Name: DOLPHIN-I-95 II
+      AGL: 135
+      Tower Type: Monopole
+      Address: 650 NW 8th Steet, Miami, Miami-Dade, FL 33128]]></description>
+        <Point><coordinates>-80.2054536111111,25.7813971111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/28/25 11:57 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC14972-A</name>
+        <description><![CDATA[Date: 7/28/25 11:57 AM
+      Site Name: Carpenter 5 NC
+      AGL: 195
+      Tower Type: Monopole
+      Address: 43 Broyles Rd., Hendersonville, Henderson, NC 28791]]></description>
+        <Point><coordinates>-82.534108,35.342783,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

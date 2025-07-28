@@ -1216,5 +1216,59 @@
       Address: 200 River Mill Road, Ball Ground, Cherokee, GA 30107]]></description>
         <Point><coordinates>-84.3963218888889,34.3040333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN22234-A</name>
+        <description><![CDATA[Date: 7/28/25 12:12 PM
+      Site Name: Rochester 5 MN
+      AGL: 990
+      Tower Type: Guyed
+      Address: 2003 70th Avenue NE CR 119, Rochester, Olmsted, MN 55906]]></description>
+        <Point><coordinates>-92.340408,44.0411468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46312-A</name>
+        <description><![CDATA[Date: 7/28/25 12:12 PM
+      Site Name: Flemister
+      AGL: 185
+      Tower Type: Monopole
+      Address: 740 White Oak Church Road , Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.926091,33.855825,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41963-T</name>
+        <description><![CDATA[Date: 7/28/25 12:13 PM
+      Site Name: Trevino
+      AGL: 146
+      Tower Type: Monopole
+      Address: 27718 ? Nelson St, Spring, Harris, TX 77373]]></description>
+        <Point><coordinates>-95.4216937777778,30.0934718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40416-T</name>
+        <description><![CDATA[Date: 7/28/25 12:15 PM
+      Site Name: Guniganti Pond
+      AGL: 101
+      Tower Type: Monopole
+      Address: 20731 Imperial Valley Dr., Houston, Harris, TX 77073]]></description>
+        <Point><coordinates>-95.4091666666667,29.9929163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16132-B</name>
+        <description><![CDATA[Date: 7/28/25 12:15 PM
+      Site Name: Trivoli 2 IL
+      AGL: 110
+      Tower Type: Monopole
+      Address: Farmington Road and Moran Road, Trivoli, Peoria, IL 61569]]></description>
+        <Point><coordinates>-89.8999552222222,40.6966468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 7/28/25 12:03 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

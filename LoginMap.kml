@@ -1288,5 +1288,23 @@
       Address: 802 #A Summer Park Dr., Stafford, Fort Bend, TX 77477]]></description>
         <Point><coordinates>-95.5689437777778,29.6089444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09920-A</name>
+        <description><![CDATA[Date: 7/28/25 12:33 PM
+      Site Name: Sharp Top
+      AGL: 199
+      Tower Type: Monopole
+      Address: 869 Knox Bridge Highway, White, Cherokee, GA 30184]]></description>
+        <Point><coordinates>-84.6425468888889,34.2172743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01571-B</name>
+        <description><![CDATA[Date: 7/28/25 12:36 PM
+      Site Name: Lower Makefield
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1100 Edgewood Rd., Yardley, Bucks, PA 19067-1689]]></description>
+        <Point><coordinates>-74.8418496666667,40.2262493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

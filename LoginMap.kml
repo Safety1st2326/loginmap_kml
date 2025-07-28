@@ -865,5 +865,14 @@
       Address: 1444 Brightside Lane, Baton Rouge, East Baton Rouge, LA 70820]]></description>
         <Point><coordinates>-91.174366,30.3885468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS10844-A</name>
+        <description><![CDATA[Date: 7/28/25 10:11 AM
+      Site Name: Goddard Easy St
+      AGL: 193
+      Tower Type: Self Support
+      Address: 501 Easy Street, Goddard, Sedgwick, KS 67052]]></description>
+        <Point><coordinates>-97.5836385555556,37.6607222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

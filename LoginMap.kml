@@ -964,5 +964,32 @@
       Address: 1424 East Bellows, Mount Pleasant, Isabella, MI 48858]]></description>
         <Point><coordinates>-84.7597222222222,43.5923052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41115-T</name>
+        <description><![CDATA[Date: 7/28/25 10:43 AM
+      Site Name: Kaough Distributing
+      AGL: 120
+      Tower Type: Monopole
+      Address: 2617A Brooklyn Avenue, Ft Wayne, Allen, IN 46802]]></description>
+        <Point><coordinates>-85.1639083333333,41.0606,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08796-A</name>
+        <description><![CDATA[Date: 7/28/25 10:49 AM
+      Site Name: Ridertown
+      AGL: 265
+      Tower Type: Guyed
+      Address: 8920 W. SR 26, Portland, Jay, IN 47371]]></description>
+        <Point><coordinates>-85.1491996666667,40.4448802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45919-A</name>
+        <description><![CDATA[Date: 7/28/25 10:49 AM
+      Site Name: Maintenance Yard 2 CA
+      AGL: 74
+      Tower Type: Tree
+      Address: 1001 Cougar Way, BEAUMONT, RIVERSIDE, CA 92223]]></description>
+        <Point><coordinates>-116.968371555556,33.9535916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

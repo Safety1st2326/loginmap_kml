@@ -316,5 +316,68 @@
       Address: 27 Candlewood Lane, Dennisport, Barnstable, MA 02639]]></description>
         <Point><coordinates>-70.1315826666667,41.668066,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA14386-A</name>
+        <description><![CDATA[Date: 7/28/25 8:07 AM
+      Site Name: Hwy 121
+      AGL: 301
+      Tower Type: Guyed
+      Address: 494 Lane Bridge Road, Odum, Appling, GA 31555]]></description>
+        <Point><coordinates>-82.1020527777778,31.8377691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46228-A</name>
+        <description><![CDATA[Date: 7/28/25 8:22 AM
+      Site Name: Swan Park
+      AGL: 120
+      Tower Type: Tree
+      Address: 808 South Dale Mabry Hwy, Tampa, Hillsborough, FL 33609]]></description>
+        <Point><coordinates>-82.5050555555556,27.9353385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41932-T</name>
+        <description><![CDATA[Date: 7/28/25 8:11 AM
+      Site Name: Curves
+      AGL: 150
+      Tower Type: Monopole
+      Address: 13013 Old McGregor Road, Woodway, McLennan, TX 76712]]></description>
+        <Point><coordinates>-97.2371802222222,31.4845968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01127-B</name>
+        <description><![CDATA[Date: 7/28/25 8:13 AM
+      Site Name: West Grant
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12080 Shell Avenue, Hobe Sound, Martin, FL 33455-3404]]></description>
+        <Point><coordinates>-80.125166,27.0566388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46826-A</name>
+        <description><![CDATA[Date: 7/28/25 8:11 AM
+      Site Name: Hamilton 12 MI
+      AGL: 240
+      Tower Type: Guyed
+      Address: 4515  134th Ave. , Hamilton, Allegan, MI 49419]]></description>
+        <Point><coordinates>-85.9870552222222,42.6683882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46228-A</name>
+        <description><![CDATA[Date: 7/28/25 8:19 AM
+      Site Name: Swan Park
+      AGL: 120
+      Tower Type: Tree
+      Address: 808 South Dale Mabry Hwy, Tampa, Hillsborough, FL 33609]]></description>
+        <Point><coordinates>-82.5050555555556,27.9353385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/28/25 8:25 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

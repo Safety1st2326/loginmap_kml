@@ -523,5 +523,68 @@
       Address: 1211 South Courtney, El Reno, Canadian, OK 73036]]></description>
         <Point><coordinates>-98.0954468888889,35.5227687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47444-A</name>
+        <description><![CDATA[Date: 7/28/25 9:13 AM
+      Site Name: Ez Self Storage - Warren Township
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
+        <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21598-A</name>
+        <description><![CDATA[Date: 7/28/25 9:13 AM
+      Site Name: Holly Hills
+      AGL: 250
+      Tower Type: Self Support
+      Address: 210 Legion Drive, Columbus, Lowndes, MS 39705]]></description>
+        <Point><coordinates>-88.4339857777778,33.5354496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10872-A</name>
+        <description><![CDATA[Date: 7/28/25 9:16 AM
+      Site Name: Valley Center 2 KS
+      AGL: 180
+      Tower Type: Self Support
+      Address: 200 South Cedar, Valley Center, Sedgwick, KS 67147]]></description>
+        <Point><coordinates>-97.3778048888889,37.8296104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/28/25 9:17 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/28/25 9:18 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14152-A</name>
+        <description><![CDATA[Date: 7/28/25 9:18 AM
+      Site Name: Hamilton 8 GA
+      AGL: 298
+      Tower Type: Self Support
+      Address: 11343 US Highway 27, Hamilton, Harris, GA 31811]]></description>
+        <Point><coordinates>-84.8726604444444,32.7428246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 7/28/25 9:06 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

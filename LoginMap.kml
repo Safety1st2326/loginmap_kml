@@ -1531,5 +1531,14 @@
       Address: 4848 East Busch Blvd., Tampa, Hillsborough, FL 33617]]></description>
         <Point><coordinates>-82.4056388888889,28.0336385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02361-S</name>
+        <description><![CDATA[Date: 7/28/25 2:01 PM
+      Site Name: Yellow Creek
+      AGL: 195
+      Tower Type: Monopole
+      Address: 4999 Hightower Road, Ball Ground, Cherokee, GA 30107]]></description>
+        <Point><coordinates>-84.2590805555556,34.2968968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

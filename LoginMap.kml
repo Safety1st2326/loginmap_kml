@@ -253,5 +253,59 @@
       Address: 131  President St., Fort Ashby, Mineral, WV 26719]]></description>
         <Point><coordinates>-78.7726076666667,39.5023777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN20014-A</name>
+        <description><![CDATA[Date: 7/28/25 7:57 AM
+      Site Name: MOORESVILLE TOWER
+      AGL: 288
+      Tower Type: Guyed
+      Address: 199 Turner Road, Mooresville, Morgan, IN 46158]]></description>
+        <Point><coordinates>-86.3066666666667,39.6044444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02926-S</name>
+        <description><![CDATA[Date: 7/28/25 7:57 AM
+      Site Name: Shoemaker
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2768 Buchanan Hwy, Cedartown, Polk, GA 30125-5815]]></description>
+        <Point><coordinates>-85.2564277777778,33.9549583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/28/25 7:57 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL18152-A</name>
+        <description><![CDATA[Date: 7/28/25 7:57 AM
+      Site Name: Downers Grove
+      AGL: 160
+      Tower Type: Guyed
+      Address: 8115 Lemont Road, Darien, DuPage, IL 60561]]></description>
+        <Point><coordinates>-88.0117,41.7398996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 7/28/25 7:57 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/28/25 7:58 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

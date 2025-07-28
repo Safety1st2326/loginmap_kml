@@ -1486,5 +1486,23 @@
       Address: 23307 2/3 W Hardy , Spring, Harris, TX 77373]]></description>
         <Point><coordinates>-95.40975,30.0458052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA00564-A</name>
+        <description><![CDATA[Date: 7/28/25 1:40 PM
+      Site Name: Cartersville
+      AGL: 200
+      Tower Type: Self Support
+      Address: 100 Industrial Drive, Cartersville, Bartow, GA 30120-3967]]></description>
+        <Point><coordinates>-84.7903135555556,34.1560111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14151-A</name>
+        <description><![CDATA[Date: 7/28/25 1:43 PM
+      Site Name: Euharlee
+      AGL: 296
+      Tower Type: Guyed
+      Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
+        <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -721,5 +721,95 @@
       Address: 3860 Stony Loop Road, Isabella, Lake, MN 55607]]></description>
         <Point><coordinates>-91.3936705,47.6126197222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN04795-A</name>
+        <description><![CDATA[Date: 7/28/25 9:52 AM
+      Site Name: Hartford 2 TN
+      AGL: 301
+      Tower Type: Self Support
+      Address: 3552 Mill Creek Road, Hartford, Cocke, TN 37753]]></description>
+        <Point><coordinates>-83.1426774444444,35.8193271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15886-A</name>
+        <description><![CDATA[Date: 7/28/25 9:52 AM
+      Site Name: Ave Maria
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12735-B</name>
+        <description><![CDATA[Date: 7/28/25 9:52 AM
+      Site Name: US 14 & County A
+      AGL: 180
+      Tower Type: Monopole
+      Address: 4232 County Highway A, Oregon, Dane, WI 53575]]></description>
+        <Point><coordinates>-89.3306604444444,42.8987968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 7/28/25 9:52 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA10791-A</name>
+        <description><![CDATA[Date: 7/28/25 9:40 AM
+      Site Name: Carters Lake
+      AGL: 302
+      Tower Type: Self Support
+      Address: 6058 Highway 382 West, Ellijay, Gilmer, GA 30540]]></description>
+        <Point><coordinates>-84.5887191111111,34.6176465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA42039-T</name>
+        <description><![CDATA[Date: 7/28/25 9:55 AM
+      Site Name: Meadow Lk-Badders MP
+      AGL: 160
+      Tower Type: Monopole
+      Address: 19103 Badke Road, Snohomish, Snohomish, WA 98290]]></description>
+        <Point><coordinates>-121.973793777778,47.9082944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 7/28/25 9:55 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 7/28/25 9:55 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH11356-A</name>
+        <description><![CDATA[Date: 7/28/25 9:41 AM
+      Site Name: West Newark
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2241 Cherry Valley Road, Newark, Licking, OH 43055]]></description>
+        <Point><coordinates>-82.474766,40.0511583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11772-A</name>
+        <description><![CDATA[Date: 7/28/25 9:57 AM
+      Site Name: Keltonburg Hwy 56- Hwy 288
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
+        <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

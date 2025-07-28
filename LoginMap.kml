@@ -397,5 +397,59 @@
       Address: 1050 Buckley Highway, Union, Tolland, CT 06076]]></description>
         <Point><coordinates>-72.1523694444444,41.9991663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20215-A</name>
+        <description><![CDATA[Date: 7/28/25 8:28 AM
+      Site Name: Little Fork MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 4600 Highway 217, Littlefork, Koochiching, MN 56653]]></description>
+        <Point><coordinates>-93.4786382222222,48.4024166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL14515-A</name>
+        <description><![CDATA[Date: 7/28/25 8:38 AM
+      Site Name: Kennedy Center
+      AGL: 69
+      Tower Type: Flagpole
+      Address: 3841 W. Kennedy Blvd, Tampa, Hillsborough, FL 33609]]></description>
+        <Point><coordinates>-82.5073111111111,27.9450913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL14515-A</name>
+        <description><![CDATA[Date: 7/28/25 8:38 AM
+      Site Name: Kennedy Center
+      AGL: 69
+      Tower Type: Flagpole
+      Address: 3841 W. Kennedy Blvd, Tampa, Hillsborough, FL 33609]]></description>
+        <Point><coordinates>-82.5073111111111,27.9450913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA46698-A</name>
+        <description><![CDATA[Date: 7/28/25 8:43 AM
+      Site Name: Valley View 2 MA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 25 Maple Street, Milford, Worcester, MA 01757]]></description>
+        <Point><coordinates>-71.482916,42.1349163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/28/25 8:49 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40474-T</name>
+        <description><![CDATA[Date: 7/28/25 8:49 AM
+      Site Name: Deatsville
+      AGL: 225
+      Tower Type: Monopole
+      Address: 4231 Deatsville Hwy, Deatsville, Elmore, AL 36022]]></description>
+        <Point><coordinates>-86.4037916666667,32.5647916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

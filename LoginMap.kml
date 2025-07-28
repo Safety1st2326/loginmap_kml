@@ -991,5 +991,23 @@
       Address: 1001 Cougar Way, BEAUMONT, RIVERSIDE, CA 92223]]></description>
         <Point><coordinates>-116.968371555556,33.9535916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL09335-A</name>
+        <description><![CDATA[Date: 7/28/25 10:52 AM
+      Site Name: Lake City 4 FL
+      AGL: 380
+      Tower Type: Guyed
+      Address: 1593 NW County Road 25A, Lake City, Columbia, FL 32056]]></description>
+        <Point><coordinates>-82.6521666666667,30.2264437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/28/25 10:57 AM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

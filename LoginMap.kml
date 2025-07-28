@@ -109,5 +109,32 @@
       Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
         <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD46716-A</name>
+        <description><![CDATA[Date: 7/28/25 7:13 AM
+      Site Name: Lake Shore 2 MD
+      AGL: 116
+      Tower Type: Monopole
+      Address: 8670 Fort Smallwood Road, Pasadena, Anne Arundel, MD 21122]]></description>
+        <Point><coordinates>-76.5266104444444,39.1485552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18064-A</name>
+        <description><![CDATA[Date: 7/28/25 7:13 AM
+      Site Name: Gateway Elementary
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 13280 Griffin Dr., Ft. Myers, Lee, FL 33913]]></description>
+        <Point><coordinates>-81.7349635555556,26.5764937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17605-A</name>
+        <description><![CDATA[Date: 7/28/25 7:07 AM
+      Site Name: Kid Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
+        <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

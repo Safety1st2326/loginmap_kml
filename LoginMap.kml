@@ -82,5 +82,32 @@
       Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
         <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 7/28/25 6:52 AM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA41728-T</name>
+        <description><![CDATA[Date: 7/28/25 6:52 AM
+      Site Name: Hempfield-West-Befino RL
+      AGL: 195
+      Tower Type: Self Support
+      Address: 535 Off Beat Lane, Hempfield, Westmoreland, PA 15642]]></description>
+        <Point><coordinates>-79.6743993333333,40.2854857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/28/25 6:52 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2017,5 +2017,14 @@
       Address: 674 E 2060 Rd (E911), Boswell, Choctaw, OK 74727]]></description>
         <Point><coordinates>-95.8219532222222,34.0254426666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45941-A</name>
+        <description><![CDATA[Date: 7/28/25 5:28 PM
+      Site Name: Communications Facility
+      AGL: 58
+      Tower Type: Monopole
+      Address: 11464 Sierra Ave., Fontana, San Bernardino, CA 92335]]></description>
+        <Point><coordinates>-117.440888555556,34.0457774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

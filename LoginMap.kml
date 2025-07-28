@@ -2053,5 +2053,14 @@
       Address: 2182 Highway 42, Naswaupee, Door, WI 54235]]></description>
         <Point><coordinates>-87.4783326666667,44.7727771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 7/28/25 6:40 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

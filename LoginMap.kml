@@ -1306,5 +1306,50 @@
       Address: 1100 Edgewood Rd., Yardley, Bucks, PA 19067-1689]]></description>
         <Point><coordinates>-74.8418496666667,40.2262493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH16586-S</name>
+        <description><![CDATA[Date: 7/28/25 12:40 PM
+      Site Name: Litchfield West
+      AGL: 190
+      Tower Type: Self Support
+      Address: 10761 Twr Jones Road, Litchfield Township, Medina, OH 44253]]></description>
+        <Point><coordinates>-82.071516,41.1570388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41862-T</name>
+        <description><![CDATA[Date: 7/28/25 12:43 PM
+      Site Name: Clairmonte
+      AGL: 150
+      Tower Type: Monopole
+      Address: 841 ? E Cypresswood Dr [E911], Spring, Harris, TX 77383]]></description>
+        <Point><coordinates>-95.4211382222222,30.0588055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL17568-A</name>
+        <description><![CDATA[Date: 7/28/25 12:46 PM
+      Site Name: Stanford
+      AGL: 150
+      Tower Type: Self Support
+      Address: 11093 N 150 East Road, Stanford, Mclean, IL 61774]]></description>
+        <Point><coordinates>-89.2368163333333,40.4437302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01299-A</name>
+        <description><![CDATA[Date: 7/28/25 12:49 PM
+      Site Name: Rosoline
+      AGL: 199
+      Tower Type: Self Support
+      Address: 13130 Old Morris Bridge Road, Tampa, Hillsborough, FL 33637]]></description>
+        <Point><coordinates>-82.3526194444444,28.0659777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01299-A</name>
+        <description><![CDATA[Date: 7/28/25 12:49 PM
+      Site Name: Rosoline
+      AGL: 199
+      Tower Type: Self Support
+      Address: 13130 Old Morris Bridge Road, Tampa, Hillsborough, FL 33637]]></description>
+        <Point><coordinates>-82.3526194444444,28.0659777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

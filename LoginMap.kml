@@ -1999,5 +1999,23 @@
       Address: 11823 N. Armenia Ave, Tampa, Hillsborough, FL 33612]]></description>
         <Point><coordinates>-82.479216,28.0576666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE22437-A</name>
+        <description><![CDATA[Date: 7/28/25 5:01 PM
+      Site Name: 180th & Pacific
+      AGL: 49
+      Tower Type: Monopole
+      Address: 17979 Pierce Plaza, Omaha, Douglas, NE 68130]]></description>
+        <Point><coordinates>-96.1948052222222,41.2469913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41662-T</name>
+        <description><![CDATA[Date: 7/28/25 5:16 PM
+      Site Name: Boswell
+      AGL: 349
+      Tower Type: Guyed
+      Address: 674 E 2060 Rd (E911), Boswell, Choctaw, OK 74727]]></description>
+        <Point><coordinates>-95.8219532222222,34.0254426666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

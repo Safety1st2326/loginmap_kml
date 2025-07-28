@@ -694,5 +694,32 @@
       Address: 46 Meadow Road, Clinton, Middlesex, CT 06413-2212]]></description>
         <Point><coordinates>-72.4977107777778,41.2752048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD46745-A</name>
+        <description><![CDATA[Date: 7/28/25 9:46 AM
+      Site Name: Turf Valley - Alpha Ridge Landfill
+      AGL: 127
+      Tower Type: Stealth
+      Address: 2350 Marriottsville Road , WOODSTOCK, HOWARD, MD 21104]]></description>
+        <Point><coordinates>-76.9019055555556,39.3049472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40580-T</name>
+        <description><![CDATA[Date: 7/28/25 9:46 AM
+      Site Name: Irvine Lake
+      AGL: 105
+      Tower Type: Stealth
+      Address: 241 Toll Road North of Santiago Creek Bridge Crossing, Irvine, Orange, CA 92620]]></description>
+        <Point><coordinates>-117.725724333333,33.7998636666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17603-A</name>
+        <description><![CDATA[Date: 7/28/25 9:46 AM
+      Site Name: Isabella South
+      AGL: 401
+      Tower Type: Guyed
+      Address: 3860 Stony Loop Road, Isabella, Lake, MN 55607]]></description>
+        <Point><coordinates>-91.3936705,47.6126197222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

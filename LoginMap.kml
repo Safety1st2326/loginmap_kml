@@ -2044,5 +2044,14 @@
       Address: 107 Anderson Street NE, Rome, Floyd, GA 30161]]></description>
         <Point><coordinates>-85.1552055555556,34.2692298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21209-A</name>
+        <description><![CDATA[Date: 7/28/25 6:07 PM
+      Site Name: Maplewood
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2182 Highway 42, Naswaupee, Door, WI 54235]]></description>
+        <Point><coordinates>-87.4783326666667,44.7727771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

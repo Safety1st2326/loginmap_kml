@@ -1675,5 +1675,14 @@
       Address: 1096 Morgantown Road, McComb, Pike, MS 39648-8442]]></description>
         <Point><coordinates>-90.430791,31.2397746666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41963-T</name>
+        <description><![CDATA[Date: 7/28/25 3:01 PM
+      Site Name: Trevino
+      AGL: 146
+      Tower Type: Monopole
+      Address: 27718 ? Nelson St, Spring, Harris, TX 77373]]></description>
+        <Point><coordinates>-95.4216937777778,30.0934718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

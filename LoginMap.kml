@@ -1045,5 +1045,32 @@
       Address: 10550 US Hwy 283, Sayre, Roger Mills, OK 73662]]></description>
         <Point><coordinates>-99.6526388888889,35.4283826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01223-A</name>
+        <description><![CDATA[Date: 7/28/25 11:27 AM
+      Site Name: Eustis
+      AGL: 280
+      Tower Type: Self Support
+      Address: 639 West Atwater Avenue, Eustis, Lake, FL 32726]]></description>
+        <Point><coordinates>-81.6923607777778,28.8404302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS08518-A</name>
+        <description><![CDATA[Date: 7/28/25 11:27 AM
+      Site Name: Bogue Chitto
+      AGL: 480
+      Tower Type: Guyed
+      Address: 2395 Big Creek Drive, Bogue Chitto, Lincoln, MS 39629-8910]]></description>
+        <Point><coordinates>-90.4810521111111,31.4210326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09674-A</name>
+        <description><![CDATA[Date: 7/28/25 11:24 AM
+      Site Name: Draketown GA
+      AGL: 252
+      Tower Type: Self Support
+      Address: 97 Bear Creek Road, Buchanan, Haralson, GA 30113]]></description>
+        <Point><coordinates>-85.0614305555555,33.8324021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

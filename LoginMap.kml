@@ -1729,5 +1729,41 @@
       Address: 2409 Floyd Creek Church Rd, Taylorsville, Polk, GA 30178]]></description>
         <Point><coordinates>-84.9293048888889,34.0798882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/28/25 3:37 PM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04903-A</name>
+        <description><![CDATA[Date: 7/28/25 3:25 PM
+      Site Name: James Street
+      AGL: 200
+      Tower Type: Self Support
+      Address: 3516 N. Nebraska Avenue, Tampa, Hillsborough, FL 33603-5035]]></description>
+        <Point><coordinates>-82.4514444444444,27.9763048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/28/25 3:39 PM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14151-A</name>
+        <description><![CDATA[Date: 7/28/25 3:39 PM
+      Site Name: Euharlee
+      AGL: 296
+      Tower Type: Guyed
+      Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
+        <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

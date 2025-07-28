@@ -1171,5 +1171,50 @@
       Address: 43 Broyles Rd., Hendersonville, Henderson, NC 28791]]></description>
         <Point><coordinates>-82.534108,35.342783,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 7/28/25 12:01 PM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/28/25 11:55 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46716-A</name>
+        <description><![CDATA[Date: 7/28/25 11:55 AM
+      Site Name: Lake Shore 2 MD
+      AGL: 116
+      Tower Type: Monopole
+      Address: 8670 Fort Smallwood Road, Pasadena, Anne Arundel, MD 21122]]></description>
+        <Point><coordinates>-76.5266104444444,39.1485552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 7/28/25 12:03 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA17489-A</name>
+        <description><![CDATA[Date: 7/28/25 12:03 PM
+      Site Name: River Mill
+      AGL: 190
+      Tower Type: Monopole
+      Address: 200 River Mill Road, Ball Ground, Cherokee, GA 30107]]></description>
+        <Point><coordinates>-84.3963218888889,34.3040333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

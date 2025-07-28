@@ -1603,5 +1603,50 @@
       Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
         <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO17427-A</name>
+        <description><![CDATA[Date: 7/28/25 2:30 PM
+      Site Name: South Providence
+      AGL: 100
+      Tower Type: Monopine
+      Address: 2401 South Providence Road ?Cell?, Columbia, Boone, MO 65203]]></description>
+        <Point><coordinates>-92.3397968888889,38.924416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02359-S</name>
+        <description><![CDATA[Date: 7/28/25 2:37 PM
+      Site Name: Hightower
+      AGL: 195
+      Tower Type: Monopole
+      Address: 6985 Matt Highway, Cumming, Forsyth, GA 30040-3122]]></description>
+        <Point><coordinates>-84.1923052222222,34.2999607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47685-A</name>
+        <description><![CDATA[Date: 7/28/25 2:37 PM
+      Site Name: Betsy Ross
+      AGL: 102
+      Tower Type: Monopole
+      Address: 4220 Almond Street Ross Transport, Philadelphia, Philadelphia, PA 19137]]></description>
+        <Point><coordinates>-75.0800104444444,39.9983107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12616-A</name>
+        <description><![CDATA[Date: 7/28/25 2:37 PM
+      Site Name: Vick's Corner
+      AGL: 150
+      Tower Type: Self Support
+      Address: 2038 Hwy 9, Spirit Lake, Dickinson, IA 51360]]></description>
+        <Point><coordinates>-95.1827215555556,43.4326743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12616-A</name>
+        <description><![CDATA[Date: 7/28/25 2:37 PM
+      Site Name: Vick's Corner
+      AGL: 150
+      Tower Type: Self Support
+      Address: 2038 Hwy 9, Spirit Lake, Dickinson, IA 51360]]></description>
+        <Point><coordinates>-95.1827215555556,43.4326743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1837,5 +1837,23 @@
       Address: 5131 North Florida Avenue, Tampa, Hillsborough, FL 33603-2137]]></description>
         <Point><coordinates>-82.4591055555556,27.993783,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12544-S</name>
+        <description><![CDATA[Date: 7/28/25 4:16 PM
+      Site Name: Oak Grove Elementary
+      AGL: 138
+      Tower Type: Monopole
+      Address: 6315 North Armenia Avenue, Tampa, Hillsborough, FL 33604]]></description>
+        <Point><coordinates>-82.4836468888889,28.0042722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12544-S</name>
+        <description><![CDATA[Date: 7/28/25 4:16 PM
+      Site Name: Oak Grove Elementary
+      AGL: 138
+      Tower Type: Monopole
+      Address: 6315 North Armenia Avenue, Tampa, Hillsborough, FL 33604]]></description>
+        <Point><coordinates>-82.4836468888889,28.0042722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

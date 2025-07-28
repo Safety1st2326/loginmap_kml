@@ -307,5 +307,14 @@
       Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
         <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12208-A</name>
+        <description><![CDATA[Date: 7/28/25 8:19 AM
+      Site Name: Dennisport
+      AGL: 99
+      Tower Type: Flagpole
+      Address: 27 Candlewood Lane, Dennisport, Barnstable, MA 02639]]></description>
+        <Point><coordinates>-70.1315826666667,41.668066,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1900,5 +1900,50 @@
       Address: 8309 Green Meadows Dr., Lewis Center, Delaware, OH 43035]]></description>
         <Point><coordinates>-83.0077777777778,40.1652777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21560-A</name>
+        <description><![CDATA[Date: 7/28/25 4:25 PM
+      Site Name: Highway 293
+      AGL: 190
+      Tower Type: Self Support
+      Address: 3402 Kingston Hwy SE, Rome, Floyd, GA 30161]]></description>
+        <Point><coordinates>-85.0654861111111,34.2532027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41562-T</name>
+        <description><![CDATA[Date: 7/28/25 4:33 PM
+      Site Name: Costello RL
+      AGL: 160
+      Tower Type: Monopole
+      Address: 3192 Liberty Road, Delaware, Delaware, OH 43015]]></description>
+        <Point><coordinates>-83.085008,40.2557694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41555-T</name>
+        <description><![CDATA[Date: 7/28/25 4:34 PM
+      Site Name: Hardy RL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8309 Green Meadows Dr., Lewis Center, Delaware, OH 43035]]></description>
+        <Point><coordinates>-83.0077777777778,40.1652777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12328-A</name>
+        <description><![CDATA[Date: 7/28/25 4:39 PM
+      Site Name: Sunny Acres
+      AGL: 145
+      Tower Type: Monopole
+      Address: 2323 W. Linebaugh Avenue, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.480766,28.0406385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12328-A</name>
+        <description><![CDATA[Date: 7/28/25 4:39 PM
+      Site Name: Sunny Acres
+      AGL: 145
+      Tower Type: Monopole
+      Address: 2323 W. Linebaugh Avenue, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.480766,28.0406385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

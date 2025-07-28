@@ -1387,5 +1387,50 @@
       Address: 26 Robertson Street, Lagrange, Troup, GA 30241-3519]]></description>
         <Point><coordinates>-85.0087222222222,33.0414996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02472-S</name>
+        <description><![CDATA[Date: 7/28/25 1:15 PM
+      Site Name: Creighton
+      AGL: 180
+      Tower Type: Monopole
+      Address: 115 Liberty Church Lane, Ball Ground, Cherokee, GA 30107-4350]]></description>
+        <Point><coordinates>-84.3311076666667,34.306975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH40225-T</name>
+        <description><![CDATA[Date: 7/28/25 1:07 PM
+      Site Name: Nadirs Choice
+      AGL: 125
+      Tower Type: Monopole
+      Address: 432 E 18th, Columbus, Franklin, OH 43201]]></description>
+        <Point><coordinates>-82.9959496666667,40.003,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22677-S</name>
+        <description><![CDATA[Date: 7/28/25 1:12 PM
+      Site Name: Libby Babson
+      AGL: 195
+      Tower Type: Monopole
+      Address: 501 Libby Road, Babson Park, Polk County, FL 33827]]></description>
+        <Point><coordinates>-81.5237579444444,27.8387882777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46248-A</name>
+        <description><![CDATA[Date: 7/28/25 1:19 PM
+      Site Name: Babcock-east
+      AGL: 300
+      Tower Type: Self Support
+      Address: 14255 County Rd. 74, Venus, Glades, FL 33960]]></description>
+        <Point><coordinates>-81.5301382222222,26.944583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI14562-S</name>
+        <description><![CDATA[Date: 7/28/25 1:07 PM
+      Site Name: Granite Bluff
+      AGL: 300
+      Tower Type: Guyed
+      Address: N13457 Highway M95, Iron Mountain, Dickinson, MI 49801]]></description>
+        <Point><coordinates>-88.0380468888889,45.9481274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

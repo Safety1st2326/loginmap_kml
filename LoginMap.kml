@@ -1648,5 +1648,14 @@
       Address: 2038 Hwy 9, Spirit Lake, Dickinson, IA 51360]]></description>
         <Point><coordinates>-95.1827215555556,43.4326743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/28/25 2:41 PM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

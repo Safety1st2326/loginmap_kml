@@ -712,5 +712,14 @@
       Address: 3621 TOWER ROAD, HIBBING, St. Louis, MN 55746]]></description>
         <Point><coordinates>-92.9554861111111,47.3809271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/27/25 11:13 PM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -10,5 +10,14 @@
       Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
         <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 7/28/25 5:12 AM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1009,5 +1009,32 @@
       Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
         <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT03111-S</name>
+        <description><![CDATA[Date: 7/28/25 11:03 AM
+      Site Name: Stafford Springs
+      AGL: 180
+      Tower Type: Monopole
+      Address: 30 Old Country Road, Stafford Springs, Tolland, CT 06076-4502]]></description>
+        <Point><coordinates>-72.2374607777778,41.940033,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09071-S</name>
+        <description><![CDATA[Date: 7/28/25 11:03 AM
+      Site Name: Reichertville
+      AGL: 191
+      Tower Type: Monopole
+      Address: 5157  HWY 19 South, Thomasville, Thomas, GA 31792]]></description>
+        <Point><coordinates>-83.8991385555556,30.7272771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL21682-A</name>
+        <description><![CDATA[Date: 7/28/25 11:04 AM
+      Site Name: Chipola Park
+      AGL: 290
+      Tower Type: Guyed
+      Address: 5648 SW Clayton Shiver Road, Kinard, Calhoun, FL 32449]]></description>
+        <Point><coordinates>-85.2053416666667,30.2738771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

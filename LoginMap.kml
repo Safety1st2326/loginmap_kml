@@ -1765,5 +1765,32 @@
       Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
         <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47729-A</name>
+        <description><![CDATA[Date: 7/28/25 3:42 PM
+      Site Name: Crystal Lake Driving Range
+      AGL: 150
+      Tower Type: Monopole
+      Address: 100 Broncos Highway, Burrillville, Providence, RI 02859]]></description>
+        <Point><coordinates>-71.6654638888889,41.9402107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47729-A</name>
+        <description><![CDATA[Date: 7/28/25 3:46 PM
+      Site Name: Crystal Lake Driving Range
+      AGL: 150
+      Tower Type: Monopole
+      Address: 100 Broncos Highway, Burrillville, Providence, RI 02859]]></description>
+        <Point><coordinates>-71.6654638888889,41.9402107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40760-T</name>
+        <description><![CDATA[Date: 7/28/25 3:42 PM
+      Site Name: IE876 BloomingtonCongregat UCC
+      AGL: 53
+      Tower Type: Stealth
+      Address: 18450 Santa Ana Ave., San Bernardino, San Bernardino, CA 92316]]></description>
+        <Point><coordinates>-117.401016666667,34.0562472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

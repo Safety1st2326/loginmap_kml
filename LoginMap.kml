@@ -46,5 +46,32 @@
       Address: N5721 County Road T, Princeton, Green Lake, WI 54968]]></description>
         <Point><coordinates>-89.1315687777778,43.8364496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/28/25 6:40 AM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40962-T</name>
+        <description><![CDATA[Date: 7/28/25 6:27 AM
+      Site Name: Picketts Mill
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6642 Hiram Acworth Hwy, Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.7405274444445,33.9819437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21547-A</name>
+        <description><![CDATA[Date: 7/28/25 6:45 AM
+      Site Name: Cedartown
+      AGL: 331
+      Tower Type: Guyed
+      Address: 616 Lovvorn, Cedartown, Polk, GA 30125]]></description>
+        <Point><coordinates>-85.2282743333333,33.9847052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

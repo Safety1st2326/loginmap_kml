@@ -910,5 +910,59 @@
       Address: 179 W. Plains-Port Hudson Rd., Zachary, East Baton Rouge, LA 70791]]></description>
         <Point><coordinates>-91.267491,30.6771687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL04907-A</name>
+        <description><![CDATA[Date: 7/28/25 10:34 AM
+      Site Name: Orange Blossom
+      AGL: 200
+      Tower Type: Self Support
+      Address: 2579 Belleair Road, Clearwater, Pinellas, FL 33764-2796]]></description>
+        <Point><coordinates>-82.7319993333333,27.9373607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/28/25 10:34 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/28/25 10:34 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40536-T</name>
+        <description><![CDATA[Date: 7/28/25 10:32 AM
+      Site Name: Diversified Water Utly
+      AGL: 65
+      Tower Type: Monopole Tree
+      Address: 37276 N. Sierra Vista Dr., San Tan Valley, Pinal, AZ 85140]]></description>
+        <Point><coordinates>-111.511638888889,33.2176104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20207-A</name>
+        <description><![CDATA[Date: 7/28/25 10:39 AM
+      Site Name: APEX TOWER
+      AGL: 194
+      Tower Type: Self Support
+      Address: 9610 North Interstate Highway 15, Las Vegas, Clark, NV 89128]]></description>
+        <Point><coordinates>-114.931013222222,36.3232882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46950-A</name>
+        <description><![CDATA[Date: 7/28/25 10:39 AM
+      Site Name: Potter Park
+      AGL: 115
+      Tower Type: Monopole
+      Address: 1424 East Bellows, Mount Pleasant, Isabella, MI 48858]]></description>
+        <Point><coordinates>-84.7597222222222,43.5923052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

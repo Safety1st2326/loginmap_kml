@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>SC00376-B</name>
+        <description><![CDATA[Date: 7/28/25 4:34 AM
+      Site Name: Little Beaver Dam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
+        <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

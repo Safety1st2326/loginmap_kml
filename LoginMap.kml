@@ -1792,5 +1792,23 @@
       Address: 18450 Santa Ana Ave., San Bernardino, San Bernardino, CA 92316]]></description>
         <Point><coordinates>-117.401016666667,34.0562472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH41555-T</name>
+        <description><![CDATA[Date: 7/28/25 3:57 PM
+      Site Name: Hardy RL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8309 Green Meadows Dr., Lewis Center, Delaware, OH 43035]]></description>
+        <Point><coordinates>-83.0077777777778,40.1652777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ15631-A</name>
+        <description><![CDATA[Date: 7/28/25 3:57 PM
+      Site Name: McCormick 2 AZ
+      AGL: 180
+      Tower Type: Self Support
+      Address: 17811 Forest Service 742 Rd, Flagstaff, Coconino, AZ 86001]]></description>
+        <Point><coordinates>-111.551536111111,35.3930941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

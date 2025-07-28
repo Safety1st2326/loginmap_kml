@@ -1441,5 +1441,50 @@
       Address: 8408 Temple Terrace Highway, Temple Terrace, Hillsborough, FL 33637-5808]]></description>
         <Point><coordinates>-82.3599833333333,28.0343024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY00458-A</name>
+        <description><![CDATA[Date: 7/28/25 1:37 PM
+      Site Name: Baker Hill Road
+      AGL: 315
+      Tower Type: Guyed
+      Address: 935 Thayer Road, Fairport, Monroe, NY 14450-9515]]></description>
+        <Point><coordinates>-77.4230548888889,43.035833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00458-A</name>
+        <description><![CDATA[Date: 7/28/25 1:37 PM
+      Site Name: Baker Hill Road
+      AGL: 137
+      Tower Type: Self Support
+      Address: 935 Thayer Road, Fairport, Monroe, NY 14450-9515]]></description>
+        <Point><coordinates>-77.4231104444444,43.0358052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16165-B</name>
+        <description><![CDATA[Date: 7/28/25 1:37 PM
+      Site Name: Monmouth 2
+      AGL: 148
+      Tower Type: Monopole
+      Address: 87th Street, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6069555555555,40.9268521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20224-A</name>
+        <description><![CDATA[Date: 7/28/25 1:37 PM
+      Site Name: Painted Rock
+      AGL: 150
+      Tower Type: Monopole
+      Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
+        <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41897-T</name>
+        <description><![CDATA[Date: 7/28/25 1:25 PM
+      Site Name: Griggs
+      AGL: 140
+      Tower Type: Monopole
+      Address: 23307 2/3 W Hardy , Spring, Harris, TX 77373]]></description>
+        <Point><coordinates>-95.40975,30.0458052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

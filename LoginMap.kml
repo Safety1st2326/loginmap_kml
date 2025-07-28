@@ -1855,5 +1855,50 @@
       Address: 6315 North Armenia Avenue, Tampa, Hillsborough, FL 33604]]></description>
         <Point><coordinates>-82.4836468888889,28.0042722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV11097-A</name>
+        <description><![CDATA[Date: 7/28/25 4:22 PM
+      Site Name: Gormley
+      AGL: 301
+      Tower Type: Self Support
+      Address: 1 R.S. Prospect Road, Buckhannon, Upshur, WV 25177]]></description>
+        <Point><coordinates>-80.066891,38.9829076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06516-B</name>
+        <description><![CDATA[Date: 7/28/25 4:28 PM
+      Site Name: Pine Hall
+      AGL: 190
+      Tower Type: Self Support
+      Address: 191 Old Block Lane, State College, Centre, PA 16801]]></description>
+        <Point><coordinates>-77.8853052222222,40.7795826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 7/28/25 4:28 PM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41555-T</name>
+        <description><![CDATA[Date: 7/28/25 4:28 PM
+      Site Name: Hardy RL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8309 Green Meadows Dr., Lewis Center, Delaware, OH 43035]]></description>
+        <Point><coordinates>-83.0077777777778,40.1652777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41555-T</name>
+        <description><![CDATA[Date: 7/28/25 4:28 PM
+      Site Name: Hardy RL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8309 Green Meadows Dr., Lewis Center, Delaware, OH 43035]]></description>
+        <Point><coordinates>-83.0077777777778,40.1652777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

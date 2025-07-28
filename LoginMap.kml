@@ -505,5 +505,23 @@
       Address: 3516 N. Nebraska Avenue, Tampa, Hillsborough, FL 33603-5035]]></description>
         <Point><coordinates>-82.4514444444444,27.9763048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN14394-A</name>
+        <description><![CDATA[Date: 7/28/25 9:03 AM
+      Site Name: Leader
+      AGL: 501
+      Tower Type: Guyed
+      Address: 6994 71st Avenue SW, Moose Lake, Cass, MN 56466]]></description>
+        <Point><coordinates>-94.6523166666667,46.551325,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK40243-T</name>
+        <description><![CDATA[Date: 7/28/25 9:04 AM
+      Site Name: Calumet-OK
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1211 South Courtney, El Reno, Canadian, OK 73036]]></description>
+        <Point><coordinates>-98.0954468888889,35.5227687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

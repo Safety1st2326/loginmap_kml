@@ -379,5 +379,23 @@
       Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
         <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/28/25 8:31 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT24369-A</name>
+        <description><![CDATA[Date: 7/28/25 8:31 AM
+      Site Name: Union 4 CT
+      AGL: 173
+      Tower Type: Self Support
+      Address: 1050 Buckley Highway, Union, Tolland, CT 06076]]></description>
+        <Point><coordinates>-72.1523694444444,41.9991663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

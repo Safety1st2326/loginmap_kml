@@ -586,5 +586,59 @@
       Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
         <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/28/25 9:21 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/28/25 9:21 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 7/28/25 9:25 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11608-S</name>
+        <description><![CDATA[Date: 7/28/25 9:29 AM
+      Site Name: Palm River Plaza
+      AGL: 140
+      Tower Type: Flagpole
+      Address: 7430 Palm River Road, Tampa, Hillsborough, FL 33619]]></description>
+        <Point><coordinates>-82.3722465555555,27.942558,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11608-S</name>
+        <description><![CDATA[Date: 7/28/25 9:29 AM
+      Site Name: Palm River Plaza
+      AGL: 140
+      Tower Type: Flagpole
+      Address: 7430 Palm River Road, Tampa, Hillsborough, FL 33619]]></description>
+        <Point><coordinates>-82.3722465555555,27.942558,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01897-B</name>
+        <description><![CDATA[Date: 7/28/25 9:29 AM
+      Site Name: Hartfield
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
+        <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

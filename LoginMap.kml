@@ -874,5 +874,41 @@
       Address: 501 Easy Street, Goddard, Sedgwick, KS 67052]]></description>
         <Point><coordinates>-97.5836385555556,37.6607222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 7/28/25 10:21 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08842-A</name>
+        <description><![CDATA[Date: 7/28/25 10:13 AM
+      Site Name: Bijou
+      AGL: 332
+      Tower Type: Guyed
+      Address: 387 Linsey's Road, Hessmer, Avoyelles, LA 71341]]></description>
+        <Point><coordinates>-92.2234076666667,31.1021916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13908-A</name>
+        <description><![CDATA[Date: 7/28/25 10:25 AM
+      Site Name: Round Mountain
+      AGL: 343
+      Tower Type: Guyed
+      Address: 8247 US Hwy 281N, Round Mountain, Blanco, TX 78663]]></description>
+        <Point><coordinates>-98.35675,30.4238604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA13184-A</name>
+        <description><![CDATA[Date: 7/28/25 10:13 AM
+      Site Name: Port Hudson
+      AGL: 252
+      Tower Type: Guyed
+      Address: 179 W. Plains-Port Hudson Rd., Zachary, East Baton Rouge, LA 70791]]></description>
+        <Point><coordinates>-91.267491,30.6771687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

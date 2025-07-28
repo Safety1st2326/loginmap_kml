@@ -1036,5 +1036,14 @@
       Address: 5648 SW Clayton Shiver Road, Kinard, Calhoun, FL 32449]]></description>
         <Point><coordinates>-85.2053416666667,30.2738771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK09242-A</name>
+        <description><![CDATA[Date: 7/28/25 11:21 AM
+      Site Name: Berlin 3 OK
+      AGL: 322
+      Tower Type: Guyed
+      Address: 10550 US Hwy 283, Sayre, Roger Mills, OK 73662]]></description>
+        <Point><coordinates>-99.6526388888889,35.4283826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1945,5 +1945,32 @@
       Address: 2323 W. Linebaugh Avenue, Tampa, Hillsborough, FL 33612]]></description>
         <Point><coordinates>-82.480766,28.0406385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 7/28/25 4:40 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00827-S</name>
+        <description><![CDATA[Date: 7/28/25 4:48 PM
+      Site Name: Kingston
+      AGL: 245
+      Tower Type: Self Support
+      Address: 81 McGinnis Drive SE, Rome, Floyd, GA 30161]]></description>
+        <Point><coordinates>-85.1227854444444,34.25565,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08773-B</name>
+        <description><![CDATA[Date: 7/28/25 4:48 PM
+      Site Name: Hickory Nut
+      AGL: 250
+      Tower Type: Self Support
+      Address: 395 Nandina Heights Blvd., Easley, Pickens, SC 29640-7025]]></description>
+        <Point><coordinates>-82.607,34.9205826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1540,5 +1540,50 @@
       Address: 4999 Hightower Road, Ball Ground, Cherokee, GA 30107]]></description>
         <Point><coordinates>-84.2590805555556,34.2968968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK13837-A</name>
+        <description><![CDATA[Date: 7/28/25 2:10 PM
+      Site Name: Tenkiller
+      AGL: 270
+      Tower Type: Self Support
+      Address: 30082 South Sizemore Rd, Park Hill, Cherokee, OK 74451]]></description>
+        <Point><coordinates>-94.9749882222222,35.7388746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO12005-A</name>
+        <description><![CDATA[Date: 7/28/25 2:10 PM
+      Site Name: Smelter Mountain
+      AGL: 182
+      Tower Type: Self Support
+      Address: 3000 County Road 212, Durango, La Plata, CO 81301]]></description>
+        <Point><coordinates>-107.903719444444,37.2615083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40032-T</name>
+        <description><![CDATA[Date: 7/28/25 2:16 PM
+      Site Name: Clover-Wipperts RV
+      AGL: 52
+      Tower Type: Monopole Tree
+      Address: 32645 Yucaipa Blvd., Yucaipa, San Bernardino, CA 92399]]></description>
+        <Point><coordinates>-117.092221888889,34.0336107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12461-A</name>
+        <description><![CDATA[Date: 7/28/25 2:16 PM
+      Site Name: Robles
+      AGL: 136
+      Tower Type: Monopole
+      Address: 4405 East Sligh Avenue, Tampa, Hillsborough, FL 33610]]></description>
+        <Point><coordinates>-82.4094333333333,28.0089944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12461-A</name>
+        <description><![CDATA[Date: 7/28/25 2:19 PM
+      Site Name: Robles
+      AGL: 136
+      Tower Type: Monopole
+      Address: 4405 East Sligh Avenue, Tampa, Hillsborough, FL 33610]]></description>
+        <Point><coordinates>-82.4094333333333,28.0089944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

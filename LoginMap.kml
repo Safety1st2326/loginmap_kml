@@ -811,5 +811,59 @@
       Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
         <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH05723-A</name>
+        <description><![CDATA[Date: 7/28/25 10:04 AM
+      Site Name: Cleveland 4 OH
+      AGL: 148
+      Tower Type: Guyed
+      Address: 5931 Mayfield Road, Mayfield Heights, Cuyahoga, OH 44124-2902]]></description>
+        <Point><coordinates>-81.465775,41.5212826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15887-A</name>
+        <description><![CDATA[Date: 7/28/25 10:04 AM
+      Site Name: Beneva
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1111 Beneva Road, Sarasota, Sarasota, FL 34232]]></description>
+        <Point><coordinates>-82.4958088333333,27.3243007222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41116-T</name>
+        <description><![CDATA[Date: 7/28/25 10:04 AM
+      Site Name: Snider HS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 4600 Fairlawn Pass, Suite A, Ft Wayne, Allen, IN 46815]]></description>
+        <Point><coordinates>-85.0802382222222,41.106525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 7/28/25 10:06 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 7/28/25 10:01 AM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12149-A</name>
+        <description><![CDATA[Date: 7/28/25 10:01 AM
+      Site Name: Brightside LA
+      AGL: 149
+      Tower Type: Monopole
+      Address: 1444 Brightside Lane, Baton Rouge, East Baton Rouge, LA 70820]]></description>
+        <Point><coordinates>-91.174366,30.3885468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

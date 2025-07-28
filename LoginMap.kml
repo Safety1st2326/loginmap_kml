@@ -1684,5 +1684,41 @@
       Address: 27718 ? Nelson St, Spring, Harris, TX 77373]]></description>
         <Point><coordinates>-95.4216937777778,30.0934718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02360-S</name>
+        <description><![CDATA[Date: 7/28/25 3:12 PM
+      Site Name: Matt
+      AGL: 193
+      Tower Type: Monopole
+      Address: 4125 Dr. Bramblett Road, Cumming, Forsyth, GA 30040-9128]]></description>
+        <Point><coordinates>-84.1670687777778,34.2915524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21726-A</name>
+        <description><![CDATA[Date: 7/28/25 3:05 PM
+      Site Name: Coleman Pound
+      AGL: 340
+      Tower Type: Guyed
+      Address: W8260 EAST 12TH RD., COLEMAN, MARINETTE, WI 54112]]></description>
+        <Point><coordinates>-88.0120277777778,45.0598472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13407-A</name>
+        <description><![CDATA[Date: 7/28/25 3:19 PM
+      Site Name: Little West Fork
+      AGL: 154
+      Tower Type: Monopole
+      Address: 301 Tobacco Rd., Clarksville, Montgomery, TN 37042]]></description>
+        <Point><coordinates>-87.4157361111111,36.6021777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41829-T</name>
+        <description><![CDATA[Date: 7/28/25 3:19 PM
+      Site Name: Adel Storage
+      AGL: 120
+      Tower Type: Monopole
+      Address: 11810 1/5 Adel Rd, Houston, Harris, TX 77067]]></description>
+        <Point><coordinates>-95.4466663333333,29.9562777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

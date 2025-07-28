@@ -1972,5 +1972,32 @@
       Address: 395 Nandina Heights Blvd., Easley, Pickens, SC 29640-7025]]></description>
         <Point><coordinates>-82.607,34.9205826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX16565-A</name>
+        <description><![CDATA[Date: 7/28/25 4:53 PM
+      Site Name: Heath - Texas
+      AGL: 122
+      Tower Type: Monopole
+      Address: 490 Smirl Drive, Heath, Rockwall, TX 75032]]></description>
+        <Point><coordinates>-96.4805215555556,32.8464441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18326-A</name>
+        <description><![CDATA[Date: 7/28/25 4:55 PM
+      Site Name: Vacanti Center
+      AGL: 160
+      Tower Type: Monopole
+      Address: 11823 N. Armenia Ave, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.479216,28.0576666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18326-A</name>
+        <description><![CDATA[Date: 7/28/25 4:55 PM
+      Site Name: Vacanti Center
+      AGL: 160
+      Tower Type: Monopole
+      Address: 11823 N. Armenia Ave, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.479216,28.0576666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

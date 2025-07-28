@@ -1351,5 +1351,32 @@
       Address: 13130 Old Morris Bridge Road, Tampa, Hillsborough, FL 33637]]></description>
         <Point><coordinates>-82.3526194444444,28.0659777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI12739-B</name>
+        <description><![CDATA[Date: 7/28/25 12:54 PM
+      Site Name: Couderay WI
+      AGL: 250
+      Tower Type: Self Support
+      Address: 12914 W. Jos. R. Chafer Road, Couderay, Sawyer, WI 54828]]></description>
+        <Point><coordinates>-91.3377996666667,45.7910857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21801-A</name>
+        <description><![CDATA[Date: 7/28/25 12:58 PM
+      Site Name: Brownwood
+      AGL: 150
+      Tower Type: Monopole
+      Address: 701 C.C. Woodson BLvd, Brownwood, BROWN, TX 76801]]></description>
+        <Point><coordinates>-98.9720215555556,31.7261604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/28/25 12:58 PM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

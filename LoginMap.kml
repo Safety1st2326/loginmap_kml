@@ -1657,5 +1657,23 @@
       Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
         <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 7/28/25 2:52 PM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS08864-A</name>
+        <description><![CDATA[Date: 7/28/25 2:55 PM
+      Site Name: McComb 2
+      AGL: 302
+      Tower Type: Guyed
+      Address: 1096 Morgantown Road, McComb, Pike, MS 39648-8442]]></description>
+        <Point><coordinates>-90.430791,31.2397746666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

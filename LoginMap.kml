@@ -1585,5 +1585,23 @@
       Address: 4405 East Sligh Avenue, Tampa, Hillsborough, FL 33610]]></description>
         <Point><coordinates>-82.4094333333333,28.0089944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/28/25 2:21 PM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/28/25 2:21 PM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

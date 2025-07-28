@@ -73,5 +73,14 @@
       Address: 616 Lovvorn, Cedartown, Polk, GA 30125]]></description>
         <Point><coordinates>-85.2282743333333,33.9847052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09926-A</name>
+        <description><![CDATA[Date: 7/28/25 6:58 AM
+      Site Name: Tree
+      AGL: 197
+      Tower Type: Monopole
+      Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

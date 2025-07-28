@@ -1504,5 +1504,32 @@
       Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
         <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07257-A</name>
+        <description><![CDATA[Date: 7/28/25 1:49 PM
+      Site Name: Benton 2 KY
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1077 OAK LEVEL RD., BENTON, MARSHALL, KY 42025-5357]]></description>
+        <Point><coordinates>-88.3663888888889,36.8591666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13624-A</name>
+        <description><![CDATA[Date: 7/28/25 1:57 PM
+      Site Name: Busch Gardens
+      AGL: 230
+      Tower Type: Monopole
+      Address: 4848 East Busch Blvd., Tampa, Hillsborough, FL 33617]]></description>
+        <Point><coordinates>-82.4056388888889,28.0336385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13624-A</name>
+        <description><![CDATA[Date: 7/28/25 1:57 PM
+      Site Name: Busch Gardens
+      AGL: 230
+      Tower Type: Monopole
+      Address: 4848 East Busch Blvd., Tampa, Hillsborough, FL 33617]]></description>
+        <Point><coordinates>-82.4056388888889,28.0336385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

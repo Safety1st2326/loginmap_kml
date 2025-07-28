@@ -640,5 +640,59 @@
       Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
         <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/28/25 9:19 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40930-T</name>
+        <description><![CDATA[Date: 7/28/25 9:30 AM
+      Site Name: Danny Harter
+      AGL: 145
+      Tower Type: Monopole Tree
+      Address: 8513 Richmond Street, Gibsonton, Hillsborough, FL 33534]]></description>
+        <Point><coordinates>-82.3607333333333,27.8424441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40930-T</name>
+        <description><![CDATA[Date: 7/28/25 9:30 AM
+      Site Name: Danny Harter
+      AGL: 145
+      Tower Type: Monopole Tree
+      Address: 8513 Richmond Street, Gibsonton, Hillsborough, FL 33534]]></description>
+        <Point><coordinates>-82.3607333333333,27.8424441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH01829-B</name>
+        <description><![CDATA[Date: 7/28/25 9:37 AM
+      Site Name: Kettlersville
+      AGL: 300
+      Tower Type: Self Support
+      Address: I-75 & State Road 274, Botkins, Shelby, OH 45306]]></description>
+        <Point><coordinates>-84.1732771111111,40.4353246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY08912-A</name>
+        <description><![CDATA[Date: 7/28/25 9:37 AM
+      Site Name: Niagra Falls
+      AGL: 104
+      Tower Type: Monopole
+      Address: 1703 James Ave., Niagara Falls, Niagara, NY 14092]]></description>
+        <Point><coordinates>-79.0407024444444,43.125866,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT01879-S</name>
+        <description><![CDATA[Date: 7/28/25 9:37 AM
+      Site Name: Clinton 4 CT
+      AGL: 199
+      Tower Type: Self Support
+      Address: 46 Meadow Road, Clinton, Middlesex, CT 06413-2212]]></description>
+        <Point><coordinates>-72.4977107777778,41.2752048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

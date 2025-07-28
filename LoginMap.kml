@@ -172,5 +172,14 @@
       Address: 16458 Hwy 4 East, Senatobia, Tate, MS 38668-6549]]></description>
         <Point><coordinates>-89.9182604444445,34.611225,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17656-A</name>
+        <description><![CDATA[Date: 7/28/25 7:31 AM
+      Site Name: Headquarters
+      AGL: 251
+      Tower Type: Self Support
+      Address: W7695 - 22nd Street W, Necedah, Juneau, WI 54646]]></description>
+        <Point><coordinates>-90.1519463888889,44.0200404444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

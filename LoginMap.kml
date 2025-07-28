@@ -1720,5 +1720,14 @@
       Address: 11810 1/5 Adel Rd, Houston, Harris, TX 77067]]></description>
         <Point><coordinates>-95.4466663333333,29.9562777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46365-A</name>
+        <description><![CDATA[Date: 7/28/25 3:23 PM
+      Site Name: Taylorsville 2 GA
+      AGL: 186
+      Tower Type: Monopole
+      Address: 2409 Floyd Creek Church Rd, Taylorsville, Polk, GA 30178]]></description>
+        <Point><coordinates>-84.9293048888889,34.0798882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

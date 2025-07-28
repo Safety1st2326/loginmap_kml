@@ -451,5 +451,59 @@
       Address: 4231 Deatsville Hwy, Deatsville, Elmore, AL 36022]]></description>
         <Point><coordinates>-86.4037916666667,32.5647916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07253-A</name>
+        <description><![CDATA[Date: 7/28/25 8:51 AM
+      Site Name: Lake City 3 KY
+      AGL: 310
+      Tower Type: Guyed
+      Address: 863 Spring Town Rd., Grand Rivers, Livingston, KY 42045-9284]]></description>
+        <Point><coordinates>-88.2353635555556,37.0568194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21288-A</name>
+        <description><![CDATA[Date: 7/28/25 8:51 AM
+      Site Name: Kewaskum
+      AGL: 196
+      Tower Type: Monopole
+      Address: 4481 Hwy. 28, Kewaskum, Washington, WI 53040]]></description>
+        <Point><coordinates>-88.2563,43.5253048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT15944-A</name>
+        <description><![CDATA[Date: 7/28/25 8:28 AM
+      Site Name: Shorey
+      AGL: 60
+      Tower Type: Self Support
+      Address: Junction of Molt Road & Popelka Road, Billings, Yellowstone, MT 59106]]></description>
+        <Point><coordinates>-108.764375,45.8533111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/28/25 8:54 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL10921-S</name>
+        <description><![CDATA[Date: 7/28/25 8:58 AM
+      Site Name: Galilee Baptist Church
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3470 Christmas Tree Road, Decatur, Macon, IL 62521]]></description>
+        <Point><coordinates>-88.877066,39.8876052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04903-A</name>
+        <description><![CDATA[Date: 7/28/25 8:58 AM
+      Site Name: James Street
+      AGL: 200
+      Tower Type: Self Support
+      Address: 3516 N. Nebraska Avenue, Tampa, Hillsborough, FL 33603-5035]]></description>
+        <Point><coordinates>-82.4514444444444,27.9763048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

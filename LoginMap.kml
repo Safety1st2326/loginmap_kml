@@ -2026,5 +2026,14 @@
       Address: 11464 Sierra Ave., Fontana, San Bernardino, CA 92335]]></description>
         <Point><coordinates>-117.440888555556,34.0457774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45643-A</name>
+        <description><![CDATA[Date: 7/28/25 5:30 PM
+      Site Name: University Redlands
+      AGL: 66
+      Tower Type: Monopole
+      Address: 1330  East Lugonia, Redlands, San Bernardino, CA 92374]]></description>
+        <Point><coordinates>-117.159333333333,34.0683326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

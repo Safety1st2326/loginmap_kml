@@ -1432,5 +1432,14 @@
       Address: N13457 Highway M95, Iron Mountain, Dickinson, MI 49801]]></description>
         <Point><coordinates>-88.0380468888889,45.9481274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01298-A</name>
+        <description><![CDATA[Date: 7/28/25 1:27 PM
+      Site Name: AMC
+      AGL: 170
+      Tower Type: Self Support
+      Address: 8408 Temple Terrace Highway, Temple Terrace, Hillsborough, FL 33637-5808]]></description>
+        <Point><coordinates>-82.3599833333333,28.0343024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

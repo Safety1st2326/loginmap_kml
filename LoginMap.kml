@@ -1378,5 +1378,14 @@
       Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
         <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02640-A</name>
+        <description><![CDATA[Date: 7/28/25 1:04 PM
+      Site Name: LaGrange
+      AGL: 262
+      Tower Type: Self Support
+      Address: 26 Robertson Street, Lagrange, Troup, GA 30241-3519]]></description>
+        <Point><coordinates>-85.0087222222222,33.0414996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

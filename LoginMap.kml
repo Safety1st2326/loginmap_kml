@@ -2035,5 +2035,32 @@
       Address: 165 Huntington Road, Scotland, Windham/Scotland, CT 06264-2202]]></description>
         <Point><coordinates>-72.0970691111111,41.6959107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16212-B</name>
+        <description><![CDATA[Date: 7/29/25 4:40 PM
+      Site Name: Westchester 2
+      AGL: 84
+      Tower Type: Monopole
+      Address: 2700 Mayfair Avenue, Westchester, Cook, IL 60154]]></description>
+        <Point><coordinates>-87.8929274444444,41.840308,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13432-A</name>
+        <description><![CDATA[Date: 7/29/25 4:45 PM
+      Site Name: Bonham 2 TX
+      AGL: 400
+      Tower Type: Guyed
+      Address: 300 County Road 1520, Bonham, Fannin, TX 75418]]></description>
+        <Point><coordinates>-96.2345552222222,33.5895635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10128-A</name>
+        <description><![CDATA[Date: 7/29/25 4:48 PM
+      Site Name: Van Buren Fairgrounds 2 MI
+      AGL: 253
+      Tower Type: Self Support
+      Address: 58022 County Road 681, Hartford, Van Buren, MI 49057]]></description>
+        <Point><coordinates>-86.1124861111111,42.2085111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

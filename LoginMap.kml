@@ -28,5 +28,14 @@
       Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
         <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 7/29/25 6:06 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

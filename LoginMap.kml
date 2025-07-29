@@ -2116,5 +2116,23 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08684-B</name>
+        <description><![CDATA[Date: 7/28/25 10:55 PM
+      Site Name: Red Bank Creek
+      AGL: 250
+      Tower Type: Self Support
+      Address: 146 Shore Rd, Saluda, Saluda, SC 29138]]></description>
+        <Point><coordinates>-81.8395913333333,33.9845024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08684-B</name>
+        <description><![CDATA[Date: 7/28/25 10:57 PM
+      Site Name: Red Bank Creek
+      AGL: 250
+      Tower Type: Self Support
+      Address: 146 Shore Rd, Saluda, Saluda, SC 29138]]></description>
+        <Point><coordinates>-81.8395913333333,33.9845024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

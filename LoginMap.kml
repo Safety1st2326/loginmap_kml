@@ -883,5 +883,41 @@
       Address: 234 W. Nutall Hwy, Monticello, Jefferson, FL 32344]]></description>
         <Point><coordinates>-84.0539194444444,30.1914413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13086-A</name>
+        <description><![CDATA[Date: 7/29/25 9:52 AM
+      Site Name: North Milledgeville
+      AGL: 199
+      Tower Type: Monopole
+      Address: 2988 North Columbia St., Milledgeville, Baldwin, GA 31061]]></description>
+        <Point><coordinates>-83.2859385555556,33.175441,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40694-T</name>
+        <description><![CDATA[Date: 7/29/25 9:52 AM
+      Site Name: Orange Center
+      AGL: 65
+      Tower Type: Clocktower
+      Address: 1550 N. Orange St., Redlands, San Bernardino, CA 92374]]></description>
+        <Point><coordinates>-117.181691,34.0757298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13758-A</name>
+        <description><![CDATA[Date: 7/29/25 9:57 AM
+      Site Name: Columbia 8 MO
+      AGL: 148
+      Tower Type: Monopole
+      Address: 711 Fay Street, Columbia, Boone, MO 65201]]></description>
+        <Point><coordinates>-92.3231076666667,38.9591277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 7/29/25 9:58 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1999,5 +1999,41 @@
       Address: 24309 Hwy 550, Montrose, Ouray, CO 81401]]></description>
         <Point><coordinates>-107.793452444444,38.3309021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22607-A</name>
+        <description><![CDATA[Date: 7/29/25 4:30 PM
+      Site Name: East Villages
+      AGL: 151
+      Tower Type: Monopole
+      Address: 395 Emory Dr., Fruitland Park, Lake, FL 34731]]></description>
+        <Point><coordinates>-81.9465774444444,28.8685548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00990-S</name>
+        <description><![CDATA[Date: 7/29/25 4:37 PM
+      Site Name: Scotland
+      AGL: 240
+      Tower Type: Self Support
+      Address: 165 Huntington Road, Scotland, Windham/Scotland, CT 06264-2202]]></description>
+        <Point><coordinates>-72.0970691111111,41.6959107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21561-A</name>
+        <description><![CDATA[Date: 7/29/25 4:37 PM
+      Site Name: Catlett
+      AGL: 250
+      Tower Type: Self Support
+      Address: 351 Kaufman Road, Lafayette, Walker, GA 30728]]></description>
+        <Point><coordinates>-85.1973885555556,34.7294743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00990-S</name>
+        <description><![CDATA[Date: 7/29/25 4:38 PM
+      Site Name: Scotland
+      AGL: 240
+      Tower Type: Self Support
+      Address: 165 Huntington Road, Scotland, Windham/Scotland, CT 06264-2202]]></description>
+        <Point><coordinates>-72.0970691111111,41.6959107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

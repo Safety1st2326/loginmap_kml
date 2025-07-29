@@ -2098,5 +2098,23 @@
       Address: 548-1 Royce Street, Pensacola, Escambia, FL 32503-2442]]></description>
         <Point><coordinates>-87.2200548888889,30.4690687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/28/25 9:39 PM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/28/25 9:39 PM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

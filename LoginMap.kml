@@ -1000,5 +1000,14 @@
       Address: 115 S. Avery Rd. S.W., Rome, Floyd, GA 30165-9214]]></description>
         <Point><coordinates>-85.2859107777778,34.260225,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA42023-A</name>
+        <description><![CDATA[Date: 7/29/25 10:37 AM
+      Site Name: MASSAPONAX-SILVER COMPANIES
+      AGL: 171
+      Tower Type: Monopole
+      Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
+        <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

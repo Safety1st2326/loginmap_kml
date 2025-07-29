@@ -46,5 +46,14 @@
       Address: 3200 6th St SE , Washington DC, SE, District of Columbia, DC 20032]]></description>
         <Point><coordinates>-76.9983357777778,38.8427357777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16089-S</name>
+        <description><![CDATA[Date: 7/29/25 6:21 AM
+      Site Name: Lely
+      AGL: 150
+      Tower Type: Monopole
+      Address: 5650 Melrose Lane, Naples, Collier, FL 34114]]></description>
+        <Point><coordinates>-81.6827743333333,26.0977941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

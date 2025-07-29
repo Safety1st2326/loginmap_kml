@@ -1288,5 +1288,32 @@
       Address: 1550 N. Orange St., Redlands, San Bernardino, CA 92374]]></description>
         <Point><coordinates>-117.181691,34.0757298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45804-A</name>
+        <description><![CDATA[Date: 7/29/25 12:01 PM
+      Site Name: Muscoy
+      AGL: 47
+      Tower Type: Tree
+      Address: 282 W. Baseline Road, Rialto, San Bernardino, CA 92376]]></description>
+        <Point><coordinates>-117.373388222222,34.1229715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09728-S</name>
+        <description><![CDATA[Date: 7/29/25 12:09 PM
+      Site Name: Pollito2
+      AGL: 190
+      Tower Type: Monopole
+      Address: 4695 Oak Grove Road, Cumming, Forsyth, GA 30040]]></description>
+        <Point><coordinates>-84.1033888888889,34.2949718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21805-A</name>
+        <description><![CDATA[Date: 7/29/25 12:09 PM
+      Site Name: Fort Stockton
+      AGL: 288
+      Tower Type: Guyed
+      Address: 1349 S. Hwy 385, Fort Stockton, Pecos, TX 79735]]></description>
+        <Point><coordinates>-102.889246888889,30.8700882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

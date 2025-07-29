@@ -361,5 +361,23 @@
       Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
         <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC47148-A</name>
+        <description><![CDATA[Date: 7/29/25 8:02 AM
+      Site Name: Havelock
+      AGL: 156
+      Tower Type: Monopole
+      Address: 896 Greenfields Heights Blvd., Havelock, Craven, NC 28532]]></description>
+        <Point><coordinates>-76.9354691111111,34.8927774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11772-A</name>
+        <description><![CDATA[Date: 7/29/25 8:02 AM
+      Site Name: Keltonburg Hwy 56- Hwy 288
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
+        <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

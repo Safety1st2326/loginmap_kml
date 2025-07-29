@@ -622,5 +622,59 @@
       Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
         <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL20135-A</name>
+        <description><![CDATA[Date: 7/29/25 9:01 AM
+      Site Name: Brantley AL Tower
+      AGL: 330
+      Tower Type: Guyed
+      Address: 239 Kennedy Road, Brantley, Crenshaw, AL 36009]]></description>
+        <Point><coordinates>-86.2373552222222,31.5411996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN14394-A</name>
+        <description><![CDATA[Date: 7/29/25 9:01 AM
+      Site Name: Leader
+      AGL: 501
+      Tower Type: Guyed
+      Address: 6994 71st Avenue SW, Moose Lake, Cass, MN 56466]]></description>
+        <Point><coordinates>-94.6523166666667,46.551325,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK12053-A</name>
+        <description><![CDATA[Date: 7/29/25 9:01 AM
+      Site Name: Mountain View 2 OK
+      AGL: 320
+      Tower Type: Guyed
+      Address: 23807 E 1330 Road, Mountain View, Kiowa, OK 73062]]></description>
+        <Point><coordinates>-98.7411357777778,35.0908441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46141-A</name>
+        <description><![CDATA[Date: 7/29/25 9:01 AM
+      Site Name: Water Treatment Plant 2 CT
+      AGL: 158
+      Tower Type: Stealth
+      Address: 1 WESTERBERG DRIVE, FARMINGTON, HARTFORD/Farmington, CT 060320000]]></description>
+        <Point><coordinates>-72.8354857777778,41.730491,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV11302-A</name>
+        <description><![CDATA[Date: 7/29/25 8:58 AM
+      Site Name: South Elkins
+      AGL: 127
+      Tower Type: Monopole
+      Address: 312 Good Dog Hill, Elkins, Randolph, WV 26241]]></description>
+        <Point><coordinates>-79.8457246666667,38.8738743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK17896-A</name>
+        <description><![CDATA[Date: 7/29/25 8:58 AM
+      Site Name: East Tishomingo
+      AGL: 257
+      Tower Type: Self Support
+      Address: 1002 E Main Street, Tishomingo, Johnston, OK 73460]]></description>
+        <Point><coordinates>-96.6686798888889,34.2284354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

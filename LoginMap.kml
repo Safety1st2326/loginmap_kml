@@ -1063,5 +1063,14 @@
       Address: 440 Tiffany Street, Springfield, Hampden, MA 01108-3373]]></description>
         <Point><coordinates>-72.5434191111111,42.0689215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16166-B</name>
+        <description><![CDATA[Date: 7/29/25 10:57 AM
+      Site Name: Monmouth 3
+      AGL: 110
+      Tower Type: Monopole
+      Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

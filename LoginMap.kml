@@ -1315,5 +1315,41 @@
       Address: 1349 S. Hwy 385, Fort Stockton, Pecos, TX 79735]]></description>
         <Point><coordinates>-102.889246888889,30.8700882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06380-A</name>
+        <description><![CDATA[Date: 7/29/25 12:09 PM
+      Site Name: Crawford 2 MS
+      AGL: 256
+      Tower Type: Guyed
+      Address: 9260 Hwy 45A, Crawford, Lowndes, MS 39743]]></description>
+        <Point><coordinates>-88.6418941111111,33.3553305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00830-S</name>
+        <description><![CDATA[Date: 7/29/25 12:13 PM
+      Site Name: Highway 27
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3365 Martha Berry Highway, Rome, Floyd, GA 30165-8653]]></description>
+        <Point><coordinates>-85.1751493333333,34.3183437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40427-T</name>
+        <description><![CDATA[Date: 7/29/25 12:16 PM
+      Site Name: Tom Gill-Bad Dog
+      AGL: 180
+      Tower Type: Monopole
+      Address: 8814 W. Mile 3 Rd, Mission Hidalgo, Hidalgo, TX 78573]]></description>
+        <Point><coordinates>-98.4255826666667,26.2748326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20505-A</name>
+        <description><![CDATA[Date: 7/29/25 12:19 PM
+      Site Name: Carol High
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1888 S 26th Dr, Yuma, Yuma, AZ 85364]]></description>
+        <Point><coordinates>-114.652748333333,32.6931560555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

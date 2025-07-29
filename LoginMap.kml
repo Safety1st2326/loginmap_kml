@@ -1900,5 +1900,77 @@
       Address: 83 Andy Lane, Bells, GRAYSON, TX 75414]]></description>
         <Point><coordinates>-96.3959718888889,33.6187215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK41679-T</name>
+        <description><![CDATA[Date: 7/29/25 4:03 PM
+      Site Name: Hastings
+      AGL: 150
+      Tower Type: Monopole
+      Address: 103 W. College, Hastings, Jefferson, OK 73548]]></description>
+        <Point><coordinates>-98.1097111111111,34.2238437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS16081-A</name>
+        <description><![CDATA[Date: 7/29/25 4:03 PM
+      Site Name: Jayess
+      AGL: 340
+      Tower Type: Guyed
+      Address: 130 Highway 44, Jayess, Walthall, MS 39641]]></description>
+        <Point><coordinates>-90.2323743333333,31.3488607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS16081-A</name>
+        <description><![CDATA[Date: 7/29/25 4:03 PM
+      Site Name: Jayess
+      AGL: 340
+      Tower Type: Guyed
+      Address: 130 Highway 44, Jayess, Walthall, MS 39641]]></description>
+        <Point><coordinates>-90.2323743333333,31.3488607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS16081-A</name>
+        <description><![CDATA[Date: 7/29/25 4:04 PM
+      Site Name: Jayess
+      AGL: 340
+      Tower Type: Guyed
+      Address: 130 Highway 44, Jayess, Walthall, MS 39641]]></description>
+        <Point><coordinates>-90.2323743333333,31.3488607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40708-T</name>
+        <description><![CDATA[Date: 7/29/25 4:01 PM
+      Site Name: Stockdale Liquors
+      AGL: 75
+      Tower Type: Monopole Tree
+      Address: 3840 Stockdale Hwy, Bakersfield, Kern, CA 93309]]></description>
+        <Point><coordinates>-119.047141333333,35.3545666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40883-A</name>
+        <description><![CDATA[Date: 7/29/25 4:07 PM
+      Site Name: Wesley Chapel Commerce Park
+      AGL: 140
+      Tower Type: Stealth
+      Address: 26605 Wesley Chapel Boulevard, Lutz, Pasco, FL 33559]]></description>
+        <Point><coordinates>-82.3768326666667,28.2289882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40883-A</name>
+        <description><![CDATA[Date: 7/29/25 4:07 PM
+      Site Name: Wesley Chapel Commerce Park
+      AGL: 140
+      Tower Type: Stealth
+      Address: 26605 Wesley Chapel Boulevard, Lutz, Pasco, FL 33559]]></description>
+        <Point><coordinates>-82.3768326666667,28.2289882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21196-A</name>
+        <description><![CDATA[Date: 7/29/25 4:09 PM
+      Site Name: Greenville 6 WI
+      AGL: 195
+      Tower Type: Monopole
+      Address: W6895 PARKVIEW DRIVE, GREENVILLE, OUTAGAMIE, WI 54942]]></description>
+        <Point><coordinates>-88.5356107777778,44.3019166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

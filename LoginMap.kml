@@ -703,5 +703,32 @@
       Address: 317 East 124th Avenue, Tampa, Hillsborough, FL 33612]]></description>
         <Point><coordinates>-82.4573361111111,28.0596222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12458-A</name>
+        <description><![CDATA[Date: 7/29/25 9:20 AM
+      Site Name: Miles
+      AGL: 161
+      Tower Type: Monopole
+      Address: 317 East 124th Avenue, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.4573361111111,28.0596222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04991-A</name>
+        <description><![CDATA[Date: 7/29/25 9:06 AM
+      Site Name: McGregor
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1200 N. Dixieland Road, Rogers, Benton, AR 72756-2132]]></description>
+        <Point><coordinates>-94.1446107777778,36.3451885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20711-A</name>
+        <description><![CDATA[Date: 7/29/25 9:09 AM
+      Site Name: Dequincy
+      AGL: 260
+      Tower Type: Self Support
+      Address: 922 Anise Street, Dequincy, Calcasieu, LA 70633]]></description>
+        <Point><coordinates>-93.424691,30.4599555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

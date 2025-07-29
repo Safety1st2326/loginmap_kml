@@ -2179,5 +2179,14 @@
       Address: 15091A KITCHING ST , MORENO VALLEY, RIVERSIDE, CA 92551]]></description>
         <Point><coordinates>-117.217668777778,33.9013527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47828-A</name>
+        <description><![CDATA[Date: 7/29/25 6:30 PM
+      Site Name: Duff Bar-B-Que
+      AGL: 99
+      Tower Type: Monopole
+      Address: 4707 Burnet Rd, Austin, Travis, TX 78756]]></description>
+        <Point><coordinates>-97.738783,30.318291,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

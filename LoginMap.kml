@@ -1882,5 +1882,23 @@
       Address: 2538 N Locust Ave., Rialto, San Bernardino, CA 92376]]></description>
         <Point><coordinates>-117.410994444444,34.1431663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA16079-A</name>
+        <description><![CDATA[Date: 7/29/25 3:37 PM
+      Site Name: Stockdale Hwy
+      AGL: 120
+      Tower Type: Self Support
+      Address: 5001 Stockdale Highway, Bakersfield, Kern, CA 93306]]></description>
+        <Point><coordinates>-119.055962333333,35.3530831944444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21027-A</name>
+        <description><![CDATA[Date: 7/29/25 3:25 PM
+      Site Name: Bells
+      AGL: 300
+      Tower Type: Guyed
+      Address: 83 Andy Lane, Bells, GRAYSON, TX 75414]]></description>
+        <Point><coordinates>-96.3959718888889,33.6187215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

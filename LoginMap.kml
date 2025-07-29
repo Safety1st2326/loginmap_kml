@@ -1234,5 +1234,59 @@
       Address: 7606 Wimpy Lane, Tampa, Hillsborough, FL 33625-5822]]></description>
         <Point><coordinates>-82.5646805555556,28.0432052222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 7/29/25 11:40 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 7/29/25 11:39 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21557-A</name>
+        <description><![CDATA[Date: 7/29/25 11:56 AM
+      Site Name: Rome Industrial
+      AGL: 225
+      Tower Type: Self Support
+      Address: 118 Clark Avenue, Rome, Floyd, GA 30165]]></description>
+        <Point><coordinates>-85.192508,34.2707298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12084-B</name>
+        <description><![CDATA[Date: 7/29/25 11:56 AM
+      Site Name: Amasa
+      AGL: 230
+      Tower Type: Self Support
+      Address: Warner Mine Road, .5 mi So. of Old US 141 N., Amasa, Iron, MI 49903]]></description>
+        <Point><coordinates>-88.4371413333333,46.2206854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40089-T</name>
+        <description><![CDATA[Date: 7/29/25 11:58 AM
+      Site Name: Woodrow
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1158 Old Yorkville Rd, Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.9865413333333,33.8997135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40694-T</name>
+        <description><![CDATA[Date: 7/29/25 11:58 AM
+      Site Name: Orange Center
+      AGL: 65
+      Tower Type: Clocktower
+      Address: 1550 N. Orange St., Redlands, San Bernardino, CA 92374]]></description>
+        <Point><coordinates>-117.181691,34.0757298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

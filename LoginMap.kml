@@ -1351,5 +1351,14 @@
       Address: 1888 S 26th Dr, Yuma, Yuma, AZ 85364]]></description>
         <Point><coordinates>-114.652748333333,32.6931560555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI15916-A</name>
+        <description><![CDATA[Date: 7/29/25 12:28 PM
+      Site Name: Wolverine Tower
+      AGL: 380
+      Tower Type: Guyed
+      Address: 910 River Street, Lansing, Ingham, MI 48912]]></description>
+        <Point><coordinates>-84.5477191111111,42.723616,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

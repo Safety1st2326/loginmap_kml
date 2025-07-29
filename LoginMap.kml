@@ -1774,5 +1774,23 @@
       Address: 3221 US Hwy 11, Rising Fawn, Dade, GA 30738]]></description>
         <Point><coordinates>-85.5366024444444,34.75015,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21025-A</name>
+        <description><![CDATA[Date: 7/29/25 2:55 PM
+      Site Name: EAST SHERMAN
+      AGL: 160
+      Tower Type: Guyed
+      Address: 1046 Mitchell Road, Sherman, Grayson, TX 75090]]></description>
+        <Point><coordinates>-96.5615277777778,33.6417496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41108-T</name>
+        <description><![CDATA[Date: 7/29/25 2:55 PM
+      Site Name: Steyer Seeds
+      AGL: 145
+      Tower Type: Monopole
+      Address: 5559 North 500 West, Greenfield, Hancock, IN 46140]]></description>
+        <Point><coordinates>-85.8950107777778,39.8651527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

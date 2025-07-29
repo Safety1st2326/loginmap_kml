@@ -1792,5 +1792,59 @@
       Address: 5559 North 500 West, Greenfield, Hancock, IN 46140]]></description>
         <Point><coordinates>-85.8950107777778,39.8651527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR08294-B</name>
+        <description><![CDATA[Date: 7/29/25 3:01 PM
+      Site Name: Hwy 107 North
+      AGL: 185
+      Tower Type: Monopole
+      Address: 4416 West Republican Road, Jacksonville, Pulaski, AR 72076-8789]]></description>
+        <Point><coordinates>-92.1554222222222,34.940383,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02473-S</name>
+        <description><![CDATA[Date: 7/29/25 3:00 PM
+      Site Name: Bentwood
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3664 Meeks Drive, Oakwood, Hall, GA 30566]]></description>
+        <Point><coordinates>-83.879416,34.2533583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21598-A</name>
+        <description><![CDATA[Date: 7/29/25 3:06 PM
+      Site Name: Holly Hills
+      AGL: 250
+      Tower Type: Self Support
+      Address: 210 Legion Drive, Columbus, Lowndes, MS 39705]]></description>
+        <Point><coordinates>-88.4339857777778,33.5354496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21598-A</name>
+        <description><![CDATA[Date: 7/29/25 3:06 PM
+      Site Name: Holly Hills
+      AGL: 250
+      Tower Type: Self Support
+      Address: 210 Legion Drive, Columbus, Lowndes, MS 39705]]></description>
+        <Point><coordinates>-88.4339857777778,33.5354496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL11109-A</name>
+        <description><![CDATA[Date: 7/29/25 3:07 PM
+      Site Name: Hammond 2 IL
+      AGL: 250
+      Tower Type: Self Support
+      Address: US 36, Lovington, Moultrie, IL 61937]]></description>
+        <Point><coordinates>-88.6511861111111,39.7915385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08338-B</name>
+        <description><![CDATA[Date: 7/29/25 3:09 PM
+      Site Name: Blythewood
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
+        <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

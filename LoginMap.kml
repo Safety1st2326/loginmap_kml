@@ -163,5 +163,23 @@
       Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
         <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY08912-A</name>
+        <description><![CDATA[Date: 7/29/25 7:09 AM
+      Site Name: Niagra Falls
+      AGL: 104
+      Tower Type: Monopole
+      Address: 1703 James Ave., Niagara Falls, Niagara, NY 14092]]></description>
+        <Point><coordinates>-79.0407024444444,43.125866,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46229-A</name>
+        <description><![CDATA[Date: 7/29/25 7:25 AM
+      Site Name: East Wimauma
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8801 State Road 674, Lithia, Hillsborough, FL 33547]]></description>
+        <Point><coordinates>-82.2384774444444,27.703275,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

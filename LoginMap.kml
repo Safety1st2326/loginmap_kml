@@ -1513,5 +1513,32 @@
       Address: 24422 Raymond Drive, Denham Springs, Livingston Parish, LA 70726]]></description>
         <Point><coordinates>-90.9457802222222,30.4224298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12464-S</name>
+        <description><![CDATA[Date: 7/29/25 12:55 PM
+      Site Name: Cannella
+      AGL: 149
+      Tower Type: Flagpole
+      Address: 10707 Nixon Road, Tampa, Hillsborough, FL 33624]]></description>
+        <Point><coordinates>-82.5315993333333,28.0445663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12464-S</name>
+        <description><![CDATA[Date: 7/29/25 12:55 PM
+      Site Name: Cannella
+      AGL: 149
+      Tower Type: Flagpole
+      Address: 10707 Nixon Road, Tampa, Hillsborough, FL 33624]]></description>
+        <Point><coordinates>-82.5315993333333,28.0445663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA16948-A</name>
+        <description><![CDATA[Date: 7/29/25 12:56 PM
+      Site Name: Harrison 4 GA
+      AGL: 251
+      Tower Type: Self Support
+      Address: 600 Cheek Pulliam Road, Royston, Madison, GA 30662]]></description>
+        <Point><coordinates>-83.1456496666667,34.2123055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -73,5 +73,77 @@
       Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
         <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47729-A</name>
+        <description><![CDATA[Date: 7/29/25 6:36 AM
+      Site Name: Crystal Lake Driving Range
+      AGL: 150
+      Tower Type: Monopole
+      Address: 100 Broncos Highway, Burrillville, Providence, RI 02859]]></description>
+        <Point><coordinates>-71.6654638888889,41.9402107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15119-A</name>
+        <description><![CDATA[Date: 7/29/25 6:50 AM
+      Site Name: Benton Harbor 3 MI
+      AGL: 182
+      Tower Type: Monopole
+      Address: 1171 N. Benton Center Road, Benton Harbor, Berrien, MI 49022]]></description>
+        <Point><coordinates>-86.3712854444444,42.1342996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16586-S</name>
+        <description><![CDATA[Date: 7/29/25 6:52 AM
+      Site Name: Litchfield West
+      AGL: 190
+      Tower Type: Self Support
+      Address: 10761 Twr Jones Road, Litchfield Township, Medina, OH 44253]]></description>
+        <Point><coordinates>-82.071516,41.1570388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21183-A</name>
+        <description><![CDATA[Date: 7/29/25 6:40 AM
+      Site Name: Plymouth 5 WI
+      AGL: 195
+      Tower Type: Monopole
+      Address: N5711 Willow Road, Sheboygan Falls, Sheboygan, WI 53073]]></description>
+        <Point><coordinates>-87.9196382222222,43.7482996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL14866-A</name>
+        <description><![CDATA[Date: 7/29/25 6:54 AM
+      Site Name: Opus Media - Tallahassee
+      AGL: 493
+      Tower Type: Guyed
+      Address: 3002 Olson Road, Tallahassee, Leon, FL 32301]]></description>
+        <Point><coordinates>-84.2330493333333,30.4941357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 7/29/25 6:54 AM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00384-B</name>
+        <description><![CDATA[Date: 7/29/25 6:40 AM
+      Site Name: Majors
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3111 Glen Wallace Drive, Cumming, Forsyth, GA 30040-6388]]></description>
+        <Point><coordinates>-84.191383,34.1644055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02640-A</name>
+        <description><![CDATA[Date: 7/29/25 6:58 AM
+      Site Name: LaGrange
+      AGL: 262
+      Tower Type: Self Support
+      Address: 26 Robertson Street, Lagrange, Troup, GA 30241-3519]]></description>
+        <Point><coordinates>-85.0087222222222,33.0414996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

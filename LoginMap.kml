@@ -1864,5 +1864,23 @@
       Address: 13888 Drummond Lake Road, Covington, Baraga, MI 49919]]></description>
         <Point><coordinates>-88.5146888888889,46.4570166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07249-A</name>
+        <description><![CDATA[Date: 7/29/25 3:23 PM
+      Site Name: Husband's Road
+      AGL: 331
+      Tower Type: Guyed
+      Address: 2030 W. HOVEKAMP RD. NORTH, PADUCAH, McCRACKEN, KY 42003-9027]]></description>
+        <Point><coordinates>-88.5948302222222,37.0484885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45952-A</name>
+        <description><![CDATA[Date: 7/29/25 3:15 PM
+      Site Name: Pyramid Pre-cast
+      AGL: 67
+      Tower Type: Tree
+      Address: 2538 N Locust Ave., Rialto, San Bernardino, CA 92376]]></description>
+        <Point><coordinates>-117.410994444444,34.1431663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

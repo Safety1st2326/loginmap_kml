@@ -2071,5 +2071,14 @@
       Address: 5000 Silver Mesa Drive, Durango, La Plata, CO 81301]]></description>
         <Point><coordinates>-107.782910444444,37.3636055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/28/25 7:45 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

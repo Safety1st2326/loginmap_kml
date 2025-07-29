@@ -1540,5 +1540,23 @@
       Address: 600 Cheek Pulliam Road, Royston, Madison, GA 30662]]></description>
         <Point><coordinates>-83.1456496666667,34.2123055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/29/25 1:07 PM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH01827-B</name>
+        <description><![CDATA[Date: 7/29/25 1:07 PM
+      Site Name: Sidney
+      AGL: 301
+      Tower Type: Self Support
+      Address: 840 S. Vandemarke Road, Sidney, Shelby, OH 45365-8139]]></description>
+        <Point><coordinates>-84.1854274444444,40.2759798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

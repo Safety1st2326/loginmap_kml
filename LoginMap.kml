@@ -1630,5 +1630,14 @@
       Address: 746 Laurelton Avenue, Maple Shade, Burlington, NJ 08052-1121]]></description>
         <Point><coordinates>-75.0023055555556,39.9659722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX48048-A</name>
+        <description><![CDATA[Date: 7/29/25 1:46 PM
+      Site Name: Public Storage - Gulf
+      AGL: 103
+      Tower Type: Monopole
+      Address: 8430 Gulf Freeway, Houston, Harris, TX 77061]]></description>
+        <Point><coordinates>-95.2665722222222,29.6734993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

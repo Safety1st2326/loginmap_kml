@@ -1576,5 +1576,59 @@
       Address: 2644 N Cedar Ave North Cedar Res ervoir, Rialto, San Bernardino, CA 92376]]></description>
         <Point><coordinates>-117.398721888889,34.1469441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21554-A</name>
+        <description><![CDATA[Date: 7/29/25 1:32 PM
+      Site Name: Gore - Highway 27
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2091 Highway 27, Summerville, Chattooga, GA 30747]]></description>
+        <Point><coordinates>-85.2473802222222,34.4411052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA17461-A</name>
+        <description><![CDATA[Date: 7/29/25 1:34 PM
+      Site Name: North Halifax
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2032 Childrey Church Road, Nathalie, Halifax, VA 24577]]></description>
+        <Point><coordinates>-78.9764993333333,36.9959996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13896-A</name>
+        <description><![CDATA[Date: 7/29/25 1:37 PM
+      Site Name: Milano
+      AGL: 301
+      Tower Type: Guyed
+      Address: 207 Cannon Snap Rd, Milano, Milam, TX 76556]]></description>
+        <Point><coordinates>-96.8729437777778,30.7127777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01356-B</name>
+        <description><![CDATA[Date: 7/29/25 1:37 PM
+      Site Name: Malvern
+      AGL: 150
+      Tower Type: Self Support
+      Address: 367 Old Morehall Road, Malvern Borough, East Whiteland Township, Chester, PA 19355]]></description>
+        <Point><coordinates>-75.537133,40.0523611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13098-A</name>
+        <description><![CDATA[Date: 7/29/25 1:24 PM
+      Site Name: Jesup
+      AGL: 349
+      Tower Type: Guyed
+      Address: 2195 Post Road, Hortense, Wayne, GA 31543]]></description>
+        <Point><coordinates>-81.687583,31.403,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ01406-B</name>
+        <description><![CDATA[Date: 7/29/25 1:39 PM
+      Site Name: Maple Shade
+      AGL: 138
+      Tower Type: Monopole
+      Address: 746 Laurelton Avenue, Maple Shade, Burlington, NJ 08052-1121]]></description>
+        <Point><coordinates>-75.0023055555556,39.9659722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

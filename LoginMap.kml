@@ -730,5 +730,113 @@
       Address: 922 Anise Street, Dequincy, Calcasieu, LA 70633]]></description>
         <Point><coordinates>-93.424691,30.4599555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22507-A</name>
+        <description><![CDATA[Date: 7/29/25 9:19 AM
+      Site Name: Little America
+      AGL: 250
+      Tower Type: Self Support
+      Address: 23202 Highway 24, Lewiston, Fulton, IL 61542]]></description>
+        <Point><coordinates>-90.0058,40.4197132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV09081-A</name>
+        <description><![CDATA[Date: 7/29/25 9:31 AM
+      Site Name: Meadows 2 WV
+      AGL: 251
+      Tower Type: Self Support
+      Address: 395 Three Crosses Rd, Camp Creek, Mercer, WV 25820-9092]]></description>
+        <Point><coordinates>-81.0723271111111,37.4867941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12565-A</name>
+        <description><![CDATA[Date: 7/29/25 9:32 AM
+      Site Name: Arnolds Park East
+      AGL: 169
+      Tower Type: Monopole
+      Address: 2423 190th Street, Lake, Dickinson, IA 51331]]></description>
+        <Point><coordinates>-95.1070027777778,43.3704826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12565-A</name>
+        <description><![CDATA[Date: 7/29/25 9:32 AM
+      Site Name: Arnolds Park East
+      AGL: 169
+      Tower Type: Monopole
+      Address: 2423 190th Street, Lake, Dickinson, IA 51331]]></description>
+        <Point><coordinates>-95.1070027777778,43.3704826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21556-A</name>
+        <description><![CDATA[Date: 7/29/25 9:32 AM
+      Site Name: Rehobeth 2 GA
+      AGL: 300
+      Tower Type: Self Support
+      Address: 431Gadsden Road SW, Cave Spring, Floyd, GA 30124]]></description>
+        <Point><coordinates>-85.3592055555555,34.1039361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV09081-A</name>
+        <description><![CDATA[Date: 7/29/25 9:32 AM
+      Site Name: Meadows 2 WV
+      AGL: 251
+      Tower Type: Self Support
+      Address: 395 Three Crosses Rd, Camp Creek, Mercer, WV 25820-9092]]></description>
+        <Point><coordinates>-81.0723271111111,37.4867941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46169-A</name>
+        <description><![CDATA[Date: 7/29/25 9:19 AM
+      Site Name: EW Burch
+      AGL: 112
+      Tower Type: Monopole
+      Address: 301 SW 37th Street, Gainesville, Alachua, FL 32602]]></description>
+        <Point><coordinates>-82.3782687777778,29.6486857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21679-A</name>
+        <description><![CDATA[Date: 7/29/25 9:37 AM
+      Site Name: Cochran North
+      AGL: 250
+      Tower Type: Guyed
+      Address: 270 Lucas Road, Cochran, Bleckley, GA 31014]]></description>
+        <Point><coordinates>-83.3386135555556,32.4130611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA21329-A</name>
+        <description><![CDATA[Date: 7/29/25 9:37 AM
+      Site Name: New Iberia 2 LA
+      AGL: 198
+      Tower Type: Self Support
+      Address: 320 W. WASHINGTON, NEW IBERIA, IBERIA, LA 70560]]></description>
+        <Point><coordinates>-91.8238882222222,30.0077777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA41203-T</name>
+        <description><![CDATA[Date: 7/29/25 9:37 AM
+      Site Name: BS670-KnightsOfColumbus
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 177 Bedford St, Lexington, Middlesex, MA 02420]]></description>
+        <Point><coordinates>-71.2360274444444,42.4598611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46229-A</name>
+        <description><![CDATA[Date: 7/29/25 9:29 AM
+      Site Name: East Wimauma
+      AGL: 250
+      Tower Type: Self Support
+      Address: 8801 State Road 674, Lithia, Hillsborough, FL 33547]]></description>
+        <Point><coordinates>-82.2384774444444,27.703275,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 7/29/25 9:29 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

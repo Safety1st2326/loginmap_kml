@@ -2107,5 +2107,14 @@
       Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
         <Point><coordinates>-79.6923163333333,41.6142583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40628-T</name>
+        <description><![CDATA[Date: 7/29/25 5:18 PM
+      Site Name: IE489 Extra Space Storage
+      AGL: 72
+      Tower Type: Stealth
+      Address: 16340 B Perris Blvd., Moreno Valley, Riverside, CA 92551]]></description>
+        <Point><coordinates>-117.225638333333,33.8834496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

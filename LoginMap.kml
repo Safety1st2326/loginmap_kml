@@ -982,5 +982,23 @@
       Address: 339 E County Line Road, Springdale, Washington, AR 72764]]></description>
         <Point><coordinates>-94.1320632222222,36.2086527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17654-A</name>
+        <description><![CDATA[Date: 7/29/25 10:15 AM
+      Site Name: Hansen
+      AGL: 276
+      Tower Type: Self Support
+      Address: +/-5183 Jefferson Road, Vesper, Wood, WI 54489]]></description>
+        <Point><coordinates>-89.9767187777778,44.4603277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02889-B</name>
+        <description><![CDATA[Date: 7/29/25 10:16 AM
+      Site Name: Avery Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 115 S. Avery Rd. S.W., Rome, Floyd, GA 30165-9214]]></description>
+        <Point><coordinates>-85.2859107777778,34.260225,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

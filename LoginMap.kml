@@ -1360,5 +1360,77 @@
       Address: 910 River Street, Lansing, Ingham, MI 48912]]></description>
         <Point><coordinates>-84.5477191111111,42.723616,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40467-T</name>
+        <description><![CDATA[Date: 7/29/25 12:31 PM
+      Site Name: Midtown
+      AGL: 70
+      Tower Type: Monopole
+      Address: 1659 Government Street, Mobile, Mobile, AL 36604]]></description>
+        <Point><coordinates>-88.0778826666667,30.6782715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY22444-A</name>
+        <description><![CDATA[Date: 7/29/25 12:31 PM
+      Site Name: EV Clarks River
+      AGL: 293
+      Tower Type: Self Support
+      Address: 672 Sheehan Bridge Road, Paducah, McCracken, KY 42003]]></description>
+        <Point><coordinates>-88.5378468888889,36.9989107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI48220-A</name>
+        <description><![CDATA[Date: 7/29/25 12:31 PM
+      Site Name: Butte Des Morts
+      AGL: 190
+      Tower Type: Self Support
+      Address: 3865 County Rd FF, Omro, Winnebago, WI 54963]]></description>
+        <Point><coordinates>-88.6753465555556,44.0320382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48178-A</name>
+        <description><![CDATA[Date: 7/29/25 12:37 PM
+      Site Name: Oak Harbor-gun Club
+      AGL: 150
+      Tower Type: Guyed
+      Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
+        <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12421-A</name>
+        <description><![CDATA[Date: 7/29/25 12:37 PM
+      Site Name: Montgomery 6 MI
+      AGL: 300
+      Tower Type: Guyed
+      Address: 8701.5 W. Camden Road, Montgomery, Hillsdale, MI 49255]]></description>
+        <Point><coordinates>-84.7807798888889,41.7507388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48178-A</name>
+        <description><![CDATA[Date: 7/29/25 12:37 PM
+      Site Name: Oak Harbor-gun Club
+      AGL: 150
+      Tower Type: Guyed
+      Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
+        <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48178-A</name>
+        <description><![CDATA[Date: 7/29/25 12:37 PM
+      Site Name: Oak Harbor-gun Club
+      AGL: 150
+      Tower Type: Guyed
+      Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
+        <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 7/29/25 12:39 PM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1747,5 +1747,32 @@
       Address: 615 18TH AVENUE NORTH, COLUMBUS, LOWNDES, MS 39701]]></description>
         <Point><coordinates>-88.4248604444444,33.5148611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40560-T</name>
+        <description><![CDATA[Date: 7/29/25 2:42 PM
+      Site Name: Chelsea
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 4929 Patterson Ave., Perris, Riverside, CA 92571]]></description>
+        <Point><coordinates>-117.252369444444,33.8615861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01293-A</name>
+        <description><![CDATA[Date: 7/29/25 2:47 PM
+      Site Name: Diez
+      AGL: 201
+      Tower Type: Self Support
+      Address: 17601 Livingston Avenue, Lutz, Hillsborough, FL 33559-5897]]></description>
+        <Point><coordinates>-82.4186104444445,28.1273604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21549-A</name>
+        <description><![CDATA[Date: 7/29/25 2:48 PM
+      Site Name: Rising Fawn - I-59
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3221 US Hwy 11, Rising Fawn, Dade, GA 30738]]></description>
+        <Point><coordinates>-85.5366024444444,34.75015,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

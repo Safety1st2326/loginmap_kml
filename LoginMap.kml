@@ -1558,5 +1558,23 @@
       Address: 840 S. Vandemarke Road, Sidney, Shelby, OH 45365-8139]]></description>
         <Point><coordinates>-84.1854274444444,40.2759798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13635-A</name>
+        <description><![CDATA[Date: 7/29/25 1:17 PM
+      Site Name: Lecanto
+      AGL: 251
+      Tower Type: Monopole
+      Address: 1970 South Lecanto Highway, Lecanto, Citrus, FL 34461]]></description>
+        <Point><coordinates>-82.4883607777778,28.8344441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45520-A</name>
+        <description><![CDATA[Date: 7/29/25 1:13 PM
+      Site Name: Kolb
+      AGL: 50
+      Tower Type: Tree
+      Address: 2644 N Cedar Ave North Cedar Res ervoir, Rialto, San Bernardino, CA 92376]]></description>
+        <Point><coordinates>-117.398721888889,34.1469441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

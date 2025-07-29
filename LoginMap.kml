@@ -325,5 +325,41 @@
       Address: 191 Old Block Lane, State College, Centre, PA 16801]]></description>
         <Point><coordinates>-77.8853052222222,40.7795826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14596-B</name>
+        <description><![CDATA[Date: 7/29/25 7:59 AM
+      Site Name: Steven's Point 2 WI
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3737 Sunset Drive, Stevens Point, Portage, WI 54482]]></description>
+        <Point><coordinates>-89.6319798888889,44.6478357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46366-A</name>
+        <description><![CDATA[Date: 7/29/25 7:59 AM
+      Site Name: Yarborough
+      AGL: 181
+      Tower Type: Monopole
+      Address: 6792 Rockmart Road SE, Silver Creek, Floyd, GA 30173]]></description>
+        <Point><coordinates>-85.1333326388889,34.1014444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/29/25 7:59 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/29/25 7:59 AM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

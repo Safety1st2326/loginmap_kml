@@ -379,5 +379,23 @@
       Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
         <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA00091-B</name>
+        <description><![CDATA[Date: 7/29/25 8:06 AM
+      Site Name: Buffington
+      AGL: 250
+      Tower Type: Self Support
+      Address: 711 Harmony Drive, Canton, Cherokee, GA 30115]]></description>
+        <Point><coordinates>-84.4101972222222,34.2451135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15886-A</name>
+        <description><![CDATA[Date: 7/29/25 8:19 AM
+      Site Name: Ave Maria
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

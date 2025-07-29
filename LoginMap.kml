@@ -1117,5 +1117,32 @@
       Address: 3267 Fire Tower Rd, Crawford, Lowndes, MS 39743]]></description>
         <Point><coordinates>-88.584783,33.3350857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/29/25 11:10 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14537-A</name>
+        <description><![CDATA[Date: 7/29/25 11:10 AM
+      Site Name: S Sherman
+      AGL: 230
+      Tower Type: Guyed
+      Address: 1025 E FM 1417, Sherman, Grayson, TX 75090]]></description>
+        <Point><coordinates>-96.5948052222222,33.6005055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 7/29/25 11:12 AM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

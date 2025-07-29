@@ -2143,5 +2143,23 @@
       Address: 4908 South Main Street, Rockford, Winnebago, IL 61102]]></description>
         <Point><coordinates>-89.1076916666667,42.2099055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL04758-A</name>
+        <description><![CDATA[Date: 7/29/25 5:49 PM
+      Site Name: Spruce Pine
+      AGL: 307
+      Tower Type: Guyed
+      Address: 7334 Highway 22, Spruce Pine, Franklin, AL 35585-4225]]></description>
+        <Point><coordinates>-87.7575138888889,34.4025916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/29/25 5:49 PM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

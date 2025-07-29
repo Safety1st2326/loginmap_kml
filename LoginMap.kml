@@ -2062,5 +2062,23 @@
       Address: 58022 County Road 681, Hartford, Van Buren, MI 49057]]></description>
         <Point><coordinates>-86.1124861111111,42.2085111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10482-A</name>
+        <description><![CDATA[Date: 7/29/25 4:55 PM
+      Site Name: Mitchell 2 CO
+      AGL: 41
+      Tower Type: Monopole
+      Address: 2801 6485 Road, Montrose, Montrose, CO 81401]]></description>
+        <Point><coordinates>-107.877410444444,38.4546555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10482-A</name>
+        <description><![CDATA[Date: 7/29/25 4:55 PM
+      Site Name: Mitchell 2 CO
+      AGL: 41
+      Tower Type: Monopole
+      Address: 2801 6485 Road, Montrose, Montrose, CO 81401]]></description>
+        <Point><coordinates>-107.877410444444,38.4546555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

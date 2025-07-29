@@ -2089,5 +2089,14 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00661-B</name>
+        <description><![CDATA[Date: 7/28/25 9:34 PM
+      Site Name: East Pensacola
+      AGL: 151
+      Tower Type: Monopole
+      Address: 548-1 Royce Street, Pensacola, Escambia, FL 32503-2442]]></description>
+        <Point><coordinates>-87.2200548888889,30.4690687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

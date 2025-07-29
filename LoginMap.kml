@@ -2134,5 +2134,14 @@
       Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
         <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22525-A</name>
+        <description><![CDATA[Date: 7/29/25 5:33 PM
+      Site Name: Rockford Airport N
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4908 South Main Street, Rockford, Winnebago, IL 61102]]></description>
+        <Point><coordinates>-89.1076916666667,42.2099055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

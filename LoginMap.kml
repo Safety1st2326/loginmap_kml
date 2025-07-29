@@ -397,5 +397,50 @@
       Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
         <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12427-A</name>
+        <description><![CDATA[Date: 7/29/25 8:22 AM
+      Site Name: East Englewood
+      AGL: 142
+      Tower Type: Monopole
+      Address: 3069 S. McCall Road, Englewood, Charlotte, FL 34224]]></description>
+        <Point><coordinates>-82.3059555555556,26.933333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL00763-B</name>
+        <description><![CDATA[Date: 7/29/25 8:22 AM
+      Site Name: Vaughn Plaza
+      AGL: 186
+      Tower Type: Monopole
+      Address: 2882 Vaughn Plaza Road, Montgomery, Montgomery, AL 36116-1149]]></description>
+        <Point><coordinates>-86.2216187777778,32.3420163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/29/25 8:12 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00661-B</name>
+        <description><![CDATA[Date: 7/29/25 8:10 AM
+      Site Name: East Pensacola
+      AGL: 151
+      Tower Type: Monopole
+      Address: 548-1 Royce Street, Pensacola, Escambia, FL 32503-2442]]></description>
+        <Point><coordinates>-87.2200548888889,30.4690687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00505-B</name>
+        <description><![CDATA[Date: 7/29/25 8:10 AM
+      Site Name: Cowpens
+      AGL: 300
+      Tower Type: Guyed
+      Address: 199 Henry Street, Cowpens, Spartanburg, SC 29330]]></description>
+        <Point><coordinates>-81.7955663333333,35.0081944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

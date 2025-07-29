@@ -1702,5 +1702,23 @@
       Address: 102 Spies Lake Road, Amasa, Iron, MI 49903]]></description>
         <Point><coordinates>-88.4627777777778,46.3488718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45909-A</name>
+        <description><![CDATA[Date: 7/29/25 2:21 PM
+      Site Name: Palm Valley School
+      AGL: 60
+      Tower Type: Tree
+      Address: 35-525 Da Vall Dr, Rancho Mirage, Riverside, CA 92270]]></description>
+        <Point><coordinates>-116.443138555556,33.7906552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46300-A</name>
+        <description><![CDATA[Date: 7/29/25 2:27 PM
+      Site Name: Menlo 2 GA
+      AGL: 300
+      Tower Type: Self Support
+      Address: 33936 GA 157, Menlo, Chattooga, GA 30731]]></description>
+        <Point><coordinates>-85.4920496666667,34.5179271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

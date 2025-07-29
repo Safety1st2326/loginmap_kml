@@ -2161,5 +2161,23 @@
       Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
         <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48062-A</name>
+        <description><![CDATA[Date: 7/29/25 6:06 PM
+      Site Name: North Star Coatings
+      AGL: 80
+      Tower Type: Monopole
+      Address: 5195 W 4700 South, Salt Lake City, Salt Lake, UT 84101]]></description>
+        <Point><coordinates>-112.013416666667,40.6637777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45810-A</name>
+        <description><![CDATA[Date: 7/29/25 6:09 PM
+      Site Name: Sce Alessandro Substation
+      AGL: 57
+      Tower Type: Tree
+      Address: 15091A KITCHING ST , MORENO VALLEY, RIVERSIDE, CA 92551]]></description>
+        <Point><coordinates>-117.217668777778,33.9013527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

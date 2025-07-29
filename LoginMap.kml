@@ -442,5 +442,68 @@
       Address: 199 Henry Street, Cowpens, Spartanburg, SC 29330]]></description>
         <Point><coordinates>-81.7955663333333,35.0081944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12455-A</name>
+        <description><![CDATA[Date: 7/29/25 8:32 AM
+      Site Name: Belle Witter
+      AGL: 138
+      Tower Type: Monopole
+      Address: 10801 North 22nd Street, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.4326882222222,28.0463635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12455-A</name>
+        <description><![CDATA[Date: 7/29/25 8:32 AM
+      Site Name: Belle Witter
+      AGL: 138
+      Tower Type: Monopole
+      Address: 10801 North 22nd Street, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.4326882222222,28.0463635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41662-T</name>
+        <description><![CDATA[Date: 7/29/25 8:28 AM
+      Site Name: Boswell
+      AGL: 349
+      Tower Type: Guyed
+      Address: 674 E 2060 Rd (E911), Boswell, Choctaw, OK 74727]]></description>
+        <Point><coordinates>-95.8219532222222,34.0254426666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04751-S</name>
+        <description><![CDATA[Date: 7/29/25 8:28 AM
+      Site Name: Golden Mile
+      AGL: 158
+      Tower Type: Monopole
+      Address: 218 Kane Road, Pittsburgh, Allegheny, PA 15239-2809]]></description>
+        <Point><coordinates>-79.7098,40.4539416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20373-A</name>
+        <description><![CDATA[Date: 7/29/25 8:28 AM
+      Site Name: AMITE (ROSELAND)
+      AGL: 300
+      Tower Type: Guyed
+      Address: 65243 Vernon Town Road, Roseland, TANGIPAHOA, LA 70456]]></description>
+        <Point><coordinates>-90.4727780277778,30.8006527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 7/29/25 8:28 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/29/25 8:37 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

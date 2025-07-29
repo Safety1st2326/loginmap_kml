@@ -1180,5 +1180,59 @@
       Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
         <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH01828-B</name>
+        <description><![CDATA[Date: 7/29/25 11:46 AM
+      Site Name: Swanders
+      AGL: 330
+      Tower Type: Self Support
+      Address: 14377 Sharp Road, Sidney, Shelby, OH 45365-8302]]></description>
+        <Point><coordinates>-84.1621444444445,40.346858,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR40499-T</name>
+        <description><![CDATA[Date: 7/29/25 11:46 AM
+      Site Name: W Childress&Hwy113 Morltn
+      AGL: 190
+      Tower Type: Monopole
+      Address: 819 Church Street, Morrilton, Conway, AR 72110]]></description>
+        <Point><coordinates>-92.7688215555556,35.1532638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46747-A</name>
+        <description><![CDATA[Date: 7/29/25 11:46 AM
+      Site Name: Hyattsville Nursery
+      AGL: 98
+      Tower Type: Monopole
+      Address: 3421 Hamilton Street, Hyattsville, Prince George's, MD 20782]]></description>
+        <Point><coordinates>-76.9611888888889,38.95385,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS08864-A</name>
+        <description><![CDATA[Date: 7/29/25 11:37 AM
+      Site Name: McComb 2
+      AGL: 302
+      Tower Type: Guyed
+      Address: 1096 Morgantown Road, McComb, Pike, MS 39648-8442]]></description>
+        <Point><coordinates>-90.430791,31.2397746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10475-A</name>
+        <description><![CDATA[Date: 7/29/25 11:48 AM
+      Site Name: Hotchkiss
+      AGL: 101
+      Tower Type: Monopole
+      Address: 498 Clara Vista, Hotchkiss, Delta, CO 81419]]></description>
+        <Point><coordinates>-107.727871555556,38.8112666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01294-A</name>
+        <description><![CDATA[Date: 7/29/25 11:48 AM
+      Site Name: Jones
+      AGL: 200
+      Tower Type: Self Support
+      Address: 7606 Wimpy Lane, Tampa, Hillsborough, FL 33625-5822]]></description>
+        <Point><coordinates>-82.5646805555556,28.0432052222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

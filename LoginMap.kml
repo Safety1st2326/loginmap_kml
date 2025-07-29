@@ -181,5 +181,95 @@
       Address: 8801 State Road 674, Lithia, Hillsborough, FL 33547]]></description>
         <Point><coordinates>-82.2384774444444,27.703275,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 7/29/25 7:31 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09926-A</name>
+        <description><![CDATA[Date: 7/29/25 7:31 AM
+      Site Name: Tree
+      AGL: 197
+      Tower Type: Monopole
+      Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46143-A</name>
+        <description><![CDATA[Date: 7/29/25 7:31 AM
+      Site Name: Burlington - Avon Landfill
+      AGL: 131
+      Tower Type: Monopole
+      Address: 277 Huckleberry Hill Road, Avon, Hartford/Avon, CT 06013]]></description>
+        <Point><coordinates>-72.9182529444444,41.7881321666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02887-B</name>
+        <description><![CDATA[Date: 7/29/25 7:31 AM
+      Site Name: Bethel Church Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1227 Bethel Church Road S.E., Silver Creek, Floyd, GA 30173-2893]]></description>
+        <Point><coordinates>-85.1458691111111,34.1290271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 7/29/25 7:31 AM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL21682-A</name>
+        <description><![CDATA[Date: 7/29/25 7:34 AM
+      Site Name: Chipola Park
+      AGL: 290
+      Tower Type: Guyed
+      Address: 5648 SW Clayton Shiver Road, Kinard, Calhoun, FL 32449]]></description>
+        <Point><coordinates>-85.2053416666667,30.2738771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/29/25 7:34 AM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28334-A</name>
+        <description><![CDATA[Date: 7/29/25 7:37 AM
+      Site Name: Toga
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5550 Mount Rush Highway, Buckingham, Buckingham, VA 23921]]></description>
+        <Point><coordinates>-78.6231465555556,37.4966024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PR05196-A</name>
+        <description><![CDATA[Date: 7/29/25 7:37 AM
+      Site Name: Finca Santiago
+      AGL: 190
+      Tower Type: Self Support
+      Address: Road #2 Km. 42.6 Bo. Algarrobo, Vega Baja, Vega Baja, PR 00693]]></description>
+        <Point><coordinates>-66.4282632222222,18.4438552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18274-S</name>
+        <description><![CDATA[Date: 7/29/25 7:34 AM
+      Site Name: Rogers Park
+      AGL: 140
+      Tower Type: Monopole
+      Address: 7910 N 30th Street, Tampa, Hillsborough, FL 33610]]></description>
+        <Point><coordinates>-82.4274923888889,28.0219293333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

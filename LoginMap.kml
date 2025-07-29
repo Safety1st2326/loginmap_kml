@@ -838,5 +838,50 @@
       Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
         <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA12149-A</name>
+        <description><![CDATA[Date: 7/29/25 9:29 AM
+      Site Name: Brightside LA
+      AGL: 149
+      Tower Type: Monopole
+      Address: 1444 Brightside Lane, Baton Rouge, East Baton Rouge, LA 70820]]></description>
+        <Point><coordinates>-91.174366,30.3885468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14536-A</name>
+        <description><![CDATA[Date: 7/29/25 9:40 AM
+      Site Name: NW Sherman
+      AGL: 190
+      Tower Type: Guyed
+      Address: 4410 N. Travis, Sherman, Grayson, TX 75092]]></description>
+        <Point><coordinates>-96.6271243333333,33.6774965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10483-A</name>
+        <description><![CDATA[Date: 7/29/25 9:40 AM
+      Site Name: Olathe 2 CO
+      AGL: 142
+      Tower Type: Monopole
+      Address: 1 Park Place, Olathe, Montrose, CO 81425]]></description>
+        <Point><coordinates>-107.974885444444,38.5909552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22299-A</name>
+        <description><![CDATA[Date: 7/29/25 9:40 AM
+      Site Name: GC Hub
+      AGL: 127
+      Tower Type: Self Support
+      Address: 17373 Forest Service 343F Road, Grand Canyon, Coconino, AZ 86023]]></description>
+        <Point><coordinates>-112.00993775,35.9099429722222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22653-A</name>
+        <description><![CDATA[Date: 7/29/25 9:43 AM
+      Site Name: St Marks
+      AGL: 300
+      Tower Type: Guyed
+      Address: 234 W. Nutall Hwy, Monticello, Jefferson, FL 32344]]></description>
+        <Point><coordinates>-84.0539194444444,30.1914413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

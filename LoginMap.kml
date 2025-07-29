@@ -2116,5 +2116,23 @@
       Address: 16340 B Perris Blvd., Moreno Valley, Riverside, CA 92551]]></description>
         <Point><coordinates>-117.225638333333,33.8834496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA48178-A</name>
+        <description><![CDATA[Date: 7/29/25 5:24 PM
+      Site Name: Oak Harbor-gun Club
+      AGL: 150
+      Tower Type: Guyed
+      Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
+        <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48178-A</name>
+        <description><![CDATA[Date: 7/29/25 5:25 PM
+      Site Name: Oak Harbor-gun Club
+      AGL: 150
+      Tower Type: Guyed
+      Address: 886 Gun Club Road , Oak Harbor, Island, WA 98277]]></description>
+        <Point><coordinates>-122.663388888889,48.3183048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

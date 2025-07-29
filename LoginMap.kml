@@ -1846,5 +1846,23 @@
       Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
         <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21605-A</name>
+        <description><![CDATA[Date: 7/29/25 3:12 PM
+      Site Name: RIDGE ROAD
+      AGL: 250
+      Tower Type: Self Support
+      Address: 56 Pennington Lake Road, Columbus, LOWNDES, MS 39705]]></description>
+        <Point><coordinates>-88.4030583333333,33.5494718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12348-B</name>
+        <description><![CDATA[Date: 7/29/25 3:13 PM
+      Site Name: Drummond Lake MI
+      AGL: 301
+      Tower Type: Self Support
+      Address: 13888 Drummond Lake Road, Covington, Baraga, MI 49919]]></description>
+        <Point><coordinates>-88.5146888888889,46.4570166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

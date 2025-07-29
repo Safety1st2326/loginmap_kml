@@ -919,5 +919,68 @@
       Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
         <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40788-T</name>
+        <description><![CDATA[Date: 7/29/25 10:04 AM
+      Site Name: Eas Highland Shopping Ctr
+      AGL: 60
+      Tower Type: Stealth
+      Address: 7223 Church Street, Highland, San Bernardino, CA 92346]]></description>
+        <Point><coordinates>-117.172788222222,34.1218576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40788-T</name>
+        <description><![CDATA[Date: 7/29/25 10:04 AM
+      Site Name: Eas Highland Shopping Ctr
+      AGL: 70
+      Tower Type: Mono-Eucalyptus
+      Address: 7223 Church Street, Highland, San Bernardino, CA 92346]]></description>
+        <Point><coordinates>-117.172788222222,34.1218576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12456-A</name>
+        <description><![CDATA[Date: 7/29/25 10:06 AM
+      Site Name: Leto
+      AGL: 145
+      Tower Type: Monopole
+      Address: 6909 Asphalt Dr., Tampa, Hillsborough, FL 33614]]></description>
+        <Point><coordinates>-82.5234521111111,28.0127583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10145-A</name>
+        <description><![CDATA[Date: 7/29/25 10:13 AM
+      Site Name: Antelope 4 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 20200 U.S. Highway 281 North, Windthorst, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.3722548888889,33.4280521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10145-A</name>
+        <description><![CDATA[Date: 7/29/25 10:13 AM
+      Site Name: Antelope 4 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 20200 U.S. Highway 281 North, Windthorst, Jack, TX 76458]]></description>
+        <Point><coordinates>-98.3722548888889,33.4280521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46141-A</name>
+        <description><![CDATA[Date: 7/29/25 10:19 AM
+      Site Name: Water Treatment Plant 2 CT
+      AGL: 158
+      Tower Type: Stealth
+      Address: 1 WESTERBERG DRIVE, FARMINGTON, HARTFORD/Farmington, CT 060320000]]></description>
+        <Point><coordinates>-72.8354857777778,41.730491,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR11448-A</name>
+        <description><![CDATA[Date: 7/29/25 10:19 AM
+      Site Name: N Springdale
+      AGL: 150
+      Tower Type: Monopole
+      Address: 339 E County Line Road, Springdale, Washington, AR 72764]]></description>
+        <Point><coordinates>-94.1320632222222,36.2086527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

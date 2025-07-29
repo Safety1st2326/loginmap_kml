@@ -1072,5 +1072,50 @@
       Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
         <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL46552-A</name>
+        <description><![CDATA[Date: 7/29/25 11:02 AM
+      Site Name: Central Sod Raw Land
+      AGL: 71
+      Tower Type: Monopole
+      Address: 26W258 Lake St, Bartlett (Uninc.), DuPage, IL 60133]]></description>
+        <Point><coordinates>-88.135883,41.9815632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH00267-B</name>
+        <description><![CDATA[Date: 7/29/25 11:04 AM
+      Site Name: Waterville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 8575 Hertzfeld Road, Waterville, Lucas, OH 43566]]></description>
+        <Point><coordinates>-83.785758,41.462225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40471-T</name>
+        <description><![CDATA[Date: 7/29/25 11:04 AM
+      Site Name: Defort
+      AGL: 180
+      Tower Type: Monopole
+      Address: 9010 Old Mobile Road, Daphne, Baldwin, AL 36527]]></description>
+        <Point><coordinates>-87.8690576666667,30.6773771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14535-A</name>
+        <description><![CDATA[Date: 7/29/25 10:54 AM
+      Site Name: NE Sherman
+      AGL: 190
+      Tower Type: Guyed
+      Address: 551 Baker Ridge Rd, Sherman, Grayson, TX 75090]]></description>
+        <Point><coordinates>-96.5728826666667,33.6657111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15790-A</name>
+        <description><![CDATA[Date: 7/29/25 10:54 AM
+      Site Name: Crawford 7 MS
+      AGL: 600
+      Tower Type: Guyed
+      Address: 3267 Fire Tower Rd, Crawford, Lowndes, MS 39743]]></description>
+        <Point><coordinates>-88.584783,33.3350857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

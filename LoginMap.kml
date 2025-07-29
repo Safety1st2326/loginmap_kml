@@ -1720,5 +1720,32 @@
       Address: 33936 GA 157, Menlo, Chattooga, GA 30731]]></description>
         <Point><coordinates>-85.4920496666667,34.5179271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40468-T</name>
+        <description><![CDATA[Date: 7/29/25 2:36 PM
+      Site Name: West Mobile
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4340 Haley Court, Mobile, Mobile, AL 36619]]></description>
+        <Point><coordinates>-88.2531083333333,30.5990191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00459-B</name>
+        <description><![CDATA[Date: 7/29/25 2:39 PM
+      Site Name: Crystal
+      AGL: 225
+      Tower Type: Monopole
+      Address: 8432 Browns Bridge Rd, Gainesville, Forsyth, GA 30506]]></description>
+        <Point><coordinates>-83.9769132222222,34.2498441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21604-A</name>
+        <description><![CDATA[Date: 7/29/25 2:39 PM
+      Site Name: 7th Street
+      AGL: 180
+      Tower Type: Monopole
+      Address: 615 18TH AVENUE NORTH, COLUMBUS, LOWNDES, MS 39701]]></description>
+        <Point><coordinates>-88.4248604444444,33.5148611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

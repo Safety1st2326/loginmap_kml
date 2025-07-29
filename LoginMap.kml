@@ -2080,5 +2080,14 @@
       Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
         <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/28/25 8:54 PM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

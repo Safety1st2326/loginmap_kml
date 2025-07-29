@@ -1009,5 +1009,59 @@
       Address: 9741 Jefferson Davis Hwy, Massaponax, Spotsylvania, VA 22407]]></description>
         <Point><coordinates>-77.5012,38.2215493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13631-A</name>
+        <description><![CDATA[Date: 7/29/25 10:42 AM
+      Site Name: Holder 2 FL
+      AGL: 281
+      Tower Type: Self Support
+      Address: 860 East Overdrive Court, Holder, Citrus, FL 34445]]></description>
+        <Point><coordinates>-82.4253326666667,28.954,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01296-A</name>
+        <description><![CDATA[Date: 7/29/25 10:31 AM
+      Site Name: Martinez
+      AGL: 197
+      Tower Type: Self Support
+      Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
+        <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01296-A</name>
+        <description><![CDATA[Date: 7/29/25 10:31 AM
+      Site Name: Martinez
+      AGL: 197
+      Tower Type: Self Support
+      Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
+        <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20254-A</name>
+        <description><![CDATA[Date: 7/29/25 10:34 AM
+      Site Name: McCanna ND Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1886 36th St. N.E., Larimore, Grand Forks, ND 58251]]></description>
+        <Point><coordinates>-97.6010555555555,47.9444274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08931-A</name>
+        <description><![CDATA[Date: 7/29/25 10:34 AM
+      Site Name: Sidney 3 OH
+      AGL: 151
+      Tower Type: Monopole
+      Address: 223 South Walnut Street, Sidney, Shelby, OH 45365]]></description>
+        <Point><coordinates>-84.1608333333333,40.2830437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA12226-A</name>
+        <description><![CDATA[Date: 7/29/25 10:48 AM
+      Site Name: Springfield2
+      AGL: 144
+      Tower Type: Flagpole
+      Address: 440 Tiffany Street, Springfield, Hampden, MA 01108-3373]]></description>
+        <Point><coordinates>-72.5434191111111,42.0689215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

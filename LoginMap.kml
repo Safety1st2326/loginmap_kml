@@ -676,5 +676,32 @@
       Address: 1002 E Main Street, Tishomingo, Johnston, OK 73460]]></description>
         <Point><coordinates>-96.6686798888889,34.2284354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/29/25 9:16 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47977-A</name>
+        <description><![CDATA[Date: 7/29/25 9:03 AM
+      Site Name: S Lavon-tx
+      AGL: 290
+      Tower Type: Guyed
+      Address: 16707 Fm 2755 , Lavon, Collin, TX 75166]]></description>
+        <Point><coordinates>-96.4219076666667,33.0235187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12458-A</name>
+        <description><![CDATA[Date: 7/29/25 9:19 AM
+      Site Name: Miles
+      AGL: 161
+      Tower Type: Monopole
+      Address: 317 East 124th Avenue, Tampa, Hillsborough, FL 33612]]></description>
+        <Point><coordinates>-82.4573361111111,28.0596222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

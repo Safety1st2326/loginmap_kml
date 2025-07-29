@@ -2062,5 +2062,14 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO12004-A</name>
+        <description><![CDATA[Date: 7/28/25 7:22 PM
+      Site Name: Missionary Ridge 2 CO
+      AGL: 153
+      Tower Type: Self Support
+      Address: 5000 Silver Mesa Drive, Durango, La Plata, CO 81301]]></description>
+        <Point><coordinates>-107.782910444444,37.3636055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

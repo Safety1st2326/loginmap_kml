@@ -271,5 +271,59 @@
       Address: 7910 N 30th Street, Tampa, Hillsborough, FL 33610]]></description>
         <Point><coordinates>-82.4274923888889,28.0219293333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA01669-B</name>
+        <description><![CDATA[Date: 7/29/25 7:46 AM
+      Site Name: Couches Pond
+      AGL: 250
+      Tower Type: Self Support
+      Address: 5301 Courtland Rd., Disputanta, Sussex, VA 23842-6830]]></description>
+        <Point><coordinates>-77.3064166666667,37.0334052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07254-A</name>
+        <description><![CDATA[Date: 7/29/25 7:46 AM
+      Site Name: Calvert City
+      AGL: 312
+      Tower Type: Guyed
+      Address: 1245 US Hwy 95, Calvert City, Marshall, KY 42029-8858]]></description>
+        <Point><coordinates>-88.3551666666667,36.9860691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13081-A</name>
+        <description><![CDATA[Date: 7/29/25 7:34 AM
+      Site Name: Quincy
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1218 West Clark Street, Quincy, Gadsden, FL 32351]]></description>
+        <Point><coordinates>-84.5923441111111,30.5864135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01314-A</name>
+        <description><![CDATA[Date: 7/29/25 7:34 AM
+      Site Name: Luten
+      AGL: 201
+      Tower Type: Self Support
+      Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
+        <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14852-A</name>
+        <description><![CDATA[Date: 7/29/25 7:49 AM
+      Site Name: Van Alstyne
+      AGL: 250
+      Tower Type: Self Support
+      Address: 9371 Farmington Rd., Van Alstyne, Grayson, TX 75495]]></description>
+        <Point><coordinates>-96.6463024444444,33.4536333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06516-B</name>
+        <description><![CDATA[Date: 7/29/25 7:49 AM
+      Site Name: Pine Hall
+      AGL: 190
+      Tower Type: Self Support
+      Address: 191 Old Block Lane, State College, Centre, PA 16801]]></description>
+        <Point><coordinates>-77.8853052222222,40.7795826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

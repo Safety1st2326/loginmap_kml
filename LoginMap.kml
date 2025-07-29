@@ -1144,5 +1144,41 @@
       Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
         <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/29/25 11:20 AM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21546-A</name>
+        <description><![CDATA[Date: 7/29/25 11:22 AM
+      Site Name: Rome 3 GA
+      AGL: 250
+      Tower Type: Guyed
+      Address: 660 MT ALTO ROAD, ROME, FLOYD, GA 30165]]></description>
+        <Point><coordinates>-85.2291187777778,34.2354746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22294-A</name>
+        <description><![CDATA[Date: 7/29/25 11:25 AM
+      Site Name: Goldfield
+      AGL: 146
+      Tower Type: Monopole
+      Address: 8311 N. Goldfield Road,, Mesa, Maricopa, AZ 85215]]></description>
+        <Point><coordinates>-111.614766722222,33.5547743888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 7/29/25 11:27 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

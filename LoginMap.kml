@@ -1675,5 +1675,32 @@
       Address: 600 Chester Hack Drive, Paducah, McCracken, KY 42003-2603]]></description>
         <Point><coordinates>-88.6084361111111,37.0655888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07236-A</name>
+        <description><![CDATA[Date: 7/29/25 1:59 PM
+      Site Name: Chester Hack
+      AGL: 260
+      Tower Type: Self Support
+      Address: 600 Chester Hack Drive, Paducah, McCracken, KY 42003-2603]]></description>
+        <Point><coordinates>-88.6084361111111,37.0655888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR40504-T</name>
+        <description><![CDATA[Date: 7/29/25 2:07 PM
+      Site Name: Atkins East
+      AGL: 250
+      Tower Type: Self Support
+      Address: 189 Talley Lane, Atkins, Pope, AR 72823]]></description>
+        <Point><coordinates>-92.8723937777778,35.2432968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12092-B</name>
+        <description><![CDATA[Date: 7/29/25 2:04 PM
+      Site Name: Spies Lake
+      AGL: 230
+      Tower Type: Self Support
+      Address: 102 Spies Lake Road, Amasa, Iron, MI 49903]]></description>
+        <Point><coordinates>-88.4627777777778,46.3488718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

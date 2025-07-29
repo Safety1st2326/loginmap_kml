@@ -2080,5 +2080,32 @@
       Address: 2801 6485 Road, Montrose, Montrose, CO 81401]]></description>
         <Point><coordinates>-107.877410444444,38.4546555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/29/25 5:01 PM
+      Site Name: Titusville
+      AGL: 183
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923218888889,41.6146277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT14567-S</name>
+        <description><![CDATA[Date: 7/29/25 5:02 PM
+      Site Name: Whitingham VT
+      AGL: 139
+      Tower Type: Monopole
+      Address: 4189 Route 100, Whitingham, Windham, VT 05361]]></description>
+        <Point><coordinates>-72.8376246666667,42.7874718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01776-A</name>
+        <description><![CDATA[Date: 7/29/25 5:01 PM
+      Site Name: Titusville
+      AGL: 251
+      Tower Type: Self Support
+      Address: 722 Canal Street/RR5 BOX 6A, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6923163333333,41.6142583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

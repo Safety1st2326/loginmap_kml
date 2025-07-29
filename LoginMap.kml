@@ -1972,5 +1972,32 @@
       Address: W6895 PARKVIEW DRIVE, GREENVILLE, OUTAGAMIE, WI 54942]]></description>
         <Point><coordinates>-88.5356107777778,44.3019166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02629-A</name>
+        <description><![CDATA[Date: 7/29/25 4:12 PM
+      Site Name: North Gainesville
+      AGL: 224
+      Tower Type: Self Support
+      Address: 504 SW Summit Street, Gainesville, Hall, GA 30501]]></description>
+        <Point><coordinates>-83.8256743333333,34.2912663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 7/29/25 4:17 PM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10463-A</name>
+        <description><![CDATA[Date: 7/29/25 4:17 PM
+      Site Name: Colona 3 CO
+      AGL: 155
+      Tower Type: Self Support
+      Address: 24309 Hwy 550, Montrose, Ouray, CO 81401]]></description>
+        <Point><coordinates>-107.793452444444,38.3309021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

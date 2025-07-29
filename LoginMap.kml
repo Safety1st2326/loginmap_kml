@@ -37,5 +37,14 @@
       Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
         <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>DC46152-A</name>
+        <description><![CDATA[Date: 7/29/25 6:10 AM
+      Site Name: King Elementary School Flagpole
+      AGL: 65
+      Tower Type: Flagpole
+      Address: 3200 6th St SE , Washington DC, SE, District of Columbia, DC 20032]]></description>
+        <Point><coordinates>-76.9983357777778,38.8427357777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2017,5 +2017,32 @@
       Address: 403 W. Grace, Cleghorn, Cherokee, IA 51014]]></description>
         <Point><coordinates>-95.7170604444444,42.8131916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN02104-B</name>
+        <description><![CDATA[Date: 7/30/25 5:48 PM
+      Site Name: Bright
+      AGL: 345
+      Tower Type: Guyed
+      Address: 24389 Grubbs Road, Lawrenceburg, Dearborn, IN 47025-8139]]></description>
+        <Point><coordinates>-84.8714632222222,39.2235798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN02104-B</name>
+        <description><![CDATA[Date: 7/30/25 5:48 PM
+      Site Name: Bright
+      AGL: 345
+      Tower Type: Guyed
+      Address: 24389 Grubbs Road, Lawrenceburg, Dearborn, IN 47025-8139]]></description>
+        <Point><coordinates>-84.8714632222222,39.2235798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN02104-B</name>
+        <description><![CDATA[Date: 7/30/25 5:48 PM
+      Site Name: Bright
+      AGL: 345
+      Tower Type: Guyed
+      Address: 24389 Grubbs Road, Lawrenceburg, Dearborn, IN 47025-8139]]></description>
+        <Point><coordinates>-84.8714632222222,39.2235798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

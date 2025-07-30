@@ -2188,5 +2188,32 @@
       Address: 4707 Burnet Rd, Austin, Travis, TX 78756]]></description>
         <Point><coordinates>-97.738783,30.318291,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO29633-A</name>
+        <description><![CDATA[Date: 7/29/25 6:52 PM
+      Site Name: Blue Creek 3 CO
+      AGL: 150
+      Tower Type: Self Support
+      Address: 9701 Highway 50, Gunnison, Gunnison, CO 81230]]></description>
+        <Point><coordinates>-107.399274666667,38.4374468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10835-A</name>
+        <description><![CDATA[Date: 7/29/25 6:40 PM
+      Site Name: El Dorado Towanda
+      AGL: 482
+      Tower Type: Guyed
+      Address: 1328 Shumway Road, El Dorado, Butler, KS 67144]]></description>
+        <Point><coordinates>-96.9521388888889,37.80525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40702-T</name>
+        <description><![CDATA[Date: 7/29/25 6:57 PM
+      Site Name: JFK Park
+      AGL: 79
+      Tower Type: Monopole
+      Address: 15115 Indian St., Moreno Valley, Riverside, CA 92551]]></description>
+        <Point><coordinates>-117.236249666667,33.9011583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

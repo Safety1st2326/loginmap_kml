@@ -1990,5 +1990,23 @@
       Address: 180 Holly Ridge, Smackover, Union, AR 71762-9404]]></description>
         <Point><coordinates>-92.7595277777778,33.3605555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09213-A</name>
+        <description><![CDATA[Date: 7/30/25 5:21 PM
+      Site Name: Ringgold 2 GA
+      AGL: 178
+      Tower Type: Self Support
+      Address: 2129 Held Mountain Lane, Ringgold, Catoosa, GA 30736]]></description>
+        <Point><coordinates>-85.0862552222222,34.9699687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL16053-A</name>
+        <description><![CDATA[Date: 7/30/25 5:25 PM
+      Site Name: Desmond
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3815 City Road 313, Stanton, Chilton, AL 36790]]></description>
+        <Point><coordinates>-86.9207076666667,32.6848941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

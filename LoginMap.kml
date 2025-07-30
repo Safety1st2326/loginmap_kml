@@ -1189,5 +1189,41 @@
       Address: 909 Charles St., El Dorado, Union, AR 71730]]></description>
         <Point><coordinates>-92.634833,33.2001944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY22007-A</name>
+        <description><![CDATA[Date: 7/30/25 11:04 AM
+      Site Name: Strickland Corners
+      AGL: 180
+      Tower Type: Self Support
+      Address: 31202 County Route 30, Philadelphia, Jefferson, NY 13673]]></description>
+        <Point><coordinates>-75.7065694444444,44.1135222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN03305-B</name>
+        <description><![CDATA[Date: 7/30/25 10:55 AM
+      Site Name: Wyatt
+      AGL: 247
+      Tower Type: Self Support
+      Address: 65696 State Road 331, Bremen, St. Joseph, IN 46506-9435]]></description>
+        <Point><coordinates>-86.1665944444445,41.539358,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 7/30/25 11:08 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY02540-S</name>
+        <description><![CDATA[Date: 7/30/25 11:08 AM
+      Site Name: Howes Cave
+      AGL: 140
+      Tower Type: Self Support
+      Address: 231 Sagendorf Corners Road, Cobleskill, Schoharie, NY 12092]]></description>
+        <Point><coordinates>-74.3903552222222,42.6939385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1828,5 +1828,50 @@
       Address: 279 Chatham Road, HOMER, BANKS, GA 30547]]></description>
         <Point><coordinates>-83.4115388888889,34.3546388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI12731-B</name>
+        <description><![CDATA[Date: 7/30/25 3:01 PM
+      Site Name: Cavour WI
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4407 US Highway 8, Caswell, Forest, WI 54511]]></description>
+        <Point><coordinates>-88.6545472222222,45.6552166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA02204-B</name>
+        <description><![CDATA[Date: 7/30/25 3:09 PM
+      Site Name: Militia Hill Road
+      AGL: 130
+      Tower Type: Monopole
+      Address: 5207 Militia Hill Road, Plymouth Meeting, Montgomery, PA 19462-1216]]></description>
+        <Point><coordinates>-75.2568333333333,40.1182493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04240-A</name>
+        <description><![CDATA[Date: 7/30/25 3:10 PM
+      Site Name: Calhoun
+      AGL: 300
+      Tower Type: Guyed
+      Address: 6344 Hwy 84 West, Soso, Jones, MS 39480-5053]]></description>
+        <Point><coordinates>-89.2900385555556,31.6725132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN41343-A</name>
+        <description><![CDATA[Date: 7/30/25 3:10 PM
+      Site Name: Jaycee Fields Rplcmnt
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1900 W. Myrtle Street, Stillwater, Washington, MN 55082]]></description>
+        <Point><coordinates>-92.8310826666667,45.0575555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04954-A</name>
+        <description><![CDATA[Date: 7/30/25 3:10 PM
+      Site Name: Kizziar
+      AGL: 300
+      Tower Type: Guyed
+      Address: 351 Penn Rd., Arkadelphia, Hot Spring, AR 71923]]></description>
+        <Point><coordinates>-93.0054805555556,34.2388607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

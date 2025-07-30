@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/30/25 12:34 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/30/25 12:34 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

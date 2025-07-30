@@ -145,5 +145,14 @@
       Address: 1176 Slate Hill Road, Sharon Springs, Schoharie, NY 13459]]></description>
         <Point><coordinates>-74.5352385555556,42.7598777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46381-A</name>
+        <description><![CDATA[Date: 7/30/25 6:28 AM
+      Site Name: Country Cove
+      AGL: 196
+      Tower Type: Monopole
+      Address: 5470 Technology Parkway, Braselton, Hall, GA 30517]]></description>
+        <Point><coordinates>-83.8046944444444,34.1487218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

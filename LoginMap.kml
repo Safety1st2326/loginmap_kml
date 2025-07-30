@@ -82,5 +82,23 @@
       Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
         <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/30/25 6:03 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00384-B</name>
+        <description><![CDATA[Date: 7/30/25 6:09 AM
+      Site Name: Majors
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3111 Glen Wallace Drive, Cumming, Forsyth, GA 30040-6388]]></description>
+        <Point><coordinates>-84.191383,34.1644055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

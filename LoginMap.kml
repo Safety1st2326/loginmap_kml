@@ -928,5 +928,95 @@
       Address: 312 Good Dog Hill, Elkins, Randolph, WV 26241]]></description>
         <Point><coordinates>-79.8457246666667,38.8738743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC08775-B</name>
+        <description><![CDATA[Date: 7/30/25 9:52 AM
+      Site Name: Thomas Mill Rd
+      AGL: 251
+      Tower Type: Self Support
+      Address: 109 Mustang Dr. Red Gate Rd., Easley, Pickens, SC 29640]]></description>
+        <Point><coordinates>-82.5607638888889,34.9258132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/30/25 9:52 AM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46251-A</name>
+        <description><![CDATA[Date: 7/30/25 9:55 AM
+      Site Name: Redlands 2 FL
+      AGL: 126
+      Tower Type: Monopole
+      Address: 15901 Sw 177th Ave.  orm, Miami, Miami-Dade, FL 33187]]></description>
+        <Point><coordinates>-80.471766,25.6175243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10459-A</name>
+        <description><![CDATA[Date: 7/30/25 9:55 AM
+      Site Name: Burnet 
+      AGL: 131
+      Tower Type: Monopole
+      Address: 18101 2550 Road, Cedaredge, Delta, CO 81413]]></description>
+        <Point><coordinates>-107.892435777778,38.9122611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40487-T</name>
+        <description><![CDATA[Date: 7/30/25 9:55 AM
+      Site Name: Churchill - Bumpers
+      AGL: 200
+      Tower Type: Self Support
+      Address: 19740 AL Hwy 56, Chatom, Washington, AL 36518]]></description>
+        <Point><coordinates>-88.1551575,31.4402502222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15886-A</name>
+        <description><![CDATA[Date: 7/30/25 9:57 AM
+      Site Name: Ave Maria
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 5365 Ave Maria Boulevard, Ave Maria, Collier, FL 34142]]></description>
+        <Point><coordinates>-81.4431282777778,26.3221173888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14744-B</name>
+        <description><![CDATA[Date: 7/30/25 9:57 AM
+      Site Name: Newbold
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5340 Bridge Road, Rhinelander, Oneida, WI 54501]]></description>
+        <Point><coordinates>-89.5229687777778,45.7305215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 7/30/25 9:58 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT07453-A</name>
+        <description><![CDATA[Date: 7/30/25 9:57 AM
+      Site Name: Hannum Hill
+      AGL: 115
+      Tower Type: Self Support
+      Address: Holland Hill Drive, Putney, Windham/Putney, VT 05346]]></description>
+        <Point><coordinates>-72.6022444444444,42.974466,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA41203-T</name>
+        <description><![CDATA[Date: 7/30/25 9:58 AM
+      Site Name: BS670-KnightsOfColumbus
+      AGL: 100
+      Tower Type: Flagpole
+      Address: 177 Bedford St, Lexington, Middlesex, MA 02420]]></description>
+        <Point><coordinates>-71.2360274444444,42.4598611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

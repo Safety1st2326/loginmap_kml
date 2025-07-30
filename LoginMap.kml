@@ -2242,5 +2242,14 @@
       Address: 15260 6th Street, Moreno Valley, Riverside, CA 92551]]></description>
         <Point><coordinates>-117.245755222222,33.8981607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA12903-A</name>
+        <description><![CDATA[Date: 7/29/25 7:51 PM
+      Site Name: Garden Grove
+      AGL: 59
+      Tower Type: Monopine
+      Address: 12301 Magnolia Street, Garden Grove, Orange, CA 92841]]></description>
+        <Point><coordinates>-117.976077111111,33.7832382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -316,5 +316,50 @@
       Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
         <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 7/30/25 7:15 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 7/30/25 7:16 AM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47666-A</name>
+        <description><![CDATA[Date: 7/30/25 7:15 AM
+      Site Name: Route 443
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
+        <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 7/30/25 7:12 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/30/25 7:12 AM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

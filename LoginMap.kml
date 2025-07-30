@@ -1225,5 +1225,59 @@
       Address: 231 Sagendorf Corners Road, Cobleskill, Schoharie, NY 12092]]></description>
         <Point><coordinates>-74.3903552222222,42.6939385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10475-A</name>
+        <description><![CDATA[Date: 7/30/25 10:55 AM
+      Site Name: Hotchkiss
+      AGL: 101
+      Tower Type: Monopole
+      Address: 498 Clara Vista, Hotchkiss, Delta, CO 81419]]></description>
+        <Point><coordinates>-107.727871555556,38.8112666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL11658-S</name>
+        <description><![CDATA[Date: 7/30/25 11:11 AM
+      Site Name: Jumbo
+      AGL: 286
+      Tower Type: Self Support
+      Address: 10226 AL Highway 145, Clanton, Chilton, AL 35045]]></description>
+        <Point><coordinates>-86.6173076666667,32.9749854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04232-A</name>
+        <description><![CDATA[Date: 7/30/25 11:16 AM
+      Site Name: Powers
+      AGL: 250
+      Tower Type: Guyed
+      Address: 30 Howse Road, Laurel, Jones, MS 39443-2631]]></description>
+        <Point><coordinates>-89.062475,31.7038638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15747-A</name>
+        <description><![CDATA[Date: 7/30/25 11:12 AM
+      Site Name: CR 44 & CR 437
+      AGL: 180
+      Tower Type: Stealth
+      Address: 35920 County Road 437, Eustis, Lake, FL 32726]]></description>
+        <Point><coordinates>-81.5498285555555,28.8722657222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ22294-A</name>
+        <description><![CDATA[Date: 7/30/25 11:12 AM
+      Site Name: Goldfield
+      AGL: 146
+      Tower Type: Monopole
+      Address: 8311 N. Goldfield Road,, Mesa, Maricopa, AZ 85215]]></description>
+        <Point><coordinates>-111.614766722222,33.5547743888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02821-B</name>
+        <description><![CDATA[Date: 7/30/25 11:12 AM
+      Site Name: Ramhurst
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6575 Hwy. 411 S., Chatsworth, Murray, GA 30705-6909]]></description>
+        <Point><coordinates>-84.7299243333333,34.6817465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

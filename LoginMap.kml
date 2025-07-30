@@ -2224,5 +2224,14 @@
       Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
         <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21029-A</name>
+        <description><![CDATA[Date: 7/29/25 7:15 PM
+      Site Name: Bonham
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1209 West 10th, Bonham, Fannin, TX 75418]]></description>
+        <Point><coordinates>-96.1949996666667,33.5834718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

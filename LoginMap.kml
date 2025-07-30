@@ -361,5 +361,41 @@
       Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
         <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/30/25 7:15 AM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA07277-A</name>
+        <description><![CDATA[Date: 7/30/25 7:10 AM
+      Site Name: Silver Hill
+      AGL: 120
+      Tower Type: Monopole
+      Address: 120 Observatory Ave., Haverhill, Essex, MA 01832]]></description>
+        <Point><coordinates>-71.100175,42.7741465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14139-A</name>
+        <description><![CDATA[Date: 7/30/25 7:21 AM
+      Site Name: Lake Holiday
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
+        <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02437-S</name>
+        <description><![CDATA[Date: 7/30/25 7:24 AM
+      Site Name: Talmo
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1360 Belmont Highway, Talmo, Jackson, GA 30575-1501]]></description>
+        <Point><coordinates>-83.731491,34.1917246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

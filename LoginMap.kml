@@ -154,5 +154,41 @@
       Address: 5470 Technology Parkway, Braselton, Hall, GA 30517]]></description>
         <Point><coordinates>-83.8046944444444,34.1487218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI47729-A</name>
+        <description><![CDATA[Date: 7/30/25 6:30 AM
+      Site Name: Crystal Lake Driving Range
+      AGL: 150
+      Tower Type: Monopole
+      Address: 100 Broncos Highway, Burrillville, Providence, RI 02859]]></description>
+        <Point><coordinates>-71.6654638888889,41.9402107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00680-S</name>
+        <description><![CDATA[Date: 7/30/25 6:30 AM
+      Site Name: Putnam
+      AGL: 178
+      Tower Type: Monopole
+      Address: 154 Sayle Avenue, Putnam, Windham, CT 06260-2417]]></description>
+        <Point><coordinates>-71.8863357777778,41.9294604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC23756-A</name>
+        <description><![CDATA[Date: 7/30/25 6:21 AM
+      Site Name: WKXC
+      AGL: 551
+      Tower Type: Guyed
+      Address: 158 Jacob McKie Rd, Trenton, Edgefield, SC 29847]]></description>
+        <Point><coordinates>-81.9290298888889,33.6456552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46291-A</name>
+        <description><![CDATA[Date: 7/30/25 6:39 AM
+      Site Name: DOLPHIN-I-95 II
+      AGL: 135
+      Tower Type: Monopole
+      Address: 650 NW 8th Steet, Miami, Miami-Dade, FL 33128]]></description>
+        <Point><coordinates>-80.2054536111111,25.7813971111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

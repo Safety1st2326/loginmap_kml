@@ -1891,5 +1891,23 @@
       Address: 7515 E. Parker Rd, Allen, Collin, TX 75002]]></description>
         <Point><coordinates>-96.587233,33.0559111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK21457-A</name>
+        <description><![CDATA[Date: 7/30/25 3:31 PM
+      Site Name: Kremlin
+      AGL: 320
+      Tower Type: Guyed
+      Address: 15329 N. LEONA MITCHELL BLVD., KREMLIN, GARFIELD, OK 73753]]></description>
+        <Point><coordinates>-97.8721993333333,36.5568083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13467-A</name>
+        <description><![CDATA[Date: 7/30/25 3:36 PM
+      Site Name: Paris 1
+      AGL: 668
+      Tower Type: Guyed
+      Address: 4010 FM [Farm-to-Market] 1497, Paris, Lamar, TX 75462]]></description>
+        <Point><coordinates>-95.5552416666667,33.6166965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

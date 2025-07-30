@@ -1909,5 +1909,41 @@
       Address: 4010 FM [Farm-to-Market] 1497, Paris, Lamar, TX 75462]]></description>
         <Point><coordinates>-95.5552416666667,33.6166965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47824-A</name>
+        <description><![CDATA[Date: 7/30/25 3:45 PM
+      Site Name: Heath 4 TX
+      AGL: 149
+      Tower Type: Monopole
+      Address: 7106 1/2 Five Forks Dr., Spring, Harris, TX 77379]]></description>
+        <Point><coordinates>-95.5287493333333,30.0334718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06425-A</name>
+        <description><![CDATA[Date: 7/30/25 3:45 PM
+      Site Name: Cario
+      AGL: 305
+      Tower Type: Guyed
+      Address: 8220 Lisbon Road, El Dorado, Union, AR 71730]]></description>
+        <Point><coordinates>-92.8695271111111,33.2227215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45973-A</name>
+        <description><![CDATA[Date: 7/30/25 3:45 PM
+      Site Name: St Phillip's Episcopal Church
+      AGL: 63
+      Tower Type: Tree
+      Address: 2660 Hardy Drive, Lemon Grove, San Diego, CA 91945]]></description>
+        <Point><coordinates>-117.028624333333,32.7341774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX07816-A</name>
+        <description><![CDATA[Date: 7/30/25 3:49 PM
+      Site Name: Carthage South
+      AGL: 270
+      Tower Type: Guyed
+      Address: 3833 US Highway South, Gary, PANOLA, TX 75643]]></description>
+        <Point><coordinates>-94.2882718888889,32.0487552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

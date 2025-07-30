@@ -487,5 +487,32 @@
       Address: 3302 Roy Parks Road, Gainesville, Hall, GA 30501]]></description>
         <Point><coordinates>-83.7634722222222,34.2258993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC47148-A</name>
+        <description><![CDATA[Date: 7/30/25 7:58 AM
+      Site Name: Havelock
+      AGL: 156
+      Tower Type: Monopole
+      Address: 896 Greenfields Heights Blvd., Havelock, Craven, NC 28532]]></description>
+        <Point><coordinates>-76.9354691111111,34.8927774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41674-T</name>
+        <description><![CDATA[Date: 7/30/25 8:04 AM
+      Site Name: Sharon 
+      AGL: 340
+      Tower Type: Guyed
+      Address: 210855 E. County Road 50, Sharon, Woodward, OK 73801]]></description>
+        <Point><coordinates>-99.2500277777778,36.2898968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL04758-A</name>
+        <description><![CDATA[Date: 7/30/25 8:05 AM
+      Site Name: Spruce Pine
+      AGL: 307
+      Tower Type: Guyed
+      Address: 7334 Highway 22, Spruce Pine, Franklin, AL 35585-4225]]></description>
+        <Point><coordinates>-87.7575138888889,34.4025916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -685,5 +685,59 @@
       Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
         <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01300-A</name>
+        <description><![CDATA[Date: 7/30/25 8:51 AM
+      Site Name: McKell
+      AGL: 200
+      Tower Type: Self Support
+      Address: 14507 Del Valle Road, Tampa, Hillsborough, FL 33625-1445]]></description>
+        <Point><coordinates>-82.5652027777778,28.0792271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01300-A</name>
+        <description><![CDATA[Date: 7/30/25 8:52 AM
+      Site Name: McKell
+      AGL: 200
+      Tower Type: Self Support
+      Address: 14507 Del Valle Road, Tampa, Hillsborough, FL 33625-1445]]></description>
+        <Point><coordinates>-82.5652027777778,28.0792271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28318-A</name>
+        <description><![CDATA[Date: 7/30/25 8:54 AM
+      Site Name: Granville 4 VA
+      AGL: 196
+      Tower Type: Monopole
+      Address: 640 John Tyler Memorial Highway, Richmond, Charles City, VA 23231]]></description>
+        <Point><coordinates>-77.2325993333333,37.381616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13877-A</name>
+        <description><![CDATA[Date: 7/30/25 8:58 AM
+      Site Name: Center 2 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 412 CR 1005, Center, Shelby, TX 75935]]></description>
+        <Point><coordinates>-94.1836107777778,31.7512972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07241-A</name>
+        <description><![CDATA[Date: 7/30/25 8:58 AM
+      Site Name: North 8th Street
+      AGL: 260
+      Tower Type: Self Support
+      Address: 1945 North 8th St., Paducah, McCracken, KY 42001-7423]]></description>
+        <Point><coordinates>-88.6300854444444,37.0965163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12898-A</name>
+        <description><![CDATA[Date: 7/30/25 8:58 AM
+      Site Name: Moreno Valley CA
+      AGL: 70
+      Tower Type: Monopalm
+      Address: 23581 Alessandro Boulevard, Moreno Valley, Riverside, CA 92553]]></description>
+        <Point><coordinates>-117.251325,33.9162583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

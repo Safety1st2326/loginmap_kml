@@ -1279,5 +1279,50 @@
       Address: 6575 Hwy. 411 S., Chatsworth, Murray, GA 30705-6909]]></description>
         <Point><coordinates>-84.7299243333333,34.6817465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01305-A</name>
+        <description><![CDATA[Date: 7/30/25 11:25 AM
+      Site Name: Northside
+      AGL: 199
+      Tower Type: Self Support
+      Address: 407 Hayes Road, Lutz, Hillsborough, FL 33549-6104]]></description>
+        <Point><coordinates>-82.4578416666667,28.0976996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01305-A</name>
+        <description><![CDATA[Date: 7/30/25 11:25 AM
+      Site Name: Northside
+      AGL: 199
+      Tower Type: Self Support
+      Address: 407 Hayes Road, Lutz, Hillsborough, FL 33549-6104]]></description>
+        <Point><coordinates>-82.4578416666667,28.0976996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02837-B</name>
+        <description><![CDATA[Date: 7/30/25 11:22 AM
+      Site Name: S Dublin
+      AGL: 250
+      Tower Type: Self Support
+      Address: 826 Honeysuckle Rd., Dublin, Laurens, GA 31021-2659]]></description>
+        <Point><coordinates>-82.9434191111111,32.4931246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY08381-A</name>
+        <description><![CDATA[Date: 7/30/25 11:21 AM
+      Site Name: Kentucky Oaks Mall
+      AGL: 195
+      Tower Type: Self Support
+      Address: 5152 Heartland Drive, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.683583,37.0872496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20993-A</name>
+        <description><![CDATA[Date: 7/30/25 11:22 AM
+      Site Name: Paris 2 TX
+      AGL: 424
+      Tower Type: Guyed
+      Address: 3968 FM 1500, Sumner, Lamar, TX 75486]]></description>
+        <Point><coordinates>-95.6230798888889,33.7766576666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

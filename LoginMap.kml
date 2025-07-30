@@ -1018,5 +1018,14 @@
       Address: 177 Bedford St, Lexington, Middlesex, MA 02420]]></description>
         <Point><coordinates>-71.2360274444444,42.4598611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41120-T</name>
+        <description><![CDATA[Date: 7/30/25 10:07 AM
+      Site Name: Holl
+      AGL: 125
+      Tower Type: Monopole
+      Address: 1319 Sheridan Road, Noblesville, Hamilton, IN 46062]]></description>
+        <Point><coordinates>-86.0416052222222,40.0541083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -28,5 +28,14 @@
       Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
         <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 7/30/25 4:46 AM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

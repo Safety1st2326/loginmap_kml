@@ -802,5 +802,32 @@
       Address: 7622 Chelsea Road, Columbiana, Shelby, AL 35051]]></description>
         <Point><coordinates>-86.6180990555555,33.292753,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02824-B</name>
+        <description><![CDATA[Date: 7/30/25 9:22 AM
+      Site Name: Ranger 2 GA
+      AGL: 250
+      Tower Type: Self Support
+      Address: 240 US Hwy 411 NW, Ranger, Gordon, GA 30734]]></description>
+        <Point><coordinates>-84.7124027777778,34.5047916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22507-A</name>
+        <description><![CDATA[Date: 7/30/25 9:22 AM
+      Site Name: Little America
+      AGL: 250
+      Tower Type: Self Support
+      Address: 23202 Highway 24, Lewiston, Fulton, IL 61542]]></description>
+        <Point><coordinates>-90.0058,40.4197132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18067-A</name>
+        <description><![CDATA[Date: 7/30/25 9:28 AM
+      Site Name: Mariner HS
+      AGL: 166
+      Tower Type: Monopole
+      Address: 701 Chiquita Blvd. N., Cape Coral, Lee, FL 33993]]></description>
+        <Point><coordinates>-82.0025722222222,26.664025,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

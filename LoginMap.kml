@@ -1963,5 +1963,14 @@
       Address: 406 County Road 22850, Paris, Lamar, TX 75462]]></description>
         <Point><coordinates>-95.5929163333333,33.5812493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV20224-A</name>
+        <description><![CDATA[Date: 7/30/25 4:54 PM
+      Site Name: Painted Rock
+      AGL: 150
+      Tower Type: Monopole
+      Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
+        <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

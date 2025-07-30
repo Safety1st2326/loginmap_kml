@@ -1765,5 +1765,59 @@
       Address: 18274 State Highway 220 SW, East Grand Forks, Polk, MN 56721]]></description>
         <Point><coordinates>-96.9559861111111,47.8974246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT16939-A</name>
+        <description><![CDATA[Date: 7/30/25 2:40 PM
+      Site Name: Soldier Summit
+      AGL: 195
+      Tower Type: Self Support
+      Address: Highway 6, Spanish Fork, Utah, UT 84660]]></description>
+        <Point><coordinates>-111.12029725,39.9009478611111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10476-A</name>
+        <description><![CDATA[Date: 7/30/25 2:43 PM
+      Site Name: Huff (Delta)
+      AGL: 171
+      Tower Type: Self Support
+      Address: 1150 E 5th St, Delta, Delta, CO 81416]]></description>
+        <Point><coordinates>-108.054297222222,38.7392441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12460-A</name>
+        <description><![CDATA[Date: 7/30/25 2:43 PM
+      Site Name: Pride
+      AGL: 160
+      Tower Type: Flagpole
+      Address: 10320 Lion's Den Drive, Tampa, Hillsborough, FL 33647]]></description>
+        <Point><coordinates>-82.3169687777778,28.1573611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40492-T</name>
+        <description><![CDATA[Date: 7/30/25 2:48 PM
+      Site Name: Myrtlewood
+      AGL: 250
+      Tower Type: Self Support
+      Address: 116 Oak St, Linden, Marengo, AL 36748]]></description>
+        <Point><coordinates>-87.9490496666667,32.2461343888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA24311-A</name>
+        <description><![CDATA[Date: 7/30/25 2:48 PM
+      Site Name: Tesla
+      AGL: 140
+      Tower Type: Self Support
+      Address: 18045 S. Kelso Road, Mountain House, San Joaquin, CA 95391]]></description>
+        <Point><coordinates>-121.55235,37.7982218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08979-A</name>
+        <description><![CDATA[Date: 7/30/25 2:37 PM
+      Site Name: Ellwood City
+      AGL: 152
+      Tower Type: Monopole
+      Address: 1 Hack Wilson Drive, Ellwood City, Beaver, PA 16117]]></description>
+        <Point><coordinates>-80.2831465555556,40.8512222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

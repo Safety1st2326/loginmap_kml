@@ -1522,5 +1522,41 @@
       Address: 449 Gryder Rd., Chatsworth, Murray, GA 30705-7738]]></description>
         <Point><coordinates>-84.8362941111111,34.760325,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21015-A</name>
+        <description><![CDATA[Date: 7/30/25 12:40 PM
+      Site Name: Moore 2 TX
+      AGL: 250
+      Tower Type: Guyed
+      Address: 12583 IH 35 SOUTH, MOORE, FRIO, TX 78057]]></description>
+        <Point><coordinates>-99.0235854444444,29.0535083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21015-A</name>
+        <description><![CDATA[Date: 7/30/25 12:40 PM
+      Site Name: Moore 2 TX
+      AGL: 250
+      Tower Type: Guyed
+      Address: 12583 IH 35 SOUTH, MOORE, FRIO, TX 78057]]></description>
+        <Point><coordinates>-99.0235854444444,29.0535083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO15446-S</name>
+        <description><![CDATA[Date: 7/30/25 12:43 PM
+      Site Name: Paonia West
+      AGL: 75
+      Tower Type: Monopole
+      Address: 38506 Black River Road, Paonia, Delta, CO 81428]]></description>
+        <Point><coordinates>-107.644096888889,38.8330187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00262-B</name>
+        <description><![CDATA[Date: 7/30/25 12:47 PM
+      Site Name: Walnut-5th Avenue
+      AGL: 215
+      Tower Type: Self Support
+      Address: 601 E Morris St, Dalton, Whitfield, GA 30721]]></description>
+        <Point><coordinates>-84.9608333333333,34.7689965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

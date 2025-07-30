@@ -1162,5 +1162,23 @@
       Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
         <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46843-A</name>
+        <description><![CDATA[Date: 7/30/25 10:42 AM
+      Site Name: Rosy Mound
+      AGL: 150
+      Tower Type: Monopole
+      Address: 17114 Robbins Road, Grand Haven, Ottawa, MI 49417]]></description>
+        <Point><coordinates>-86.2132416666667,43.0427163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02823-B</name>
+        <description><![CDATA[Date: 7/30/25 10:49 AM
+      Site Name: Redbud
+      AGL: 250
+      Tower Type: Self Support
+      Address: 165 Owens Gin Rd. S.E., Calhoun, Gordon, GA 30701]]></description>
+        <Point><coordinates>-84.8153027777778,34.5353663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

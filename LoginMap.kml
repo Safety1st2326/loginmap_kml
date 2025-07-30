@@ -739,5 +739,41 @@
       Address: 23581 Alessandro Boulevard, Moreno Valley, Riverside, CA 92553]]></description>
         <Point><coordinates>-117.251325,33.9162583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41133-T</name>
+        <description><![CDATA[Date: 7/30/25 9:02 AM
+      Site Name: LB Mold Inc
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1031 South Main Street, Edinburgh, Bartholomew, IN 46124]]></description>
+        <Point><coordinates>-85.9668743333333,39.3416885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO14427-A</name>
+        <description><![CDATA[Date: 7/30/25 9:08 AM
+      Site Name: Gideon 2 MO
+      AGL: 196
+      Tower Type: Self Support
+      Address: 1558 W. 162 Hwy, Gideon, New Madrid, MO 63848]]></description>
+        <Point><coordinates>-89.9563305555556,36.4553722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 7/30/25 9:08 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/30/25 9:08 AM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

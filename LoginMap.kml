@@ -397,5 +397,41 @@
       Address: 1360 Belmont Highway, Talmo, Jackson, GA 30575-1501]]></description>
         <Point><coordinates>-83.731491,34.1917246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN40133-T</name>
+        <description><![CDATA[Date: 7/30/25 7:43 AM
+      Site Name: Lee Road Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 6155 Lee Road, Lawrence, Marion, IN 46236]]></description>
+        <Point><coordinates>-85.998758,39.8687882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND20238-A</name>
+        <description><![CDATA[Date: 7/30/25 7:43 AM
+      Site Name: Emerado ND Tower
+      AGL: 221
+      Tower Type: Guyed
+      Address: 1816 24th Street NE, Grand Forks, Grand Forks, ND 58201]]></description>
+        <Point><coordinates>-97.3451857777778,47.9351718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN09659-A</name>
+        <description><![CDATA[Date: 7/30/25 7:37 AM
+      Site Name: Bedford 2 IN
+      AGL: 199
+      Tower Type: Self Support
+      Address: 1618 John Williams Boulevard, Bedford, Lawrence, IN 47421]]></description>
+        <Point><coordinates>-86.4933024444445,38.8691382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13433-A</name>
+        <description><![CDATA[Date: 7/30/25 7:37 AM
+      Site Name: Honey Grove
+      AGL: 345
+      Tower Type: Guyed
+      Address: 17324 E. FM 1396, Windom, Fannin, TX 75492]]></description>
+        <Point><coordinates>-95.9540027777778,33.6022972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

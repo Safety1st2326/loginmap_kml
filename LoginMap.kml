@@ -631,5 +631,59 @@
       Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
         <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20301-A</name>
+        <description><![CDATA[Date: 7/30/25 8:40 AM
+      Site Name: ZEMPLE MN TOWER
+      AGL: 400
+      Tower Type: Guyed
+      Address: 494 County Road 139, Deer River, ITASCA, MN 56636]]></description>
+        <Point><coordinates>-93.7934441111111,47.321216,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01304-A</name>
+        <description><![CDATA[Date: 7/30/25 8:40 AM
+      Site Name: Morgan
+      AGL: 200
+      Tower Type: Self Support
+      Address: 14714 N. 42nd Street, Tampa, Hillsborough, FL 33613-2955]]></description>
+        <Point><coordinates>-82.4151222222222,28.0840135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA17461-A</name>
+        <description><![CDATA[Date: 7/30/25 8:46 AM
+      Site Name: North Halifax
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2032 Childrey Church Road, Nathalie, Halifax, VA 24577]]></description>
+        <Point><coordinates>-78.9764993333333,36.9959996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL18070-A</name>
+        <description><![CDATA[Date: 7/30/25 8:48 AM
+      Site Name: Skyline Elementary
+      AGL: 141
+      Tower Type: Monopole
+      Address: 620 SW 19th Street, Cape Coral, Lee, FL 33991]]></description>
+        <Point><coordinates>-81.9875663333333,26.6167076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10457-A</name>
+        <description><![CDATA[Date: 7/30/25 8:44 AM
+      Site Name: Antelope Hill 
+      AGL: 162
+      Tower Type: Self Support
+      Address: 22586 Fruit Growers Road, Austin, Delta, CO 81410]]></description>
+        <Point><coordinates>-107.939780222222,38.8178187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17605-A</name>
+        <description><![CDATA[Date: 7/30/25 8:49 AM
+      Site Name: Kid Lake
+      AGL: 301
+      Tower Type: Guyed
+      Address: 4374 23rd Avenue NW, Hackensack, Cass, MN 56452]]></description>
+        <Point><coordinates>-94.3970577222222,46.9614955555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

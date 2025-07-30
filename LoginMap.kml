@@ -1972,5 +1972,23 @@
       Address: 23120 Interstate 80, Wadsworth, Washoe, NV 89442]]></description>
         <Point><coordinates>-119.369443777778,39.5902774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10048-B</name>
+        <description><![CDATA[Date: 7/30/25 5:06 PM
+      Site Name: Nestoria
+      AGL: 398
+      Tower Type: Guyed
+      Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
+        <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06420-A</name>
+        <description><![CDATA[Date: 7/30/25 5:06 PM
+      Site Name: Smackover
+      AGL: 302
+      Tower Type: Guyed
+      Address: 180 Holly Ridge, Smackover, Union, AR 71762-9404]]></description>
+        <Point><coordinates>-92.7595277777778,33.3605555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

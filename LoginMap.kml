@@ -1387,5 +1387,23 @@
       Address: 165 Huntington Road, Scotland, Windham/Scotland, CT 06264-2202]]></description>
         <Point><coordinates>-72.0970691111111,41.6959107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL09842-A</name>
+        <description><![CDATA[Date: 7/30/25 12:13 PM
+      Site Name: Jeff Young
+      AGL: 177
+      Tower Type: Monopole
+      Address: 2727 Mystic Lake Drive, Oviedo, Seminole, FL 32765]]></description>
+        <Point><coordinates>-81.2551388888889,28.6236382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17609-A</name>
+        <description><![CDATA[Date: 7/30/25 12:15 PM
+      Site Name: Tofte
+      AGL: 181
+      Tower Type: Monopole
+      Address: 75 Tofte Homestead Drive, Tofte, Cook, MN 55615]]></description>
+        <Point><coordinates>-90.8409974444444,47.5766062777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

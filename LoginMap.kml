@@ -2260,5 +2260,14 @@
       Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
         <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10472-A</name>
+        <description><![CDATA[Date: 7/29/25 8:55 PM
+      Site Name: Handi Pawn 
+      AGL: 127
+      Tower Type: Monopole
+      Address: 499 6530 Road, Montrose, Montrose, CO 81401]]></description>
+        <Point><coordinates>-107.872296555556,38.4906468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

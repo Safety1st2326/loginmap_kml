@@ -226,5 +226,23 @@
       Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
         <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/30/25 6:55 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA01854-S</name>
+        <description><![CDATA[Date: 7/30/25 6:55 AM
+      Site Name: Sherman
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3306 Candler Road, Gainesville, Hall, GA 30507-8976]]></description>
+        <Point><coordinates>-83.7701243333333,34.1875941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

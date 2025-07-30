@@ -1819,5 +1819,14 @@
       Address: 1 Hack Wilson Drive, Ellwood City, Beaver, PA 16117]]></description>
         <Point><coordinates>-80.2831465555556,40.8512222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46386-A</name>
+        <description><![CDATA[Date: 7/30/25 2:52 PM
+      Site Name: Galloway
+      AGL: 161
+      Tower Type: Monopole
+      Address: 279 Chatham Road, HOMER, BANKS, GA 30547]]></description>
+        <Point><coordinates>-83.4115388888889,34.3546388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

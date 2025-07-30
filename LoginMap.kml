@@ -919,5 +919,14 @@
       Address: 3737 CR 424, Waelder, Gonzales, TX 78959]]></description>
         <Point><coordinates>-97.3634083333333,29.670691,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV11302-A</name>
+        <description><![CDATA[Date: 7/30/25 9:49 AM
+      Site Name: South Elkins
+      AGL: 127
+      Tower Type: Monopole
+      Address: 312 Good Dog Hill, Elkins, Randolph, WV 26241]]></description>
+        <Point><coordinates>-79.8457246666667,38.8738743333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

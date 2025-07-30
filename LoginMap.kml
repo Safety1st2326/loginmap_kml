@@ -1873,5 +1873,23 @@
       Address: 351 Penn Rd., Arkadelphia, Hot Spring, AR 71923]]></description>
         <Point><coordinates>-93.0054805555556,34.2388607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR06443-A</name>
+        <description><![CDATA[Date: 7/30/25 3:07 PM
+      Site Name: Marysville
+      AGL: 300
+      Tower Type: Guyed
+      Address: 537 Braswell Corner Road, El Dorado, Union, AR 71730]]></description>
+        <Point><coordinates>-92.9578055555556,33.2168048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47958-A</name>
+        <description><![CDATA[Date: 7/30/25 3:22 PM
+      Site Name: E Parker Rd-tx
+      AGL: 100
+      Tower Type: Monopole
+      Address: 7515 E. Parker Rd, Allen, Collin, TX 75002]]></description>
+        <Point><coordinates>-96.587233,33.0559111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1351,5 +1351,41 @@
       Address: 300 Wrights Lane, El Dorado, Union, AR 71730-6742]]></description>
         <Point><coordinates>-92.7047222222222,33.2114166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA46387-A</name>
+        <description><![CDATA[Date: 7/30/25 12:01 PM
+      Site Name: Tates Creek
+      AGL: 197
+      Tower Type: Monopole
+      Address: 1655 Hicks Road, TOCCOA, Franklin, GA 30577]]></description>
+        <Point><coordinates>-83.3905302222222,34.4590972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ40025-T</name>
+        <description><![CDATA[Date: 7/30/25 12:03 PM
+      Site Name: Yuma Palms
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1280 Atlantic Ave., Yuma, Yuma, AZ 85365]]></description>
+        <Point><coordinates>-114.590721888889,32.7046666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21552-A</name>
+        <description><![CDATA[Date: 7/30/25 12:06 PM
+      Site Name: North Chatsworth - Hwy 411
+      AGL: 250
+      Tower Type: Self Support
+      Address: 185 DUVALL ROAD, CHATSWORTH, MURRAY, GA 30705]]></description>
+        <Point><coordinates>-84.7952885555556,34.786783,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00990-S</name>
+        <description><![CDATA[Date: 7/30/25 12:09 PM
+      Site Name: Scotland
+      AGL: 240
+      Tower Type: Self Support
+      Address: 165 Huntington Road, Scotland, Windham/Scotland, CT 06264-2202]]></description>
+        <Point><coordinates>-72.0970691111111,41.6959107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

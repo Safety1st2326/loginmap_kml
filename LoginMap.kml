@@ -1180,5 +1180,14 @@
       Address: 165 Owens Gin Rd. S.E., Calhoun, Gordon, GA 30701]]></description>
         <Point><coordinates>-84.8153027777778,34.5353663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR06422-A</name>
+        <description><![CDATA[Date: 7/30/25 10:51 AM
+      Site Name: Marrable Hill
+      AGL: 252
+      Tower Type: Self Support
+      Address: 909 Charles St., El Dorado, Union, AR 71730]]></description>
+        <Point><coordinates>-92.634833,33.2001944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

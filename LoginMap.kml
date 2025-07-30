@@ -829,5 +829,95 @@
       Address: 701 Chiquita Blvd. N., Cape Coral, Lee, FL 33993]]></description>
         <Point><coordinates>-82.0025722222222,26.664025,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12488-S</name>
+        <description><![CDATA[Date: 7/30/25 9:31 AM
+      Site Name: Claywell Elementary School
+      AGL: 138
+      Tower Type: Monopole
+      Address: 15809 Shillington Drive, Tampa, Hillsborough, FL 33624]]></description>
+        <Point><coordinates>-82.5221548888889,28.0970663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20153-A</name>
+        <description><![CDATA[Date: 7/30/25 9:31 AM
+      Site Name: Branson Tower
+      AGL: 352
+      Tower Type: Self Support
+      Address: 246 Adair Road, Branson, TANEY, MO 65653]]></description>
+        <Point><coordinates>-93.2222271111111,36.7178243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11871-B</name>
+        <description><![CDATA[Date: 7/30/25 9:31 AM
+      Site Name: Allendale 2 PA
+      AGL: 120
+      Tower Type: Monopole
+      Address: 801 First Avenue, King Of Prussia, Montgomery, PA 19406]]></description>
+        <Point><coordinates>-75.3984913333333,40.0958357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01242-B</name>
+        <description><![CDATA[Date: 7/30/25 9:31 AM
+      Site Name: Peachland
+      AGL: 242
+      Tower Type: Self Support
+      Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
+        <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13806-A</name>
+        <description><![CDATA[Date: 7/30/25 9:25 AM
+      Site Name: Pendleton NE
+      AGL: 150
+      Tower Type: Monopole
+      Address: 6200 South Transit Rd, Pendleton, Niagara, NY 14094]]></description>
+        <Point><coordinates>-78.6990274444445,43.1249187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45640-A</name>
+        <description><![CDATA[Date: 7/30/25 9:37 AM
+      Site Name: March
+      AGL: 65
+      Tower Type: Monopalm
+      Address: 22700 Alessandro Blvd., Moreno Valley, Riverside, CA 92553]]></description>
+        <Point><coordinates>-117.267238222222,33.9177798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR06423-A</name>
+        <description><![CDATA[Date: 7/30/25 9:37 AM
+      Site Name: Smith 2 AR
+      AGL: 256
+      Tower Type: Self Support
+      Address: 621 Walter Drive, El Dorado, Union, AR 71730-2511]]></description>
+        <Point><coordinates>-92.6590833333333,33.2691937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11772-A</name>
+        <description><![CDATA[Date: 7/30/25 9:37 AM
+      Site Name: Keltonburg Hwy 56- Hwy 288
+      AGL: 300
+      Tower Type: Guyed
+      Address: 5444 McMinnville Highway, Smithville, Dekalb, TN 37166]]></description>
+        <Point><coordinates>-85.8015666666667,35.8869663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21429-A</name>
+        <description><![CDATA[Date: 7/30/25 9:37 AM
+      Site Name: Campbell
+      AGL: 250
+      Tower Type: Guyed
+      Address: 905 NORTHWEST 34 STREET, PARIS, LAMAR, TX 75460]]></description>
+        <Point><coordinates>-95.5950552222222,33.669416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20980-A</name>
+        <description><![CDATA[Date: 7/30/25 9:37 AM
+      Site Name: Beeman
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3737 CR 424, Waelder, Gonzales, TX 78959]]></description>
+        <Point><coordinates>-97.3634083333333,29.670691,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

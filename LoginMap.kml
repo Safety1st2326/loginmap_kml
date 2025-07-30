@@ -2062,5 +2062,14 @@
       Address: 1 Park Place, Olathe, Montrose, CO 81425]]></description>
         <Point><coordinates>-107.974885444444,38.5909552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46806-A</name>
+        <description><![CDATA[Date: 7/30/25 6:28 PM
+      Site Name: US 12 West Union
+      AGL: 195
+      Tower Type: Monopole
+      Address: 19925 M-205 , Edwardsburg, Cass, MI 49112]]></description>
+        <Point><coordinates>-85.9544166666667,41.7658888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

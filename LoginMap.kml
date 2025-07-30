@@ -1729,5 +1729,41 @@
       Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
         <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06418-A</name>
+        <description><![CDATA[Date: 7/30/25 2:09 PM
+      Site Name: Alabama Street
+      AGL: 195
+      Tower Type: Self Support
+      Address: 1030 Gardner Blvd, Columbus, Lowndes, MS 39702]]></description>
+        <Point><coordinates>-88.3874441111111,33.5024166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15603-S</name>
+        <description><![CDATA[Date: 7/30/25 2:25 PM
+      Site Name: Benito MS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 10101 Cross Creek Blvd, Tampa, Hillsborough, FL 33647]]></description>
+        <Point><coordinates>-82.3271490555556,28.1416818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15603-S</name>
+        <description><![CDATA[Date: 7/30/25 2:25 PM
+      Site Name: Benito MS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 10101 Cross Creek Blvd, Tampa, Hillsborough, FL 33647]]></description>
+        <Point><coordinates>-82.3271490555556,28.1416818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20274-A</name>
+        <description><![CDATA[Date: 7/30/25 2:28 PM
+      Site Name: East Grand Forks MN Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18274 State Highway 220 SW, East Grand Forks, Polk, MN 56721]]></description>
+        <Point><coordinates>-96.9559861111111,47.8974246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

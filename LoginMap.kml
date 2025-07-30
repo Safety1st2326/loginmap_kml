@@ -1945,5 +1945,14 @@
       Address: 3833 US Highway South, Gary, PANOLA, TX 75643]]></description>
         <Point><coordinates>-94.2882718888889,32.0487552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT46141-A</name>
+        <description><![CDATA[Date: 7/30/25 3:52 PM
+      Site Name: Water Treatment Plant 2 CT
+      AGL: 158
+      Tower Type: Stealth
+      Address: 1 WESTERBERG DRIVE, FARMINGTON, HARTFORD/Farmington, CT 060320000]]></description>
+        <Point><coordinates>-72.8354857777778,41.730491,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1144,5 +1144,23 @@
       Address: 2195 Post Road, Hortense, Wayne, GA 31543]]></description>
         <Point><coordinates>-81.687583,31.403,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 7/30/25 10:31 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 7/30/25 10:36 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

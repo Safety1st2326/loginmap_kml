@@ -2071,5 +2071,14 @@
       Address: 19925 M-205 , Edwardsburg, Cass, MI 49112]]></description>
         <Point><coordinates>-85.9544166666667,41.7658888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA03895-S</name>
+        <description><![CDATA[Date: 7/30/25 6:36 PM
+      Site Name: Roach Hollow Road
+      AGL: 255
+      Tower Type: Self Support
+      Address: 655 River Road, Ringgold, Catoosa, GA 30736]]></description>
+        <Point><coordinates>-85.137408,34.9586527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

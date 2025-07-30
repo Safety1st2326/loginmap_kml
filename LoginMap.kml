@@ -1342,5 +1342,14 @@
       Address: N49645 Hansen Lane, Eleva, Trempealeau, WI 54738]]></description>
         <Point><coordinates>-91.46555,44.5607305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR06424-A</name>
+        <description><![CDATA[Date: 7/30/25 11:37 AM
+      Site Name: Oak Manor
+      AGL: 255
+      Tower Type: Self Support
+      Address: 300 Wrights Lane, El Dorado, Union, AR 71730-6742]]></description>
+        <Point><coordinates>-92.7047222222222,33.2114166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

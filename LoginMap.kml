@@ -1558,5 +1558,32 @@
       Address: 601 E Morris St, Dalton, Whitfield, GA 30721]]></description>
         <Point><coordinates>-84.9608333333333,34.7689965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22530-A</name>
+        <description><![CDATA[Date: 7/30/25 12:52 PM
+      Site Name: Rt 251 & 15th
+      AGL: 121
+      Tower Type: Monopole
+      Address: 1507 Kishwaukee Street, Rockford, Winnebago, IL 61104]]></description>
+        <Point><coordinates>-89.0876635555556,42.2517722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12589-A</name>
+        <description><![CDATA[Date: 7/30/25 12:52 PM
+      Site Name: Larchwood
+      AGL: 190
+      Tower Type: Self Support
+      Address: 515 Sports Loop, Larchwood, Lyon, IA 51241]]></description>
+        <Point><coordinates>-96.4326465555556,43.4483024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA04119-S</name>
+        <description><![CDATA[Date: 7/30/25 12:57 PM
+      Site Name: Jefferson Borough
+      AGL: 198
+      Tower Type: Monopole
+      Address: 2730 Ridge Road, Clairton, Allegheny, PA 15025]]></description>
+        <Point><coordinates>-79.9030583333333,40.278916,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

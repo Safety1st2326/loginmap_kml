@@ -1954,5 +1954,14 @@
       Address: 1 WESTERBERG DRIVE, FARMINGTON, HARTFORD/Farmington, CT 060320000]]></description>
         <Point><coordinates>-72.8354857777778,41.730491,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21067-A</name>
+        <description><![CDATA[Date: 7/30/25 4:37 PM
+      Site Name: Broadway Junction
+      AGL: 280
+      Tower Type: Guyed
+      Address: 406 County Road 22850, Paris, Lamar, TX 75462]]></description>
+        <Point><coordinates>-95.5929163333333,33.5812493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

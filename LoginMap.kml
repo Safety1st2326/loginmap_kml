@@ -1072,5 +1072,77 @@
       Address: 225 Jordan Rd, Tifton, Tift, GA 31793]]></description>
         <Point><coordinates>-83.5152416666667,31.4244187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC04876-A</name>
+        <description><![CDATA[Date: 7/30/25 10:09 AM
+      Site Name: Woodruff 2 SC
+      AGL: 252
+      Tower Type: Self Support
+      Address: 800 North Main Street, Woodruff, Spartanburg, SC 29388-9001]]></description>
+        <Point><coordinates>-82.0465191111111,34.7492441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH00268-B</name>
+        <description><![CDATA[Date: 7/30/25 10:16 AM
+      Site Name: DELPHOS
+      AGL: 275
+      Tower Type: Self Support
+      Address: 1701 Gressel Drive, Delphos, Allen, OH 45833-9151]]></description>
+        <Point><coordinates>-84.3226048888889,40.8587694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 7/30/25 10:16 AM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13465-A</name>
+        <description><![CDATA[Date: 7/30/25 10:28 AM
+      Site Name: Roosevelt Kimble
+      AGL: 615
+      Tower Type: Guyed
+      Address: 2456 Copperas Access Rd, Roosevelt, Kimble, TX 76874]]></description>
+        <Point><coordinates>-100.034188555556,30.4919302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09889-A</name>
+        <description><![CDATA[Date: 7/30/25 10:28 AM
+      Site Name: El Dorado
+      AGL: 250
+      Tower Type: Self Support
+      Address: 311 Louis Hurley Road, El Dorado, Union, AR 71730]]></description>
+        <Point><coordinates>-92.6126111111111,33.2147222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17679-A</name>
+        <description><![CDATA[Date: 7/30/25 10:28 AM
+      Site Name: Schofield & Meskers
+      AGL: 126
+      Tower Type: Monopole
+      Address: 5600 Sternberg Avenue, Weston, Marathon, WI 54476]]></description>
+        <Point><coordinates>-89.5527611111111,44.9069583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 7/30/25 10:24 AM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13098-A</name>
+        <description><![CDATA[Date: 7/30/25 10:25 AM
+      Site Name: Jesup
+      AGL: 349
+      Tower Type: Guyed
+      Address: 2195 Post Road, Hortense, Wayne, GA 31543]]></description>
+        <Point><coordinates>-81.687583,31.403,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

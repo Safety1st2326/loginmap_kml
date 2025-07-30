@@ -433,5 +433,59 @@
       Address: 17324 E. FM 1396, Windom, Fannin, TX 75492]]></description>
         <Point><coordinates>-95.9540027777778,33.6022972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV09081-A</name>
+        <description><![CDATA[Date: 7/30/25 7:48 AM
+      Site Name: Meadows 2 WV
+      AGL: 251
+      Tower Type: Self Support
+      Address: 395 Three Crosses Rd, Camp Creek, Mercer, WV 25820-9092]]></description>
+        <Point><coordinates>-81.0723271111111,37.4867941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/30/25 7:48 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28185-A</name>
+        <description><![CDATA[Date: 7/30/25 7:54 AM
+      Site Name: Robinson River
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1902 North Seminole Trail, Madison, Madison, VA 22727]]></description>
+        <Point><coordinates>-78.226066,38.3961496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN02978-S</name>
+        <description><![CDATA[Date: 7/30/25 7:54 AM
+      Site Name: Wartburg
+      AGL: 275
+      Tower Type: Self Support
+      Address: 490 Watertank Hill Road, Wartburg, Morgan, TN 37887-4175]]></description>
+        <Point><coordinates>-84.592158,36.1111527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47132-A</name>
+        <description><![CDATA[Date: 7/30/25 7:43 AM
+      Site Name: Austin Pond
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2842 Nc Hwy. 42 West, Clayton, Johnston, NC 27520]]></description>
+        <Point><coordinates>-78.5215568333333,35.6232562777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02435-S</name>
+        <description><![CDATA[Date: 7/30/25 7:58 AM
+      Site Name: Baker Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3302 Roy Parks Road, Gainesville, Hall, GA 30501]]></description>
+        <Point><coordinates>-83.7634722222222,34.2258993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

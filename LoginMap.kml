@@ -1693,5 +1693,41 @@
       Address: 4911 Highway 82 East, Magnolia, Columbia, AR 71753-9691]]></description>
         <Point><coordinates>-93.0525277777778,33.2502222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA13109-A</name>
+        <description><![CDATA[Date: 7/30/25 2:12 PM
+      Site Name: Leesburg 2 GA
+      AGL: 300
+      Tower Type: Guyed
+      Address: 215 Smithville Road N, Leesburg, Lee, GA 31763]]></description>
+        <Point><coordinates>-84.1757382222222,31.7440774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03283-A</name>
+        <description><![CDATA[Date: 7/30/25 2:16 PM
+      Site Name: W Environs
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1916 W. Environs Ln., Dalton, Whitfield, GA 30721]]></description>
+        <Point><coordinates>-84.9992774444444,34.797583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI11418-A</name>
+        <description><![CDATA[Date: 7/30/25 2:04 PM
+      Site Name: City of Waupaca
+      AGL: 196
+      Tower Type: Self Support
+      Address: 250 Bailey Street, Waupaca, Waupaca, WI 54981]]></description>
+        <Point><coordinates>-89.0969718888889,44.3595527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/30/25 2:19 PM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

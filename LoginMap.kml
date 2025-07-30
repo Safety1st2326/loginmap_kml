@@ -1027,5 +1027,50 @@
       Address: 1319 Sheridan Road, Noblesville, Hamilton, IN 46062]]></description>
         <Point><coordinates>-86.0416052222222,40.0541083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY16301-B</name>
+        <description><![CDATA[Date: 7/30/25 10:04 AM
+      Site Name: Hinkleville KY
+      AGL: 195
+      Tower Type: Monopole
+      Address: 158 County Park Road, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.657275,37.0862996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY16301-B</name>
+        <description><![CDATA[Date: 7/30/25 10:04 AM
+      Site Name: Hinkleville KY
+      AGL: 195
+      Tower Type: Monopole
+      Address: 158 County Park Road, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.657275,37.0862996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22507-A</name>
+        <description><![CDATA[Date: 7/30/25 10:12 AM
+      Site Name: Little America
+      AGL: 250
+      Tower Type: Self Support
+      Address: 23202 Highway 24, Lewiston, Fulton, IL 61542]]></description>
+        <Point><coordinates>-90.0058,40.4197132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40696-T</name>
+        <description><![CDATA[Date: 7/30/25 10:13 AM
+      Site Name: Elsworth Gardens
+      AGL: 70
+      Tower Type: Monopole Tree
+      Address: 13931 Elsworth Street, Moreno Valley, Riverside, CA 92553]]></description>
+        <Point><coordinates>-117.271110444444,33.9175271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00053-B</name>
+        <description><![CDATA[Date: 7/30/25 10:04 AM
+      Site Name: Unionville
+      AGL: 215
+      Tower Type: Guyed
+      Address: 225 Jordan Rd, Tifton, Tift, GA 31793]]></description>
+        <Point><coordinates>-83.5152416666667,31.4244187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

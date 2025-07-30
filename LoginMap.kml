@@ -2233,5 +2233,14 @@
       Address: 1209 West 10th, Bonham, Fannin, TX 75418]]></description>
         <Point><coordinates>-96.1949996666667,33.5834718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40843-T</name>
+        <description><![CDATA[Date: 7/29/25 7:48 PM
+      Site Name: Trotter 2
+      AGL: 70
+      Tower Type: Monopine
+      Address: 15260 6th Street, Moreno Valley, Riverside, CA 92551]]></description>
+        <Point><coordinates>-117.245755222222,33.8981607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

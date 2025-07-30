@@ -586,5 +586,50 @@
       Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
         <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10045-B</name>
+        <description><![CDATA[Date: 7/30/25 8:35 AM
+      Site Name: Hermansville
+      AGL: 400
+      Tower Type: Guyed
+      Address: N17407 Vega Road, Hermansville, Menominee, MI 49847]]></description>
+        <Point><coordinates>-87.6192604444444,45.7303882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 7/30/25 8:21 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 7/30/25 8:36 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 7/30/25 8:37 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopole Tree
+      Address: 8885 Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7661,35.2464385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 7/30/25 8:37 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopine
+      Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

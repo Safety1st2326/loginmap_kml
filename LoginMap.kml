@@ -2008,5 +2008,14 @@
       Address: 3815 City Road 313, Stanton, Chilton, AL 36790]]></description>
         <Point><coordinates>-86.9207076666667,32.6848941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12572-A</name>
+        <description><![CDATA[Date: 7/30/25 5:31 PM
+      Site Name: Cleghorn
+      AGL: 237
+      Tower Type: Self Support
+      Address: 403 W. Grace, Cleghorn, Cherokee, IA 51014]]></description>
+        <Point><coordinates>-95.7170604444444,42.8131916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -514,5 +514,41 @@
       Address: 7334 Highway 22, Spruce Pine, Franklin, AL 35585-4225]]></description>
         <Point><coordinates>-87.7575138888889,34.4025916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD10782-B</name>
+        <description><![CDATA[Date: 7/30/25 8:10 AM
+      Site Name: Blair Valley
+      AGL: 195
+      Tower Type: Self Support
+      Address: 13921 Polecat Hollow Road, Clear Spring, Washington, MD 21722]]></description>
+        <Point><coordinates>-77.928416,39.6962218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03280-A</name>
+        <description><![CDATA[Date: 7/30/25 8:10 AM
+      Site Name: Highway 53
+      AGL: 250
+      Tower Type: Self Support
+      Address: 4185 Fairmount Hwy SE, Calhoun, Gordon, GA 30701]]></description>
+        <Point><coordinates>-84.9154861111111,34.4654805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/30/25 8:10 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT07449-A</name>
+        <description><![CDATA[Date: 7/30/25 8:06 AM
+      Site Name: Waterford Hill
+      AGL: 122
+      Tower Type: Self Support
+      Address: 352 Tower Rd, Barnet, Caledonia, VT 05819]]></description>
+        <Point><coordinates>-72.0209993333333,44.3550833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

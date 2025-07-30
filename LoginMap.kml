@@ -1603,5 +1603,32 @@
       Address: 5810 US HWY 60W, Paducah, McCracken, KY 42001-9087]]></description>
         <Point><coordinates>-88.7154666666667,37.0652805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/30/25 1:21 PM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI14934-B</name>
+        <description><![CDATA[Date: 7/30/25 1:17 PM
+      Site Name: Saxon 2 WI
+      AGL: 290
+      Tower Type: Self Support
+      Address: Approx 1900 '  NW of intersection of Wyszinski Rd and US Hwy 2, Saxon, Iron, WI 54559]]></description>
+        <Point><coordinates>-90.5040944444444,46.5102083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20709-A</name>
+        <description><![CDATA[Date: 7/30/25 1:28 PM
+      Site Name: Moss Bluff
+      AGL: 280
+      Tower Type: Self Support
+      Address: 5607A North Perkins Ferry Road, Lake Charles, Calcasieu, LA 70611]]></description>
+        <Point><coordinates>-93.2336052222222,30.399158,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

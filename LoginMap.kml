@@ -1585,5 +1585,23 @@
       Address: 2730 Ridge Road, Clairton, Allegheny, PA 15025]]></description>
         <Point><coordinates>-79.9030583333333,40.278916,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO41370-T</name>
+        <description><![CDATA[Date: 7/30/25 1:10 PM
+      Site Name: Teters RL
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3727 E. US Hwy 60, Rogersville, Greene, MO 65742]]></description>
+        <Point><coordinates>-93.2210771111111,37.1222743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07235-A</name>
+        <description><![CDATA[Date: 7/30/25 1:04 PM
+      Site Name: Paducah
+      AGL: 194
+      Tower Type: Guyed
+      Address: 5810 US HWY 60W, Paducah, McCracken, KY 42001-9087]]></description>
+        <Point><coordinates>-88.7154666666667,37.0652805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -244,5 +244,77 @@
       Address: 3306 Candler Road, Gainesville, Hall, GA 30507-8976]]></description>
         <Point><coordinates>-83.7701243333333,34.1875941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00032-S</name>
+        <description><![CDATA[Date: 7/30/25 7:02 AM
+      Site Name: Ocala Airport
+      AGL: 230
+      Tower Type: Self Support
+      Address: 5127 SW 40th Avenue, Ocala, Marion, FL 34474-5727]]></description>
+        <Point><coordinates>-82.1869691111111,29.1356718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA12226-A</name>
+        <description><![CDATA[Date: 7/30/25 6:57 AM
+      Site Name: Springfield2
+      AGL: 144
+      Tower Type: Flagpole
+      Address: 440 Tiffany Street, Springfield, Hampden, MA 01108-3373]]></description>
+        <Point><coordinates>-72.5434191111111,42.0689215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/30/25 6:52 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA40962-T</name>
+        <description><![CDATA[Date: 7/30/25 7:04 AM
+      Site Name: Picketts Mill
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6642 Hiram Acworth Hwy, Dallas, Paulding, GA 30157]]></description>
+        <Point><coordinates>-84.7405274444445,33.9819437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/30/25 6:53 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/30/25 6:52 AM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09926-A</name>
+        <description><![CDATA[Date: 7/30/25 7:05 AM
+      Site Name: Tree
+      AGL: 197
+      Tower Type: Monopole
+      Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00550-B</name>
+        <description><![CDATA[Date: 7/30/25 6:53 AM
+      Site Name: SE Elwood
+      AGL: 125
+      Tower Type: Monopole
+      Address: 2305 Lena Road, Bradenton, Manatee, FL 34211]]></description>
+        <Point><coordinates>-82.4561944444444,27.4768882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

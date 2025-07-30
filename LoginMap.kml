@@ -19,5 +19,14 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>SC00376-B</name>
+        <description><![CDATA[Date: 7/30/25 4:37 AM
+      Site Name: Little Beaver Dam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
+        <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

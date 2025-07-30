@@ -1405,5 +1405,68 @@
       Address: 75 Tofte Homestead Drive, Tofte, Cook, MN 55615]]></description>
         <Point><coordinates>-90.8409974444444,47.5766062777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02021-S</name>
+        <description><![CDATA[Date: 7/30/25 12:25 PM
+      Site Name: Shewmake Road 2 GA
+      AGL: 325
+      Tower Type: Guyed
+      Address: Shady Grove Church Road, Dudley, Laurens, GA 31022]]></description>
+        <Point><coordinates>-83.0354413333333,32.5086166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40798-T</name>
+        <description><![CDATA[Date: 7/30/25 12:25 PM
+      Site Name: Pigeon Pass Mall 2
+      AGL: 62
+      Tower Type: Monopole Tree
+      Address: 11875 Pigeon Pass Road, Moreno Valley, Riverside, CA 92557]]></description>
+        <Point><coordinates>-117.263194444444,33.9482774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 7/30/25 12:25 PM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02837-B</name>
+        <description><![CDATA[Date: 7/30/25 12:25 PM
+      Site Name: S Dublin
+      AGL: 250
+      Tower Type: Self Support
+      Address: 826 Honeysuckle Rd., Dublin, Laurens, GA 31021-2659]]></description>
+        <Point><coordinates>-82.9434191111111,32.4931246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI12742-A</name>
+        <description><![CDATA[Date: 7/30/25 12:28 PM
+      Site Name: Antigo North
+      AGL: 175
+      Tower Type: Monopole
+      Address: 1000 West Pierce Avenue, Antigo, Langlade, WI 54409]]></description>
+        <Point><coordinates>-89.1574916666667,45.1548111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK47571-A</name>
+        <description><![CDATA[Date: 7/30/25 12:28 PM
+      Site Name: Bob White & Sooner
+      AGL: 150
+      Tower Type: Monopole
+      Address: 575 E Simmons Rd, Edmond, Logan, OK 73034]]></description>
+        <Point><coordinates>-97.4205743333333,35.7395635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11774-A</name>
+        <description><![CDATA[Date: 7/30/25 12:28 PM
+      Site Name: Paducah Comm College
+      AGL: 178
+      Tower Type: Monopole
+      Address: 4741 Alben Barkley Drive, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.6599833333333,37.0576638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -550,5 +550,41 @@
       Address: 352 Tower Rd, Barnet, Caledonia, VT 05819]]></description>
         <Point><coordinates>-72.0209993333333,44.3550833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/30/25 8:23 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40427-T</name>
+        <description><![CDATA[Date: 7/30/25 8:23 AM
+      Site Name: Tom Gill-Bad Dog
+      AGL: 180
+      Tower Type: Monopole
+      Address: 8814 W. Mile 3 Rd, Mission Hidalgo, Hidalgo, TX 78573]]></description>
+        <Point><coordinates>-98.4255826666667,26.2748326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/30/25 8:25 AM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13409-A</name>
+        <description><![CDATA[Date: 7/30/25 8:13 AM
+      Site Name: Cookeville (I-40)
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
+        <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

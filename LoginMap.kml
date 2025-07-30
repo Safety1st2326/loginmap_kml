@@ -37,5 +37,14 @@
       Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
         <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL10964-A</name>
+        <description><![CDATA[Date: 7/30/25 5:30 AM
+      Site Name: Beachville
+      AGL: 241
+      Tower Type: Self Support
+      Address: 21649 29th Rd, Lake City, Suwannee, FL 32024]]></description>
+        <Point><coordinates>-82.8037416666667,30.057475,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

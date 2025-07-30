@@ -1630,5 +1630,23 @@
       Address: 5607A North Perkins Ferry Road, Lake Charles, Calcasieu, LA 70611]]></description>
         <Point><coordinates>-93.2336052222222,30.399158,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02319-S</name>
+        <description><![CDATA[Date: 7/30/25 1:34 PM
+      Site Name: Blue Spring
+      AGL: 400
+      Tower Type: Guyed
+      Address: 1930 Minter Blue Springs Road, Rockledge, Laurens, GA 30454-1254]]></description>
+        <Point><coordinates>-82.7248243333333,32.4457135555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01307-A</name>
+        <description><![CDATA[Date: 7/30/25 1:34 PM
+      Site Name: Tampa Palms
+      AGL: 200
+      Tower Type: Monopole
+      Address: 17201 Madison Green Drive, Tampa, Hillsborough, FL 33647]]></description>
+        <Point><coordinates>-82.3710048888889,28.1204048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

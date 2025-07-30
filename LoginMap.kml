@@ -190,5 +190,41 @@
       Address: 650 NW 8th Steet, Miami, Miami-Dade, FL 33128]]></description>
         <Point><coordinates>-80.2054536111111,25.7813971111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13525-A</name>
+        <description><![CDATA[Date: 7/30/25 6:41 AM
+      Site Name: Ft Ashby
+      AGL: 197
+      Tower Type: Monopole
+      Address: 131  President St., Fort Ashby, Mineral, WV 26719]]></description>
+        <Point><coordinates>-78.7726076666667,39.5023777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00091-B</name>
+        <description><![CDATA[Date: 7/30/25 6:46 AM
+      Site Name: Buffington
+      AGL: 250
+      Tower Type: Self Support
+      Address: 711 Harmony Drive, Canton, Cherokee, GA 30115]]></description>
+        <Point><coordinates>-84.4101972222222,34.2451135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01669-B</name>
+        <description><![CDATA[Date: 7/30/25 6:48 AM
+      Site Name: Couches Pond
+      AGL: 250
+      Tower Type: Self Support
+      Address: 5301 Courtland Rd., Disputanta, Sussex, VA 23842-6830]]></description>
+        <Point><coordinates>-77.3064166666667,37.0334052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 7/30/25 6:48 AM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

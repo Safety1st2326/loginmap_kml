@@ -775,5 +775,32 @@
       Address: 23900 Veterans Blvd., Port Charlotte, Charlotte, FL 33954-2803]]></description>
         <Point><coordinates>-82.0511944444444,27.0233687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH15960-A</name>
+        <description><![CDATA[Date: 7/30/25 9:10 AM
+      Site Name: Huber Heights
+      AGL: 301
+      Tower Type: Self Support
+      Address: 6522 Executive Blvd, Huber Heights, Montgomery, OH 45424]]></description>
+        <Point><coordinates>-84.1155166666667,39.8698854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH15960-A</name>
+        <description><![CDATA[Date: 7/30/25 9:10 AM
+      Site Name: Huber Heights
+      AGL: 301
+      Tower Type: Self Support
+      Address: 6522 Executive Blvd, Huber Heights, Montgomery, OH 45424]]></description>
+        <Point><coordinates>-84.1155166666667,39.8698854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL21775-A</name>
+        <description><![CDATA[Date: 7/30/25 9:13 AM
+      Site Name: County Road 47
+      AGL: 300
+      Tower Type: Self Support
+      Address: 7622 Chelsea Road, Columbiana, Shelby, AL 35051]]></description>
+        <Point><coordinates>-86.6180990555555,33.292753,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

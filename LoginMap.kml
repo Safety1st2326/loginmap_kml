@@ -46,5 +46,41 @@
       Address: 21649 29th Rd, Lake City, Suwannee, FL 32024]]></description>
         <Point><coordinates>-82.8037416666667,30.057475,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL08375-S</name>
+        <description><![CDATA[Date: 7/30/25 5:41 AM
+      Site Name: Chattahoochee
+      AGL: 302
+      Tower Type: Self Support
+      Address: 115A Lincoln Drive, Chattahoochee, Gadsden, FL 32324]]></description>
+        <Point><coordinates>-84.8392524444444,30.6937996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41107-T</name>
+        <description><![CDATA[Date: 7/30/25 5:46 AM
+      Site Name: GLG Properties
+      AGL: 119
+      Tower Type: Monopole
+      Address: 3521 West US Hwy 40, Greenfield, Hancock, IN 46140]]></description>
+        <Point><coordinates>-85.868591,39.7787076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 7/30/25 5:46 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/30/25 5:46 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

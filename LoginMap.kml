@@ -2251,5 +2251,14 @@
       Address: 12301 Magnolia Street, Garden Grove, Orange, CA 92841]]></description>
         <Point><coordinates>-117.976077111111,33.7832382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17282-B</name>
+        <description><![CDATA[Date: 7/29/25 8:25 PM
+      Site Name: Neillsville East
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
+        <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

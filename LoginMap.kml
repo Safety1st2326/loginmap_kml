@@ -2269,5 +2269,14 @@
       Address: 499 6530 Road, Montrose, Montrose, CO 81401]]></description>
         <Point><coordinates>-107.872296555556,38.4906468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/29/25 9:24 PM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

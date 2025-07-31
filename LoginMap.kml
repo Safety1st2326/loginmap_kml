@@ -1648,5 +1648,23 @@
       Address: 761 East Houston River Road, Sulphur, Calcasieu, LA 70663]]></description>
         <Point><coordinates>-93.35325,30.2854996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41998-T</name>
+        <description><![CDATA[Date: 7/31/25 2:13 PM
+      Site Name: Hoelker
+      AGL: 125
+      Tower Type: Monopole
+      Address: 802 #A Summer Park Dr., Stafford, Fort Bend, TX 77477]]></description>
+        <Point><coordinates>-95.5689437777778,29.6089444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR07130-A</name>
+        <description><![CDATA[Date: 7/31/25 2:09 PM
+      Site Name: Skyline Drive
+      AGL: 80
+      Tower Type: Self Support
+      Address: 2114 Skyline Dr., Russellville, Pope, AR 72802-8612]]></description>
+        <Point><coordinates>-93.1491968888889,35.2608722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

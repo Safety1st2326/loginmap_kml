@@ -1018,5 +1018,41 @@
       Address: 25811 130th Street SW, Euclid, Polk, MN 56722]]></description>
         <Point><coordinates>-96.6083694444444,47.9766548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20950-A</name>
+        <description><![CDATA[Date: 7/31/25 10:09 AM
+      Site Name: Choate
+      AGL: 245
+      Tower Type: Self Support
+      Address: 12704 Pine Drive, Cypress, Harris, TX 77429]]></description>
+        <Point><coordinates>-95.6167937777778,29.9687937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 7/31/25 10:16 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41131-T</name>
+        <description><![CDATA[Date: 7/31/25 10:16 AM
+      Site Name: Anthony & Carole Swinney
+      AGL: 194
+      Tower Type: Monopole
+      Address: 529 S Co Rd 700 W, Holton, Ripley, IN 47023]]></description>
+        <Point><coordinates>-85.3832937777778,39.0667882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10048-B</name>
+        <description><![CDATA[Date: 7/31/25 10:24 AM
+      Site Name: Nestoria
+      AGL: 398
+      Tower Type: Guyed
+      Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
+        <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

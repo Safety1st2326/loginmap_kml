@@ -1000,5 +1000,14 @@
       Address: 1558 W. 162 Hwy, Gideon, New Madrid, MO 63848]]></description>
         <Point><coordinates>-89.9563305555556,36.4553722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA09551-A</name>
+        <description><![CDATA[Date: 7/31/25 10:01 AM
+      Site Name: Hodge
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1131 Swanner Watts Road, Jonesboro, Jackson, LA 71251]]></description>
+        <Point><coordinates>-92.5974885555556,32.2748021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

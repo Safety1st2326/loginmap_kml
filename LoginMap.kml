@@ -982,5 +982,23 @@
       Address: 8471 FM Road 910, Bogata, Red River, TX 75417]]></description>
         <Point><coordinates>-95.0539805555556,33.4831493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN08714-A</name>
+        <description><![CDATA[Date: 7/31/25 9:55 AM
+      Site Name: Lake of the Four Seasons 
+      AGL: 184
+      Tower Type: Monopole
+      Address: 150 S. 675 W., Hebron, Porter, IN 46341-9720]]></description>
+        <Point><coordinates>-87.1963718888889,41.4126638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO14427-A</name>
+        <description><![CDATA[Date: 7/31/25 9:58 AM
+      Site Name: Gideon 2 MO
+      AGL: 196
+      Tower Type: Self Support
+      Address: 1558 W. 162 Hwy, Gideon, New Madrid, MO 63848]]></description>
+        <Point><coordinates>-89.9563305555556,36.4553722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

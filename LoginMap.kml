@@ -55,5 +55,14 @@
       Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
         <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13623-A</name>
+        <description><![CDATA[Date: 7/31/25 6:13 AM
+      Site Name: Broadway 4 FL
+      AGL: 180
+      Tower Type: Monopole
+      Address: 3113 Cherry Palm Drive, Tampa, Hillsborough, FL 33619]]></description>
+        <Point><coordinates>-82.3439441111111,27.9723604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

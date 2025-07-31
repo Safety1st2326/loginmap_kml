@@ -1855,5 +1855,14 @@
       Address: 315 Phillips Count Road 354, Oneida, Phillips, AR 72355]]></description>
         <Point><coordinates>-90.7819632222222,34.4357996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI10048-B</name>
+        <description><![CDATA[Date: 7/31/25 4:45 PM
+      Site Name: Nestoria
+      AGL: 398
+      Tower Type: Guyed
+      Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
+        <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

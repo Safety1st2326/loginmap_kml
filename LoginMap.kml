@@ -1666,5 +1666,23 @@
       Address: 2114 Skyline Dr., Russellville, Pope, AR 72802-8612]]></description>
         <Point><coordinates>-93.1491968888889,35.2608722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22522-A</name>
+        <description><![CDATA[Date: 7/31/25 2:19 PM
+      Site Name: Grand Prairie
+      AGL: 176
+      Tower Type: Monopole
+      Address: 5101 W American Prairie, Peoria, Peoria, IL 61615]]></description>
+        <Point><coordinates>-89.6731048888889,40.7832548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 7/31/25 2:25 PM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

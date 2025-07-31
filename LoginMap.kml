@@ -19,5 +19,32 @@
       Address: 21649 29th Rd, Lake City, Suwannee, FL 32024]]></description>
         <Point><coordinates>-82.8037416666667,30.057475,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 7/31/25 5:46 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08375-S</name>
+        <description><![CDATA[Date: 7/31/25 5:46 AM
+      Site Name: Chattahoochee
+      AGL: 302
+      Tower Type: Self Support
+      Address: 115A Lincoln Drive, Chattahoochee, Gadsden, FL 32324]]></description>
+        <Point><coordinates>-84.8392524444444,30.6937996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH47444-A</name>
+        <description><![CDATA[Date: 7/31/25 5:48 AM
+      Site Name: Ez Self Storage - Warren Township
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
+        <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

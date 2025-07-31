@@ -82,5 +82,41 @@
       Address: 490 Watertank Hill Road, Wartburg, Morgan, TN 37887-4175]]></description>
         <Point><coordinates>-84.592158,36.1111527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46291-A</name>
+        <description><![CDATA[Date: 7/31/25 6:35 AM
+      Site Name: DOLPHIN-I-95 II
+      AGL: 135
+      Tower Type: Monopole
+      Address: 650 NW 8th Steet, Miami, Miami-Dade, FL 33128]]></description>
+        <Point><coordinates>-80.2054536111111,25.7813971111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15119-A</name>
+        <description><![CDATA[Date: 7/31/25 6:35 AM
+      Site Name: Benton Harbor 3 MI
+      AGL: 182
+      Tower Type: Monopole
+      Address: 1171 N. Benton Center Road, Benton Harbor, Berrien, MI 49022]]></description>
+        <Point><coordinates>-86.3712854444444,42.1342996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21558-A</name>
+        <description><![CDATA[Date: 7/31/25 6:48 AM
+      Site Name: Highway 2
+      AGL: 270
+      Tower Type: Self Support
+      Address: 3562 Catoosa Parkway, Tunnel Hill, WHITFIELD, GA 30755]]></description>
+        <Point><coordinates>-85.015125,34.8947635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV16686-A</name>
+        <description><![CDATA[Date: 7/31/25 6:48 AM
+      Site Name: Frankford
+      AGL: 195
+      Tower Type: Self Support
+      Address: 385 McMillan Road, Renick, Greenbrier, WV 24966]]></description>
+        <Point><coordinates>-80.3850274444444,37.9517083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

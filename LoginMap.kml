@@ -1432,5 +1432,32 @@
       Address: 278 Hillview Road, Gadsden, Etowah, AL 35901-8941]]></description>
         <Point><coordinates>-86.0035777777778,33.9663472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS06384-A</name>
+        <description><![CDATA[Date: 7/31/25 12:31 PM
+      Site Name: Steens
+      AGL: 253
+      Tower Type: Guyed
+      Address: 33 Mount Vernon Road, Columbus, Lowndes, MS 39702]]></description>
+        <Point><coordinates>-88.3055555555556,33.4911663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08885-A</name>
+        <description><![CDATA[Date: 7/31/25 12:33 PM
+      Site Name: Jacksonville 4 TX
+      AGL: 252
+      Tower Type: Guyed
+      Address: 29597 US Highway 69 N, Rusk, Cherokee, TX 75785]]></description>
+        <Point><coordinates>-95.1821965555556,31.8387441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12168-S</name>
+        <description><![CDATA[Date: 7/31/25 12:38 PM
+      Site Name: Greenwood 3 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 13286 State Highway 37 North, Clarksville, Red River, TX 75426]]></description>
+        <Point><coordinates>-95.0403246666667,33.8137416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

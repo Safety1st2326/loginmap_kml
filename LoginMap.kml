@@ -1909,5 +1909,23 @@
       Address: 761 Crossroads Court, Grand Junction, Mesa, CO 81506]]></description>
         <Point><coordinates>-108.538099666667,39.1168298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA10510-A</name>
+        <description><![CDATA[Date: 7/31/25 5:33 PM
+      Site Name: Maintenance Yard
+      AGL: 118
+      Tower Type: Monopole
+      Address: 2273 Cleveland Avenue, Salton City, Imperial, CA 92274]]></description>
+        <Point><coordinates>-115.979318777778,33.2931968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR03424-B</name>
+        <description><![CDATA[Date: 7/31/25 5:37 PM
+      Site Name: Gentry
+      AGL: 254
+      Tower Type: Self Support
+      Address: 12433 Collins Road, Gentry, Benton, AR 72734]]></description>
+        <Point><coordinates>-94.4868302222222,36.2522527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

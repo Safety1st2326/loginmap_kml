@@ -1846,5 +1846,14 @@
       Address: 2 Manning Rd, Stanton, Powell, KY 40380]]></description>
         <Point><coordinates>-83.7537902777778,37.8386377222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10066-A</name>
+        <description><![CDATA[Date: 7/31/25 4:32 PM
+      Site Name: Oneida
+      AGL: 241
+      Tower Type: Guyed
+      Address: 315 Phillips Count Road 354, Oneida, Phillips, AR 72355]]></description>
+        <Point><coordinates>-90.7819632222222,34.4357996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

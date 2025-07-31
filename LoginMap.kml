@@ -1072,5 +1072,86 @@
       Address: 1801 8th St S, Saint Cloud, Stearns, MN 56301]]></description>
         <Point><coordinates>-94.1765326666667,45.5511472222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI14934-B</name>
+        <description><![CDATA[Date: 7/31/25 10:29 AM
+      Site Name: Saxon 2 WI
+      AGL: 290
+      Tower Type: Self Support
+      Address: Approx 1900 '  NW of intersection of Wyszinski Rd and US Hwy 2, Saxon, Iron, WI 54559]]></description>
+        <Point><coordinates>-90.5040944444444,46.5102083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45880-A</name>
+        <description><![CDATA[Date: 7/31/25 10:29 AM
+      Site Name: East Imperial Commerce Center
+      AGL: 44
+      Tower Type: Tree
+      Address: 13808 1/2 E. Imperial Hwy, La Mirada, Los Angeles, CA 90638]]></description>
+        <Point><coordinates>-118.036666333333,33.9163888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20792-A</name>
+        <description><![CDATA[Date: 7/31/25 10:29 AM
+      Site Name: CLINTON SE
+      AGL: 190
+      Tower Type: Self Support
+      Address: 78 SE Highway AA, Clinton, Henry, MO 64735]]></description>
+        <Point><coordinates>-93.7142555555556,38.3540861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28179-A</name>
+        <description><![CDATA[Date: 7/31/25 10:43 AM
+      Site Name: Radiant
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3651 Beautiful Run Road, Radiant, Madison, VA 22732]]></description>
+        <Point><coordinates>-78.2136527777778,38.312,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC10740-A</name>
+        <description><![CDATA[Date: 7/31/25 10:38 AM
+      Site Name: Houpe
+      AGL: 252
+      Tower Type: Self Support
+      Address: 217 Odell Road, Statesville, Iredell, NC 28625]]></description>
+        <Point><coordinates>-81.0088583333333,35.8241576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX05922-A</name>
+        <description><![CDATA[Date: 7/31/25 10:45 AM
+      Site Name: Waskom
+      AGL: 301
+      Tower Type: Guyed
+      Address: 12172 Interstate Highway 20 S, Service Rd E, Waskom, Harrison, TX 75692]]></description>
+        <Point><coordinates>-94.1530972222222,32.4903746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21380-A</name>
+        <description><![CDATA[Date: 7/31/25 10:38 AM
+      Site Name: Whitebury
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3094 YORKVILLE ROAD EAST, COLUMBUS, LOWNDES, MS 39702]]></description>
+        <Point><coordinates>-88.3444996666667,33.4588611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01385-B</name>
+        <description><![CDATA[Date: 7/31/25 10:43 AM
+      Site Name: Blue Bell
+      AGL: 120
+      Tower Type: Tree
+      Address: 625 Dekalb Pike (Rt-202), Ambler, Montgomery, PA 19002-1926]]></description>
+        <Point><coordinates>-75.2640833333333,40.1917496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA03281-A</name>
+        <description><![CDATA[Date: 7/31/25 10:48 AM
+      Site Name: Airport Road
+      AGL: 194
+      Tower Type: Monopole
+      Address: 971 Fennell Dr., Resaca, Whitfield, GA 30735]]></description>
+        <Point><coordinates>-84.9668048888889,34.6175382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

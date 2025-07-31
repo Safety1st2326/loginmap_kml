@@ -1054,5 +1054,23 @@
       Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
         <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21082-A</name>
+        <description><![CDATA[Date: 7/31/25 10:38 AM
+      Site Name: Bagwell
+      AGL: 340
+      Tower Type: Guyed
+      Address: 220 COUNTY RD 2134, BAGWELL, RED RIVER, TX 75412]]></description>
+        <Point><coordinates>-95.1656944444445,33.6558888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46987-A</name>
+        <description><![CDATA[Date: 7/31/25 10:38 AM
+      Site Name: St Cloud Roosevelt Road
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1801 8th St S, Saint Cloud, Stearns, MN 56301]]></description>
+        <Point><coordinates>-94.1765326666667,45.5511472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

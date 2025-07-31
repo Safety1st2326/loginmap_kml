@@ -1747,5 +1747,23 @@
       Address: 31220 Sign Post Road, New Church, Accomack, VA 23415]]></description>
         <Point><coordinates>-75.5258826666667,37.9913941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 7/31/25 2:58 PM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/31/25 2:58 PM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

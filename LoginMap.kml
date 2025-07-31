@@ -829,5 +829,95 @@
       Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
         <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 7/31/25 9:22 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22027-S</name>
+        <description><![CDATA[Date: 7/31/25 9:22 AM
+      Site Name: SR470
+      AGL: 204
+      Tower Type: Monopole
+      Address: CR 470, Lake Panasoffkee, Sumter, FL 33538]]></description>
+        <Point><coordinates>-82.1366593888889,28.7896613333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 7/31/25 9:09 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:09 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 7/31/25 9:11 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10672-A</name>
+        <description><![CDATA[Date: 7/31/25 9:26 AM
+      Site Name: Kidwell
+      AGL: 351
+      Tower Type: Guyed
+      Address: 8735 Tyler Highway, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.8907802222222,39.5212965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12092-B</name>
+        <description><![CDATA[Date: 7/31/25 9:22 AM
+      Site Name: Spies Lake
+      AGL: 230
+      Tower Type: Self Support
+      Address: 102 Spies Lake Road, Amasa, Iron, MI 49903]]></description>
+        <Point><coordinates>-88.4627777777778,46.3488718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10489-A</name>
+        <description><![CDATA[Date: 7/31/25 9:27 AM
+      Site Name: Rhoades
+      AGL: 197
+      Tower Type: Monopole
+      Address: 04-47 Cty Rd 233, Rifle, Garfield, CO 81650]]></description>
+        <Point><coordinates>-107.770493777778,39.5512361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08813-A</name>
+        <description><![CDATA[Date: 7/31/25 9:16 AM
+      Site Name: Independence
+      AGL: 301
+      Tower Type: Guyed
+      Address: 53343 W. Fontanna Road, Independence, Tangipahoa, LA 70443-4531]]></description>
+        <Point><coordinates>-90.531041,30.6299132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08813-A</name>
+        <description><![CDATA[Date: 7/31/25 9:16 AM
+      Site Name: Independence
+      AGL: 301
+      Tower Type: Guyed
+      Address: 53343 W. Fontanna Road, Independence, Tangipahoa, LA 70443-4531]]></description>
+        <Point><coordinates>-90.531041,30.6299132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

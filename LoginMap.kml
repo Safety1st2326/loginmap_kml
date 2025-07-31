@@ -1801,5 +1801,14 @@
       Address: 56 Pennington Lake Road, Columbus, LOWNDES, MS 39705]]></description>
         <Point><coordinates>-88.4030583333333,33.5494718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21071-A</name>
+        <description><![CDATA[Date: 7/31/25 3:30 PM
+      Site Name: Avery
+      AGL: 302
+      Tower Type: Guyed
+      Address: 570 Hwy 82 East, Avery, Red River, TX 75554]]></description>
+        <Point><coordinates>-94.7686104444444,33.5539722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

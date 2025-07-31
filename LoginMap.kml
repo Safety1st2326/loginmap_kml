@@ -1765,5 +1765,32 @@
       Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
         <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR21327-A</name>
+        <description><![CDATA[Date: 7/31/25 3:07 PM
+      Site Name: Marvell
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12165 Highway 49, Marvell, Phillips, AR 72366]]></description>
+        <Point><coordinates>-90.8714054444444,34.5567416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41138-T</name>
+        <description><![CDATA[Date: 7/31/25 3:02 PM
+      Site Name: David and Karen Redding
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7689 State Road 46, Nashville, Brown, IN 47448]]></description>
+        <Point><coordinates>-86.1056277777778,39.1951885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45619-A</name>
+        <description><![CDATA[Date: 7/31/25 3:16 PM
+      Site Name: Bon View
+      AGL: 50
+      Tower Type: Tree
+      Address: 1856 S. Bon View Ave, Ontario, San Bernardino, CA 91761]]></description>
+        <Point><coordinates>-117.638288555556,34.0397218888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

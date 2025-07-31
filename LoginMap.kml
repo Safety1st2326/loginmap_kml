@@ -361,5 +361,158 @@
       Address: 400 CR 1307, Bogata, Red River, TX 75417]]></description>
         <Point><coordinates>-95.205325,33.4813493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN14139-A</name>
+        <description><![CDATA[Date: 7/31/25 8:11 AM
+      Site Name: Lake Holiday
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
+        <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47148-A</name>
+        <description><![CDATA[Date: 7/31/25 8:11 AM
+      Site Name: Havelock
+      AGL: 156
+      Tower Type: Monopole
+      Address: 896 Greenfields Heights Blvd., Havelock, Craven, NC 28532]]></description>
+        <Point><coordinates>-76.9354691111111,34.8927774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16166-B</name>
+        <description><![CDATA[Date: 7/31/25 8:11 AM
+      Site Name: Monmouth 3
+      AGL: 110
+      Tower Type: Monopole
+      Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21224-A</name>
+        <description><![CDATA[Date: 7/31/25 7:58 AM
+      Site Name: Eden 4 WI
+      AGL: 180
+      Tower Type: Self Support
+      Address: W3404 SUNNY ROAD, EDEN, FOND DU LAC, WI 53019]]></description>
+        <Point><coordinates>-88.3234826666667,43.7001416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT04717-A</name>
+        <description><![CDATA[Date: 7/31/25 7:59 AM
+      Site Name: Alburg
+      AGL: 121
+      Tower Type: Guyed
+      Address: 116 Fox Hill Road, Alburgh, Grand Isle/Alburgh, VT 05440]]></description>
+        <Point><coordinates>-73.2401746666667,44.9795493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20454-A</name>
+        <description><![CDATA[Date: 7/31/25 7:58 AM
+      Site Name: GALESBURG MI TOWER
+      AGL: 250
+      Tower Type: Guyed
+      Address: 2645 SOUTH 40TH ST., CLIMAX, KALAMAZOO, MI 49034]]></description>
+        <Point><coordinates>-85.3744632222222,42.2650222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 7/31/25 8:13 AM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20274-A</name>
+        <description><![CDATA[Date: 7/31/25 8:13 AM
+      Site Name: East Grand Forks MN Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18274 State Highway 220 SW, East Grand Forks, Polk, MN 56721]]></description>
+        <Point><coordinates>-96.9559861111111,47.8974246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 7/31/25 8:15 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 7/31/25 8:15 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02820-B</name>
+        <description><![CDATA[Date: 7/31/25 8:15 AM
+      Site Name: Eton
+      AGL: 190
+      Tower Type: Monopole
+      Address: 137 Loughridge Road, Chatsworth, Murray, GA 30705-5041]]></description>
+        <Point><coordinates>-84.7513583333333,34.8523222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC15020-A</name>
+        <description><![CDATA[Date: 7/31/25 8:15 AM
+      Site Name: Williams - JV
+      AGL: 193
+      Tower Type: Monopole
+      Address: 1138  Anderson Road, Rock Hill, York, SC 29730]]></description>
+        <Point><coordinates>-80.9823882222222,34.9093333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10470-A</name>
+        <description><![CDATA[Date: 7/31/25 8:18 AM
+      Site Name: Extension Cord
+      AGL: 98
+      Tower Type: Self Support
+      Address: 105 1/2 E Alkalai Creek Rd, New Castle, Garfield, CO 81647]]></description>
+        <Point><coordinates>-107.534152444444,39.5655722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 7/31/25 8:19 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 7/31/25 8:18 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13409-A</name>
+        <description><![CDATA[Date: 7/31/25 8:19 AM
+      Site Name: Cookeville (I-40)
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
+        <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47736-A</name>
+        <description><![CDATA[Date: 7/31/25 8:19 AM
+      Site Name: Quonapoag
+      AGL: 148
+      Tower Type: Self Support
+      Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
+        <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

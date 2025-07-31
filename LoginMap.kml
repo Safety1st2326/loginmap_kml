@@ -1396,5 +1396,41 @@
       Address: 1906 Old Mason Highway, Brady, McCulloch, TX 76825]]></description>
         <Point><coordinates>-99.3288021111111,31.1168798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA46665-A</name>
+        <description><![CDATA[Date: 7/31/25 12:19 PM
+      Site Name: Service Rigging
+      AGL: 165
+      Tower Type: Monopole
+      Address: 3198 Terrace Ave. East Bldg. 1, Slidell, St. Tammany, LA 70459]]></description>
+        <Point><coordinates>-89.7712354444444,30.2563833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16565-A</name>
+        <description><![CDATA[Date: 7/31/25 12:28 PM
+      Site Name: Heath - Texas
+      AGL: 122
+      Tower Type: Monopole
+      Address: 490 Smirl Drive, Heath, Rockwall, TX 75032]]></description>
+        <Point><coordinates>-96.4805215555556,32.8464441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06612-B</name>
+        <description><![CDATA[Date: 7/31/25 12:28 PM
+      Site Name: Toonerville
+      AGL: 253
+      Tower Type: Self Support
+      Address: 4229 State Route 8, Titusville, Venango, PA 16354]]></description>
+        <Point><coordinates>-79.6885496666667,41.5812298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL06388-A</name>
+        <description><![CDATA[Date: 7/31/25 12:28 PM
+      Site Name: Clubview Heights
+      AGL: 87
+      Tower Type: Monopole
+      Address: 278 Hillview Road, Gadsden, Etowah, AL 35901-8941]]></description>
+        <Point><coordinates>-86.0035777777778,33.9663472222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

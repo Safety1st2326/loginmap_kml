@@ -919,5 +919,23 @@
       Address: 53343 W. Fontanna Road, Independence, Tangipahoa, LA 70443-4531]]></description>
         <Point><coordinates>-90.531041,30.6299132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46169-A</name>
+        <description><![CDATA[Date: 7/31/25 9:31 AM
+      Site Name: EW Burch
+      AGL: 112
+      Tower Type: Monopole
+      Address: 301 SW 37th Street, Gainesville, Alachua, FL 32602]]></description>
+        <Point><coordinates>-82.3782687777778,29.6486857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 7/31/25 9:31 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -721,5 +721,95 @@
       Address: 902 S. Main Street, Gainesville, Alachua, FL 32601]]></description>
         <Point><coordinates>-82.3259104444444,29.6432191111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:04 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:04 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12149-A</name>
+        <description><![CDATA[Date: 7/31/25 9:04 AM
+      Site Name: Brightside LA
+      AGL: 149
+      Tower Type: Monopole
+      Address: 1444 Brightside Lane, Baton Rouge, East Baton Rouge, LA 70820]]></description>
+        <Point><coordinates>-91.174366,30.3885468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:04 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:04 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA21329-A</name>
+        <description><![CDATA[Date: 7/31/25 9:05 AM
+      Site Name: New Iberia 2 LA
+      AGL: 198
+      Tower Type: Self Support
+      Address: 320 W. WASHINGTON, NEW IBERIA, IBERIA, LA 70560]]></description>
+        <Point><coordinates>-91.8238882222222,30.0077777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02819-B</name>
+        <description><![CDATA[Date: 7/31/25 9:06 AM
+      Site Name: Cisco
+      AGL: 250
+      Tower Type: Self Support
+      Address: 565 Hwy 2 E., Crandall, Murray, GA 30711-5262]]></description>
+        <Point><coordinates>-84.7429718888889,34.9563611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:07 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:07 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12256-A</name>
+        <description><![CDATA[Date: 7/31/25 9:07 AM
+      Site Name: Samsula 2 FL
+      AGL: 182
+      Tower Type: Monopole
+      Address: 665 Airport Road, New Smyrna Beach, Volusia, FL 32168]]></description>
+        <Point><coordinates>-81.0414913333333,29.0535583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

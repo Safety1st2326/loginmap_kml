@@ -1486,5 +1486,14 @@
       Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
         <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR41696-T</name>
+        <description><![CDATA[Date: 7/31/25 12:55 PM
+      Site Name: Bend South- Country Club
+      AGL: 110
+      Tower Type: Monopole Tree
+      Address: 61045 Country Club Drive, Bend, Deschutes, OR 97702]]></description>
+        <Point><coordinates>-121.310086111111,44.0129583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

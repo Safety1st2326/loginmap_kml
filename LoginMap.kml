@@ -217,5 +217,14 @@
       Address: 27958 H-40 (known West Trout Lake Rd.), Trout Lake, Chippewa, MI 49793]]></description>
         <Point><coordinates>-84.9460635555556,46.1878691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46256-A</name>
+        <description><![CDATA[Date: 7/31/25 7:25 AM
+      Site Name: Lake Garfield North
+      AGL: 120
+      Tower Type: Monopole
+      Address: 4375 Pollard Rd., Winter Haven, Polk, FL 33880]]></description>
+        <Point><coordinates>-81.7083277777778,27.9555027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

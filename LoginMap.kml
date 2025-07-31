@@ -1828,5 +1828,23 @@
       Address: 182 Delton Road, Mansfield, De Soto, LA 71052]]></description>
         <Point><coordinates>-93.7448996666667,32.0136166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS11624-B</name>
+        <description><![CDATA[Date: 7/31/25 4:14 PM
+      Site Name: Griffith
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2801 Highway 46, Cedarbluff, Clay, MS 39741]]></description>
+        <Point><coordinates>-88.7988635555556,33.6217298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY11316-A</name>
+        <description><![CDATA[Date: 7/31/25 4:15 PM
+      Site Name: Stanton 2 KY
+      AGL: 251
+      Tower Type: Self Support
+      Address: 2 Manning Rd, Stanton, Powell, KY 40380]]></description>
+        <Point><coordinates>-83.7537902777778,37.8386377222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

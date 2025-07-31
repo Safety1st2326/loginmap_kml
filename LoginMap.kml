@@ -1495,5 +1495,41 @@
       Address: 61045 Country Club Drive, Bend, Deschutes, OR 97702]]></description>
         <Point><coordinates>-121.310086111111,44.0129583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22498-A</name>
+        <description><![CDATA[Date: 7/31/25 1:10 PM
+      Site Name: District 150
+      AGL: 102
+      Tower Type: Monopole
+      Address: 1523 W. Nebraska Avenue, Peoria, Peoria, IL 61625]]></description>
+        <Point><coordinates>-89.6175048888889,40.7100111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09674-A</name>
+        <description><![CDATA[Date: 7/31/25 1:10 PM
+      Site Name: Draketown GA
+      AGL: 252
+      Tower Type: Self Support
+      Address: 97 Bear Creek Road, Buchanan, Haralson, GA 30113]]></description>
+        <Point><coordinates>-85.0614305555555,33.8324021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22498-A</name>
+        <description><![CDATA[Date: 7/31/25 1:10 PM
+      Site Name: District 150
+      AGL: 102
+      Tower Type: Monopole
+      Address: 1523 W. Nebraska Avenue, Peoria, Peoria, IL 61625]]></description>
+        <Point><coordinates>-89.6175048888889,40.7100111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 7/31/25 1:01 PM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

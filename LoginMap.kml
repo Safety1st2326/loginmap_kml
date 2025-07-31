@@ -577,5 +577,122 @@
       Address: 3083 McCredie Rd., Kingdom City, Callaway, MO 65262]]></description>
         <Point><coordinates>-91.9467385555556,38.9527555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN21612-A</name>
+        <description><![CDATA[Date: 7/31/25 8:33 AM
+      Site Name: Jasper 3 TN
+      AGL: 250
+      Tower Type: Self Support
+      Address: I-24 Exit 155, 693 Spears Road, Jasper, Marion, TN 37347]]></description>
+        <Point><coordinates>-85.6405385555556,35.0553333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13528-A</name>
+        <description><![CDATA[Date: 7/31/25 8:40 AM
+      Site Name: Camp Dawson
+      AGL: 251
+      Tower Type: Guyed
+      Address: 416 Rich Wolfe Drive, Kingwood, Preston, WV 26537]]></description>
+        <Point><coordinates>-79.6696771111111,39.4609805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40890-T</name>
+        <description><![CDATA[Date: 7/31/25 8:40 AM
+      Site Name: Yalaha
+      AGL: 195
+      Tower Type: Monopole
+      Address: 26149 Bloomfield Avenue, Yalaha, Lake, FL 34797]]></description>
+        <Point><coordinates>-81.8200626666667,28.7285862777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21559-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Norton 2
+      AGL: 300
+      Tower Type: Self Support
+      Address: 2151 Lower Kings Bridge Rd., Dalton, Whitfield, GA 30721]]></description>
+        <Point><coordinates>-84.8540555555555,34.8517333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopole Tree
+      Address: 8885 Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7661,35.2464385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13494-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Johnstown
+      AGL: 499
+      Tower Type: Guyed
+      Address: 4591 CR 1410, Johnstown, Red River, TX 75487]]></description>
+        <Point><coordinates>-95.1514305555556,33.4226826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10291-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Clyde 2 MS
+      AGL: 251
+      Tower Type: Guyed
+      Address: 40 Csaszar Road, Sumrall, Lamar, MS 39482]]></description>
+        <Point><coordinates>-89.5066805555556,31.3470802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopine
+      Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 7/31/25 8:46 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12250-A</name>
+        <description><![CDATA[Date: 7/31/25 8:36 AM
+      Site Name: Stoneybrook East CR535
+      AGL: 137
+      Tower Type: Monopole
+      Address: 13731 Stoneybrook West Parkway, Winter Garden, Orange, FL 34787]]></description>
+        <Point><coordinates>-81.5925941111111,28.5163944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 7/31/25 8:43 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02435-S</name>
+        <description><![CDATA[Date: 7/31/25 8:36 AM
+      Site Name: Baker Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3302 Roy Parks Road, Gainesville, Hall, GA 30501]]></description>
+        <Point><coordinates>-83.7634722222222,34.2258993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21650-A</name>
+        <description><![CDATA[Date: 7/31/25 8:36 AM
+      Site Name: RIVERSBURG
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6000 Columbia Highway, Pulaski, Giles, TN 38478]]></description>
+        <Point><coordinates>-87.0383885555556,35.2720548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

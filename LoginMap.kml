@@ -307,5 +307,59 @@
       Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
         <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22261-A</name>
+        <description><![CDATA[Date: 7/31/25 7:40 AM
+      Site Name: Ruskin 3 FL
+      AGL: 217
+      Tower Type: Self Support
+      Address: 1529 S US Highway 41, Ruskin, Hillsborough, FL 33570]]></description>
+        <Point><coordinates>-82.4370441111111,27.7066222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21551-A</name>
+        <description><![CDATA[Date: 7/31/25 7:40 AM
+      Site Name: Crandall - Hwy 411
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4390 CRANDALL ELLIJAY ROAD, CRANDALL, MURRAY, GA 30711]]></description>
+        <Point><coordinates>-84.7455885555556,34.8684048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12572-A</name>
+        <description><![CDATA[Date: 7/31/25 7:49 AM
+      Site Name: Cleghorn
+      AGL: 237
+      Tower Type: Self Support
+      Address: 403 W. Grace, Cleghorn, Cherokee, IA 51014]]></description>
+        <Point><coordinates>-95.7170604444444,42.8131916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 7/31/25 7:49 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN17608-A</name>
+        <description><![CDATA[Date: 7/31/25 7:49 AM
+      Site Name: Taconite Harbor
+      AGL: 196
+      Tower Type: Self Support
+      Address: 42 Ash Cell Road, Schroeder, Cook, MN 55613]]></description>
+        <Point><coordinates>-90.9175062777778,47.5343366111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10976-A</name>
+        <description><![CDATA[Date: 7/31/25 7:55 AM
+      Site Name: Bogata
+      AGL: 301
+      Tower Type: Guyed
+      Address: 400 CR 1307, Bogata, Red River, TX 75417]]></description>
+        <Point><coordinates>-95.205325,33.4813493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

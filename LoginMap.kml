@@ -2080,5 +2080,41 @@
       Address: 655 River Road, Ringgold, Catoosa, GA 30736]]></description>
         <Point><coordinates>-85.137408,34.9586527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40683-T</name>
+        <description><![CDATA[Date: 7/30/25 7:54 PM
+      Site Name: DSA Westmoor High -P
+      AGL: 59
+      Tower Type: Monopine
+      Address: 131 Westmoor Ave, Daly City, San Mateo, CA 94015]]></description>
+        <Point><coordinates>-122.483960777778,37.682791,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10456-A</name>
+        <description><![CDATA[Date: 7/30/25 7:31 PM
+      Site Name: Alkalai Creek
+      AGL: 64
+      Tower Type: Monopole
+      Address: 810 1025 Rd, Delta, Delta, CO 81416]]></description>
+        <Point><coordinates>-108.169054888889,38.7606916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA18275-A</name>
+        <description><![CDATA[Date: 7/30/25 7:51 PM
+      Site Name: N Ankeny
+      AGL: 195
+      Tower Type: Stealth
+      Address: 3800 NW 18th Street, Ankeny, Polk, IA 50023]]></description>
+        <Point><coordinates>-93.649933,41.7474385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05005-A</name>
+        <description><![CDATA[Date: 7/30/25 7:57 PM
+      Site Name: Pleasant Grove Baptist
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1799 W Pleasant Grove Road, Rogers, Benton, AR 72758]]></description>
+        <Point><coordinates>-94.1462635555555,36.2834524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

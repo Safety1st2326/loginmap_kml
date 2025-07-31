@@ -1864,5 +1864,23 @@
       Address: 20539 Nestoria Road, Covington, Baraga, MI 49861]]></description>
         <Point><coordinates>-88.2581805555556,46.5695187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS11195-A</name>
+        <description><![CDATA[Date: 7/31/25 5:01 PM
+      Site Name: Medicine Lodge 2 KS
+      AGL: 281
+      Tower Type: Guyed
+      Address: 2876 NE US Hwy 281, Medicine Lodge, Barber, KS 27104]]></description>
+        <Point><coordinates>-98.5852191111111,37.3097916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10462-A</name>
+        <description><![CDATA[Date: 7/31/25 5:03 PM
+      Site Name: Coal Mine
+      AGL: 127
+      Tower Type: Self Support
+      Address: 968 Interstate 70, Palisade, Mesa, CO 81526]]></description>
+        <Point><coordinates>-108.309988888889,39.1438885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

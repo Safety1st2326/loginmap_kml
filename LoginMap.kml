@@ -226,5 +226,68 @@
       Address: 4375 Pollard Rd., Winter Haven, Polk, FL 33880]]></description>
         <Point><coordinates>-81.7083277777778,27.9555027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV22331-A</name>
+        <description><![CDATA[Date: 7/31/25 7:31 AM
+      Site Name: Turtle Creek
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1601 Jessie Lane, Turtle Creek, Boone, WV 25203]]></description>
+        <Point><coordinates>-81.8664555555555,38.0281521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH03528-S</name>
+        <description><![CDATA[Date: 7/31/25 7:31 AM
+      Site Name: Woodstock
+      AGL: 190
+      Tower Type: Self Support
+      Address: 124 Upper Grandview Drive, Woodstock, Grafton, NH 03293]]></description>
+        <Point><coordinates>-71.6871468888889,44.0221937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI10125-A</name>
+        <description><![CDATA[Date: 7/31/25 7:27 AM
+      Site Name: Texas Corners 2 MI
+      AGL: 192
+      Tower Type: Monopole
+      Address: 6590 W R Ave, Schoolcraft, Kalamazoo, MI 49087]]></description>
+        <Point><coordinates>-85.6783493333333,42.191533,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 7/31/25 7:33 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21551-A</name>
+        <description><![CDATA[Date: 7/31/25 7:33 AM
+      Site Name: Crandall - Hwy 411
+      AGL: 300
+      Tower Type: Self Support
+      Address: 4390 CRANDALL ELLIJAY ROAD, CRANDALL, MURRAY, GA 30711]]></description>
+        <Point><coordinates>-84.7455885555556,34.8684048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 7/31/25 7:37 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21380-A</name>
+        <description><![CDATA[Date: 7/31/25 7:37 AM
+      Site Name: Whitebury
+      AGL: 185
+      Tower Type: Self Support
+      Address: 3094 YORKVILLE ROAD EAST, COLUMBUS, LOWNDES, MS 39702]]></description>
+        <Point><coordinates>-88.3444996666667,33.4588611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

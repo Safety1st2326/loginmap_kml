@@ -46,5 +46,14 @@
       Address: 2805 Mahoning Ave NW, Warren, Trumbull, OH 44483]]></description>
         <Point><coordinates>-80.8355441111111,41.2596694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 7/31/25 6:04 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

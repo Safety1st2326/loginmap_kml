@@ -937,5 +937,50 @@
       Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
         <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA21687-A</name>
+        <description><![CDATA[Date: 7/31/25 9:41 AM
+      Site Name: Hopewell Tower
+      AGL: 250
+      Tower Type: Guyed
+      Address: 1421 Hopewell Rd. East, Musella, Crawford, GA 31066]]></description>
+        <Point><coordinates>-84.0053936111111,32.8032797222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN14394-A</name>
+        <description><![CDATA[Date: 7/31/25 9:43 AM
+      Site Name: Leader
+      AGL: 501
+      Tower Type: Guyed
+      Address: 6994 71st Avenue SW, Moose Lake, Cass, MN 56466]]></description>
+        <Point><coordinates>-94.6523166666667,46.551325,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 7/31/25 9:43 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT02408-S</name>
+        <description><![CDATA[Date: 7/31/25 9:34 AM
+      Site Name: Sharon 3 CT
+      AGL: 132
+      Tower Type: Monopole Tree
+      Address: 477 Route 7, Sharon, Litchfield, CT 06069]]></description>
+        <Point><coordinates>-73.3660305555556,41.9094555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11033-A</name>
+        <description><![CDATA[Date: 7/31/25 9:49 AM
+      Site Name: Cuthand
+      AGL: 301
+      Tower Type: Guyed
+      Address: 8471 FM Road 910, Bogata, Red River, TX 75417]]></description>
+        <Point><coordinates>-95.0539805555556,33.4831493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

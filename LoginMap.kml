@@ -1549,5 +1549,41 @@
       Address: 235 Linden Avenue, Grand Junction, Mesa, CO 84083]]></description>
         <Point><coordinates>-108.557969444444,39.038108,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA02088-B</name>
+        <description><![CDATA[Date: 7/31/25 1:36 PM
+      Site Name: Cherry Hill 4 VA
+      AGL: 250
+      Tower Type: Self Support
+      Address: 21017 McKenney Hwy, Stony Creek, Dinwiddie, VA 23882-2243]]></description>
+        <Point><coordinates>-77.5418885555556,36.9427218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13645-A</name>
+        <description><![CDATA[Date: 7/31/25 1:30 PM
+      Site Name: Pinellas Park
+      AGL: 121
+      Tower Type: Monopole
+      Address: 3915 Park Blvd (74th Ave N), Pinellas Park, Pinellas, FL 33781]]></description>
+        <Point><coordinates>-82.6867135555556,27.8403968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH11127-A</name>
+        <description><![CDATA[Date: 7/31/25 1:46 PM
+      Site Name: Hunt
+      AGL: 206
+      Tower Type: Self Support
+      Address: 5293 Newark Rd (Rt. 13), Mt. Vernon, Knox, OH 43050]]></description>
+        <Point><coordinates>-82.4613555555556,40.3181798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA03980-S</name>
+        <description><![CDATA[Date: 7/31/25 1:46 PM
+      Site Name: Loves Shop
+      AGL: 300
+      Tower Type: Guyed
+      Address: 6017 James D. Haygood Hwy, Scottsburg, Halifax, VA 24589-2684]]></description>
+        <Point><coordinates>-78.8303382222222,36.7650416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

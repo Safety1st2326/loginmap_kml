@@ -1585,5 +1585,32 @@
       Address: 6017 James D. Haygood Hwy, Scottsburg, Halifax, VA 24589-2684]]></description>
         <Point><coordinates>-78.8303382222222,36.7650416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ND16886-B</name>
+        <description><![CDATA[Date: 7/31/25 1:48 PM
+      Site Name: Fracker
+      AGL: 250
+      Tower Type: Self Support
+      Address: 92nd Avenue Northwest and 34th Street, New Town, Mountrail, ND 58763]]></description>
+        <Point><coordinates>-102.529329888889,47.9059972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00707-S</name>
+        <description><![CDATA[Date: 7/31/25 1:51 PM
+      Site Name: North Easton
+      AGL: 185
+      Tower Type: Tree
+      Address: 275 North Street, Easton, Fairfield, CT 06612]]></description>
+        <Point><coordinates>-73.3135777777778,41.3165388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21070-A</name>
+        <description><![CDATA[Date: 7/31/25 1:54 PM
+      Site Name: Annona
+      AGL: 302
+      Tower Type: Guyed
+      Address: 367 US 82, ANNONA, RED RIVER, TX 75550]]></description>
+        <Point><coordinates>-94.9183326666667,33.5879996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

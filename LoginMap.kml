@@ -1810,5 +1810,14 @@
       Address: 570 Hwy 82 East, Avery, Red River, TX 75554]]></description>
         <Point><coordinates>-94.7686104444444,33.5539722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 7/31/25 3:49 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

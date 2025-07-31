@@ -289,5 +289,23 @@
       Address: 3094 YORKVILLE ROAD EAST, COLUMBUS, LOWNDES, MS 39702]]></description>
         <Point><coordinates>-88.3444996666667,33.4588611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46251-A</name>
+        <description><![CDATA[Date: 7/31/25 7:46 AM
+      Site Name: Redlands 2 FL
+      AGL: 126
+      Tower Type: Monopole
+      Address: 15901 Sw 177th Ave.  orm, Miami, Miami-Dade, FL 33187]]></description>
+        <Point><coordinates>-80.471766,25.6175243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 7/31/25 7:43 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

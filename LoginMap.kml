@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 7/31/25 5:06 AM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

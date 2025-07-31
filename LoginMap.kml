@@ -64,5 +64,23 @@
       Address: 3113 Cherry Palm Drive, Tampa, Hillsborough, FL 33619]]></description>
         <Point><coordinates>-82.3439441111111,27.9723604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40470-T</name>
+        <description><![CDATA[Date: 7/31/25 6:37 AM
+      Site Name: SR22-Calera
+      AGL: 231
+      Tower Type: Self Support
+      Address: 9191 Hwy. 22, Calera, Shelby, AL 35040]]></description>
+        <Point><coordinates>-86.7889518888889,33.149128,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN02978-S</name>
+        <description><![CDATA[Date: 7/31/25 6:37 AM
+      Site Name: Wartburg
+      AGL: 275
+      Tower Type: Self Support
+      Address: 490 Watertank Hill Road, Wartburg, Morgan, TN 37887-4175]]></description>
+        <Point><coordinates>-84.592158,36.1111527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1153,5 +1153,32 @@
       Address: 971 Fennell Dr., Resaca, Whitfield, GA 30735]]></description>
         <Point><coordinates>-84.9668048888889,34.6175382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA01664-S</name>
+        <description><![CDATA[Date: 7/31/25 10:52 AM
+      Site Name: Birds Nest
+      AGL: 250
+      Tower Type: Self Support
+      Address: 10491 Walnut Lane, Birdsnest, Northampton, VA 23307]]></description>
+        <Point><coordinates>-75.8848524444444,37.4330576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15083-S</name>
+        <description><![CDATA[Date: 7/31/25 10:58 AM
+      Site Name: Eckenrode Mill
+      AGL: 300
+      Tower Type: Guyed
+      Address: 270 Eckenrode Mill Rd, Chest Springs, Cambria, PA 16624]]></description>
+        <Point><coordinates>-78.622416,40.5766937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20701-A</name>
+        <description><![CDATA[Date: 7/31/25 10:55 AM
+      Site Name: VINTON 2 LA
+      AGL: 185
+      Tower Type: Guyed
+      Address: 5733 LISA LANE, VINTON, CALCASIEU, LA 70668]]></description>
+        <Point><coordinates>-93.5246104444444,30.2202215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

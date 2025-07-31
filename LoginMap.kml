@@ -1207,5 +1207,50 @@
       Address: 2501 9th Avenue NE, Norman, Cleveland, OK 73071]]></description>
         <Point><coordinates>-97.4295632222222,35.2497441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 7/31/25 11:26 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 7/31/25 11:26 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 7/31/25 11:21 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46215-A</name>
+        <description><![CDATA[Date: 7/31/25 11:27 AM
+      Site Name: Lake Plymouth
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
+        <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13525-A</name>
+        <description><![CDATA[Date: 7/31/25 11:28 AM
+      Site Name: Ft Ashby
+      AGL: 197
+      Tower Type: Monopole
+      Address: 131  President St., Fort Ashby, Mineral, WV 26719]]></description>
+        <Point><coordinates>-78.7726076666667,39.5023777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

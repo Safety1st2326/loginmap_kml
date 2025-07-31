@@ -1378,5 +1378,14 @@
       Address: Route 1, Box 143, Stillwater, Noble, OK 73061]]></description>
         <Point><coordinates>-97.0490302222222,36.2746604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA07445-A</name>
+        <description><![CDATA[Date: 7/31/25 12:08 PM
+      Site Name: Silver Beach
+      AGL: 270
+      Tower Type: Self Support
+      Address: Mackatouces Point Road, Exmore, Northampton, VA 23350]]></description>
+        <Point><coordinates>-75.945833,37.4819437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

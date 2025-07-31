@@ -1684,5 +1684,41 @@
       Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
         <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MT16925-A</name>
+        <description><![CDATA[Date: 7/31/25 2:33 PM
+      Site Name: Joliet 2 MT
+      AGL: 101
+      Tower Type: Self Support
+      Address: 27 Cole Creek Road, Joliet, Carbon, MT 59041]]></description>
+        <Point><coordinates>-108.964697222222,45.492183,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10948-A</name>
+        <description><![CDATA[Date: 7/31/25 2:33 PM
+      Site Name: Annona 3 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 402 County Road 3312, Annona, Red River, TX 75550]]></description>
+        <Point><coordinates>-94.8671993333333,33.5843663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12580-A</name>
+        <description><![CDATA[Date: 7/31/25 2:30 PM
+      Site Name: Estherville South
+      AGL: 318
+      Tower Type: Guyed
+      Address: 1856 380th Avenue, Estherville, Emmet, IA 51334]]></description>
+        <Point><coordinates>-94.8325743333333,43.3793854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR20922-A</name>
+        <description><![CDATA[Date: 7/31/25 2:36 PM
+      Site Name: Clatskanie-Osborne
+      AGL: 190
+      Tower Type: Self Support
+      Address: 22087 Highway 30, Clatskanie, Columbia, OR 97016]]></description>
+        <Point><coordinates>-123.111827777778,46.0965468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

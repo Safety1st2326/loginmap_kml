@@ -1459,5 +1459,32 @@
       Address: 13286 State Highway 37 North, Clarksville, Red River, TX 75426]]></description>
         <Point><coordinates>-95.0403246666667,33.8137416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08979-A</name>
+        <description><![CDATA[Date: 7/31/25 12:40 PM
+      Site Name: Ellwood City
+      AGL: 152
+      Tower Type: Monopole
+      Address: 1 Hack Wilson Drive, Ellwood City, Beaver, PA 16117]]></description>
+        <Point><coordinates>-80.2831465555556,40.8512222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA10751-A</name>
+        <description><![CDATA[Date: 7/31/25 12:46 PM
+      Site Name: Shields Bridge
+      AGL: 392
+      Tower Type: Self Support
+      Address: 14524 Shields Bridge Rd., Belle Haven, Accomack, VA 27939]]></description>
+        <Point><coordinates>-75.8290743333333,37.5575027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 7/31/25 12:48 PM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

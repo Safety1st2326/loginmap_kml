@@ -1531,5 +1531,23 @@
       Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
         <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10460-A</name>
+        <description><![CDATA[Date: 7/31/25 1:25 PM
+      Site Name: Chevron 2 CO
+      AGL: 151
+      Tower Type: Self Support
+      Address: 1995 44 Road, DeBeque, Mesa, CO 81630]]></description>
+        <Point><coordinates>-108.235285777778,39.2913302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10492-A</name>
+        <description><![CDATA[Date: 7/31/25 1:27 PM
+      Site Name: Staton
+      AGL: 82
+      Tower Type: Monopole
+      Address: 235 Linden Avenue, Grand Junction, Mesa, CO 84083]]></description>
+        <Point><coordinates>-108.557969444444,39.038108,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

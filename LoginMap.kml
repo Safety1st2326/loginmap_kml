@@ -694,5 +694,32 @@
       Address: 6000 Columbia Highway, Pulaski, Giles, TN 38478]]></description>
         <Point><coordinates>-87.0383885555556,35.2720548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH16586-S</name>
+        <description><![CDATA[Date: 7/31/25 8:39 AM
+      Site Name: Litchfield West
+      AGL: 190
+      Tower Type: Self Support
+      Address: 10761 Twr Jones Road, Litchfield Township, Medina, OH 44253]]></description>
+        <Point><coordinates>-82.071516,41.1570388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ21252-A</name>
+        <description><![CDATA[Date: 7/31/25 8:54 AM
+      Site Name: Bahia Hermosa Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 2700 JAMAICA, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.301555555556,34.4638055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL10327-A</name>
+        <description><![CDATA[Date: 7/31/25 8:57 AM
+      Site Name: G'ville South (Elite)
+      AGL: 203
+      Tower Type: Self Support
+      Address: 902 S. Main Street, Gainesville, Alachua, FL 32601]]></description>
+        <Point><coordinates>-82.3259104444444,29.6432191111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

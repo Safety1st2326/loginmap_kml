@@ -172,5 +172,50 @@
       Address: 26 Robertson Street, Lagrange, Troup, GA 30241-3519]]></description>
         <Point><coordinates>-85.0087222222222,33.0414996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI12089-B</name>
+        <description><![CDATA[Date: 7/31/25 7:13 AM
+      Site Name: Hazel 5 MI
+      AGL: 239
+      Tower Type: Self Support
+      Address: 4947 US Hwy 2, Iron River, Iron, MI 49935]]></description>
+        <Point><coordinates>-88.7603611111111,46.1473691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21562-A</name>
+        <description><![CDATA[Date: 7/31/25 7:10 AM
+      Site Name: Pleasant Grove2
+      AGL: 280
+      Tower Type: Self Support
+      Address: 3430 Cleveland HWY, Dalton, Whitfield, GA 30721]]></description>
+        <Point><coordinates>-84.9393302222222,34.8702493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14348-A</name>
+        <description><![CDATA[Date: 7/31/25 7:10 AM
+      Site Name: Ashby 2 AL
+      AGL: 401
+      Tower Type: Guyed
+      Address: 14971 Highway 139, Ashby, Bibb, AL 35035]]></description>
+        <Point><coordinates>-86.9155944444445,32.9809743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA12208-A</name>
+        <description><![CDATA[Date: 7/31/25 7:16 AM
+      Site Name: Dennisport
+      AGL: 99
+      Tower Type: Flagpole
+      Address: 27 Candlewood Lane, Dennisport, Barnstable, MA 02639]]></description>
+        <Point><coordinates>-70.1315826666667,41.668066,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI13232-A</name>
+        <description><![CDATA[Date: 7/31/25 7:03 AM
+      Site Name: Trout Lake
+      AGL: 230
+      Tower Type: Guyed
+      Address: 27958 H-40 (known West Trout Lake Rd.), Trout Lake, Chippewa, MI 49793]]></description>
+        <Point><coordinates>-84.9460635555556,46.1878691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

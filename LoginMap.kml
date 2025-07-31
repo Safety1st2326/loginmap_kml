@@ -1720,5 +1720,32 @@
       Address: 22087 Highway 30, Clatskanie, Columbia, OR 97016]]></description>
         <Point><coordinates>-123.111827777778,46.0965468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12609-A</name>
+        <description><![CDATA[Date: 7/31/25 2:40 PM
+      Site Name: Spirit Lake Downtown
+      AGL: 169
+      Tower Type: Monopole
+      Address: 1304 20th Street, Spirit Lake, Dickinson, IA 51360]]></description>
+        <Point><coordinates>-95.1082555555555,43.4216521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41893-T</name>
+        <description><![CDATA[Date: 7/31/25 2:40 PM
+      Site Name: Texoma -Utter RL
+      AGL: 100
+      Tower Type: Monopole
+      Address: 2525 Texoma Pky , Sherman, Grayson, TX 75090]]></description>
+        <Point><coordinates>-96.5938885555556,33.6649166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01662-S</name>
+        <description><![CDATA[Date: 7/31/25 2:48 PM
+      Site Name: Nash Corners
+      AGL: 250
+      Tower Type: Self Support
+      Address: 31220 Sign Post Road, New Church, Accomack, VA 23415]]></description>
+        <Point><coordinates>-75.5258826666667,37.9913941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

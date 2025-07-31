@@ -1792,5 +1792,14 @@
       Address: 1856 S. Bon View Ave, Ontario, San Bernardino, CA 91761]]></description>
         <Point><coordinates>-117.638288555556,34.0397218888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21605-A</name>
+        <description><![CDATA[Date: 7/31/25 3:22 PM
+      Site Name: RIDGE ROAD
+      AGL: 250
+      Tower Type: Self Support
+      Address: 56 Pennington Lake Road, Columbus, LOWNDES, MS 39705]]></description>
+        <Point><coordinates>-88.4030583333333,33.5494718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

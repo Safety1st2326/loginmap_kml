@@ -514,5 +514,59 @@
       Address: One Lincoln Circle, Scituate, Providence/Scituate, RI 02815]]></description>
         <Point><coordinates>-71.6131444444444,41.7937135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 7/31/25 8:22 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS12641-A</name>
+        <description><![CDATA[Date: 7/31/25 8:22 AM
+      Site Name: Greenville River MS
+      AGL: 250
+      Tower Type: Guyed
+      Address: 3264 Hwy 82 West, Greenville, Washington, MS 38701]]></description>
+        <Point><coordinates>-91.0995885555556,33.3436746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07258-A</name>
+        <description><![CDATA[Date: 7/31/25 8:22 AM
+      Site Name: Harvey
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1709 Lee Burd Road, Benton, Marshall, KY 42025]]></description>
+        <Point><coordinates>-88.4762604444444,36.8230687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47824-A</name>
+        <description><![CDATA[Date: 7/31/25 8:28 AM
+      Site Name: Heath 4 TX
+      AGL: 149
+      Tower Type: Monopole
+      Address: 7106 1/2 Five Forks Dr., Spring, Harris, TX 77379]]></description>
+        <Point><coordinates>-95.5287493333333,30.0334718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/31/25 8:28 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 7/31/25 8:28 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

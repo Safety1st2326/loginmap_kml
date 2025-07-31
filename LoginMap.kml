@@ -1612,5 +1612,41 @@
       Address: 367 US 82, ANNONA, RED RIVER, TX 75550]]></description>
         <Point><coordinates>-94.9183326666667,33.5879996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN20310-A</name>
+        <description><![CDATA[Date: 7/31/25 2:01 PM
+      Site Name: Wabash 2 IN
+      AGL: 301
+      Tower Type: Guyed
+      Address: 1560 North 100 West, Wabash, WABASH, IN 46992]]></description>
+        <Point><coordinates>-85.8120222222222,40.8475024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28333-A</name>
+        <description><![CDATA[Date: 7/31/25 2:02 PM
+      Site Name: Temperanceville
+      AGL: 198
+      Tower Type: Self Support
+      Address: 10261 Jerusalem Road, Temperanceville, Accomack, VA 23442]]></description>
+        <Point><coordinates>-75.5405913333333,37.8952774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS06418-A</name>
+        <description><![CDATA[Date: 7/31/25 2:02 PM
+      Site Name: Alabama Street
+      AGL: 195
+      Tower Type: Self Support
+      Address: 1030 Gardner Blvd, Columbus, Lowndes, MS 39702]]></description>
+        <Point><coordinates>-88.3874441111111,33.5024166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA20714-A</name>
+        <description><![CDATA[Date: 7/31/25 2:07 PM
+      Site Name: Houston River
+      AGL: 250
+      Tower Type: Self Support
+      Address: 761 East Houston River Road, Sulphur, Calcasieu, LA 70663]]></description>
+        <Point><coordinates>-93.35325,30.2854996666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

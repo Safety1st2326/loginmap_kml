@@ -568,5 +568,14 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20778-A</name>
+        <description><![CDATA[Date: 7/31/25 8:31 AM
+      Site Name: Kingdom City
+      AGL: 295
+      Tower Type: Guyed
+      Address: 3083 McCredie Rd., Kingdom City, Callaway, MO 65262]]></description>
+        <Point><coordinates>-91.9467385555556,38.9527555555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

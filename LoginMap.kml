@@ -1333,5 +1333,50 @@
       Address: Route 447, East Stroudsburg, Monroe, PA 18301]]></description>
         <Point><coordinates>-75.2135888888889,41.1031083333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL22498-A</name>
+        <description><![CDATA[Date: 7/31/25 11:54 AM
+      Site Name: District 150
+      AGL: 102
+      Tower Type: Monopole
+      Address: 1523 W. Nebraska Avenue, Peoria, Peoria, IL 61625]]></description>
+        <Point><coordinates>-89.6175048888889,40.7100111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 7/31/25 11:45 AM
+      Site Name: Green Peter
+      AGL: 150
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582924333333,44.4828604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 7/31/25 11:45 AM
+      Site Name: Green Peter
+      AGL: 20
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12338-B</name>
+        <description><![CDATA[Date: 7/31/25 11:46 AM
+      Site Name: Elmwood 2 IL
+      AGL: 194
+      Tower Type: Monopole
+      Address: 322 E. Poplar Street, Elmwood, Peoria, IL 61529]]></description>
+        <Point><coordinates>-89.9608638888889,40.7752354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20868-A</name>
+        <description><![CDATA[Date: 7/31/25 11:51 AM
+      Site Name: MORRISON
+      AGL: 340
+      Tower Type: Guyed
+      Address: Route 1, Box 143, Stillwater, Noble, OK 73061]]></description>
+        <Point><coordinates>-97.0490302222222,36.2746604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

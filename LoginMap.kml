@@ -1180,5 +1180,32 @@
       Address: 5733 LISA LANE, VINTON, CALCASIEU, LA 70668]]></description>
         <Point><coordinates>-93.5246104444444,30.2202215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR41699-T</name>
+        <description><![CDATA[Date: 7/31/25 11:02 AM
+      Site Name: Sandy River-Cherry Pk Ch
+      AGL: 100
+      Tower Type: Monopole
+      Address: 348 SW Cherry Park Rd., Troutdale, Multnomah, OR 97060]]></description>
+        <Point><coordinates>-122.391471666667,45.5328323333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10263-A</name>
+        <description><![CDATA[Date: 7/31/25 11:02 AM
+      Site Name: Hwy 69 New Hope
+      AGL: 300
+      Tower Type: Guyed
+      Address: 385 Old New Hope Road, Columbus, Lowndes, MS 39702]]></description>
+        <Point><coordinates>-88.3256326666667,33.4701104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK40246-T</name>
+        <description><![CDATA[Date: 7/31/25 11:07 AM
+      Site Name: North Norman
+      AGL: 170
+      Tower Type: Monopole
+      Address: 2501 9th Avenue NE, Norman, Cleveland, OK 73071]]></description>
+        <Point><coordinates>-97.4295632222222,35.2497441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

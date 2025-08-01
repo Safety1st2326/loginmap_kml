@@ -1171,5 +1171,77 @@
       Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
         <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN04167-S</name>
+        <description><![CDATA[Date: 8/1/25 11:34 AM
+      Site Name: Davis Township
+      AGL: 251
+      Tower Type: Self Support
+      Address: 125 East and 700 North, Hamlet, Starke, IN 46532]]></description>
+        <Point><coordinates>-86.6740826666667,41.4037222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/1/25 11:30 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/1/25 11:25 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT00167-S</name>
+        <description><![CDATA[Date: 8/1/25 11:37 AM
+      Site Name: Lisbon
+      AGL: 195
+      Tower Type: Monopole
+      Address: 26 Mell Road, Lisbon, New London, CT 06351]]></description>
+        <Point><coordinates>-72.0169604444445,41.591033,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/1/25 11:25 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/1/25 11:25 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS21568-A</name>
+        <description><![CDATA[Date: 8/1/25 11:25 AM
+      Site Name: CBL - Turtle Creek Mall
+      AGL: 180
+      Tower Type: Monopole
+      Address: 125 Turtle Creek Drive, Hattiesburg, Lamar, MS 39402]]></description>
+        <Point><coordinates>-89.378016,31.3249548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10493-A</name>
+        <description><![CDATA[Date: 8/1/25 11:39 AM
+      Site Name: Switch
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1600 Ute Ave, Grand Junction, Mesa, CO 81501]]></description>
+        <Point><coordinates>-108.545316333333,39.0663222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

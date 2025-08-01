@@ -1333,5 +1333,50 @@
       Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
         <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT46141-A</name>
+        <description><![CDATA[Date: 8/1/25 12:32 PM
+      Site Name: Water Treatment Plant 2 CT
+      AGL: 158
+      Tower Type: Stealth
+      Address: 1 WESTERBERG DRIVE, FARMINGTON, HARTFORD/Farmington, CT 060320000]]></description>
+        <Point><coordinates>-72.8354857777778,41.730491,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX05946-A</name>
+        <description><![CDATA[Date: 8/1/25 12:34 PM
+      Site Name: Omaha
+      AGL: 380
+      Tower Type: Guyed
+      Address: 2260 County Road 3357, Omaha, Morris, TX 75571-3281]]></description>
+        <Point><coordinates>-94.7620833333333,33.2569722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12583-A</name>
+        <description><![CDATA[Date: 8/1/25 12:37 PM
+      Site Name: Hartley
+      AGL: 191
+      Tower Type: Self Support
+      Address: 511 N 3rd Ave W, Hartley, O'Brien, IA 51346]]></description>
+        <Point><coordinates>-95.4817271111111,43.186858,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12252-A</name>
+        <description><![CDATA[Date: 8/1/25 12:38 PM
+      Site Name: Hunters Creek II
+      AGL: 161
+      Tower Type: Stealth
+      Address: 14107 Town Loop Boulevard, Orlando, Orange, FL 32837]]></description>
+        <Point><coordinates>-81.4207993333333,28.3628583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12252-A</name>
+        <description><![CDATA[Date: 8/1/25 12:38 PM
+      Site Name: Hunters Creek II
+      AGL: 161
+      Tower Type: Stealth
+      Address: 14107 Town Loop Boulevard, Orlando, Orange, FL 32837]]></description>
+        <Point><coordinates>-81.4207993333333,28.3628583333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

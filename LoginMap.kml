@@ -1774,5 +1774,14 @@
       Address: 235 Linden Avenue, Grand Junction, Mesa, CO 84083]]></description>
         <Point><coordinates>-108.557969444444,39.038108,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10496-A</name>
+        <description><![CDATA[Date: 8/1/25 6:49 PM
+      Site Name: Ute Water
+      AGL: 81
+      Tower Type: Monopole
+      Address: 380 South Camp, Grand Junction, Mesa, CO 81503]]></description>
+        <Point><coordinates>-108.638560777778,39.0611333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

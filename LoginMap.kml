@@ -1981,5 +1981,14 @@
       Address: 11050 West 6830 South, Gunnison, Sanpete, UT 84634]]></description>
         <Point><coordinates>-111.836166333333,39.1664944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX12429-S</name>
+        <description><![CDATA[Date: 7/31/25 8:01 PM
+      Site Name: Mt Pleasant TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 819 E 9th Street, Mt. Pleasant, Titus, TX 75455]]></description>
+        <Point><coordinates>-94.9571833333333,33.1645944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

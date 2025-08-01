@@ -1990,5 +1990,14 @@
       Address: 819 E 9th Street, Mt. Pleasant, Titus, TX 75455]]></description>
         <Point><coordinates>-94.9571833333333,33.1645944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 7/31/25 8:33 PM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

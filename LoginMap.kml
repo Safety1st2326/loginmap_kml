@@ -1414,5 +1414,14 @@
       Address: 5012 Town Center Boulevard, Orlando, Orange, FL 32837]]></description>
         <Point><coordinates>-81.442458,28.3553361111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07249-A</name>
+        <description><![CDATA[Date: 8/1/25 1:13 PM
+      Site Name: Husband's Road
+      AGL: 331
+      Tower Type: Guyed
+      Address: 2030 W. HOVEKAMP RD. NORTH, PADUCAH, McCRACKEN, KY 42003-9027]]></description>
+        <Point><coordinates>-88.5948302222222,37.0484885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -145,5 +145,23 @@
       Address: Road #2 Km. 42.6 Bo. Algarrobo, Vega Baja, Vega Baja, PR 00693]]></description>
         <Point><coordinates>-66.4282632222222,18.4438552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17221-A</name>
+        <description><![CDATA[Date: 8/1/25 7:10 AM
+      Site Name: Poy Sippi
+      AGL: 300
+      Tower Type: Guyed
+      Address: W2221 Bighorn Drive, Poy Sippi, Waushara, WI 54967]]></description>
+        <Point><coordinates>-88.9935191111111,44.1170771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40886-T</name>
+        <description><![CDATA[Date: 8/1/25 7:13 AM
+      Site Name: Connor's Lake
+      AGL: 100
+      Tower Type: Monopole
+      Address: 100 THORNHILL ROAD, AUBURNDALE, Polk, FL 33825]]></description>
+        <Point><coordinates>-81.815581,28.051378,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

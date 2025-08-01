@@ -1531,5 +1531,41 @@
       Address: 223 South Walnut Street, Sidney, Shelby, OH 45365]]></description>
         <Point><coordinates>-84.1608333333333,40.2830437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN21616-A</name>
+        <description><![CDATA[Date: 8/1/25 1:58 PM
+      Site Name: I-75 Exit 3
+      AGL: 90
+      Tower Type: Monopole
+      Address: 1000-A ALHAMBRA DRIVE, CHATTANOOGA, HAMILTON, TN 37421]]></description>
+        <Point><coordinates>-85.1859691111111,35.0145583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46451-A</name>
+        <description><![CDATA[Date: 8/1/25 2:07 PM
+      Site Name: Aurora Fire Station No 5 Raw Land
+      AGL: 149
+      Tower Type: Monopole
+      Address: 730 Hill Avenue, Aurora, Kane, IL 60505]]></description>
+        <Point><coordinates>-88.2869718888889,41.7419441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01860-S</name>
+        <description><![CDATA[Date: 8/1/25 2:15 PM
+      Site Name: Bee Line-Turn Pike
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1459 West Landstreet Road, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.398583,28.4363607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01860-S</name>
+        <description><![CDATA[Date: 8/1/25 2:15 PM
+      Site Name: Bee Line-Turn Pike
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1459 West Landstreet Road, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.398583,28.4363607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

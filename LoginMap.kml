@@ -262,5 +262,77 @@
       Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
         <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/1/25 7:46 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN21118-A</name>
+        <description><![CDATA[Date: 8/1/25 7:52 AM
+      Site Name: Fort Wayne SE Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 12211 S US 27, Fort Wayne, Allen, IN 46816]]></description>
+        <Point><coordinates>-85.0788882222222,40.9730548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH08513-A</name>
+        <description><![CDATA[Date: 8/1/25 7:52 AM
+      Site Name: Perrysburg
+      AGL: 150
+      Tower Type: Monopole
+      Address: 672 Dixie Hwy, Perrysburg, Wood, OH 43551]]></description>
+        <Point><coordinates>-83.6389246666667,41.5485524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 8/1/25 7:55 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA15270-A</name>
+        <description><![CDATA[Date: 8/1/25 7:40 AM
+      Site Name: Blandford 2 MA
+      AGL: 191
+      Tower Type: Monopole
+      Address: 270 Otis Stage Road, Blandford, Hampden, MA 01008]]></description>
+        <Point><coordinates>-73.0143961111111,42.1717023888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00384-B</name>
+        <description><![CDATA[Date: 8/1/25 7:58 AM
+      Site Name: Majors
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3111 Glen Wallace Drive, Cumming, Forsyth, GA 30040-6388]]></description>
+        <Point><coordinates>-84.191383,34.1644055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02689-S</name>
+        <description><![CDATA[Date: 8/1/25 7:58 AM
+      Site Name: Cape Coral North 2 Fl
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3501 Burnt Store Road, Cape Coral, Lee, FL 33993-9016]]></description>
+        <Point><coordinates>-82.0372552222222,26.7150888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA46009-A</name>
+        <description><![CDATA[Date: 8/1/25 7:49 AM
+      Site Name: Howard Ranch
+      AGL: 46
+      Tower Type: Monopalm
+      Address: 1575 Montgomery Avenue , Ventura, Ventura, CA 93004]]></description>
+        <Point><coordinates>-119.178832666667,34.2652777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -649,5 +649,77 @@
       Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
         <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10480-A</name>
+        <description><![CDATA[Date: 8/1/25 9:12 AM
+      Site Name: Meier
+      AGL: 141
+      Tower Type: Monopole
+      Address: 688 1/2 29 1/2 Rd, Grand Junction, Mesa, CO 81504]]></description>
+        <Point><coordinates>-108.502005555556,39.1032972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 8/1/25 8:56 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopine
+      Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13205-A</name>
+        <description><![CDATA[Date: 8/1/25 9:16 AM
+      Site Name: Brewster
+      AGL: 308
+      Tower Type: Guyed
+      Address: 1151 Freemans Way, Brewster, Barnstable, MA 02631]]></description>
+        <Point><coordinates>-70.0105555555556,41.7372218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY02213-A</name>
+        <description><![CDATA[Date: 8/1/25 9:16 AM
+      Site Name: Oceanside
+      AGL: 226
+      Tower Type: Self Support
+      Address: 3671 West Oceanside Road, Oceanside, Nassau, NY 11572]]></description>
+        <Point><coordinates>-73.634658,40.6204604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ21252-A</name>
+        <description><![CDATA[Date: 8/1/25 9:16 AM
+      Site Name: Bahia Hermosa Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 2700 JAMAICA, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.301555555556,34.4638055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC01292-B</name>
+        <description><![CDATA[Date: 8/1/25 9:17 AM
+      Site Name: Green Hill
+      AGL: 225
+      Tower Type: Self Support
+      Address: 839 US 64/74A Hwy, Rutherfordton, Rutherford, NC 28139]]></description>
+        <Point><coordinates>-81.9881663333333,35.3942496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40694-T</name>
+        <description><![CDATA[Date: 8/1/25 9:17 AM
+      Site Name: Orange Center
+      AGL: 65
+      Tower Type: Clocktower
+      Address: 1550 N. Orange St., Redlands, San Bernardino, CA 92374]]></description>
+        <Point><coordinates>-117.181691,34.0757298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 8/1/25 9:19 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

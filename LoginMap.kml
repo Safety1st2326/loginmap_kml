@@ -10,5 +10,14 @@
       Address: 35920 County Road 437, Eustis, Lake, FL 32726]]></description>
         <Point><coordinates>-81.5498285555555,28.8722657222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 8/1/25 6:19 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1072,5 +1072,50 @@
       Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
         <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX08885-A</name>
+        <description><![CDATA[Date: 8/1/25 11:01 AM
+      Site Name: Jacksonville 4 TX
+      AGL: 252
+      Tower Type: Guyed
+      Address: 29597 US Highway 69 N, Rusk, Cherokee, TX 75785]]></description>
+        <Point><coordinates>-95.1821965555556,31.8387441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/1/25 11:01 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC01038-B</name>
+        <description><![CDATA[Date: 8/1/25 11:07 AM
+      Site Name: Henderson Mountain
+      AGL: 250
+      Tower Type: Self Support
+      Address: 444 Pace Creek Rd, Hendersonville, Henderson, NC 28731]]></description>
+        <Point><coordinates>-82.3866163333333,35.3664972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12241-A</name>
+        <description><![CDATA[Date: 8/1/25 11:04 AM
+      Site Name: Falcons Trace
+      AGL: 181
+      Tower Type: Monopole
+      Address: 3169 North Orange Blossom Trail, Kissimmee, Osceola, FL 34744]]></description>
+        <Point><coordinates>-81.3970913333333,28.3445024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12241-A</name>
+        <description><![CDATA[Date: 8/1/25 11:04 AM
+      Site Name: Falcons Trace
+      AGL: 181
+      Tower Type: Monopole
+      Address: 3169 North Orange Blossom Trail, Kissimmee, Osceola, FL 34744]]></description>
+        <Point><coordinates>-81.3970913333333,28.3445024444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

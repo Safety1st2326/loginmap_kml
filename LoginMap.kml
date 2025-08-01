@@ -1756,5 +1756,14 @@
       Address: 342 County Road 252, Shubuta, Clarke, MS 39360]]></description>
         <Point><coordinates>-88.7179687777778,31.8919885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA42053-T</name>
+        <description><![CDATA[Date: 8/1/25 5:12 PM
+      Site Name: Whipple Creek
+      AGL: 165
+      Tower Type: Monopole
+      Address: 15616 NW 11th Avenue, Vancouver, Clark, WA 98685]]></description>
+        <Point><coordinates>-122.684696888889,45.7347635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

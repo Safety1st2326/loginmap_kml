@@ -1657,5 +1657,23 @@
       Address: 6951 Presidents Drive, Orlando, Orange, FL 32809]]></description>
         <Point><coordinates>-81.4194304444444,28.4646313888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13501-A</name>
+        <description><![CDATA[Date: 8/1/25 3:33 PM
+      Site Name: Mount Pleasant 7 TX
+      AGL: 396
+      Tower Type: Guyed
+      Address: 132 CR1616, Mt. Pleasant, Titus, TX 75455]]></description>
+        <Point><coordinates>-94.973966,33.1986718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46260-A</name>
+        <description><![CDATA[Date: 8/1/25 3:37 PM
+      Site Name: Lake Holden At 441
+      AGL: 120
+      Tower Type: Stealth
+      Address: 4600 Orange Blossom Trail Add Form, Orlando, Orange, FL 32839]]></description>
+        <Point><coordinates>-81.3995635555555,28.495833,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

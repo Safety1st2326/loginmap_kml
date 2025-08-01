@@ -721,5 +721,104 @@
       Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
         <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC01292-B</name>
+        <description><![CDATA[Date: 8/1/25 9:09 AM
+      Site Name: Green Hill
+      AGL: 225
+      Tower Type: Self Support
+      Address: 839 US 64/74A Hwy, Rutherfordton, Rutherford, NC 28139]]></description>
+        <Point><coordinates>-81.9881663333333,35.3942496666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06741-B</name>
+        <description><![CDATA[Date: 8/1/25 9:16 AM
+      Site Name: Jim Thorpe
+      AGL: 199
+      Tower Type: Flagpole
+      Address: 1 Adventure Lane, Jim Thorpe, Carbon, PA 18229-1519]]></description>
+        <Point><coordinates>-75.7407191111111,40.8759215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 8/1/25 9:21 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13633-A</name>
+        <description><![CDATA[Date: 8/1/25 9:11 AM
+      Site Name: LaMirada
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 3501 West Vine St., Kissimmee, Osceola, FL 34741]]></description>
+        <Point><coordinates>-81.4394357777778,28.3066777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40694-T</name>
+        <description><![CDATA[Date: 8/1/25 9:09 AM
+      Site Name: Orange Center
+      AGL: 65
+      Tower Type: Clocktower
+      Address: 1550 N. Orange St., Redlands, San Bernardino, CA 92374]]></description>
+        <Point><coordinates>-117.181691,34.0757298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13633-A</name>
+        <description><![CDATA[Date: 8/1/25 9:10 AM
+      Site Name: LaMirada
+      AGL: 150
+      Tower Type: Flagpole
+      Address: 3501 West Vine St., Kissimmee, Osceola, FL 34741]]></description>
+        <Point><coordinates>-81.4394357777778,28.3066777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/1/25 9:10 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY46621-A</name>
+        <description><![CDATA[Date: 8/1/25 9:23 AM
+      Site Name: Carpenter 3 KY
+      AGL: 194
+      Tower Type: Monopole
+      Address: 1254 Maher Road, Walton, Kenton, KY 41094]]></description>
+        <Point><coordinates>-84.5722271111111,38.9289048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13528-A</name>
+        <description><![CDATA[Date: 8/1/25 9:23 AM
+      Site Name: Camp Dawson
+      AGL: 251
+      Tower Type: Guyed
+      Address: 416 Rich Wolfe Drive, Kingwood, Preston, WV 26537]]></description>
+        <Point><coordinates>-79.6696771111111,39.4609805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06754-B</name>
+        <description><![CDATA[Date: 8/1/25 9:27 AM
+      Site Name: Walker Township
+      AGL: 250
+      Tower Type: Self Support
+      Address: 525 Ralphs Ln, Walker Township, Centre, PA 16823]]></description>
+        <Point><coordinates>-77.6671104444444,40.9059722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06754-B</name>
+        <description><![CDATA[Date: 8/1/25 9:27 AM
+      Site Name: Walker Township
+      AGL: 250
+      Tower Type: Self Support
+      Address: 525 Ralphs Ln, Walker Township, Centre, PA 16823]]></description>
+        <Point><coordinates>-77.6671104444444,40.9059722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

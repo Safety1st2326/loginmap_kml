@@ -1522,5 +1522,14 @@
       Address: 1630 Callahan Rd. , Wauconda, Lake, IL 60084]]></description>
         <Point><coordinates>-88.1550972222222,42.2851857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH08931-A</name>
+        <description><![CDATA[Date: 8/1/25 2:03 PM
+      Site Name: Sidney 3 OH
+      AGL: 151
+      Tower Type: Monopole
+      Address: 223 South Walnut Street, Sidney, Shelby, OH 45365]]></description>
+        <Point><coordinates>-84.1608333333333,40.2830437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

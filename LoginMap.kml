@@ -19,5 +19,14 @@
       Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
         <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY11859-B</name>
+        <description><![CDATA[Date: 8/1/25 6:34 AM
+      Site Name: Sharon Swyne
+      AGL: 181
+      Tower Type: Self Support
+      Address: 1176 Slate Hill Road, Sharon Springs, Schoharie, NY 13459]]></description>
+        <Point><coordinates>-74.5352385555556,42.7598777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

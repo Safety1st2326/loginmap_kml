@@ -1963,5 +1963,23 @@
       Address: 3201 ? Hwy 6 & 24, Clifton, Mesa, CO 81520]]></description>
         <Point><coordinates>-108.457983333333,39.0863857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR09514-A</name>
+        <description><![CDATA[Date: 7/31/25 7:12 PM
+      Site Name: Monroe 2 AR
+      AGL: 301
+      Tower Type: Guyed
+      Address: 19999 Highway 79, Monroe, Monroe, AR 72021]]></description>
+        <Point><coordinates>-91.138833,34.7067638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT12385-A</name>
+        <description><![CDATA[Date: 7/31/25 7:25 PM
+      Site Name: Gunnison Mesa
+      AGL: 195
+      Tower Type: Self Support
+      Address: 11050 West 6830 South, Gunnison, Sanpete, UT 84634]]></description>
+        <Point><coordinates>-111.836166333333,39.1664944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1144,5 +1144,32 @@
       Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
         <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/1/25 11:15 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12626-A</name>
+        <description><![CDATA[Date: 8/1/25 11:16 AM
+      Site Name: Hackberry
+      AGL: 181
+      Tower Type: Self Support
+      Address: 102 Devall Road, Hackberry, Cameron, LA 70645]]></description>
+        <Point><coordinates>-93.3575944444444,29.9940135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD15584-A</name>
+        <description><![CDATA[Date: 8/1/25 11:22 AM
+      Site Name: Chesapeake Beach-Anderson
+      AGL: 194
+      Tower Type: Monopole
+      Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
+        <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

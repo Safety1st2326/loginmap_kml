@@ -343,5 +343,86 @@
       Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
         <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC47148-A</name>
+        <description><![CDATA[Date: 8/1/25 8:02 AM
+      Site Name: Havelock
+      AGL: 156
+      Tower Type: Monopole
+      Address: 896 Greenfields Heights Blvd., Havelock, Craven, NC 28532]]></description>
+        <Point><coordinates>-76.9354691111111,34.8927774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 8/1/25 8:09 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46126-A</name>
+        <description><![CDATA[Date: 8/1/25 8:11 AM
+      Site Name: Glastonbury-main St
+      AGL: 130
+      Tower Type: Self Support
+      Address: 2577 Main Street, Glastonbury, Hartford/Glastonbury, CT 06033]]></description>
+        <Point><coordinates>-72.6130361111111,41.7143888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46126-A</name>
+        <description><![CDATA[Date: 8/1/25 8:11 AM
+      Site Name: Glastonbury-main St
+      AGL: 130
+      Tower Type: Self Support
+      Address: 2577 Main Street, Glastonbury, Hartford/Glastonbury, CT 06033]]></description>
+        <Point><coordinates>-72.6130361111111,41.7143888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 8/1/25 8:16 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20215-A</name>
+        <description><![CDATA[Date: 8/1/25 8:16 AM
+      Site Name: Little Fork MN Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 4600 Highway 217, Littlefork, Koochiching, MN 56653]]></description>
+        <Point><coordinates>-93.4786382222222,48.4024166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 8/1/25 8:06 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO22363-S</name>
+        <description><![CDATA[Date: 8/1/25 8:18 AM
+      Site Name: Orchard 3 CO
+      AGL: 100
+      Tower Type: Monopine
+      Address: 540 28 1/4 Road, Grand Junction, Mesa, CO 81501]]></description>
+        <Point><coordinates>-108.528768777778,39.0844027222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46722-A</name>
+        <description><![CDATA[Date: 8/1/25 8:19 AM
+      Site Name: Ripley 5 MD
+      AGL: 127
+      Tower Type: Monopole
+      Address: 6970 Hawthorne Road, LA PLATA, CHARLES, MD 20646]]></description>
+        <Point><coordinates>-77.0712215555556,38.5463885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

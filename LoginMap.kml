@@ -127,5 +127,23 @@
       Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
         <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA11844-B</name>
+        <description><![CDATA[Date: 8/1/25 7:04 AM
+      Site Name: Pine Mountain 2 PA
+      AGL: 195
+      Tower Type: Monopole Tree
+      Address: Route 447, East Stroudsburg, Monroe, PA 18301]]></description>
+        <Point><coordinates>-75.2135888888889,41.1031083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PR05196-A</name>
+        <description><![CDATA[Date: 8/1/25 7:04 AM
+      Site Name: Finca Santiago
+      AGL: 190
+      Tower Type: Self Support
+      Address: Road #2 Km. 42.6 Bo. Algarrobo, Vega Baja, Vega Baja, PR 00693]]></description>
+        <Point><coordinates>-66.4282632222222,18.4438552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -208,5 +208,59 @@
       Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
         <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10466-A</name>
+        <description><![CDATA[Date: 8/1/25 7:43 AM
+      Site Name: Crossroads 3 CO
+      AGL: 99
+      Tower Type: Monopole
+      Address: 761 Crossroads Court, Grand Junction, Mesa, CO 81506]]></description>
+        <Point><coordinates>-108.538099666667,39.1168298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/1/25 7:43 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20778-A</name>
+        <description><![CDATA[Date: 8/1/25 7:38 AM
+      Site Name: Kingdom City
+      AGL: 295
+      Tower Type: Guyed
+      Address: 3083 McCredie Rd., Kingdom City, Callaway, MO 65262]]></description>
+        <Point><coordinates>-91.9467385555556,38.9527555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY01837-B</name>
+        <description><![CDATA[Date: 8/1/25 7:38 AM
+      Site Name: Crittenden
+      AGL: 300
+      Tower Type: Self Support
+      Address: 220 Mount Zion-Crittenden Road, Dry Ridge, Grant, KY 41035]]></description>
+        <Point><coordinates>-84.6069777777778,38.7629555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06237-B</name>
+        <description><![CDATA[Date: 8/1/25 7:39 AM
+      Site Name: Punxsutawney
+      AGL: 190
+      Tower Type: Self Support
+      Address: 440 Beyer Avenue, Punxsutawney, Jefferson, PA 15767-1500]]></description>
+        <Point><coordinates>-78.972516,40.9548027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08790-A</name>
+        <description><![CDATA[Date: 8/1/25 7:46 AM
+      Site Name: Corunna
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2427 County Road 9, Corunna, DeKalb, IN 46730]]></description>
+        <Point><coordinates>-85.1455885555555,41.4407385555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

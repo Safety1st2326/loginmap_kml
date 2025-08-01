@@ -1054,5 +1054,14 @@
       Address: 2720 N. Orange Blossom Trail, Kissimmee, Osceola, FL 34744-1309]]></description>
         <Point><coordinates>-81.4051166666667,28.3271937777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH41566-T</name>
+        <description><![CDATA[Date: 8/1/25 10:36 AM
+      Site Name: NWZ
+      AGL: 126
+      Tower Type: Monopole
+      Address: 4270 Mt. Carmel-Tobasco Rd, Cincinnati, Clermont, OH 45244]]></description>
+        <Point><coordinates>-84.2995024444444,39.0870496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -901,5 +901,41 @@
       Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
         <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 8/1/25 9:51 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00376-B</name>
+        <description><![CDATA[Date: 8/1/25 9:54 AM
+      Site Name: Little Beaver Dam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
+        <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN22232-A</name>
+        <description><![CDATA[Date: 8/1/25 9:54 AM
+      Site Name: Euclid 2 MN
+      AGL: 700
+      Tower Type: Guyed
+      Address: 25811 130th Street SW, Euclid, Polk, MN 56722]]></description>
+        <Point><coordinates>-96.6083694444444,47.9766548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD12751-A</name>
+        <description><![CDATA[Date: 8/1/25 9:58 AM
+      Site Name: Oakland 6 MD
+      AGL: 195
+      Tower Type: Self Support
+      Address: 433 North Bradley Lane, Oakland, Garrett, MD 21550]]></description>
+        <Point><coordinates>-79.4017611111111,39.4237965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

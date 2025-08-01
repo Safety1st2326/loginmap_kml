@@ -955,5 +955,59 @@
       Address: 139 Private Road 4013 , Decatur, Wise, TX 76234]]></description>
         <Point><coordinates>-97.4689326666667,33.2423774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 8/1/25 10:10 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK14832-S</name>
+        <description><![CDATA[Date: 8/1/25 10:10 AM
+      Site Name: Guymon 2 OK
+      AGL: 296
+      Tower Type: Guyed
+      Address: 133 SE 12th Street, Guymon, Texas, OK 73942]]></description>
+        <Point><coordinates>-101.480132666667,36.6672743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 8/1/25 10:15 AM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC21107-A</name>
+        <description><![CDATA[Date: 8/1/25 10:05 AM
+      Site Name: Universal Leaf Tower
+      AGL: 306
+      Tower Type: Guyed
+      Address: 3174 Boddie Mill Pond Road, Nashville, NASH, NC 27856]]></description>
+        <Point><coordinates>-78.0399163333333,36.022916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX40407-T</name>
+        <description><![CDATA[Date: 8/1/25 10:19 AM
+      Site Name: Oversized Storage
+      AGL: 200
+      Tower Type: Monopole
+      Address: 22680 Ford Rd, Porter, Montgomery, TX 77365]]></description>
+        <Point><coordinates>-95.2225271111111,30.094583,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20834-A</name>
+        <description><![CDATA[Date: 8/1/25 10:19 AM
+      Site Name: Highway 160 2 MO
+      AGL: 165
+      Tower Type: Monopole
+      Address: 425 W. Plainview Road Suite B, Springfield, Greene, MO 65810]]></description>
+        <Point><coordinates>-93.2983274444444,37.1179465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

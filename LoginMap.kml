@@ -1954,5 +1954,14 @@
       Address: 4141 Baseline Road, Holly Grove, MONROE, AR 72069]]></description>
         <Point><coordinates>-91.1033441666667,34.645568,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10481-A</name>
+        <description><![CDATA[Date: 7/31/25 6:51 PM
+      Site Name: Mesa Pawn
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3201 ? Hwy 6 & 24, Clifton, Mesa, CO 81520]]></description>
+        <Point><coordinates>-108.457983333333,39.0863857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

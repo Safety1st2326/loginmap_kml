@@ -1720,5 +1720,23 @@
       Address: 3977 West Interstate 30, Mt. Pleasant, Titus, TX 75455]]></description>
         <Point><coordinates>-95.1047222222222,33.1583333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40363-T</name>
+        <description><![CDATA[Date: 8/1/25 4:51 PM
+      Site Name: Michael 2 TX
+      AGL: 275
+      Tower Type: Guyed
+      Address: 16875 FM 1485, Conroe, Montgomery, TX 77306]]></description>
+        <Point><coordinates>-95.2584166666667,30.2040277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX10265-A</name>
+        <description><![CDATA[Date: 8/1/25 4:51 PM
+      Site Name: Lake Bob Sandlin
+      AGL: 300
+      Tower Type: Guyed
+      Address: 721 CR 2850, Pittsburg, Titus, TX 75686]]></description>
+        <Point><coordinates>-95.0960302222222,33.0666027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

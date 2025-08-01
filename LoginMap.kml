@@ -532,5 +532,68 @@
       Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
         <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12271-A</name>
+        <description><![CDATA[Date: 8/1/25 8:30 AM
+      Site Name: St Augustine FL
+      AGL: 390
+      Tower Type: Guyed
+      Address: 3050 Industry Center Road, St. Augustine, St. Johns, FL 32059]]></description>
+        <Point><coordinates>-81.3821993333333,29.9040805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46972-A</name>
+        <description><![CDATA[Date: 8/1/25 8:28 AM
+      Site Name: Brooklyn Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 5720 85th Avenue N., Brooklyn Park, Hennepin, MN 55443]]></description>
+        <Point><coordinates>-93.3551944444444,45.11,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 8/1/25 8:34 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40581-T</name>
+        <description><![CDATA[Date: 8/1/25 8:34 AM
+      Site Name: Presida Canyon
+      AGL: 105
+      Tower Type: Stealth
+      Address: Presida Canyon ? Site #6 (OG72XC012), Postmile 30.7, Irvine, Orange, CA 92612]]></description>
+        <Point><coordinates>-117.733457666667,33.7603,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 8/1/25 8:34 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14052-S</name>
+        <description><![CDATA[Date: 8/1/25 8:23 AM
+      Site Name: Nelson 2 NH
+      AGL: 150
+      Tower Type: Monopole
+      Address: 19 Apple Hill Road, Sullivan, Cheshire, NH 03445]]></description>
+        <Point><coordinates>-72.1878913333333,42.9928968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12154-A</name>
+        <description><![CDATA[Date: 8/1/25 8:37 AM
+      Site Name: Gretna LA
+      AGL: 121
+      Tower Type: Monopole
+      Address: 1705 Manhattan Boulevard, Harvey, Jefferson, LA 70058]]></description>
+        <Point><coordinates>-90.0563722222222,29.890358,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

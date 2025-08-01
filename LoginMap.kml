@@ -838,5 +838,68 @@
       Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
         <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA10749-A</name>
+        <description><![CDATA[Date: 8/1/25 9:31 AM
+      Site Name: Wilhelm
+      AGL: 251
+      Tower Type: Self Support
+      Address: 5205 Longdale Furnace  Road, Iron Gate, Alleghany, VA 24422]]></description>
+        <Point><coordinates>-79.7014055555556,37.7989357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 8/1/25 9:40 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 8/1/25 9:45 AM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA41726-T</name>
+        <description><![CDATA[Date: 8/1/25 9:45 AM
+      Site Name: 101 S Morton Ave
+      AGL: 102
+      Tower Type: Monopole
+      Address: 101 S. Morton Ave, Rutledge, Delaware, PA 19070]]></description>
+        <Point><coordinates>-75.3289743333333,39.9042027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH41572-T</name>
+        <description><![CDATA[Date: 8/1/25 9:37 AM
+      Site Name: Jackson Township FD
+      AGL: 160
+      Tower Type: Monopole
+      Address: 2644 London Groveport Road, Grove City, Franklin, OH 43123]]></description>
+        <Point><coordinates>-83.0764382222222,39.8400774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA41726-T</name>
+        <description><![CDATA[Date: 8/1/25 9:43 AM
+      Site Name: 101 S Morton Ave
+      AGL: 102
+      Tower Type: Monopole
+      Address: 101 S. Morton Ave, Rutledge, Delaware, PA 19070]]></description>
+        <Point><coordinates>-75.3289743333333,39.9042027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 8/1/25 9:37 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

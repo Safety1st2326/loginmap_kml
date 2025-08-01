@@ -1423,5 +1423,41 @@
       Address: 2030 W. HOVEKAMP RD. NORTH, PADUCAH, McCRACKEN, KY 42003-9027]]></description>
         <Point><coordinates>-88.5948302222222,37.0484885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20512-A</name>
+        <description><![CDATA[Date: 8/1/25 1:21 PM
+      Site Name: Race Track
+      AGL: 140
+      Tower Type: Monopole
+      Address: 2660 Calumet Avenue, Kingman, Mohave, AZ 86401]]></description>
+        <Point><coordinates>-114.016860444444,35.2192215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15887-A</name>
+        <description><![CDATA[Date: 8/1/25 1:19 PM
+      Site Name: Beneva
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1111 Beneva Road, Sarasota, Sarasota, FL 34232]]></description>
+        <Point><coordinates>-82.4958088333333,27.3243007222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS20130-A</name>
+        <description><![CDATA[Date: 8/1/25 1:25 PM
+      Site Name: NEJ Soccer Field MS
+      AGL: 165
+      Tower Type: Monopole
+      Address: 1882 Westbrook Road, Jackson, Hinds, MS 39211]]></description>
+        <Point><coordinates>-90.1133333333333,32.3705548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA08812-A</name>
+        <description><![CDATA[Date: 8/1/25 1:27 PM
+      Site Name: Montgomery 3 LA
+      AGL: 301
+      Tower Type: Guyed
+      Address: 814 Old Jefferson Highway, Montgomery, Grant, LA 71454]]></description>
+        <Point><coordinates>-92.8880607777778,31.6622833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

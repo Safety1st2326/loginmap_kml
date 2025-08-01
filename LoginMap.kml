@@ -334,5 +334,14 @@
       Address: 1575 Montgomery Avenue , Ventura, Ventura, CA 93004]]></description>
         <Point><coordinates>-119.178832666667,34.2652777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH14173-A</name>
+        <description><![CDATA[Date: 8/1/25 8:04 AM
+      Site Name: Barrington
+      AGL: 140
+      Tower Type: Self Support
+      Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
+        <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

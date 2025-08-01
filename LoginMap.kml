@@ -1261,5 +1261,14 @@
       Address: 1811 Triple Estate Lane, Crozier, Goochland, VA 23039]]></description>
         <Point><coordinates>-77.8024666666667,37.6803993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX16906-A</name>
+        <description><![CDATA[Date: 8/1/25 12:01 PM
+      Site Name: Friendswood
+      AGL: 404
+      Tower Type: Guyed
+      Address: 845 US Hwy 84 East, Fairfield, Freestone, TX 75840]]></description>
+        <Point><coordinates>-96.0227548888889,31.6816215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

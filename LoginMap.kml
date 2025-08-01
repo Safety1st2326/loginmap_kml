@@ -1738,5 +1738,23 @@
       Address: 721 CR 2850, Pittsburg, Titus, TX 75686]]></description>
         <Point><coordinates>-95.0960302222222,33.0666027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS10294-A</name>
+        <description><![CDATA[Date: 8/1/25 5:06 PM
+      Site Name: Shubuta
+      AGL: 281
+      Tower Type: Guyed
+      Address: 342 County Road 252, Shubuta, Clarke, MS 39360]]></description>
+        <Point><coordinates>-88.7179687777778,31.8919885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10294-A</name>
+        <description><![CDATA[Date: 8/1/25 5:06 PM
+      Site Name: Shubuta
+      AGL: 281
+      Tower Type: Guyed
+      Address: 342 County Road 252, Shubuta, Clarke, MS 39360]]></description>
+        <Point><coordinates>-88.7179687777778,31.8919885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

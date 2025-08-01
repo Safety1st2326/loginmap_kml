@@ -1459,5 +1459,14 @@
       Address: 814 Old Jefferson Highway, Montgomery, Grant, LA 71454]]></description>
         <Point><coordinates>-92.8880607777778,31.6622833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO17877-A</name>
+        <description><![CDATA[Date: 8/1/25 1:35 PM
+      Site Name: Del Norte
+      AGL: 49
+      Tower Type: Monopole
+      Address: 206 County Road 14, Del Norte, Rio Grande, CO 81132]]></description>
+        <Point><coordinates>-106.360455555556,37.6755048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

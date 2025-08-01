@@ -1243,5 +1243,23 @@
       Address: 1600 Ute Ave, Grand Junction, Mesa, CO 81501]]></description>
         <Point><coordinates>-108.545316333333,39.0663222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA14184-A</name>
+        <description><![CDATA[Date: 8/1/25 11:53 AM
+      Site Name: Allentown
+      AGL: 141
+      Tower Type: Self Support
+      Address: 3301 West Tilghman Street, Allentown, Lehigh, PA 18104]]></description>
+        <Point><coordinates>-75.5344941111111,40.5972718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA28308-A</name>
+        <description><![CDATA[Date: 8/1/25 11:54 AM
+      Site Name: Cardwell
+      AGL: 196
+      Tower Type: Monopole
+      Address: 1811 Triple Estate Lane, Crozier, Goochland, VA 23039]]></description>
+        <Point><coordinates>-77.8024666666667,37.6803993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

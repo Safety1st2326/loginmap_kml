@@ -1567,5 +1567,23 @@
       Address: 1459 West Landstreet Road, Orlando, Orange, FL 32824]]></description>
         <Point><coordinates>-81.398583,28.4363607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47524-A</name>
+        <description><![CDATA[Date: 8/1/25 2:22 PM
+      Site Name: Frebis
+      AGL: 118
+      Tower Type: Monopole
+      Address: 1357 South 22nd Street, Columbus, Franklin, OH 43206]]></description>
+        <Point><coordinates>-82.9738993333333,39.9368718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/1/25 2:24 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

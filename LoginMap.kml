@@ -1378,5 +1378,23 @@
       Address: 14107 Town Loop Boulevard, Orlando, Orange, FL 32837]]></description>
         <Point><coordinates>-81.4207993333333,28.3628583333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX05946-A</name>
+        <description><![CDATA[Date: 8/1/25 12:43 PM
+      Site Name: Omaha
+      AGL: 380
+      Tower Type: Guyed
+      Address: 2260 County Road 3357, Omaha, Morris, TX 75571-3281]]></description>
+        <Point><coordinates>-94.7620833333333,33.2569722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 8/1/25 12:48 PM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

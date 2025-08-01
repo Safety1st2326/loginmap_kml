@@ -1603,5 +1603,32 @@
       Address: 819 E 9th Street, Mt. Pleasant, Titus, TX 75455]]></description>
         <Point><coordinates>-94.9571833333333,33.1645944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13642-A</name>
+        <description><![CDATA[Date: 8/1/25 2:43 PM
+      Site Name: Orlando Central Park
+      AGL: 172
+      Tower Type: Monopole
+      Address: 1730 Diplomacy Row, Orlando, Orange, FL 32809]]></description>
+        <Point><coordinates>-81.4020583333333,28.4615277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13642-A</name>
+        <description><![CDATA[Date: 8/1/25 2:46 PM
+      Site Name: Orlando Central Park
+      AGL: 172
+      Tower Type: Monopole
+      Address: 1730 Diplomacy Row, Orlando, Orange, FL 32809]]></description>
+        <Point><coordinates>-81.4020583333333,28.4615277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14139-A</name>
+        <description><![CDATA[Date: 8/1/25 2:48 PM
+      Site Name: Lake Holiday
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
+        <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1702,5 +1702,23 @@
       Address: 315 W. Grant Street, Orlando, Orange, FL 32806]]></description>
         <Point><coordinates>-81.3815354444444,28.5174271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14101-A</name>
+        <description><![CDATA[Date: 8/1/25 4:10 PM
+      Site Name: Earls
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3400 Military Road, Amelia, Amelia, VA 23002]]></description>
+        <Point><coordinates>-77.8857468888889,37.247683,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13923-A</name>
+        <description><![CDATA[Date: 8/1/25 4:15 PM
+      Site Name: W Mt Pleasant
+      AGL: 301
+      Tower Type: Guyed
+      Address: 3977 West Interstate 30, Mt. Pleasant, Titus, TX 75455]]></description>
+        <Point><coordinates>-95.1047222222222,33.1583333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

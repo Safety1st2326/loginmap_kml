@@ -1630,5 +1630,32 @@
       Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
         <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL28624-S</name>
+        <description><![CDATA[Date: 8/1/25 3:04 PM
+      Site Name: Presidents Drive
+      AGL: 196
+      Tower Type: Monopole
+      Address: 6951 Presidents Drive, Orlando, Orange, FL 32809]]></description>
+        <Point><coordinates>-81.4194304444444,28.4646313888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA16311-B</name>
+        <description><![CDATA[Date: 8/1/25 3:16 PM
+      Site Name: Peterson 3 VA
+      AGL: 195
+      Tower Type: Monopole
+      Address: 5480  Peterson Drive, Radford, Montgomery, VA 24141]]></description>
+        <Point><coordinates>-80.5670271111111,37.0915274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28624-S</name>
+        <description><![CDATA[Date: 8/1/25 3:04 PM
+      Site Name: Presidents Drive
+      AGL: 196
+      Tower Type: Monopole
+      Address: 6951 Presidents Drive, Orlando, Orange, FL 32809]]></description>
+        <Point><coordinates>-81.4194304444444,28.4646313888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

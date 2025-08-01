@@ -1504,5 +1504,23 @@
       Address: 11337 United Way, Orlando, Orange, FL 32824]]></description>
         <Point><coordinates>-81.3825271111111,28.4064888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13894-A</name>
+        <description><![CDATA[Date: 8/1/25 1:39 PM
+      Site Name: Lone Star 3 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 2022 County Road 3155, Cookville, Titus, TX 75455]]></description>
+        <Point><coordinates>-94.8424718888889,33.2175548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46522-A</name>
+        <description><![CDATA[Date: 8/1/25 1:51 PM
+      Site Name: N Wauconda
+      AGL: 102
+      Tower Type: Monopole
+      Address: 1630 Callahan Rd. , Wauconda, Lake, IL 60084]]></description>
+        <Point><coordinates>-88.1550972222222,42.2851857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

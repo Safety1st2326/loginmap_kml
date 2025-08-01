@@ -937,5 +937,23 @@
       Address: 433 North Bradley Lane, Oakland, Garrett, MD 21550]]></description>
         <Point><coordinates>-79.4017611111111,39.4237965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41998-T</name>
+        <description><![CDATA[Date: 8/1/25 10:01 AM
+      Site Name: Hoelker
+      AGL: 125
+      Tower Type: Monopole
+      Address: 802 #A Summer Park Dr., Stafford, Fort Bend, TX 77477]]></description>
+        <Point><coordinates>-95.5689437777778,29.6089444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47956-A</name>
+        <description><![CDATA[Date: 8/1/25 10:06 AM
+      Site Name: Allison-tx
+      AGL: 228
+      Tower Type: Guyed
+      Address: 139 Private Road 4013 , Decatur, Wise, TX 76234]]></description>
+        <Point><coordinates>-97.4689326666667,33.2423774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1117,5 +1117,32 @@
       Address: 3169 North Orange Blossom Trail, Kissimmee, Osceola, FL 34744]]></description>
         <Point><coordinates>-81.3970913333333,28.3445024444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/1/25 11:10 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD15584-A</name>
+        <description><![CDATA[Date: 8/1/25 11:19 AM
+      Site Name: Chesapeake Beach-Anderson
+      AGL: 194
+      Tower Type: Monopole
+      Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
+        <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD15584-A</name>
+        <description><![CDATA[Date: 8/1/25 11:19 AM
+      Site Name: Chesapeake Beach-Anderson
+      AGL: 194
+      Tower Type: Monopole
+      Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
+        <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

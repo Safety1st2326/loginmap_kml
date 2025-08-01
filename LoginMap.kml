@@ -1585,5 +1585,23 @@
       Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
         <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO21262-A</name>
+        <description><![CDATA[Date: 8/1/25 2:33 PM
+      Site Name: Long Shoal
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11773 Hwy 7, Warsaw, Benton, MO 65355]]></description>
+        <Point><coordinates>-93.4850357777778,38.2930774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12429-S</name>
+        <description><![CDATA[Date: 8/1/25 2:39 PM
+      Site Name: Mt Pleasant TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 819 E 9th Street, Mt. Pleasant, Titus, TX 75455]]></description>
+        <Point><coordinates>-94.9571833333333,33.1645944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

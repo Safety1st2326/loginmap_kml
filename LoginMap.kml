@@ -1468,5 +1468,41 @@
       Address: 206 County Road 14, Del Norte, Rio Grande, CO 81132]]></description>
         <Point><coordinates>-106.360455555556,37.6755048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12583-A</name>
+        <description><![CDATA[Date: 8/1/25 1:35 PM
+      Site Name: Hartley
+      AGL: 191
+      Tower Type: Self Support
+      Address: 511 N 3rd Ave W, Hartley, O'Brien, IA 51346]]></description>
+        <Point><coordinates>-95.4817271111111,43.186858,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00028-A</name>
+        <description><![CDATA[Date: 8/1/25 1:42 PM
+      Site Name: Regency Park
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11337 United Way, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.3825271111111,28.4064888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI10055-A</name>
+        <description><![CDATA[Date: 8/1/25 1:42 PM
+      Site Name: Concord 5 WI
+      AGL: 194
+      Tower Type: Monopole
+      Address: N6656 South Island View Road, Concord, Jefferson, WI 53094-9523]]></description>
+        <Point><coordinates>-88.6451135555556,43.0843274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00028-A</name>
+        <description><![CDATA[Date: 8/1/25 1:43 PM
+      Site Name: Regency Park
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11337 United Way, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.3825271111111,28.4064888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1765,5 +1765,14 @@
       Address: 15616 NW 11th Avenue, Vancouver, Clark, WA 98685]]></description>
         <Point><coordinates>-122.684696888889,45.7347635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10492-A</name>
+        <description><![CDATA[Date: 8/1/25 5:43 PM
+      Site Name: Staton
+      AGL: 82
+      Tower Type: Monopole
+      Address: 235 Linden Avenue, Grand Junction, Mesa, CO 84083]]></description>
+        <Point><coordinates>-108.557969444444,39.038108,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

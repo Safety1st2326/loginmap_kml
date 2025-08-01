@@ -1270,5 +1270,68 @@
       Address: 845 US Hwy 84 East, Fairfield, Freestone, TX 75840]]></description>
         <Point><coordinates>-96.0227548888889,31.6816215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WA16536-S</name>
+        <description><![CDATA[Date: 8/1/25 12:21 PM
+      Site Name: Ashford 3 WA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 33904 SR 706, Ashford, Pierce, WA 98304]]></description>
+        <Point><coordinates>-121.984638555556,46.75675,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12257-A</name>
+        <description><![CDATA[Date: 8/1/25 12:10 PM
+      Site Name: John Young Parkway
+      AGL: 180
+      Tower Type: Stealth
+      Address: 12288 S John Young Parkway, Orlando, Orange, FL 32837]]></description>
+        <Point><coordinates>-81.4312132222222,28.3863996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46285-A</name>
+        <description><![CDATA[Date: 8/1/25 12:12 PM
+      Site Name: Lakeland
+      AGL: 151
+      Tower Type: Monopole
+      Address: 301 Edwards Avenue, Lakeland, Polk, FL 33802]]></description>
+        <Point><coordinates>-81.9951663333333,28.038833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41133-T</name>
+        <description><![CDATA[Date: 8/1/25 12:13 PM
+      Site Name: LB Mold Inc
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1031 South Main Street, Edinburgh, Bartholomew, IN 46124]]></description>
+        <Point><coordinates>-85.9668743333333,39.3416885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK16566-A</name>
+        <description><![CDATA[Date: 8/1/25 12:20 PM
+      Site Name: OKC - Grand Blvd
+      AGL: 140
+      Tower Type: Monopole
+      Address: 5700 NE Grand Blvd, Oklahoma City, Oklahoma, OK 73111]]></description>
+        <Point><coordinates>-97.4785326666667,35.5291548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12257-A</name>
+        <description><![CDATA[Date: 8/1/25 12:10 PM
+      Site Name: John Young Parkway
+      AGL: 180
+      Tower Type: Stealth
+      Address: 12288 S John Young Parkway, Orlando, Orange, FL 32837]]></description>
+        <Point><coordinates>-81.4312132222222,28.3863996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20819-A</name>
+        <description><![CDATA[Date: 8/1/25 12:16 PM
+      Site Name: PRESTON 2 MO
+      AGL: 300
+      Tower Type: Guyed
+      Address: Route 1, Box 1488, Cross Timbers, Hickory, MO 65634]]></description>
+        <Point><coordinates>-93.2136944444444,37.9861107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

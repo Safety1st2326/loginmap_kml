@@ -1009,5 +1009,50 @@
       Address: 425 W. Plainview Road Suite B, Springfield, Greene, MO 65810]]></description>
         <Point><coordinates>-93.2983274444444,37.1179465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI12087-B</name>
+        <description><![CDATA[Date: 8/1/25 10:23 AM
+      Site Name: Fox 4 MI
+      AGL: 198
+      Tower Type: Self Support
+      Address: E975 North Fox Lane, Cedarville River, Menominee, MI 49887]]></description>
+        <Point><coordinates>-87.2849218888889,45.5363857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01926-S</name>
+        <description><![CDATA[Date: 8/1/25 10:23 AM
+      Site Name: Kissimmee North
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2720 N. Orange Blossom Trail, Kissimmee, Osceola, FL 34744-1309]]></description>
+        <Point><coordinates>-81.4051166666667,28.3271937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11183-A</name>
+        <description><![CDATA[Date: 8/1/25 10:23 AM
+      Site Name: Louise
+      AGL: 301
+      Tower Type: Guyed
+      Address: 15670 FM 44, Avery, Red River, TX 75554]]></description>
+        <Point><coordinates>-94.7999635555555,33.4337524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 8/1/25 10:23 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01926-S</name>
+        <description><![CDATA[Date: 8/1/25 10:23 AM
+      Site Name: Kissimmee North
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2720 N. Orange Blossom Trail, Kissimmee, Osceola, FL 34744-1309]]></description>
+        <Point><coordinates>-81.4051166666667,28.3271937777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

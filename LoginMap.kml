@@ -622,5 +622,32 @@
       Address: 1115 W Mansfield St, Bucyrus, Crawford, OH 44820]]></description>
         <Point><coordinates>-82.9927107777778,40.8107638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO20792-A</name>
+        <description><![CDATA[Date: 8/1/25 9:03 AM
+      Site Name: CLINTON SE
+      AGL: 190
+      Tower Type: Self Support
+      Address: 78 SE Highway AA, Clinton, Henry, MO 64735]]></description>
+        <Point><coordinates>-93.7142555555556,38.3540861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA24311-A</name>
+        <description><![CDATA[Date: 8/1/25 8:54 AM
+      Site Name: Tesla
+      AGL: 140
+      Tower Type: Self Support
+      Address: 18045 S. Kelso Road, Mountain House, San Joaquin, CA 95391]]></description>
+        <Point><coordinates>-121.55235,37.7982218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 8/1/25 9:05 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

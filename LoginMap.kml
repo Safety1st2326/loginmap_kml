@@ -163,5 +163,50 @@
       Address: 100 THORNHILL ROAD, AUBURNDALE, Polk, FL 33825]]></description>
         <Point><coordinates>-81.815581,28.051378,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/1/25 7:22 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT13057-A</name>
+        <description><![CDATA[Date: 8/1/25 7:17 AM
+      Site Name: Newtown
+      AGL: 151
+      Tower Type: Monopole
+      Address: 151 Berkshire Road, Newtown, Fairfield/Newton, CT 06470]]></description>
+        <Point><coordinates>-73.2360691111111,41.3973746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA47666-A</name>
+        <description><![CDATA[Date: 8/1/25 7:28 AM
+      Site Name: Route 443
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1800 Blacksmith Lane, West Hanover Township, Dauphin, PA 17112]]></description>
+        <Point><coordinates>-76.7386246666667,40.4119833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01296-A</name>
+        <description><![CDATA[Date: 8/1/25 7:24 AM
+      Site Name: Martinez
+      AGL: 197
+      Tower Type: Self Support
+      Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
+        <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 8/1/25 7:24 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

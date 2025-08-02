@@ -334,5 +334,23 @@
       Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
         <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL17044-A</name>
+        <description><![CDATA[Date: 8/2/25 10:12 AM
+      Site Name: Orlando West
+      AGL: 152
+      Tower Type: Self Support
+      Address: 37 Fred L Maxwell Blvd, Orlando, Orange, FL 32805]]></description>
+        <Point><coordinates>-81.4062805555556,28.5431274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL17044-A</name>
+        <description><![CDATA[Date: 8/2/25 10:12 AM
+      Site Name: Orlando West
+      AGL: 152
+      Tower Type: Self Support
+      Address: 37 Fred L Maxwell Blvd, Orlando, Orange, FL 32805]]></description>
+        <Point><coordinates>-81.4062805555556,28.5431274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

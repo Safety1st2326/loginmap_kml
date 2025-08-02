@@ -703,5 +703,23 @@
       Address: 1773 S I-70, Cisco, Grand, UT 84515]]></description>
         <Point><coordinates>-109.859872222222,38.9449441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10491-A</name>
+        <description><![CDATA[Date: 8/2/25 4:55 PM
+      Site Name: Solitude Wash
+      AGL: 155
+      Tower Type: Self Support
+      Address: 33 NW Old Elgin Hwy, Green River, Grand, UT 84525]]></description>
+        <Point><coordinates>-109.992813555556,38.9360941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11901-A</name>
+        <description><![CDATA[Date: 8/2/25 4:58 PM
+      Site Name: Jonesboro 3 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 614 W FM 217, Jonesboro, Coryell, TX 76538]]></description>
+        <Point><coordinates>-97.8658472222222,31.6172382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -424,5 +424,14 @@
       Address: 3728 W. New Hampshire Street, Orlando, Orange, FL 32808]]></description>
         <Point><coordinates>-81.4256965555556,28.5668771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13503-A</name>
+        <description><![CDATA[Date: 8/2/25 11:01 AM
+      Site Name: Gilmer 2 TX
+      AGL: 256
+      Tower Type: Guyed
+      Address: 364 Private Road 2014, Gilmer, Upshur, TX 75644]]></description>
+        <Point><coordinates>-94.9140611111111,32.7264993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

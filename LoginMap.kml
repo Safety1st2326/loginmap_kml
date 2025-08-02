@@ -217,5 +217,14 @@
       Address: E Hwy 11 & 49 Right County Rd., Daingerfield, Morris, TX 75638]]></description>
         <Point><coordinates>-94.6847607777778,32.9999857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA03503-S</name>
+        <description><![CDATA[Date: 8/2/25 8:42 AM
+      Site Name: Amite
+      AGL: 350
+      Tower Type: Self Support
+      Address: 59522 Puleston Road, Amite, Tangipahoa, LA 70422-5614]]></description>
+        <Point><coordinates>-90.5353802222222,30.7209521111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

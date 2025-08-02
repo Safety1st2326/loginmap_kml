@@ -73,5 +73,23 @@
       Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
         <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/2/25 7:46 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 8/2/25 7:49 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

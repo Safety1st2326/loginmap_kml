@@ -649,5 +649,23 @@
       Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
         <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46261-A</name>
+        <description><![CDATA[Date: 8/2/25 3:48 PM
+      Site Name: W Lake Irma
+      AGL: 100
+      Tower Type: Stealth
+      Address: 2330 N. Goldenrod Road, Orlando, Orange, FL 32807]]></description>
+        <Point><coordinates>-81.2870274444444,28.5788882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46261-A</name>
+        <description><![CDATA[Date: 8/2/25 3:48 PM
+      Site Name: W Lake Irma
+      AGL: 100
+      Tower Type: Stealth
+      Address: 2330 N. Goldenrod Road, Orlando, Orange, FL 32807]]></description>
+        <Point><coordinates>-81.2870274444444,28.5788882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

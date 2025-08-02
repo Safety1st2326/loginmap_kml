@@ -685,5 +685,23 @@
       Address: 5756 Dahlia Drive  , Orlando, ORANGE, FL 32807]]></description>
         <Point><coordinates>-81.3096094444444,28.5454252222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46211-A</name>
+        <description><![CDATA[Date: 8/2/25 4:10 PM
+      Site Name: Central Azalea Park
+      AGL: 129
+      Tower Type: Stealth
+      Address: 5756 Dahlia Drive  , Orlando, ORANGE, FL 32807]]></description>
+        <Point><coordinates>-81.3096094444444,28.5454252222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT10465-A</name>
+        <description><![CDATA[Date: 8/2/25 4:12 PM
+      Site Name: Crescent Junction
+      AGL: 140
+      Tower Type: Self Support
+      Address: 1773 S I-70, Cisco, Grand, UT 84515]]></description>
+        <Point><coordinates>-109.859872222222,38.9449441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

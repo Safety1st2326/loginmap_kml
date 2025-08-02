@@ -667,5 +667,23 @@
       Address: 2330 N. Goldenrod Road, Orlando, Orange, FL 32807]]></description>
         <Point><coordinates>-81.2870274444444,28.5788882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY11147-A</name>
+        <description><![CDATA[Date: 8/2/25 4:07 PM
+      Site Name: Karner
+      AGL: 101
+      Tower Type: Monopole
+      Address: 3 Fritz Blvd, Albany, Albany, NY 12205]]></description>
+        <Point><coordinates>-73.8415552222222,42.7138888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46211-A</name>
+        <description><![CDATA[Date: 8/2/25 4:09 PM
+      Site Name: Central Azalea Park
+      AGL: 129
+      Tower Type: Stealth
+      Address: 5756 Dahlia Drive  , Orlando, ORANGE, FL 32807]]></description>
+        <Point><coordinates>-81.3096094444444,28.5454252222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

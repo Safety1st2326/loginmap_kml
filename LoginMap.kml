@@ -550,5 +550,23 @@
       Address: 1 E Old Cisco Hwy, Cisco, Grand, UT 84515]]></description>
         <Point><coordinates>-109.108991666667,39.1767493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL14938-A</name>
+        <description><![CDATA[Date: 8/2/25 1:30 PM
+      Site Name: Brooksville 2 AL
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1901 Suttles Rd, Blountsville, Blount, AL 35031]]></description>
+        <Point><coordinates>-86.4869163333333,34.1716548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL14938-A</name>
+        <description><![CDATA[Date: 8/2/25 1:30 PM
+      Site Name: Brooksville 2 AL
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1901 Suttles Rd, Blountsville, Blount, AL 35031]]></description>
+        <Point><coordinates>-86.4869163333333,34.1716548888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -10,5 +10,14 @@
       Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
         <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NH14173-A</name>
+        <description><![CDATA[Date: 8/2/25 7:09 AM
+      Site Name: Barrington
+      AGL: 140
+      Tower Type: Self Support
+      Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
+        <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

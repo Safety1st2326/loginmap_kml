@@ -739,5 +739,14 @@
       Address: 20120 Cr 846, Immokalee, Hendry, FL 34142]]></description>
         <Point><coordinates>-81.2387218888889,26.4452274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH11274-A</name>
+        <description><![CDATA[Date: 8/2/25 5:39 PM
+      Site Name: Riverview 2 OH
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1199 LANCASTER ST, Marietta, Washington, OH 45750]]></description>
+        <Point><coordinates>-81.4862385555556,39.4280715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

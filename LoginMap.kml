@@ -271,5 +271,32 @@
       Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
         <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 8/2/25 9:24 AM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46178-A</name>
+        <description><![CDATA[Date: 8/2/25 9:27 AM
+      Site Name: Orlovista
+      AGL: 190
+      Tower Type: Self Support
+      Address: 2999 37th Street, Orlando, Orange, FL 32805]]></description>
+        <Point><coordinates>-81.4186604444445,28.505525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13409-A</name>
+        <description><![CDATA[Date: 8/2/25 9:27 AM
+      Site Name: Cookeville (I-40)
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
+        <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

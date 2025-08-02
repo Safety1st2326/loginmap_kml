@@ -19,5 +19,32 @@
       Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
         <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC08441-S</name>
+        <description><![CDATA[Date: 8/2/25 7:16 AM
+      Site Name: Warrenton NC
+      AGL: 251
+      Tower Type: Self Support
+      Address: 148 Frazier Road, Warrenton, Warren, NC 27589]]></description>
+        <Point><coordinates>-78.1050166666667,36.428116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46552-A</name>
+        <description><![CDATA[Date: 8/2/25 7:18 AM
+      Site Name: Central Sod Raw Land
+      AGL: 71
+      Tower Type: Monopole
+      Address: 26W258 Lake St, Bartlett (Uninc.), DuPage, IL 60133]]></description>
+        <Point><coordinates>-88.135883,41.9815632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC00376-B</name>
+        <description><![CDATA[Date: 8/2/25 7:19 AM
+      Site Name: Little Beaver Dam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
+        <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

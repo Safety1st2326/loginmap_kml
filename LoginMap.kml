@@ -721,5 +721,23 @@
       Address: 614 W FM 217, Jonesboro, Coryell, TX 76538]]></description>
         <Point><coordinates>-97.8658472222222,31.6172382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21209-A</name>
+        <description><![CDATA[Date: 8/2/25 5:21 PM
+      Site Name: Maplewood
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2182 Highway 42, Naswaupee, Door, WI 54235]]></description>
+        <Point><coordinates>-87.4783326666667,44.7727771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46175-A</name>
+        <description><![CDATA[Date: 8/2/25 5:28 PM
+      Site Name: Devils Garden
+      AGL: 350
+      Tower Type: Guyed
+      Address: 20120 Cr 846, Immokalee, Hendry, FL 34142]]></description>
+        <Point><coordinates>-81.2387218888889,26.4452274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

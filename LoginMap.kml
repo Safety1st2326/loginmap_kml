@@ -379,5 +379,23 @@
       Address: 373 Tree Limb Road, Sawyerville, Hale, AL 36776]]></description>
         <Point><coordinates>-87.7524941666667,32.795758,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47956-A</name>
+        <description><![CDATA[Date: 8/2/25 10:30 AM
+      Site Name: Allison-tx
+      AGL: 228
+      Tower Type: Guyed
+      Address: 139 Private Road 4013 , Decatur, Wise, TX 76234]]></description>
+        <Point><coordinates>-97.4689326666667,33.2423774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13335-A</name>
+        <description><![CDATA[Date: 8/2/25 10:33 AM
+      Site Name: Oxford 11 NY
+      AGL: 182
+      Tower Type: Self Support
+      Address: 4500 State Hwy 12, Oxford, Chenango, NY 13830]]></description>
+        <Point><coordinates>-75.5816937777778,42.4532,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -91,5 +91,32 @@
       Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
         <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 8/2/25 7:55 AM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 8/2/25 7:58 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16166-B</name>
+        <description><![CDATA[Date: 8/2/25 7:58 AM
+      Site Name: Monmouth 3
+      AGL: 110
+      Tower Type: Monopole
+      Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

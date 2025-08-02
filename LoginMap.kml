@@ -451,5 +451,23 @@
       Address: 9911 Bear Lake Rd, Apopka, Seminole, FL 32703]]></description>
         <Point><coordinates>-81.4427218888889,28.650525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX10065-A</name>
+        <description><![CDATA[Date: 8/2/25 12:04 PM
+      Site Name: Gilmer
+      AGL: 206
+      Tower Type: Guyed
+      Address: 1940 Apple Tree Road, Gilmer, Upshur, TX 75644]]></description>
+        <Point><coordinates>-94.9727493333333,32.7066472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22527-A</name>
+        <description><![CDATA[Date: 8/2/25 12:00 PM
+      Site Name: Pecatonica
+      AGL: 195
+      Tower Type: Self Support
+      Address: 100 Taylor Street, Pecatonica, Winnebago, IL 61063]]></description>
+        <Point><coordinates>-89.35615,42.3147972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

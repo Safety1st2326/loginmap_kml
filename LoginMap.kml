@@ -622,5 +622,23 @@
       Address: 445 Highway 148, Cisco, Grand, UT 84515]]></description>
         <Point><coordinates>-109.404977777778,38.9376468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46218-A</name>
+        <description><![CDATA[Date: 8/2/25 3:10 PM
+      Site Name: Ne Lake Corrine
+      AGL: 136
+      Tower Type: Monopole
+      Address: 6300 Hanging Moss Road, Orlando, Orange, FL 32807]]></description>
+        <Point><coordinates>-81.303275,28.5781243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46218-A</name>
+        <description><![CDATA[Date: 8/2/25 3:12 PM
+      Site Name: Ne Lake Corrine
+      AGL: 136
+      Tower Type: Monopole
+      Address: 6300 Hanging Moss Road, Orlando, Orange, FL 32807]]></description>
+        <Point><coordinates>-81.303275,28.5781243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

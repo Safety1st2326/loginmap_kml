@@ -568,5 +568,23 @@
       Address: 1901 Suttles Rd, Blountsville, Blount, AL 35031]]></description>
         <Point><coordinates>-86.4869163333333,34.1716548888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46217-A</name>
+        <description><![CDATA[Date: 8/2/25 1:54 PM
+      Site Name: Lake Killarney-north
+      AGL: 120
+      Tower Type: Tree
+      Address: 933 Bennett Ave ? Comm Tower, Winter Park, Orange, FL 32789]]></description>
+        <Point><coordinates>-81.3697771111111,28.6067055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46217-A</name>
+        <description><![CDATA[Date: 8/2/25 1:54 PM
+      Site Name: Lake Killarney-north
+      AGL: 120
+      Tower Type: Tree
+      Address: 933 Bennett Ave ? Comm Tower, Winter Park, Orange, FL 32789]]></description>
+        <Point><coordinates>-81.3697771111111,28.6067055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

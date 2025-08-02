@@ -748,5 +748,14 @@
       Address: 1199 LANCASTER ST, Marietta, Washington, OH 45750]]></description>
         <Point><coordinates>-81.4862385555556,39.4280715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10478-A</name>
+        <description><![CDATA[Date: 8/2/25 6:48 PM
+      Site Name: Leaving Moab
+      AGL: 142
+      Tower Type: Monopole
+      Address: 1655 N Hwy 191, Moab, Grand, UT 84532]]></description>
+        <Point><coordinates>-109.614133333333,38.6094305555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

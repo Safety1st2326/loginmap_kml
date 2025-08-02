@@ -172,5 +172,23 @@
       Address: 40540 TR 41B, Warsaw, Coshocton, OH 43844]]></description>
         <Point><coordinates>-82.0018027777778,40.3251187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46258-A</name>
+        <description><![CDATA[Date: 8/2/25 8:27 AM
+      Site Name: Willie Mays
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3382 Bartlett Boulevard, Orlando, Orange, FL 32811]]></description>
+        <Point><coordinates>-81.4353441111111,28.5072638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46258-A</name>
+        <description><![CDATA[Date: 8/2/25 8:27 AM
+      Site Name: Willie Mays
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3382 Bartlett Boulevard, Orlando, Orange, FL 32811]]></description>
+        <Point><coordinates>-81.4353441111111,28.5072638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -352,5 +352,32 @@
       Address: 37 Fred L Maxwell Blvd, Orlando, Orange, FL 32805]]></description>
         <Point><coordinates>-81.4062805555556,28.5431274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS07059-A</name>
+        <description><![CDATA[Date: 8/2/25 10:24 AM
+      Site Name: Casabella
+      AGL: 349
+      Tower Type: Guyed
+      Address: 2409 South Harper Road Extend, Corinth, Alcorn, MS 38834-6751]]></description>
+        <Point><coordinates>-88.5030277777778,34.9082222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14052-S</name>
+        <description><![CDATA[Date: 8/2/25 10:24 AM
+      Site Name: Nelson 2 NH
+      AGL: 150
+      Tower Type: Monopole
+      Address: 19 Apple Hill Road, Sullivan, Cheshire, NH 03445]]></description>
+        <Point><coordinates>-72.1878913333333,42.9928968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL21779-A</name>
+        <description><![CDATA[Date: 8/2/25 10:27 AM
+      Site Name: Wedgeworth
+      AGL: 300
+      Tower Type: Guyed
+      Address: 373 Tree Limb Road, Sawyerville, Hale, AL 36776]]></description>
+        <Point><coordinates>-87.7524941666667,32.795758,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -613,5 +613,14 @@
       Address: 11858 Highfill Ave, Gentry, Benton, AR 72734]]></description>
         <Point><coordinates>-94.3488357777778,36.2612111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10469-A</name>
+        <description><![CDATA[Date: 8/2/25 2:45 PM
+      Site Name: Exit 202
+      AGL: 151
+      Tower Type: Monopole
+      Address: 445 Highway 148, Cisco, Grand, UT 84515]]></description>
+        <Point><coordinates>-109.404977777778,38.9376468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

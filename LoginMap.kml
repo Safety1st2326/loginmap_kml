@@ -46,5 +46,32 @@
       Address: 2029 Pine Grove road, Seneca, Oconee, SC 29678]]></description>
         <Point><coordinates>-82.9445885555556,34.5721382222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10685-A</name>
+        <description><![CDATA[Date: 8/2/25 7:36 AM
+      Site Name: Thornton 3 WV
+      AGL: 300
+      Tower Type: Guyed
+      Address: 232 Thornton Tower  Road, Thornton, Taylor, WV 26440]]></description>
+        <Point><coordinates>-79.9404913333333,39.3422274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/2/25 7:24 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 8/2/25 7:25 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

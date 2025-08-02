@@ -244,5 +244,32 @@
       Address: 11970 Hayne Blvd, Suite T, New Orleans, Orleans, LA 70128]]></description>
         <Point><coordinates>-89.968816,30.0570833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14113-A</name>
+        <description><![CDATA[Date: 8/2/25 9:03 AM
+      Site Name: Sheppards
+      AGL: 195
+      Tower Type: Self Support
+      Address: 169 Crescent Road, Sheppards, Buckingham, VA 23901]]></description>
+        <Point><coordinates>-78.4930635555556,37.3733104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA46662-A</name>
+        <description><![CDATA[Date: 8/2/25 9:05 AM
+      Site Name: Nl60xc696
+      AGL: 99
+      Tower Type: Monopole
+      Address: 11970 Hayne Blvd, Suite T, New Orleans, Orleans, LA 70128]]></description>
+        <Point><coordinates>-89.968816,30.0570833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA08467-B</name>
+        <description><![CDATA[Date: 8/2/25 9:09 AM
+      Site Name: Palmer
+      AGL: 137
+      Tower Type: Monopole
+      Address: 2210 Corriere Drive, Easton, Northampton, PA 18045]]></description>
+        <Point><coordinates>-75.2579611111111,40.7186437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1783,5 +1783,14 @@
       Address: 380 South Camp, Grand Junction, Mesa, CO 81503]]></description>
         <Point><coordinates>-108.638560777778,39.0611333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CO10477-A</name>
+        <description><![CDATA[Date: 8/1/25 9:06 PM
+      Site Name: Johns Manville CO
+      AGL: 188
+      Tower Type: Monopole
+      Address: 1575 River Rd, Fruita, Mesa, CO 81521]]></description>
+        <Point><coordinates>-108.761997222222,39.1658638888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

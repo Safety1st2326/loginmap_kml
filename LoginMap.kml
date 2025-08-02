@@ -145,5 +145,32 @@
       Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
         <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14110-A</name>
+        <description><![CDATA[Date: 8/2/25 8:15 AM
+      Site Name: Rt 711
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3139 Monte Road, Powhatan, Powhatan, VA 23139]]></description>
+        <Point><coordinates>-77.8645,37.6163444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47837-A</name>
+        <description><![CDATA[Date: 8/2/25 8:13 AM
+      Site Name: Riverbend Lane
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1200 Riverbend Ln , Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7474718888889,31.4214715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16592-S</name>
+        <description><![CDATA[Date: 8/2/25 8:19 AM
+      Site Name: River View South
+      AGL: 195
+      Tower Type: Self Support
+      Address: 40540 TR 41B, Warsaw, Coshocton, OH 43844]]></description>
+        <Point><coordinates>-82.0018027777778,40.3251187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

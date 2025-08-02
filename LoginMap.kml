@@ -586,5 +586,14 @@
       Address: 933 Bennett Ave ? Comm Tower, Winter Park, Orange, FL 32789]]></description>
         <Point><coordinates>-81.3697771111111,28.6067055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10461-A</name>
+        <description><![CDATA[Date: 8/2/25 2:15 PM
+      Site Name: Cisco 3 UT
+      AGL: 141
+      Tower Type: Self Support
+      Address: 3500 NE Highway 18, Cisco, Grand, UT 84515]]></description>
+        <Point><coordinates>-109.286127444444,39.0735104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

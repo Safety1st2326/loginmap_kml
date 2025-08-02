@@ -640,5 +640,14 @@
       Address: 6300 Hanging Moss Road, Orlando, Orange, FL 32807]]></description>
         <Point><coordinates>-81.303275,28.5781243333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10494-A</name>
+        <description><![CDATA[Date: 8/2/25 3:34 PM
+      Site Name: Thompson 3 UT
+      AGL: 147
+      Tower Type: Monopole
+      Address: 700 S Main, Thompson, Grand, UT 84540]]></description>
+        <Point><coordinates>-109.714744444444,38.9628888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -190,5 +190,32 @@
       Address: 3382 Bartlett Boulevard, Orlando, Orange, FL 32811]]></description>
         <Point><coordinates>-81.4353441111111,28.5072638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10677-A</name>
+        <description><![CDATA[Date: 8/2/25 8:35 AM
+      Site Name: Middlebourne
+      AGL: 350
+      Tower Type: Guyed
+      Address: 536 Wick Road, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.9049361111111,39.4832132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20792-A</name>
+        <description><![CDATA[Date: 8/2/25 8:31 AM
+      Site Name: CLINTON SE
+      AGL: 190
+      Tower Type: Self Support
+      Address: 78 SE Highway AA, Clinton, Henry, MO 64735]]></description>
+        <Point><coordinates>-93.7142555555556,38.3540861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13489-A</name>
+        <description><![CDATA[Date: 8/2/25 8:37 AM
+      Site Name: Daingerfield
+      AGL: 455
+      Tower Type: Guyed
+      Address: E Hwy 11 & 49 Right County Rd., Daingerfield, Morris, TX 75638]]></description>
+        <Point><coordinates>-94.6847607777778,32.9999857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

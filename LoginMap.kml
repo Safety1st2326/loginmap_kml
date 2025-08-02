@@ -541,5 +541,14 @@
       Address: 2549 South James Madison Hwy, Orange, Madison, VA 22960]]></description>
         <Point><coordinates>-78.1315243333333,38.3165222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10473-A</name>
+        <description><![CDATA[Date: 8/2/25 1:24 PM
+      Site Name: Harley Dome
+      AGL: 146
+      Tower Type: Self Support
+      Address: 1 E Old Cisco Hwy, Cisco, Grand, UT 84515]]></description>
+        <Point><coordinates>-109.108991666667,39.1767493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

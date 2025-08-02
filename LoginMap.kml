@@ -433,5 +433,23 @@
       Address: 364 Private Road 2014, Gilmer, Upshur, TX 75644]]></description>
         <Point><coordinates>-94.9140611111111,32.7264993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46281-A</name>
+        <description><![CDATA[Date: 8/2/25 11:36 AM
+      Site Name: St Andrews
+      AGL: 106
+      Tower Type: Stealth
+      Address: 9911 Bear Lake Rd, Apopka, Seminole, FL 32703]]></description>
+        <Point><coordinates>-81.4427218888889,28.650525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46281-A</name>
+        <description><![CDATA[Date: 8/2/25 11:36 AM
+      Site Name: St Andrews
+      AGL: 106
+      Tower Type: Stealth
+      Address: 9911 Bear Lake Rd, Apopka, Seminole, FL 32703]]></description>
+        <Point><coordinates>-81.4427218888889,28.650525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

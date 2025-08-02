@@ -118,5 +118,32 @@
       Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
         <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY11859-B</name>
+        <description><![CDATA[Date: 8/2/25 8:03 AM
+      Site Name: Sharon Swyne
+      AGL: 181
+      Tower Type: Self Support
+      Address: 1176 Slate Hill Road, Sharon Springs, Schoharie, NY 13459]]></description>
+        <Point><coordinates>-74.5352385555556,42.7598777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 8/2/25 8:03 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA14151-A</name>
+        <description><![CDATA[Date: 8/2/25 8:07 AM
+      Site Name: Euharlee
+      AGL: 296
+      Tower Type: Guyed
+      Address: 185 Lowery Road, Kingston, Bartow, GA 30145]]></description>
+        <Point><coordinates>-84.9720548888889,34.1536111111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

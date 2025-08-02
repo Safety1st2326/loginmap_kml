@@ -532,5 +532,14 @@
       Address: 2225 Highway 81 East, McDonough, Henry, GA 30252]]></description>
         <Point><coordinates>-84.0768187777778,33.4276298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA22835-A</name>
+        <description><![CDATA[Date: 8/2/25 12:42 PM
+      Site Name: Fordsville
+      AGL: 193
+      Tower Type: Monopole
+      Address: 2549 South James Madison Hwy, Orange, Madison, VA 22960]]></description>
+        <Point><coordinates>-78.1315243333333,38.3165222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

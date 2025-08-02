@@ -397,5 +397,32 @@
       Address: 4500 State Hwy 12, Oxford, Chenango, NY 13830]]></description>
         <Point><coordinates>-75.5816937777778,42.4532,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/2/25 10:42 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11865-A</name>
+        <description><![CDATA[Date: 8/2/25 10:46 AM
+      Site Name: Pine Hills
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3728 W. New Hampshire Street, Orlando, Orange, FL 32808]]></description>
+        <Point><coordinates>-81.4256965555556,28.5668771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11865-A</name>
+        <description><![CDATA[Date: 8/2/25 10:46 AM
+      Site Name: Pine Hills
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3728 W. New Hampshire Street, Orlando, Orange, FL 32808]]></description>
+        <Point><coordinates>-81.4256965555556,28.5668771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -298,5 +298,23 @@
       Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
         <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH41579-T</name>
+        <description><![CDATA[Date: 8/2/25 9:33 AM
+      Site Name: Thomas Hummel
+      AGL: 150
+      Tower Type: Monopole
+      Address: 5875 Bowen Road, Madison, Franklin, OH 43110]]></description>
+        <Point><coordinates>-82.8078722222222,39.8670798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/2/25 9:39 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

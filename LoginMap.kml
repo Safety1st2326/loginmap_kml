@@ -523,5 +523,14 @@
       Address: 357 Bridle Road, Somerset, Somerset, PA 15501]]></description>
         <Point><coordinates>-79.2342357777778,40.0688882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02351-S</name>
+        <description><![CDATA[Date: 8/2/25 12:39 PM
+      Site Name: Mayo
+      AGL: 180
+      Tower Type: Monopole
+      Address: 2225 Highway 81 East, McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.0768187777778,33.4276298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

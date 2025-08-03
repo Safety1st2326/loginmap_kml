@@ -352,5 +352,23 @@
       Address: 11921 W US 98, Perry, Taylor, FL 32348]]></description>
         <Point><coordinates>-83.7724743333333,30.1394274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47613-A</name>
+        <description><![CDATA[Date: 8/3/25 1:24 PM
+      Site Name: Siskiyou - Search Ring
+      AGL: 175
+      Tower Type: Self Support
+      Address: 12095 Old Highway 99 S, Ashland, Jackson, OR 97520]]></description>
+        <Point><coordinates>-122.599124666667,42.0514722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH02256-S</name>
+        <description><![CDATA[Date: 8/3/25 1:27 PM
+      Site Name: Northwood Narrows
+      AGL: 120
+      Tower Type: Monopole
+      Address: 28 Olde Canterbury Road, Northwood, Rockingham, NH 03261-3716]]></description>
+        <Point><coordinates>-71.2397774444444,43.223416,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

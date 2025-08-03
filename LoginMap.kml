@@ -442,5 +442,23 @@
       Address: 5081 Harris Rd, Onondaga, Onondaga, NY 13031]]></description>
         <Point><coordinates>-76.2290271111111,43.0180271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT16854-S</name>
+        <description><![CDATA[Date: 8/3/25 3:21 PM
+      Site Name: Rattlesnake Bench DW
+      AGL: 180
+      Tower Type: Self Support
+      Address: T.22 S., R. 12E-Section 11: SE1/4NE1/4, Salt Lake Meridian, Emery, UT 84525]]></description>
+        <Point><coordinates>-110.566425,38.9171076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR20098-A</name>
+        <description><![CDATA[Date: 8/3/25 3:24 PM
+      Site Name: Grants Pass OR
+      AGL: 120
+      Tower Type: Self Support
+      Address: 120 SE MILL ST, Grants Pass, JOSEPHINE, OR 97526]]></description>
+        <Point><coordinates>-123.318460444444,42.4365107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

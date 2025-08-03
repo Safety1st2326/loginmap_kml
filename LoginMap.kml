@@ -118,5 +118,23 @@
       Address: 2201 Cameo Street, Onawa, Monona, IA 51040]]></description>
         <Point><coordinates>-96.1167548888889,42.0294771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN13409-A</name>
+        <description><![CDATA[Date: 8/3/25 8:21 AM
+      Site Name: Cookeville (I-40)
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
+        <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC13327-A</name>
+        <description><![CDATA[Date: 8/3/25 8:27 AM
+      Site Name: Hillsville
+      AGL: 196
+      Tower Type: Monopole
+      Address: 4453 Millers Mill Road, Trinity, Randolph, NC 27370]]></description>
+        <Point><coordinates>-79.9590583333333,35.8356413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

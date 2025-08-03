@@ -424,5 +424,23 @@
       Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
         <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09241-A</name>
+        <description><![CDATA[Date: 8/3/25 3:01 PM
+      Site Name: Bangs 1 TX
+      AGL: 321
+      Tower Type: Guyed
+      Address: 275 CR 157, Bangs, Brown, TX 76823]]></description>
+        <Point><coordinates>-99.1428691111111,31.7221826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY11617-S</name>
+        <description><![CDATA[Date: 8/3/25 3:06 PM
+      Site Name: Harris Rd Loomis Hill
+      AGL: 155
+      Tower Type: Monopole
+      Address: 5081 Harris Rd, Onondaga, Onondaga, NY 13031]]></description>
+        <Point><coordinates>-76.2290271111111,43.0180271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

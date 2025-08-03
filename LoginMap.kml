@@ -505,5 +505,14 @@
       Address: T22S, R9E, Salt Lake Meridian, Sect 33, NW/4, NE/4, Green River, Emery, UT 84525]]></description>
         <Point><coordinates>-110.9145325,38.8643525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47612-A</name>
+        <description><![CDATA[Date: 8/3/25 4:54 PM
+      Site Name: Sunny Valley - Blm
+      AGL: 40
+      Tower Type: Self Support Square
+      Address: 2200 Shorthorn Gulch Road, Sunny Valley, Josephine, OR 97497]]></description>
+        <Point><coordinates>-123.365827777778,42.6000166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

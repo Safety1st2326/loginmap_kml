@@ -469,5 +469,14 @@
       Address: 220 Spillway Road, Brownwood, Brown, TX 76801]]></description>
         <Point><coordinates>-99.0025611111111,31.8330104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/3/25 4:12 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

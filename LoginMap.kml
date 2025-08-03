@@ -478,5 +478,23 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09252-A</name>
+        <description><![CDATA[Date: 8/3/25 4:33 PM
+      Site Name: May 1 TX
+      AGL: 321
+      Tower Type: Guyed
+      Address: 901 CR 411 E, May, Brown, TX 76857]]></description>
+        <Point><coordinates>-98.9680632222222,31.9651805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH13778-A</name>
+        <description><![CDATA[Date: 8/3/25 4:33 PM
+      Site Name: Hampton - St James
+      AGL: 149
+      Tower Type: Monopole
+      Address: 77 Tide Mill Road, Hampton, Rockingham, NH 03842]]></description>
+        <Point><coordinates>-70.8232243333333,42.9231354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -532,5 +532,14 @@
       Address: 140 Tower Lane, Freedom, Beaver, PA 15042]]></description>
         <Point><coordinates>-80.2517833333333,40.6955524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR20934-A</name>
+        <description><![CDATA[Date: 8/3/25 6:01 PM
+      Site Name: MYRTLE CREEK
+      AGL: 207
+      Tower Type: Guyed
+      Address: 1261 Skyline Drive, Myrtle Creek, Douglas, OR 97457]]></description>
+        <Point><coordinates>-123.358611111111,43.0035888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -460,5 +460,14 @@
       Address: 120 SE MILL ST, Grants Pass, JOSEPHINE, OR 97526]]></description>
         <Point><coordinates>-123.318460444444,42.4365107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13420-A</name>
+        <description><![CDATA[Date: 8/3/25 3:36 PM
+      Site Name: Lake Brownwood
+      AGL: 222
+      Tower Type: Guyed
+      Address: 220 Spillway Road, Brownwood, Brown, TX 76801]]></description>
+        <Point><coordinates>-99.0025611111111,31.8330104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

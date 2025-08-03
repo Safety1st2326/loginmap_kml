@@ -199,5 +199,50 @@
       Address: 800 Nottingham Rd., Syracuse, Onondaga, NY 13224]]></description>
         <Point><coordinates>-76.1132055555556,43.0190187777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16166-B</name>
+        <description><![CDATA[Date: 8/3/25 9:01 AM
+      Site Name: Monmouth 3
+      AGL: 110
+      Tower Type: Monopole
+      Address: 550 7th Avenue, Monmouth, Warren, IL 61462]]></description>
+        <Point><coordinates>-90.6426524444444,40.9043111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08787-A</name>
+        <description><![CDATA[Date: 8/3/25 9:01 AM
+      Site Name: Peru
+      AGL: 301
+      Tower Type: Guyed
+      Address: 225 West Riverside Drive, Peru, Miami, IN 46970-2725]]></description>
+        <Point><coordinates>-86.0728215555555,40.7432441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14052-S</name>
+        <description><![CDATA[Date: 8/3/25 9:01 AM
+      Site Name: Nelson 2 NH
+      AGL: 150
+      Tower Type: Monopole
+      Address: 19 Apple Hill Road, Sullivan, Cheshire, NH 03445]]></description>
+        <Point><coordinates>-72.1878913333333,42.9928968888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 8/3/25 9:06 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04900-A</name>
+        <description><![CDATA[Date: 8/3/25 9:06 AM
+      Site Name: Apollo Beach
+      AGL: 202
+      Tower Type: Monopole
+      Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
+        <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

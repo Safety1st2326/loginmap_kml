@@ -82,5 +82,23 @@
       Address: 5847 Tower Road, Springdale, Washington, AR 72764-8521]]></description>
         <Point><coordinates>-94.0693048888889,36.1650666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV14253-A</name>
+        <description><![CDATA[Date: 8/3/25 8:03 AM
+      Site Name: Tunnelton
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
+        <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT11140-A</name>
+        <description><![CDATA[Date: 8/3/25 8:03 AM
+      Site Name: Jericho
+      AGL: 121
+      Tower Type: Monopole
+      Address: 23 Browns Trace Road, Jericho, Chittenden, VT 05465]]></description>
+        <Point><coordinates>-72.9335274444445,44.5081944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

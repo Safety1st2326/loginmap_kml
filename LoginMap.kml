@@ -397,5 +397,32 @@
       Address: 467 COUNTY ROAD 368, VALERA, COLEMAN, TX 76884]]></description>
         <Point><coordinates>-99.5658944444444,31.7523861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR15054-S</name>
+        <description><![CDATA[Date: 8/3/25 2:30 PM
+      Site Name: Central Point West
+      AGL: 99
+      Tower Type: Monopine
+      Address: 3039 Hanley Road, Central Point, Jackson, OR 97502]]></description>
+        <Point><coordinates>-122.931388222222,42.3597388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12251-A</name>
+        <description><![CDATA[Date: 8/3/25 2:33 PM
+      Site Name: Hunters Creek
+      AGL: 161
+      Tower Type: Stealth
+      Address: 5012 Town Center Boulevard, Orlando, Orange, FL 32837]]></description>
+        <Point><coordinates>-81.442458,28.3553361111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01314-A</name>
+        <description><![CDATA[Date: 8/3/25 2:33 PM
+      Site Name: Luten
+      AGL: 201
+      Tower Type: Self Support
+      Address: 13596 West Rena Drive, Clearwater, Pinellas, FL 33771-4928]]></description>
+        <Point><coordinates>-82.7318882222222,27.8957552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

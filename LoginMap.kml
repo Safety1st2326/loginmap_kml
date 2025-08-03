@@ -253,5 +253,14 @@
       Address: 6994 71st Avenue SW, Moose Lake, Cass, MN 56466]]></description>
         <Point><coordinates>-94.6523166666667,46.551325,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21102-A</name>
+        <description><![CDATA[Date: 8/3/25 9:54 AM
+      Site Name: Osseo 2 WI
+      AGL: 300
+      Tower Type: Guyed
+      Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
+        <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

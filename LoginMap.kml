@@ -514,5 +514,14 @@
       Address: 2200 Shorthorn Gulch Road, Sunny Valley, Josephine, OR 97497]]></description>
         <Point><coordinates>-123.365827777778,42.6000166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21021-A</name>
+        <description><![CDATA[Date: 8/3/25 5:25 PM
+      Site Name: Zephyr 2 TX
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3705 County Road 275, Zephyr, Brown, TX 76890]]></description>
+        <Point><coordinates>-98.7921941111111,31.6804715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

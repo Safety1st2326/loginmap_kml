@@ -244,5 +244,14 @@
       Address: 590 Miller Mac Road, Apollo Beach, Hillsborough, FL 33572]]></description>
         <Point><coordinates>-82.4111277777778,27.7630027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN14394-A</name>
+        <description><![CDATA[Date: 8/3/25 9:25 AM
+      Site Name: Leader
+      AGL: 501
+      Tower Type: Guyed
+      Address: 6994 71st Avenue SW, Moose Lake, Cass, MN 56466]]></description>
+        <Point><coordinates>-94.6523166666667,46.551325,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

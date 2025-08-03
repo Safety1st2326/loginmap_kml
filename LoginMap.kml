@@ -550,5 +550,14 @@
       Address: 411 Spencer Street, Syracuse, Onondaga, NY 13204-1351]]></description>
         <Point><coordinates>-76.1646194444445,43.0566055555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT16576-A</name>
+        <description><![CDATA[Date: 8/3/25 6:24 PM
+      Site Name: Huntington 5 UT
+      AGL: 200
+      Tower Type: Self Support
+      Address: 730 W State Road 31, Huntington, Emery, UT 84528]]></description>
+        <Point><coordinates>-110.975524333333,39.343033,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -298,5 +298,14 @@
       Address: 1403 Wes White Hill, Bolton, Chittenden, VT 05676]]></description>
         <Point><coordinates>-72.9306965555556,44.3644972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY15407-A</name>
+        <description><![CDATA[Date: 8/3/25 12:06 PM
+      Site Name: Brookhaven Landfill
+      AGL: 125
+      Tower Type: Stealth Monopole
+      Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
+        <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

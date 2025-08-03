@@ -28,5 +28,14 @@
       Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
         <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10685-A</name>
+        <description><![CDATA[Date: 8/3/25 7:05 AM
+      Site Name: Thornton 3 WV
+      AGL: 300
+      Tower Type: Guyed
+      Address: 232 Thornton Tower  Road, Thornton, Taylor, WV 26440]]></description>
+        <Point><coordinates>-79.9404913333333,39.3422274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

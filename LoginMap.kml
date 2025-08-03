@@ -541,5 +541,14 @@
       Address: 1261 Skyline Drive, Myrtle Creek, Douglas, OR 97457]]></description>
         <Point><coordinates>-123.358611111111,43.0035888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY06900-B</name>
+        <description><![CDATA[Date: 8/3/25 6:12 PM
+      Site Name: Spencer Street
+      AGL: 124
+      Tower Type: Monopole
+      Address: 411 Spencer Street, Syracuse, Onondaga, NY 13204-1351]]></description>
+        <Point><coordinates>-76.1646194444445,43.0566055555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

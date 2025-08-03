@@ -496,5 +496,14 @@
       Address: 77 Tide Mill Road, Hampton, Rockingham, NH 03842]]></description>
         <Point><coordinates>-70.8232243333333,42.9231354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT16853-S</name>
+        <description><![CDATA[Date: 8/3/25 4:46 PM
+      Site Name: Moore
+      AGL: 120
+      Tower Type: Tree
+      Address: T22S, R9E, Salt Lake Meridian, Sect 33, NW/4, NE/4, Green River, Emery, UT 84525]]></description>
+        <Point><coordinates>-110.9145325,38.8643525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

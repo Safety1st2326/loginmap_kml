@@ -271,5 +271,14 @@
       Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
         <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX09244-A</name>
+        <description><![CDATA[Date: 8/3/25 10:36 AM
+      Site Name: Coleman DT
+      AGL: 281
+      Tower Type: Guyed
+      Address: 134 CR 114, Coleman, Coleman, TX 76834]]></description>
+        <Point><coordinates>-99.4112777777778,31.8079333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

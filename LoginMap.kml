@@ -181,5 +181,23 @@
       Address: 1768 Thomas Clayton Road, Beaumont, Perry, MS 39423]]></description>
         <Point><coordinates>-88.9166138888889,31.1582305555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA08983-A</name>
+        <description><![CDATA[Date: 8/3/25 8:54 AM
+      Site Name: South Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 3096 Hill Road, South Park, Allegheny, PA 15129]]></description>
+        <Point><coordinates>-79.9880691111111,40.2774715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY47388-A</name>
+        <description><![CDATA[Date: 8/3/25 8:57 AM
+      Site Name: Drumlins
+      AGL: 55
+      Tower Type: Tree
+      Address: 800 Nottingham Rd., Syracuse, Onondaga, NY 13224]]></description>
+        <Point><coordinates>-76.1132055555556,43.0190187777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

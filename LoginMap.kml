@@ -523,5 +523,14 @@
       Address: 3705 County Road 275, Zephyr, Brown, TX 76890]]></description>
         <Point><coordinates>-98.7921941111111,31.6804715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA03821-A</name>
+        <description><![CDATA[Date: 8/3/25 5:39 PM
+      Site Name: Beaver 3 PA
+      AGL: 401
+      Tower Type: Guyed
+      Address: 140 Tower Lane, Freedom, Beaver, PA 15042]]></description>
+        <Point><coordinates>-80.2517833333333,40.6955524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

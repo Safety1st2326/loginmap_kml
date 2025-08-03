@@ -334,5 +334,23 @@
       Address: 3374 US HWY. 84, NOVICE, COLEMAN, TX 79538]]></description>
         <Point><coordinates>-99.6179882222222,32.0074944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA11295-A</name>
+        <description><![CDATA[Date: 8/3/25 12:40 PM
+      Site Name: Screven
+      AGL: 302
+      Tower Type: Guyed
+      Address: 5470 Old Screven Drive, Screven, Wayne, GA 31560]]></description>
+        <Point><coordinates>-81.9923635555556,31.526216,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL09058-S</name>
+        <description><![CDATA[Date: 8/3/25 12:46 PM
+      Site Name: Waylonzo
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11921 W US 98, Perry, Taylor, FL 32348]]></description>
+        <Point><coordinates>-83.7724743333333,30.1394274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

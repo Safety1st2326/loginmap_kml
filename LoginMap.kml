@@ -163,5 +163,23 @@
       Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
         <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 8/3/25 8:48 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04551-B</name>
+        <description><![CDATA[Date: 8/3/25 8:49 AM
+      Site Name: Beaumont
+      AGL: 330
+      Tower Type: Guyed
+      Address: 1768 Thomas Clayton Road, Beaumont, Perry, MS 39423]]></description>
+        <Point><coordinates>-88.9166138888889,31.1582305555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

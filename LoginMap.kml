@@ -370,5 +370,14 @@
       Address: 28 Olde Canterbury Road, Northwood, Rockingham, NH 03261-3716]]></description>
         <Point><coordinates>-71.2397774444444,43.223416,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX12849-A</name>
+        <description><![CDATA[Date: 8/3/25 1:33 PM
+      Site Name: Brooks TX
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7707 E Hwy 79, Henderson, Rusk, TX 75652]]></description>
+        <Point><coordinates>-94.668191,32.1544694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

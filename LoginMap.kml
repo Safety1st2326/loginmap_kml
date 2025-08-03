@@ -379,5 +379,23 @@
       Address: 7707 E Hwy 79, Henderson, Rusk, TX 75652]]></description>
         <Point><coordinates>-94.668191,32.1544694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21285-A</name>
+        <description><![CDATA[Date: 8/3/25 2:13 PM
+      Site Name: Redwood Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: N9868 HWY 151, Trenton, Dodge, WI 53916]]></description>
+        <Point><coordinates>-88.7798003333333,43.5497471666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21792-A</name>
+        <description><![CDATA[Date: 8/3/25 2:18 PM
+      Site Name: Valera
+      AGL: 300
+      Tower Type: Guyed
+      Address: 467 COUNTY ROAD 368, VALERA, COLEMAN, TX 76884]]></description>
+        <Point><coordinates>-99.5658944444444,31.7523861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

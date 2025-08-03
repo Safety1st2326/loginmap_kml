@@ -307,5 +307,32 @@
       Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
         <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR41696-T</name>
+        <description><![CDATA[Date: 8/3/25 12:21 PM
+      Site Name: Bend South- Country Club
+      AGL: 110
+      Tower Type: Monopole Tree
+      Address: 61045 Country Club Drive, Bend, Deschutes, OR 97702]]></description>
+        <Point><coordinates>-121.310086111111,44.0129583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT04877-A</name>
+        <description><![CDATA[Date: 8/3/25 12:24 PM
+      Site Name: Waterbury 2 CT
+      AGL: 277
+      Tower Type: Guyed
+      Address: 207 Garden Circle, Waterbury, New Haven/Waterbury, CT 06704-2844]]></description>
+        <Point><coordinates>-73.0174993333333,41.5697215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21782-A</name>
+        <description><![CDATA[Date: 8/3/25 12:25 PM
+      Site Name: Novice Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 3374 US HWY. 84, NOVICE, COLEMAN, TX 79538]]></description>
+        <Point><coordinates>-99.6179882222222,32.0074944444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

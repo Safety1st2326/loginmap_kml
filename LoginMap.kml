@@ -73,5 +73,14 @@
       Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
         <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05006-A</name>
+        <description><![CDATA[Date: 8/3/25 7:59 AM
+      Site Name: Price Mt
+      AGL: 256
+      Tower Type: Self Support
+      Address: 5847 Tower Road, Springdale, Washington, AR 72764-8521]]></description>
+        <Point><coordinates>-94.0693048888889,36.1650666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

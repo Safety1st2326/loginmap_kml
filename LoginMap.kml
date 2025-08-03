@@ -37,5 +37,23 @@
       Address: 232 Thornton Tower  Road, Thornton, Taylor, WV 26440]]></description>
         <Point><coordinates>-79.9404913333333,39.3422274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC03505-S</name>
+        <description><![CDATA[Date: 8/3/25 7:31 AM
+      Site Name: Gilkey
+      AGL: 275
+      Tower Type: Self Support
+      Address: 288 Lawing Mill Rd, Rutherfordton, Rutherford, NC 28139-8091]]></description>
+        <Point><coordinates>-81.9776354444444,35.4459413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC03505-S</name>
+        <description><![CDATA[Date: 8/3/25 7:37 AM
+      Site Name: Gilkey
+      AGL: 275
+      Tower Type: Self Support
+      Address: 288 Lawing Mill Rd, Rutherfordton, Rutherford, NC 28139-8091]]></description>
+        <Point><coordinates>-81.9776354444444,35.4459413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

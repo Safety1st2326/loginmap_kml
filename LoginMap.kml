@@ -289,5 +289,14 @@
       Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
         <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VT17347-A</name>
+        <description><![CDATA[Date: 8/3/25 11:45 AM
+      Site Name: Robbins Mountain
+      AGL: 70
+      Tower Type: Self Support
+      Address: 1403 Wes White Hill, Bolton, Chittenden, VT 05676]]></description>
+        <Point><coordinates>-72.9306965555556,44.3644972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

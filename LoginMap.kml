@@ -19,5 +19,14 @@
       Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
         <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/3/25 6:57 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

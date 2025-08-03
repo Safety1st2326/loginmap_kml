@@ -136,5 +136,32 @@
       Address: 4453 Millers Mill Road, Trinity, Randolph, NC 27370]]></description>
         <Point><coordinates>-79.9590583333333,35.8356413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/3/25 8:31 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20792-A</name>
+        <description><![CDATA[Date: 8/3/25 8:33 AM
+      Site Name: CLINTON SE
+      AGL: 190
+      Tower Type: Self Support
+      Address: 78 SE Highway AA, Clinton, Henry, MO 64735]]></description>
+        <Point><coordinates>-93.7142555555556,38.3540861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/3/25 8:36 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

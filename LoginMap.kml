@@ -100,5 +100,23 @@
       Address: 23 Browns Trace Road, Jericho, Chittenden, VT 05465]]></description>
         <Point><coordinates>-72.9335274444445,44.5081944444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14110-A</name>
+        <description><![CDATA[Date: 8/3/25 8:13 AM
+      Site Name: Rt 711
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3139 Monte Road, Powhatan, Powhatan, VA 23139]]></description>
+        <Point><coordinates>-77.8645,37.6163444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12595-A</name>
+        <description><![CDATA[Date: 8/3/25 8:15 AM
+      Site Name: Onawa
+      AGL: 190
+      Tower Type: Self Support
+      Address: 2201 Cameo Street, Onawa, Monona, IA 51040]]></description>
+        <Point><coordinates>-96.1167548888889,42.0294771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1639,5 +1639,14 @@
       Address: 10901 Rocky Valley Dr., Little Rock, Pulaski, AR 72212-3125]]></description>
         <Point><coordinates>-92.3924857777778,34.7822743333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07251-A</name>
+        <description><![CDATA[Date: 8/4/25 4:34 PM
+      Site Name: N Mayfield
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1068 St. Rt. 45N, Mayfield, GRAVES, KY 42066]]></description>
+        <Point><coordinates>-88.6451441111111,36.7644138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

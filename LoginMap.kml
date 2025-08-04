@@ -1036,5 +1036,32 @@
       Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
         <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12204-A</name>
+        <description><![CDATA[Date: 8/4/25 11:24 AM
+      Site Name: Blackstone 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 83 Federal Street, Blackstone, Worcester, MA 01504]]></description>
+        <Point><coordinates>-71.5282354444444,42.0260354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA12647-A</name>
+        <description><![CDATA[Date: 8/4/25 11:39 AM
+      Site Name: Pine Pasture
+      AGL: 174
+      Tower Type: Monopole
+      Address: NW/4 of NW/4; Section 36; Township 11, Range 7W, Bell City, Calcasieu, LA 70630]]></description>
+        <Point><coordinates>-93.046033,30.0516638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 8/4/25 11:39 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1468,5 +1468,32 @@
       Address: 1709 Lee Burd Road, Benton, Marshall, KY 42025]]></description>
         <Point><coordinates>-88.4762604444444,36.8230687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46298-A</name>
+        <description><![CDATA[Date: 8/4/25 1:55 PM
+      Site Name: RAY BUCKNER
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6700 Hoffner Avenue, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.2928774444444,28.479291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46298-A</name>
+        <description><![CDATA[Date: 8/4/25 1:55 PM
+      Site Name: RAY BUCKNER
+      AGL: 142
+      Tower Type: Monopole
+      Address: 6700 Hoffner Avenue, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.2928774444444,28.479291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO21303-A</name>
+        <description><![CDATA[Date: 8/4/25 1:58 PM
+      Site Name: Pueblo South
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
+        <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

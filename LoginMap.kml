@@ -1189,5 +1189,50 @@
       Address: 13877 Old Sterling City Hwy, Water Valley, Tom Green, TX 76958]]></description>
         <Point><coordinates>-100.687999666667,31.6396663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47632-A</name>
+        <description><![CDATA[Date: 8/4/25 12:38 PM
+      Site Name: Bandon South
+      AGL: 175
+      Tower Type: Self Support
+      Address: 55295 Fish Hatchery Road, Bandon, Coos, OR 97411]]></description>
+        <Point><coordinates>-124.382468777778,43.1185465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/4/25 12:32 PM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12248-A</name>
+        <description><![CDATA[Date: 8/4/25 12:32 PM
+      Site Name: S Chickasaw Trail
+      AGL: 160
+      Tower Type: Stealth
+      Address: 4230 South Chickasaw Trail, Orlando, Orange, FL 32829]]></description>
+        <Point><coordinates>-81.2699993333333,28.492208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45989-A</name>
+        <description><![CDATA[Date: 8/4/25 12:45 PM
+      Site Name: Manor Baptist
+      AGL: 56
+      Tower Type: Monopine
+      Address: 1845 Lewelling Blvd., San Leandro, Alameda, CA 94579]]></description>
+        <Point><coordinates>-122.154583333333,37.6805854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22501-A</name>
+        <description><![CDATA[Date: 8/4/25 12:48 PM
+      Site Name: Spruce and Main
+      AGL: 130
+      Tower Type: Monopole
+      Address: 45 E. Spruce Street, Canton, Fulton, IL 61520]]></description>
+        <Point><coordinates>-90.0341552222222,40.5600194444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

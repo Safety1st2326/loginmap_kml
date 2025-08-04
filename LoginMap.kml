@@ -1585,5 +1585,14 @@
       Address: 15830 CR675, Parrish, Manatee, FL 34219]]></description>
         <Point><coordinates>-82.3773937777778,27.574991,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>LA08823-A</name>
+        <description><![CDATA[Date: 8/4/25 3:42 PM
+      Site Name: Negreet Creek
+      AGL: 300
+      Tower Type: Guyed
+      Address: 30734 Highway 191, Many, Sabine, LA 71449-5671]]></description>
+        <Point><coordinates>-93.6605888888889,31.4867607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

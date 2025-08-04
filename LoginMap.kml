@@ -892,5 +892,14 @@
       Address: 234 ? A, South Park Avenue, Neenah, Winnebago, WI 54956]]></description>
         <Point><coordinates>-88.446158,44.1774465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV14253-A</name>
+        <description><![CDATA[Date: 8/4/25 10:25 AM
+      Site Name: Tunnelton
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
+        <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

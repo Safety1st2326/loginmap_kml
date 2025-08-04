@@ -451,5 +451,68 @@
       Address: 1 Adventure Lane, Jim Thorpe, Carbon, PA 18229-1519]]></description>
         <Point><coordinates>-75.7407191111111,40.8759215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21102-A</name>
+        <description><![CDATA[Date: 8/4/25 8:40 AM
+      Site Name: Osseo 2 WI
+      AGL: 300
+      Tower Type: Guyed
+      Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
+        <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15887-A</name>
+        <description><![CDATA[Date: 8/4/25 8:40 AM
+      Site Name: Beneva
+      AGL: 185
+      Tower Type: Self Support
+      Address: 1111 Beneva Road, Sarasota, Sarasota, FL 34232]]></description>
+        <Point><coordinates>-82.4958088333333,27.3243007222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08338-B</name>
+        <description><![CDATA[Date: 8/4/25 8:46 AM
+      Site Name: Blythewood
+      AGL: 300
+      Tower Type: Self Support
+      Address: 8689 Winnsboro Rd, Blythewood, Richland, SC 29016-9712]]></description>
+        <Point><coordinates>-81.0687882222222,34.223516,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/4/25 8:46 AM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI12085-B</name>
+        <description><![CDATA[Date: 8/4/25 8:33 AM
+      Site Name: Ewen
+      AGL: 251
+      Tower Type: Guyed
+      Address: 13321 Hall Road, Ewen, Ontonagon, MI 49925]]></description>
+        <Point><coordinates>-89.2465524444444,46.5246937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 8/4/25 8:49 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12572-A</name>
+        <description><![CDATA[Date: 8/4/25 8:34 AM
+      Site Name: Cleghorn
+      AGL: 237
+      Tower Type: Self Support
+      Address: 403 W. Grace, Cleghorn, Cherokee, IA 51014]]></description>
+        <Point><coordinates>-95.7170604444444,42.8131916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

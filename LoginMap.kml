@@ -1441,5 +1441,14 @@
       Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
         <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NE47167-A</name>
+        <description><![CDATA[Date: 8/4/25 1:34 PM
+      Site Name: Safe Guard Storage
+      AGL: 101
+      Tower Type: Stealth
+      Address: 4110 North 129th Street, Omaha, Douglas, NE 68164]]></description>
+        <Point><coordinates>-96.1158138888889,41.2957107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

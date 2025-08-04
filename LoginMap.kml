@@ -361,5 +361,68 @@
       Address: 6105 Bellefontaine Road, Huber Heights, Montgomery, OH 45424-4006]]></description>
         <Point><coordinates>-84.1035472222222,39.8415107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/4/25 8:22 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 8/4/25 8:22 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopole Tree
+      Address: 8885 Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7661,35.2464385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20792-A</name>
+        <description><![CDATA[Date: 8/4/25 8:22 AM
+      Site Name: CLINTON SE
+      AGL: 190
+      Tower Type: Self Support
+      Address: 78 SE Highway AA, Clinton, Henry, MO 64735]]></description>
+        <Point><coordinates>-93.7142555555556,38.3540861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN05116-A</name>
+        <description><![CDATA[Date: 8/4/25 8:22 AM
+      Site Name: Bush Grove
+      AGL: 149
+      Tower Type: Monopine
+      Address: 8891/8887 US Highway 70, Bartlett, Shelby, TN 38002]]></description>
+        <Point><coordinates>-89.7659305555556,35.2464441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 8/4/25 8:25 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20153-A</name>
+        <description><![CDATA[Date: 8/4/25 8:28 AM
+      Site Name: Branson Tower
+      AGL: 352
+      Tower Type: Self Support
+      Address: 246 Adair Road, Branson, TANEY, MO 65653]]></description>
+        <Point><coordinates>-93.2222271111111,36.7178243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/4/25 8:28 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

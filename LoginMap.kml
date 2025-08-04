@@ -937,5 +937,14 @@
       Address: 11909 Grafton Road, Grafton, Lorain, OH 44044]]></description>
         <Point><coordinates>-82.0686604444444,41.3191271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11027-A</name>
+        <description><![CDATA[Date: 8/4/25 10:58 AM
+      Site Name: Crawford 5 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 7244 Old McGregor Crawford Rd, Crawford, Mclennan, TX 76638]]></description>
+        <Point><coordinates>-97.4440302222222,31.5289798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

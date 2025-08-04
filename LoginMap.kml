@@ -1369,5 +1369,77 @@
       Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
         <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16952-A</name>
+        <description><![CDATA[Date: 8/4/25 1:21 PM
+      Site Name: Oakleaf
+      AGL: 161
+      Tower Type: Monopole
+      Address: 298 Cherry Ridge Drive, Jacksonville, Duval, FL 32222]]></description>
+        <Point><coordinates>-81.835483,30.1894663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04551-B</name>
+        <description><![CDATA[Date: 8/4/25 1:22 PM
+      Site Name: Beaumont
+      AGL: 330
+      Tower Type: Guyed
+      Address: 1768 Thomas Clayton Road, Beaumont, Perry, MS 39423]]></description>
+        <Point><coordinates>-88.9166138888889,31.1582305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16952-A</name>
+        <description><![CDATA[Date: 8/4/25 1:22 PM
+      Site Name: Oakleaf
+      AGL: 161
+      Tower Type: Monopole
+      Address: 298 Cherry Ridge Drive, Jacksonville, Duval, FL 32222]]></description>
+        <Point><coordinates>-81.835483,30.1894663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16952-A</name>
+        <description><![CDATA[Date: 8/4/25 1:22 PM
+      Site Name: Oakleaf
+      AGL: 161
+      Tower Type: Monopole
+      Address: 298 Cherry Ridge Drive, Jacksonville, Duval, FL 32222]]></description>
+        <Point><coordinates>-81.835483,30.1894663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR16869-A</name>
+        <description><![CDATA[Date: 8/4/25 1:24 PM
+      Site Name: Palarm
+      AGL: 149
+      Tower Type: Monopole
+      Address: 16272 Vista Del Rio Drive, North Little Rock, Pulaski, AR 72113]]></description>
+        <Point><coordinates>-92.4392246666667,34.8987357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11866-A</name>
+        <description><![CDATA[Date: 8/4/25 1:25 PM
+      Site Name: Semoran Ave
+      AGL: 146
+      Tower Type: Monopole
+      Address: 3948 South Semoran Boulevard, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.3127805555555,28.5034527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11866-A</name>
+        <description><![CDATA[Date: 8/4/25 1:25 PM
+      Site Name: Semoran Ave
+      AGL: 146
+      Tower Type: Monopole
+      Address: 3948 South Semoran Boulevard, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.3127805555555,28.5034527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14328-A</name>
+        <description><![CDATA[Date: 8/4/25 1:27 PM
+      Site Name: Vest
+      AGL: 150
+      Tower Type: Monopole
+      Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

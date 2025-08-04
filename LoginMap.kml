@@ -19,5 +19,23 @@
       Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
         <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD46717-A</name>
+        <description><![CDATA[Date: 8/4/25 6:48 AM
+      Site Name: Glenelg
+      AGL: 156
+      Tower Type: Monopole
+      Address: 4105 Ten Oaks Rd, Dayton, Howard, MD 21036]]></description>
+        <Point><coordinates>-76.9842774444444,39.2600833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11844-B</name>
+        <description><![CDATA[Date: 8/4/25 6:58 AM
+      Site Name: Pine Mountain 2 PA
+      AGL: 195
+      Tower Type: Monopole Tree
+      Address: Route 447, East Stroudsburg, Monroe, PA 18301]]></description>
+        <Point><coordinates>-75.2135888888889,41.1031083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

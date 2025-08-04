@@ -1693,5 +1693,32 @@
       Address: 20 East 1320 South, Elsinore, Sevier, UT 84724]]></description>
         <Point><coordinates>-112.147860777778,38.6634444444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05005-A</name>
+        <description><![CDATA[Date: 8/4/25 5:30 PM
+      Site Name: Pleasant Grove Baptist
+      AGL: 190
+      Tower Type: Monopole
+      Address: 1799 W Pleasant Grove Road, Rogers, Benton, AR 72758]]></description>
+        <Point><coordinates>-94.1462635555555,36.2834524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17282-B</name>
+        <description><![CDATA[Date: 8/4/25 5:39 PM
+      Site Name: Neillsville East
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
+        <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI20219-A</name>
+        <description><![CDATA[Date: 8/4/25 5:39 PM
+      Site Name: Griffin Auto Body
+      AGL: 170
+      Tower Type: Self Support
+      Address: 1706 Pearl Street, Waukesha, WAUKESHA, WI 53186]]></description>
+        <Point><coordinates>-88.1970691111111,43.0086777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

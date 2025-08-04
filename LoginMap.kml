@@ -1738,5 +1738,14 @@
       Address: 3500 I-70 Drive SE, Columbia, Boone, MO 65201]]></description>
         <Point><coordinates>-92.2873663333333,38.9602527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40792-T</name>
+        <description><![CDATA[Date: 8/4/25 6:27 PM
+      Site Name: Pilgrim Place 2 CA
+      AGL: 50
+      Tower Type: Stealth
+      Address: 660 Avery Road, Claremont, Los Angeles, CA 91711]]></description>
+        <Point><coordinates>-117.726346,34.0996974444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

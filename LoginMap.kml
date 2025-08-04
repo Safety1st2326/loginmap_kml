@@ -10,5 +10,14 @@
       Address: 15 North Granby Road, Granby, Hartford, CT 06035]]></description>
         <Point><coordinates>-72.7937302222222,41.9535861111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/4/25 6:34 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

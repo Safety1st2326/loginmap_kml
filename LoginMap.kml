@@ -586,5 +586,86 @@
       Address: 6970 Hawthorne Road, LA PLATA, CHARLES, MD 20646]]></description>
         <Point><coordinates>-77.0712215555556,38.5463885555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12249-A</name>
+        <description><![CDATA[Date: 8/4/25 9:07 AM
+      Site Name: UCF North
+      AGL: 131
+      Tower Type: Flagpole
+      Address: 3925 Lockwood Boulevard, Oviedo, Seminole, FL 32765]]></description>
+        <Point><coordinates>-81.1904663333333,28.6129833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12249-A</name>
+        <description><![CDATA[Date: 8/4/25 9:07 AM
+      Site Name: UCF North
+      AGL: 131
+      Tower Type: Flagpole
+      Address: 3925 Lockwood Boulevard, Oviedo, Seminole, FL 32765]]></description>
+        <Point><coordinates>-81.1904663333333,28.6129833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 8/4/25 9:07 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH18056-A</name>
+        <description><![CDATA[Date: 8/4/25 9:07 AM
+      Site Name: City of Euclid Structure 2
+      AGL: 288
+      Tower Type: Self Support
+      Address: 545 East 222nd Street, Rear, Euclid, Cuyahoga, OH 44123]]></description>
+        <Point><coordinates>-81.5251743333333,41.6005472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/4/25 9:13 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/4/25 9:13 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01367-B</name>
+        <description><![CDATA[Date: 8/4/25 9:17 AM
+      Site Name: Cherokee
+      AGL: 220
+      Tower Type: Monopole
+      Address: 420 2nd Loop Road, Florence, Florence, SC 29505-2814]]></description>
+        <Point><coordinates>-79.7703354444444,34.1652777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME14812-A</name>
+        <description><![CDATA[Date: 8/4/25 9:18 AM
+      Site Name: Lewiston 4 ME
+      AGL: 180
+      Tower Type: Self Support
+      Address: 532 East Street, Lewiston, Androscoggin, ME 04240]]></description>
+        <Point><coordinates>-70.1807632222222,44.1159527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN01432-S</name>
+        <description><![CDATA[Date: 8/4/25 9:19 AM
+      Site Name: Rouse Road
+      AGL: 276
+      Tower Type: Self Support
+      Address: 5494 St. Paul Road, Morristown, Hamblen, TN 37813-4841]]></description>
+        <Point><coordinates>-83.2651166666667,36.1396718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

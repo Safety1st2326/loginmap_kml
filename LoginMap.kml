@@ -1684,5 +1684,14 @@
       Address: 3588 Old Millersport Rd., Lancaster, Fairfield, OH 43130]]></description>
         <Point><coordinates>-82.5573888888889,39.7754493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48072-A</name>
+        <description><![CDATA[Date: 8/4/25 5:24 PM
+      Site Name: Elsinore
+      AGL: 119
+      Tower Type: Monopole
+      Address: 20 East 1320 South, Elsinore, Sevier, UT 84724]]></description>
+        <Point><coordinates>-112.147860777778,38.6634444444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

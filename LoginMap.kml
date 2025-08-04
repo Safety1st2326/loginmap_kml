@@ -667,5 +667,50 @@
       Address: 5494 St. Paul Road, Morristown, Hamblen, TN 37813-4841]]></description>
         <Point><coordinates>-83.2651166666667,36.1396718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 8/4/25 9:16 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 8/4/25 9:20 AM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC01367-B</name>
+        <description><![CDATA[Date: 8/4/25 9:20 AM
+      Site Name: Cherokee
+      AGL: 220
+      Tower Type: Monopole
+      Address: 420 2nd Loop Road, Florence, Florence, SC 29505-2814]]></description>
+        <Point><coordinates>-79.7703354444444,34.1652777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12516-B</name>
+        <description><![CDATA[Date: 8/4/25 9:11 AM
+      Site Name: Tankersley
+      AGL: 300
+      Tower Type: Guyed
+      Address: 150 Metcalfe Road, Mertzon, Irion, TX 76941]]></description>
+        <Point><coordinates>-100.701836111111,31.3428913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12516-B</name>
+        <description><![CDATA[Date: 8/4/25 9:21 AM
+      Site Name: Tankersley
+      AGL: 300
+      Tower Type: Guyed
+      Address: 150 Metcalfe Road, Mertzon, Irion, TX 76941]]></description>
+        <Point><coordinates>-100.701836111111,31.3428913333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

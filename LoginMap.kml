@@ -1675,5 +1675,14 @@
       Address: Ranch Road 2594, Rankin, Upton, TX 79755]]></description>
         <Point><coordinates>-101.838502444444,31.4807993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH47508-A</name>
+        <description><![CDATA[Date: 8/4/25 5:12 PM
+      Site Name: Coonpath (Synergy Cb73xc027)
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3588 Old Millersport Rd., Lancaster, Fairfield, OH 43130]]></description>
+        <Point><coordinates>-82.5573888888889,39.7754493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

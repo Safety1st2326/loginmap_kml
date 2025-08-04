@@ -1549,5 +1549,14 @@
       Address: 1760 234th St. NE, Okarche, Canadian, OK 73762]]></description>
         <Point><coordinates>-97.9394107777778,35.7108138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR20464-A</name>
+        <description><![CDATA[Date: 8/4/25 3:06 PM
+      Site Name: Maumelle Tower
+      AGL: 195
+      Tower Type: Monopole
+      Address: 7100 Counts Massie Road, Maumelle, PULASKI, AR 72113]]></description>
+        <Point><coordinates>-92.3819279444444,34.8225604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

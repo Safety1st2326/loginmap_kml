@@ -865,5 +865,32 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 8/4/25 10:16 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 8/4/25 10:21 AM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI10063-A</name>
+        <description><![CDATA[Date: 8/4/25 10:25 AM
+      Site Name: Neenah
+      AGL: 156
+      Tower Type: Monopole
+      Address: 234 ? A, South Park Avenue, Neenah, Winnebago, WI 54956]]></description>
+        <Point><coordinates>-88.446158,44.1774465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

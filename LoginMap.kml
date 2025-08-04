@@ -712,5 +712,59 @@
       Address: 150 Metcalfe Road, Mertzon, Irion, TX 76941]]></description>
         <Point><coordinates>-100.701836111111,31.3428913333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 8/4/25 9:28 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN01432-S</name>
+        <description><![CDATA[Date: 8/4/25 9:29 AM
+      Site Name: Rouse Road
+      AGL: 276
+      Tower Type: Self Support
+      Address: 5494 St. Paul Road, Morristown, Hamblen, TN 37813-4841]]></description>
+        <Point><coordinates>-83.2651166666667,36.1396718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 8/4/25 9:27 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL05983-A</name>
+        <description><![CDATA[Date: 8/4/25 9:38 AM
+      Site Name: Blank AL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 15992 US Highway 231, Wetumpka, Elmore, AL 36080]]></description>
+        <Point><coordinates>-86.2465135555556,32.6524666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12247-A</name>
+        <description><![CDATA[Date: 8/4/25 9:28 AM
+      Site Name: Hwy 50
+      AGL: 139
+      Tower Type: Monopole
+      Address: 12720 East Colonial Drive, Orlando, Orange, FL 32828]]></description>
+        <Point><coordinates>-81.1889274444444,28.5642916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13522-A</name>
+        <description><![CDATA[Date: 8/4/25 9:27 AM
+      Site Name: Rippon
+      AGL: 198
+      Tower Type: Self Support
+      Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
+        <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

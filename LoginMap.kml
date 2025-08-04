@@ -982,5 +982,50 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT16855-S</name>
+        <description><![CDATA[Date: 8/4/25 11:10 AM
+      Site Name: Triangle Mountain
+      AGL: 179
+      Tower Type: Self Support
+      Address: T22S R 1E, Sec 11, NW1/4 Salt Lake Principal Meridian, Salina, Sevier, UT 84654]]></description>
+        <Point><coordinates>-111.770202111111,38.9122638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT12385-A</name>
+        <description><![CDATA[Date: 8/4/25 11:10 AM
+      Site Name: Gunnison Mesa
+      AGL: 195
+      Tower Type: Self Support
+      Address: 11050 West 6830 South, Gunnison, Sanpete, UT 84634]]></description>
+        <Point><coordinates>-111.836166333333,39.1664944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48071-A</name>
+        <description><![CDATA[Date: 8/4/25 11:10 AM
+      Site Name: Salina 5 UT
+      AGL: 185
+      Tower Type: Self Support
+      Address: Nw 1/4, Sec 36, T21s, R1w Slb&M, Salina, Sevier, UT 84654]]></description>
+        <Point><coordinates>-111.868304888889,38.942083,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT16855-S</name>
+        <description><![CDATA[Date: 8/4/25 11:10 AM
+      Site Name: Triangle Mountain
+      AGL: 179
+      Tower Type: Self Support
+      Address: T22S R 1E, Sec 11, NW1/4 Salt Lake Principal Meridian, Salina, Sevier, UT 84654]]></description>
+        <Point><coordinates>-111.770202111111,38.9122638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11412-S</name>
+        <description><![CDATA[Date: 8/4/25 11:19 AM
+      Site Name: Lone Oak 2 TX
+      AGL: 301
+      Tower Type: Self Support
+      Address: 412 Church Street, Lone Oak, Hunt, TX 75453]]></description>
+        <Point><coordinates>-95.936333,32.9937774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

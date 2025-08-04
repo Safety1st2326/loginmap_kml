@@ -946,5 +946,41 @@
       Address: 7244 Old McGregor Crawford Rd, Crawford, Mclennan, TX 76638]]></description>
         <Point><coordinates>-97.4440302222222,31.5289798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX47837-A</name>
+        <description><![CDATA[Date: 8/4/25 11:03 AM
+      Site Name: Riverbend Lane
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1200 Riverbend Ln , Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7474718888889,31.4214715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX06046-A</name>
+        <description><![CDATA[Date: 8/4/25 11:03 AM
+      Site Name: Linden 4 TX
+      AGL: 251
+      Tower Type: Self Support
+      Address: 707 S. Main St., Linden, Cass, TX 75563-5666]]></description>
+        <Point><coordinates>-94.3638888888889,33.0069444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 8/4/25 11:03 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 8/4/25 11:03 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -559,5 +559,14 @@
       Address: 730 W State Road 31, Huntington, Emery, UT 84528]]></description>
         <Point><coordinates>-110.975524333333,39.343033,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT15635-A</name>
+        <description><![CDATA[Date: 8/3/25 7:57 PM
+      Site Name: Northsite
+      AGL: 180
+      Tower Type: Self Support
+      Address: 3730 S. Cowboy Mine Road, Emery, Emery, UT 84522]]></description>
+        <Point><coordinates>-111.216749333333,38.8302215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

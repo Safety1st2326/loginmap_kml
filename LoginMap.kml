@@ -1234,5 +1234,41 @@
       Address: 45 E. Spruce Street, Canton, Fulton, IL 61520]]></description>
         <Point><coordinates>-90.0341552222222,40.5600194444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL11032-A</name>
+        <description><![CDATA[Date: 8/4/25 12:55 PM
+      Site Name: Curry Ford Rd
+      AGL: 141
+      Tower Type: MonoCross
+      Address: 8287 Curry Ford Road, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.2725326666667,28.5126555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11032-A</name>
+        <description><![CDATA[Date: 8/4/25 12:57 PM
+      Site Name: Curry Ford Rd
+      AGL: 141
+      Tower Type: MonoCross
+      Address: 8287 Curry Ford Road, Orlando, Orange, FL 32822]]></description>
+        <Point><coordinates>-81.2725326666667,28.5126555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA46655-A</name>
+        <description><![CDATA[Date: 8/4/25 12:57 PM
+      Site Name: Killona-la
+      AGL: 301
+      Tower Type: Guyed
+      Address: 5071 Hwy 3127, Killona, St. Charles, LA 70066]]></description>
+        <Point><coordinates>-90.5052333333333,29.990458,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI22408-A</name>
+        <description><![CDATA[Date: 8/4/25 12:57 PM
+      Site Name: Shiocton
+      AGL: 151
+      Tower Type: Monopole
+      Address: W7844 West St., Shiocton, Outagamie, WI 54170]]></description>
+        <Point><coordinates>-88.5834663333333,44.4391496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

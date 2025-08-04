@@ -1063,5 +1063,32 @@
       Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
         <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA10705-A</name>
+        <description><![CDATA[Date: 8/4/25 11:40 AM
+      Site Name: North Dublin
+      AGL: 301
+      Tower Type: Self Support
+      Address: 135 Holly Ridge Road, Dublin, Laurens, GA 31021]]></description>
+        <Point><coordinates>-82.9913191111111,32.6201993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12382-A</name>
+        <description><![CDATA[Date: 8/4/25 11:37 AM
+      Site Name: Avalon South
+      AGL: 163
+      Tower Type: Flagpole
+      Address: 12732 Tanja King Boulevard, Orlando, Orange, FL 32828]]></description>
+        <Point><coordinates>-81.1584472222222,28.5109805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY13338-A</name>
+        <description><![CDATA[Date: 8/4/25 11:37 AM
+      Site Name: Castleton
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1000 Western Road, Schodack, Rensselaer, NY 12033]]></description>
+        <Point><coordinates>-73.7254493333333,42.5412191111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

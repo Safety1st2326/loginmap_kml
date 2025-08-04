@@ -244,5 +244,77 @@
       Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
         <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY00567-A</name>
+        <description><![CDATA[Date: 8/4/25 7:55 AM
+      Site Name: Buckley Road
+      AGL: 142
+      Tower Type: Self Support
+      Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
+        <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00567-A</name>
+        <description><![CDATA[Date: 8/4/25 7:55 AM
+      Site Name: Buckley Road
+      AGL: 142
+      Tower Type: Self Support
+      Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
+        <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/4/25 7:55 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/4/25 7:55 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00567-A</name>
+        <description><![CDATA[Date: 8/4/25 7:55 AM
+      Site Name: Buckley Road
+      AGL: 142
+      Tower Type: Self Support
+      Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
+        <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN08719-A</name>
+        <description><![CDATA[Date: 8/4/25 7:48 AM
+      Site Name: Muncie
+      AGL: 220
+      Tower Type: Self Support
+      Address: 434 S. Pershing Dr., Muncie, Delaware, IN 47305-2638]]></description>
+        <Point><coordinates>-85.3783326666667,40.1900357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00027-A</name>
+        <description><![CDATA[Date: 8/4/25 7:58 AM
+      Site Name: Jax Airport
+      AGL: 244
+      Tower Type: Self Support
+      Address: 546 Owens Road, Jacksonville, Duval, FL 32218-1725]]></description>
+        <Point><coordinates>-81.6350941111111,30.4896441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 8/4/25 7:58 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

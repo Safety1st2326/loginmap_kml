@@ -1450,5 +1450,23 @@
       Address: 4110 North 129th Street, Omaha, Douglas, NE 68164]]></description>
         <Point><coordinates>-96.1158138888889,41.2957107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14328-A</name>
+        <description><![CDATA[Date: 8/4/25 1:35 PM
+      Site Name: Vest
+      AGL: 150
+      Tower Type: Monopole
+      Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07258-A</name>
+        <description><![CDATA[Date: 8/4/25 1:49 PM
+      Site Name: Harvey
+      AGL: 310
+      Tower Type: Guyed
+      Address: 1709 Lee Burd Road, Benton, Marshall, KY 42025]]></description>
+        <Point><coordinates>-88.4762604444444,36.8230687777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

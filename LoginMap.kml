@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>CT46134-A</name>
+        <description><![CDATA[Date: 8/4/25 6:16 AM
+      Site Name: Granby-n Granby
+      AGL: 150
+      Tower Type: Monopole
+      Address: 15 North Granby Road, Granby, Hartford, CT 06035]]></description>
+        <Point><coordinates>-72.7937302222222,41.9535861111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

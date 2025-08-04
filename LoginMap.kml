@@ -1270,5 +1270,50 @@
       Address: W7844 West St., Shiocton, Outagamie, WI 54170]]></description>
         <Point><coordinates>-88.5834663333333,44.4391496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK20870-A</name>
+        <description><![CDATA[Date: 8/4/25 1:01 PM
+      Site Name: Deer Creek 2 OK
+      AGL: 340
+      Tower Type: Guyed
+      Address: 7821 NW 192nd Street, Oklahoma City, Oklahoma, OK 73078]]></description>
+        <Point><coordinates>-97.6536666666667,35.6743354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA06640-A</name>
+        <description><![CDATA[Date: 8/4/25 1:04 PM
+      Site Name: South Main
+      AGL: 285
+      Tower Type: Self Support
+      Address: 746 DR H J Kaufman Ave, Cottonport, Avoyelles, LA 71327]]></description>
+        <Point><coordinates>-92.0567055555556,30.9841107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/4/25 1:04 PM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.4991552222222,34.01315,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/4/25 1:04 PM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5005583333333,34.0141222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/4/25 1:04 PM
+      Site Name: Sandy Plains 2 GA
+      AGL: 
+      Tower Type: COW
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5000472222222,34.013975,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1027,5 +1027,14 @@
       Address: 412 Church Street, Lone Oak, Hunt, TX 75453]]></description>
         <Point><coordinates>-95.936333,32.9937774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 8/4/25 11:28 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

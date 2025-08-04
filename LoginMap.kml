@@ -829,5 +829,41 @@
       Address: 16868 Old Cheney Hwy, Orlando, Orange, FL 32833]]></description>
         <Point><coordinates>-81.1324132222222,28.5589222222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 8/4/25 10:01 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 8/4/25 9:56 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16724-A</name>
+        <description><![CDATA[Date: 8/4/25 10:02 AM
+      Site Name: Augusta
+      AGL: 250
+      Tower Type: Guyed
+      Address: 7214 Kensington Road NE, Carrollton, Carroll, OH 44615]]></description>
+        <Point><coordinates>-81.0256021111111,40.6783715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 8/4/25 10:08 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

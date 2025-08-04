@@ -514,5 +514,77 @@
       Address: 403 W. Grace, Cleghorn, Cherokee, IA 51014]]></description>
         <Point><coordinates>-95.7170604444444,42.8131916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY47387-A</name>
+        <description><![CDATA[Date: 8/4/25 8:55 AM
+      Site Name: Latham East
+      AGL: 72
+      Tower Type: Stealth
+      Address: 622 Watervliet Shaker Rd. , Latham, Albany, NY 12110]]></description>
+        <Point><coordinates>-73.7667771111111,42.7358607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13207-A</name>
+        <description><![CDATA[Date: 8/4/25 8:55 AM
+      Site Name: Otis 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
+        <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13207-A</name>
+        <description><![CDATA[Date: 8/4/25 8:55 AM
+      Site Name: Otis 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
+        <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13650-A</name>
+        <description><![CDATA[Date: 8/4/25 8:52 AM
+      Site Name: SR 64 & CR 675
+      AGL: 300
+      Tower Type: Self Support
+      Address: 25103 East SR 64, Palmetto, Manatee, FL 34221]]></description>
+        <Point><coordinates>-82.2894163333333,27.4796382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME15902-A</name>
+        <description><![CDATA[Date: 8/4/25 8:52 AM
+      Site Name: Moody 3 ME
+      AGL: 190
+      Tower Type: Monopole
+      Address: 175 Northeast Rd. [Rte 35],, Standish, Cumberland, ME 4084]]></description>
+        <Point><coordinates>-70.5398607777778,43.7436802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02030-S</name>
+        <description><![CDATA[Date: 8/4/25 8:57 AM
+      Site Name: Pughes Creek
+      AGL: 300
+      Tower Type: Guyed
+      Address: 700 Bush Rd., East Dublin, Laurens, GA 31027-1659]]></description>
+        <Point><coordinates>-82.7985552222222,32.469166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 8/4/25 8:57 AM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46722-A</name>
+        <description><![CDATA[Date: 8/4/25 8:57 AM
+      Site Name: Ripley 5 MD
+      AGL: 127
+      Tower Type: Monopole
+      Address: 6970 Hawthorne Road, LA PLATA, CHARLES, MD 20646]]></description>
+        <Point><coordinates>-77.0712215555556,38.5463885555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -316,5 +316,50 @@
       Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
         <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 8/4/25 8:10 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13409-A</name>
+        <description><![CDATA[Date: 8/4/25 8:02 AM
+      Site Name: Cookeville (I-40)
+      AGL: 240
+      Tower Type: Self Support
+      Address: 2199 Timothy Drive, Cookeville, Putnam, TN 38506]]></description>
+        <Point><coordinates>-85.4575722222222,36.1309354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/4/25 8:18 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/4/25 8:18 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH02210-B</name>
+        <description><![CDATA[Date: 8/4/25 8:07 AM
+      Site Name: East Huber Heights
+      AGL: 170
+      Tower Type: Monopole
+      Address: 6105 Bellefontaine Road, Huber Heights, Montgomery, OH 45424-4006]]></description>
+        <Point><coordinates>-84.1035472222222,39.8415107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

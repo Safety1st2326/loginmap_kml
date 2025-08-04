@@ -802,5 +802,32 @@
       Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
         <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OH02100-B</name>
+        <description><![CDATA[Date: 8/4/25 9:58 AM
+      Site Name: WPAFB
+      AGL: 120
+      Tower Type: Monopole
+      Address: 901 Kauffman Ave, Fairborn, Greene, OH 45324-3851]]></description>
+        <Point><coordinates>-84.0243382222222,39.8119861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24312-A</name>
+        <description><![CDATA[Date: 8/4/25 9:58 AM
+      Site Name: East Orlando
+      AGL: 160
+      Tower Type: Monopole
+      Address: 16868 Old Cheney Hwy, Orlando, Orange, FL 32833]]></description>
+        <Point><coordinates>-81.1324132222222,28.5589222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24312-A</name>
+        <description><![CDATA[Date: 8/4/25 9:58 AM
+      Site Name: East Orlando
+      AGL: 160
+      Tower Type: Monopole
+      Address: 16868 Old Cheney Hwy, Orlando, Orange, FL 32833]]></description>
+        <Point><coordinates>-81.1324132222222,28.5589222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

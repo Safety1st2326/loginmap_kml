@@ -901,5 +901,41 @@
       Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
         <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX21803-A</name>
+        <description><![CDATA[Date: 8/4/25 10:40 AM
+      Site Name: MERTZON
+      AGL: 300
+      Tower Type: Guyed
+      Address: 6198 E. US HIGHWAY 67, MERTZON, IRION, TX 76941]]></description>
+        <Point><coordinates>-100.789096888889,31.3102222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09897-A</name>
+        <description><![CDATA[Date: 8/4/25 10:37 AM
+      Site Name: Hollywood 2 GA
+      AGL: 246
+      Tower Type: Guyed
+      Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
+        <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX14778-A</name>
+        <description><![CDATA[Date: 8/4/25 10:43 AM
+      Site Name: Kermit - Michael
+      AGL: 195
+      Tower Type: Self Support
+      Address: 168 Vest Boulevard, Kermit, Winkler, TX 79745]]></description>
+        <Point><coordinates>-103.087110777778,31.8455885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17291-A</name>
+        <description><![CDATA[Date: 8/4/25 10:43 AM
+      Site Name: Brentwood Lake Elyria 2 OH
+      AGL: 151
+      Tower Type: Self Support
+      Address: 11909 Grafton Road, Grafton, Lorain, OH 44044]]></description>
+        <Point><coordinates>-82.0686604444444,41.3191271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

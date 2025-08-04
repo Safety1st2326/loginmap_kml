@@ -1171,5 +1171,23 @@
       Address: 285 Chamberlain Hill Rd, Village of Higganum, Middlesex/Haddam, CT 06441]]></description>
         <Point><coordinates>-72.6186937777778,41.5017638888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS41166-T</name>
+        <description><![CDATA[Date: 8/4/25 12:21 PM
+      Site Name: Cheney 2 KS
+      AGL: 250
+      Tower Type: Guyed
+      Address: 16867 SE 10th Street, Cheney, Kingman, KS 67025]]></description>
+        <Point><coordinates>-97.8107083333333,37.6315771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13875-A</name>
+        <description><![CDATA[Date: 8/4/25 12:26 PM
+      Site Name: Carlsbad
+      AGL: 301
+      Tower Type: Guyed
+      Address: 13877 Old Sterling City Hwy, Water Valley, Tom Green, TX 76958]]></description>
+        <Point><coordinates>-100.687999666667,31.6396663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

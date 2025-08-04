@@ -1621,5 +1621,14 @@
       Address: 2221 SE 591 ROAD, WARRENSBURG, JOHNSON, MO 65336]]></description>
         <Point><coordinates>-93.6330771111111,38.7234771111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR13369-A</name>
+        <description><![CDATA[Date: 8/4/25 4:06 PM
+      Site Name: Roman Nose
+      AGL: 20
+      Tower Type: Self Support
+      Address: BLM 1, Roman Nose Mountain, Douglas, OR 97467]]></description>
+        <Point><coordinates>-123.737221888889,43.9122222222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

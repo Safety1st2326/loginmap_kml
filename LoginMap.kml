@@ -1666,5 +1666,14 @@
       Address: 11479 6th Street, Rancho Cucamonga, San Bernardino, CA 91730]]></description>
         <Point><coordinates>-117.5541,34.0835996666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX17860-A</name>
+        <description><![CDATA[Date: 8/4/25 5:09 PM
+      Site Name: Midkiff
+      AGL: 301
+      Tower Type: Guyed
+      Address: Ranch Road 2594, Rankin, Upton, TX 79755]]></description>
+        <Point><coordinates>-101.838502444444,31.4807993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -766,5 +766,41 @@
       Address: 844 Wheatland Rd, Charles Town, Jefferson, WV 25414]]></description>
         <Point><coordinates>-77.9113194444444,39.2369718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL12247-A</name>
+        <description><![CDATA[Date: 8/4/25 9:28 AM
+      Site Name: Hwy 50
+      AGL: 139
+      Tower Type: Monopole
+      Address: 12720 East Colonial Drive, Orlando, Orange, FL 32828]]></description>
+        <Point><coordinates>-81.1889274444444,28.5642916666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16961-A</name>
+        <description><![CDATA[Date: 8/4/25 9:43 AM
+      Site Name: Merritt Island
+      AGL: 179
+      Tower Type: Monopole
+      Address: 450 Merritt Island Causeway, Merritt Island, Brevard, FL 32953]]></description>
+        <Point><coordinates>-80.6912107777778,28.3588416666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16962-A</name>
+        <description><![CDATA[Date: 8/4/25 9:43 AM
+      Site Name: Praise Tabernacle
+      AGL: 128
+      Tower Type: Shrouded Monopole
+      Address: 18350 Edgewater Drive, Port Charlotte, Charlotte, FL 33948]]></description>
+        <Point><coordinates>-82.1445388333333,26.9744882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09897-A</name>
+        <description><![CDATA[Date: 8/4/25 9:43 AM
+      Site Name: Hollywood 2 GA
+      AGL: 246
+      Tower Type: Guyed
+      Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
+        <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

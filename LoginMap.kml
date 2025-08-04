@@ -1558,5 +1558,32 @@
       Address: 7100 Counts Massie Road, Maumelle, PULASKI, AR 72113]]></description>
         <Point><coordinates>-92.3819279444444,34.8225604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL24393-A</name>
+        <description><![CDATA[Date: 8/4/25 3:12 PM
+      Site Name: Rutland Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15830 CR675, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.3773937777778,27.574991,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY14512-A</name>
+        <description><![CDATA[Date: 8/4/25 3:15 PM
+      Site Name: Hicksville 3 KY
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1435 McKendree Church Road, Mayfield, Graves, KY 42066]]></description>
+        <Point><coordinates>-88.506175,36.7984635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL24393-A</name>
+        <description><![CDATA[Date: 8/4/25 3:18 PM
+      Site Name: Rutland Road
+      AGL: 195
+      Tower Type: Monopole
+      Address: 15830 CR675, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.3773937777778,27.574991,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

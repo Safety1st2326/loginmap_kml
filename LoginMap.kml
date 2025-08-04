@@ -235,5 +235,14 @@
       Address: 3351 W Orange Blossom Trail, Apopka, Orange, FL 32712]]></description>
         <Point><coordinates>-81.5656833333333,28.6912135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 8/4/25 7:28 AM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

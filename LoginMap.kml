@@ -424,5 +424,32 @@
       Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
         <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 8/4/25 8:35 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY08449-S</name>
+        <description><![CDATA[Date: 8/4/25 8:37 AM
+      Site Name: Salina 3 NY
+      AGL: 110
+      Tower Type: Monopole Tree
+      Address: 7767 Oswego Road, Liverpool, Onondaga, NY 13090]]></description>
+        <Point><coordinates>-76.2316632222222,43.1464802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06741-B</name>
+        <description><![CDATA[Date: 8/4/25 8:37 AM
+      Site Name: Jim Thorpe
+      AGL: 199
+      Tower Type: Flagpole
+      Address: 1 Adventure Lane, Jim Thorpe, Carbon, PA 18229-1519]]></description>
+        <Point><coordinates>-75.7407191111111,40.8759215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

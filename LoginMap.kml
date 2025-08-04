@@ -1495,5 +1495,59 @@
       Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
         <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR05002-A</name>
+        <description><![CDATA[Date: 8/4/25 2:33 PM
+      Site Name: Oak Hill 2 AR
+      AGL: 188
+      Tower Type: Monopole
+      Address: 7226 Wheat Road, North Little Rock, Pulaski, AR 72118-1676]]></description>
+        <Point><coordinates>-92.3469968888889,34.8591694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46259-A</name>
+        <description><![CDATA[Date: 8/4/25 2:40 PM
+      Site Name: South Conway
+      AGL: 120
+      Tower Type: Stealth
+      Address: 4554 East Hoffner Ave., Orlando, Orange, FL 32812]]></description>
+        <Point><coordinates>-81.3262021111111,28.4770048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13636-A</name>
+        <description><![CDATA[Date: 8/4/25 2:10 PM
+      Site Name: Lithia Springs 2 FL
+      AGL: 199
+      Tower Type: Monopole
+      Address: 4842 Bell Shoals Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2648333333333,27.867916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX17818-A</name>
+        <description><![CDATA[Date: 8/4/25 2:40 PM
+      Site Name: Reagon County
+      AGL: 320
+      Tower Type: Guyed
+      Address: 6300 North FM33, Big Lake, Reagan, TX 76932]]></description>
+        <Point><coordinates>-101.478596555556,31.5304437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41637-T</name>
+        <description><![CDATA[Date: 8/4/25 2:55 PM
+      Site Name: Harrisburg 3 OK
+      AGL: 350
+      Tower Type: Guyed
+      Address: 27982 E HWY 7, Duncan, Stephens, OK 73533]]></description>
+        <Point><coordinates>-97.8191965555555,34.4497635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20871-A</name>
+        <description><![CDATA[Date: 8/4/25 2:58 PM
+      Site Name: Okarche
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1760 234th St. NE, Okarche, Canadian, OK 73762]]></description>
+        <Point><coordinates>-97.9394107777778,35.7108138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

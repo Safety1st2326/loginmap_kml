@@ -1117,5 +1117,14 @@
       Address: 2222 Broadway Avenue, Coos Bay, Coos, OR 97420]]></description>
         <Point><coordinates>-124.241482722222,43.4026563888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46251-A</name>
+        <description><![CDATA[Date: 8/4/25 12:01 PM
+      Site Name: Redlands 2 FL
+      AGL: 126
+      Tower Type: Monopole
+      Address: 15901 Sw 177th Ave.  orm, Miami, Miami-Dade, FL 33187]]></description>
+        <Point><coordinates>-80.471766,25.6175243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

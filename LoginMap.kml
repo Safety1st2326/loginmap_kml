@@ -2269,5 +2269,14 @@
       Address: 30162 Lowcountry Highway, Smoaks, Colleton, SC 29481]]></description>
         <Point><coordinates>-80.8092361111111,33.123041,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR10103-A</name>
+        <description><![CDATA[Date: 8/5/25 4:01 PM
+      Site Name: River Road
+      AGL: 101
+      Tower Type: Stealth
+      Address: 1005 River Road, Eugene, Lane, OR 97404]]></description>
+        <Point><coordinates>-123.120138222222,44.0782715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

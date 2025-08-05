@@ -2224,5 +2224,23 @@
       Address: 12420 249th Avenue NW, Zimmerman, SHERBURNE, MN 55398]]></description>
         <Point><coordinates>-93.5822993333333,45.4265882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN00412-B</name>
+        <description><![CDATA[Date: 8/5/25 3:42 PM
+      Site Name: Crab Orchard Alternate
+      AGL: 271
+      Tower Type: Self Support
+      Address: 737 Godsey Road, Crab Orchard, Cumberland, TN 37723]]></description>
+        <Point><coordinates>-84.8591555555555,35.8949635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11363-A</name>
+        <description><![CDATA[Date: 8/5/25 3:44 PM
+      Site Name: Windmill
+      AGL: 341
+      Tower Type: Guyed
+      Address: 7048 E. Hwy 176, Andrews, Andrews, TX 79714]]></description>
+        <Point><coordinates>-102.395013555556,32.3245215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

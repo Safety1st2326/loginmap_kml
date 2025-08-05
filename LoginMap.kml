@@ -2161,5 +2161,59 @@
       Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
         <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY07256-A</name>
+        <description><![CDATA[Date: 8/5/25 3:24 PM
+      Site Name: Leader Hill
+      AGL: 310
+      Tower Type: Guyed
+      Address: 2473 WICE CHURCH RD., BOAZ, GRAVES, KY 42027-8524]]></description>
+        <Point><coordinates>-88.6552944444445,36.9320021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16507-A</name>
+        <description><![CDATA[Date: 8/5/25 3:24 PM
+      Site Name: Shandaken
+      AGL: 181
+      Tower Type: Self Support
+      Address: 131 Rudy Frank Rd Ext, Shandaken, Ulster, NY 12480]]></description>
+        <Point><coordinates>-74.3990107777778,42.1258604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 8/5/25 3:24 PM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR20919-A</name>
+        <description><![CDATA[Date: 8/5/25 3:25 PM
+      Site Name: Veneta
+      AGL: 195
+      Tower Type: Monopole
+      Address: 25226 East Broadway Avenue, Veneta, Lane, OR 97487]]></description>
+        <Point><coordinates>-123.345396888889,44.0504861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN40134-T</name>
+        <description><![CDATA[Date: 8/5/25 3:12 PM
+      Site Name: Eastburn Brothers Inc
+      AGL: 196
+      Tower Type: Monopole
+      Address: 4906 East Watson Road, Greenwood, Johnson, IN 46143]]></description>
+        <Point><coordinates>-86.0100972222222,39.6253382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11363-A</name>
+        <description><![CDATA[Date: 8/5/25 3:26 PM
+      Site Name: Windmill
+      AGL: 341
+      Tower Type: Guyed
+      Address: 7048 E. Hwy 176, Andrews, Andrews, TX 79714]]></description>
+        <Point><coordinates>-102.395013555556,32.3245215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

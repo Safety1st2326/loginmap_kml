@@ -1684,5 +1684,50 @@
       Address: 1649 Trussell Road, Monteagle, Marion, TN 37356]]></description>
         <Point><coordinates>-85.8079333333333,35.20625,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS11620-B</name>
+        <description><![CDATA[Date: 8/5/25 12:09 PM
+      Site Name: Homewood MS
+      AGL: 300
+      Tower Type: Self Support
+      Address: 36626  Hwy 35 North, Raleigh, Smith, MS 39074]]></description>
+        <Point><coordinates>-89.5105,32.2159666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE14554-A</name>
+        <description><![CDATA[Date: 8/5/25 12:21 PM
+      Site Name: Waterbury NE
+      AGL: 245
+      Tower Type: Guyed
+      Address: 58897 873 Rd., Waterbury, Dixon, NE 68785]]></description>
+        <Point><coordinates>-96.7622111111111,42.4762326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21277-A</name>
+        <description><![CDATA[Date: 8/5/25 12:22 PM
+      Site Name: Klahn Farm
+      AGL: 195
+      Tower Type: Self Support
+      Address: N1306 PINE HOLLOW ROAD, ARLINGTON, COLUMBIA, WI 53911]]></description>
+        <Point><coordinates>-89.4405024444444,43.3222021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS41149-T</name>
+        <description><![CDATA[Date: 8/5/25 12:25 PM
+      Site Name: Air Cap
+      AGL: 190
+      Tower Type: Monopole
+      Address: 6475 W. Parkview Dr., Park, Sedgwick, KS 67219]]></description>
+        <Point><coordinates>-97.3247271111111,37.8026777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21277-A</name>
+        <description><![CDATA[Date: 8/5/25 12:28 PM
+      Site Name: Klahn Farm
+      AGL: 195
+      Tower Type: Self Support
+      Address: N1306 PINE HOLLOW ROAD, ARLINGTON, COLUMBIA, WI 53911]]></description>
+        <Point><coordinates>-89.4405024444444,43.3222021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

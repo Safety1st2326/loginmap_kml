@@ -1936,5 +1936,95 @@
       Address: 377 Oak Road, Ocala, Marion, FL 34472]]></description>
         <Point><coordinates>-82.0072472222222,29.0804354444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16171-B</name>
+        <description><![CDATA[Date: 8/5/25 1:52 PM
+      Site Name: Ridge Farm
+      AGL: 250
+      Tower Type: Self Support
+      Address: 400 Market Street, Ridge Farm, Vermilion, IL 61870]]></description>
+        <Point><coordinates>-87.6599027777778,39.8986302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10840-A</name>
+        <description><![CDATA[Date: 8/5/25 1:52 PM
+      Site Name: Ft Riley
+      AGL: 300
+      Tower Type: Self Support
+      Address: 902 Caisson Hill Road, Ft. Riley, Riley, KS 66531]]></description>
+        <Point><coordinates>-96.786058,39.0950357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS10840-A</name>
+        <description><![CDATA[Date: 8/5/25 1:52 PM
+      Site Name: Ft Riley
+      AGL: 300
+      Tower Type: Self Support
+      Address: 902 Caisson Hill Road, Ft. Riley, Riley, KS 66531]]></description>
+        <Point><coordinates>-96.7875607777778,39.0940441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13426-A</name>
+        <description><![CDATA[Date: 8/5/25 1:54 PM
+      Site Name: Camp County
+      AGL: 500
+      Tower Type: Guyed
+      Address: 3883 US Hwy 271 S, Pittsburg, Camp, TX 75686]]></description>
+        <Point><coordinates>-94.9559166666667,32.9423302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45784-A</name>
+        <description><![CDATA[Date: 8/5/25 1:54 PM
+      Site Name: Marshall
+      AGL: 65
+      Tower Type: Tree
+      Address: 396 West Highland Ave., SAN BERNARDINO, SAN BERNARDINO, CA 92405]]></description>
+        <Point><coordinates>-117.291805222222,34.1369052222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46220-A</name>
+        <description><![CDATA[Date: 8/5/25 1:54 PM
+      Site Name: Daytona Speedway
+      AGL: 148
+      Tower Type: Monopole
+      Address: 220 Bill France Boulevard, Daytona Beach, Volusia, FL 32114]]></description>
+        <Point><coordinates>-81.0699243333333,29.1966441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS16002-A</name>
+        <description><![CDATA[Date: 8/5/25 1:57 PM
+      Site Name: Lexington
+      AGL: 195
+      Tower Type: Self Support
+      Address: 4291 Rathell Road, Lexington, Holmes, MS 39095]]></description>
+        <Point><coordinates>-90.05485,33.1217048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46220-A</name>
+        <description><![CDATA[Date: 8/5/25 1:57 PM
+      Site Name: Daytona Speedway
+      AGL: 148
+      Tower Type: Monopole
+      Address: 220 Bill France Boulevard, Daytona Beach, Volusia, FL 32114]]></description>
+        <Point><coordinates>-81.0699243333333,29.1966441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ20521-A</name>
+        <description><![CDATA[Date: 8/5/25 1:57 PM
+      Site Name: Kearsage Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 3700 Buena Vista Avenue, Lake Havasu City, Mohave, AZ 86404]]></description>
+        <Point><coordinates>-114.268138222222,34.4643611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46220-A</name>
+        <description><![CDATA[Date: 8/5/25 1:57 PM
+      Site Name: Daytona Speedway
+      AGL: 148
+      Tower Type: Monopole
+      Address: 220 Bill France Boulevard, Daytona Beach, Volusia, FL 32114]]></description>
+        <Point><coordinates>-81.0699243333333,29.1966441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

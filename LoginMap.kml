@@ -1774,5 +1774,14 @@
       Address: 1241 S. North Cedars Rd., Sevier, Sevier, UT 84766]]></description>
         <Point><coordinates>-112.377999333333,38.568416,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 8/4/25 8:01 PM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

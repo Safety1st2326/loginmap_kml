@@ -1927,5 +1927,14 @@
       Address: 954 North Cheveron Road, Crane, Crane, TX 79731]]></description>
         <Point><coordinates>-102.394721888889,31.4581666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL15117-A</name>
+        <description><![CDATA[Date: 8/5/25 1:40 PM
+      Site Name: Emerald Shores ES
+      AGL: 190
+      Tower Type: Monopole
+      Address: 377 Oak Road, Ocala, Marion, FL 34472]]></description>
+        <Point><coordinates>-82.0072472222222,29.0804354444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

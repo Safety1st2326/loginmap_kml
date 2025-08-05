@@ -1333,5 +1333,113 @@
       Address: Nwsw Sec 36, T18s, R3w   Fishlake National Forest, Scipio, Millard, UT 84656]]></description>
         <Point><coordinates>-112.143805222222,39.2022777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR41696-T</name>
+        <description><![CDATA[Date: 8/5/25 10:39 AM
+      Site Name: Bend South- Country Club
+      AGL: 110
+      Tower Type: Monopole Tree
+      Address: 61045 Country Club Drive, Bend, Deschutes, OR 97702]]></description>
+        <Point><coordinates>-121.310086111111,44.0129583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13630-A</name>
+        <description><![CDATA[Date: 8/5/25 10:46 AM
+      Site Name: Eva
+      AGL: 300
+      Tower Type: Guyed
+      Address: 19294 Commonwealth Ave North, Polk City, Polk, FL 33868]]></description>
+        <Point><coordinates>-81.8237771111111,28.3473885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 8/5/25 10:51 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40794-T</name>
+        <description><![CDATA[Date: 8/5/25 10:51 AM
+      Site Name: Koehler Park
+      AGL: 92
+      Tower Type: Light Pole
+      Address: 15352 Walnut Ave., Fontana, San Bernardino, CA 92336]]></description>
+        <Point><coordinates>-117.470204888889,34.1300243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS15804-A</name>
+        <description><![CDATA[Date: 8/5/25 10:51 AM
+      Site Name: Vossburg 2 MS
+      AGL: 465
+      Tower Type: Guyed
+      Address: 1006 County Road 39, Vossburg, Jasper, MS 39348]]></description>
+        <Point><coordinates>-88.95645,31.9429274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17671-A</name>
+        <description><![CDATA[Date: 8/5/25 10:49 AM
+      Site Name: Osseo
+      AGL: 251
+      Tower Type: Self Support
+      Address: W12212 Oak Grove Road, Osseo, Trempealeau, WI 54758]]></description>
+        <Point><coordinates>-91.1909455,44.5770812777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04883-S</name>
+        <description><![CDATA[Date: 8/5/25 10:49 AM
+      Site Name: Wakulla Springs
+      AGL: 250
+      Tower Type: Monopole
+      Address: 3007 Oakridge Rd., Tallahassee, Leon, FL 32305-9190]]></description>
+        <Point><coordinates>-84.3294715555556,30.323916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21144-A</name>
+        <description><![CDATA[Date: 8/5/25 10:54 AM
+      Site Name: Maul Farm
+      AGL: 165
+      Tower Type: Self Support
+      Address: 6985 Farm Lane, Allenton, Washington, WI 53002]]></description>
+        <Point><coordinates>-88.3763493333333,43.5291132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL29330-A</name>
+        <description><![CDATA[Date: 8/5/25 10:54 AM
+      Site Name: Sunbridge
+      AGL: 184
+      Tower Type: Monopine
+      Address: 2550 Sungrove Lane, St. Cloud, Osceola, FL 34771]]></description>
+        <Point><coordinates>-81.1776576666667,28.3197326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO46068-A</name>
+        <description><![CDATA[Date: 8/5/25 10:54 AM
+      Site Name: West Alameda
+      AGL: 75
+      Tower Type: Monopole
+      Address: 181 Vallejo St., Denver, Denver, CO 80223]]></description>
+        <Point><coordinates>-105.013597222222,39.7196087777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NM20857-A</name>
+        <description><![CDATA[Date: 8/5/25 10:54 AM
+      Site Name: Santa Fe 2 NM
+      AGL: 195
+      Tower Type: Self Support
+      Address: 1686 Paseo De Las Vistas, Santa Fe, Santa Fe, NM 87501]]></description>
+        <Point><coordinates>-105.978997944444,35.6889102222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK41600-T</name>
+        <description><![CDATA[Date: 8/5/25 10:57 AM
+      Site Name: Garland Road
+      AGL: 115
+      Tower Type: Monopole
+      Address: 821 N. Garland Road, Enid, Garfield, OK 73703]]></description>
+        <Point><coordinates>-97.9429496666667,36.4047777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

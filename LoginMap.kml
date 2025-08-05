@@ -2026,5 +2026,23 @@
       Address: 220 Bill France Boulevard, Daytona Beach, Volusia, FL 32114]]></description>
         <Point><coordinates>-81.0699243333333,29.1966441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46220-A</name>
+        <description><![CDATA[Date: 8/5/25 2:01 PM
+      Site Name: Daytona Speedway
+      AGL: 148
+      Tower Type: Monopole
+      Address: 220 Bill France Boulevard, Daytona Beach, Volusia, FL 32114]]></description>
+        <Point><coordinates>-81.0699243333333,29.1966441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN41305-T</name>
+        <description><![CDATA[Date: 8/5/25 2:01 PM
+      Site Name: Investment Rarities
+      AGL: 185
+      Tower Type: Monopole
+      Address: 26269 184th Street NW, Big Lake, Sherburne, MN 55309]]></description>
+        <Point><coordinates>-93.7183326666667,45.4471107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

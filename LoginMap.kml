@@ -2305,5 +2305,14 @@
       Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
         <Point><coordinates>-116.903058333333,33.0668215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47625-A</name>
+        <description><![CDATA[Date: 8/5/25 4:21 PM
+      Site Name: Santa Clara - Public Works
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3020 N. Delta Highway, Eugene, Lane, OR 97408]]></description>
+        <Point><coordinates>-123.098219111111,44.0966691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

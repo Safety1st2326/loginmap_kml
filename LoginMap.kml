@@ -2044,5 +2044,68 @@
       Address: 26269 184th Street NW, Big Lake, Sherburne, MN 55309]]></description>
         <Point><coordinates>-93.7183326666667,45.4471107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX11029-A</name>
+        <description><![CDATA[Date: 8/5/25 2:16 PM
+      Site Name: Crossroads 4 TX
+      AGL: 301
+      Tower Type: Guyed
+      Address: 3966 PRD 1569, Tarzan, Martin, TX 79783]]></description>
+        <Point><coordinates>-102.173060444444,32.3219354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 8/5/25 2:24 PM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR21840-A</name>
+        <description><![CDATA[Date: 8/5/25 2:25 PM
+      Site Name: BELLA VISTA SOUTH TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 13342 PUNKIN HOLLOW RD., BENTONVILLE, BENTON, AR 72712]]></description>
+        <Point><coordinates>-94.2709798888889,36.4293076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 8/5/25 2:25 PM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS41163-T</name>
+        <description><![CDATA[Date: 8/5/25 2:15 PM
+      Site Name: Peabody
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1637 Hwy 50, Peabody, Marion, KS 66866]]></description>
+        <Point><coordinates>-97.0907441111111,38.1725548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA16019-B</name>
+        <description><![CDATA[Date: 8/5/25 2:14 PM
+      Site Name: Sedley 2 VA
+      AGL: 195
+      Tower Type: Monopole
+      Address: 17437 Johnson's Mill Road, Sedley, Southampton, VA 23878]]></description>
+        <Point><coordinates>-76.9809437777778,36.7785271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS20457-A</name>
+        <description><![CDATA[Date: 8/5/25 2:29 PM
+      Site Name: Woodville MS Tower
+      AGL: 483
+      Tower Type: Guyed
+      Address: 3199 US Highway 61 North, Woodville, Wilkinson, MS 39669]]></description>
+        <Point><coordinates>-91.2814576666667,31.1440524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

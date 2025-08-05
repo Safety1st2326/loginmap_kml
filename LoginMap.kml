@@ -2278,5 +2278,32 @@
       Address: 1005 River Road, Eugene, Lane, OR 97404]]></description>
         <Point><coordinates>-123.120138222222,44.0782715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45634-A</name>
+        <description><![CDATA[Date: 8/5/25 4:12 PM
+      Site Name: Delman Heights
+      AGL: 57
+      Tower Type: Monopole
+      Address: 1534 W. Highland Ave, San Bernardino, San Bernardino, CA 92411]]></description>
+        <Point><coordinates>-117.319499333333,34.1364441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA20552-A</name>
+        <description><![CDATA[Date: 8/5/25 4:18 PM
+      Site Name: San Pasqual
+      AGL: 60
+      Tower Type: Monopole
+      Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
+        <Point><coordinates>-116.903158333333,33.0668354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA20552-A</name>
+        <description><![CDATA[Date: 8/5/25 4:18 PM
+      Site Name: San Pasqual
+      AGL: 61
+      Tower Type: Monopole Tree
+      Address: 19591 Horizon View Drive, Ramona, SAN DIEGO, CA 92065]]></description>
+        <Point><coordinates>-116.903058333333,33.0668215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

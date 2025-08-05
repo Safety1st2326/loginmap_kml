@@ -1675,5 +1675,14 @@
       Address: 81 Montevideo Road, Avon, Hartford, CT 06001]]></description>
         <Point><coordinates>-72.8013027777778,41.8030555555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN21659-A</name>
+        <description><![CDATA[Date: 8/5/25 12:01 PM
+      Site Name: Monteagle Mtn I - I-24 Exit 135
+      AGL: 355
+      Tower Type: Guyed
+      Address: 1649 Trussell Road, Monteagle, Marion, TN 37356]]></description>
+        <Point><coordinates>-85.8079333333333,35.20625,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

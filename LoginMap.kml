@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>CT04877-A</name>
+        <description><![CDATA[Date: 8/5/25 5:07 AM
+      Site Name: Waterbury 2 CT
+      AGL: 277
+      Tower Type: Guyed
+      Address: 207 Garden Circle, Waterbury, New Haven/Waterbury, CT 06704-2844]]></description>
+        <Point><coordinates>-73.0174993333333,41.5697215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

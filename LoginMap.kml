@@ -2404,5 +2404,32 @@
       Address: 3199 US Highway 61 North, Woodville, Wilkinson, MS 39669]]></description>
         <Point><coordinates>-91.2814576666667,31.1440524444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40760-T</name>
+        <description><![CDATA[Date: 8/5/25 5:31 PM
+      Site Name: IE876 BloomingtonCongregat UCC
+      AGL: 53
+      Tower Type: Stealth
+      Address: 18450 Santa Ana Ave., San Bernardino, San Bernardino, CA 92316]]></description>
+        <Point><coordinates>-117.401016666667,34.0562472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/5/25 5:33 PM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45338-A</name>
+        <description><![CDATA[Date: 8/5/25 5:37 PM
+      Site Name: Downtown Vallejo 2 CA
+      AGL: 51
+      Tower Type: Tree
+      Address: 2115 W Highland Ave, San Bernardino, San Bernardino, CA 92407]]></description>
+        <Point><coordinates>-117.336177444444,34.1356274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

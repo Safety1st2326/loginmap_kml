@@ -1855,5 +1855,41 @@
       Address: 11699 S. 60th Street, Papillion, Sarpy, NE 68133]]></description>
         <Point><coordinates>-96.0041222222222,41.1347941111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN47770-A</name>
+        <description><![CDATA[Date: 8/5/25 1:12 PM
+      Site Name: La Vergne Water Treatment Plant
+      AGL: 161
+      Tower Type: Monopole
+      Address: 750 Bon Aqua Drive, La Vergne, Rutherford, TN 37086]]></description>
+        <Point><coordinates>-86.5391663333333,36.0555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN11771-A</name>
+        <description><![CDATA[Date: 8/5/25 1:12 PM
+      Site Name: Monteagle I-24
+      AGL: 300
+      Tower Type: Guyed
+      Address: 650 Trussell Road, Monteagle, Marion, TN 37356]]></description>
+        <Point><coordinates>-85.8160333333333,35.2322271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46131-A</name>
+        <description><![CDATA[Date: 8/5/25 1:15 PM
+      Site Name: Easton-Everetts Rd
+      AGL: 159
+      Tower Type: Monopole
+      Address: 206 Everett Road, Easton, Fairfield/Easton, CT 06612]]></description>
+        <Point><coordinates>-73.2826743333333,41.2903385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40761-T</name>
+        <description><![CDATA[Date: 8/5/25 1:16 PM
+      Site Name: Christ Church Parish
+      AGL: 41
+      Tower Type: Monopole Tree
+      Address: 1127 N. San Antonio, Ontario, San Bernardino, CA 91762]]></description>
+        <Point><coordinates>-117.661725,34.0786854444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

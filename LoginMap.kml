@@ -1837,5 +1837,23 @@
       Address: 150 South 400 West, Santaquin, Utah, UT 84655]]></description>
         <Point><coordinates>-111.792638555556,39.9734993333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ20519-A</name>
+        <description><![CDATA[Date: 8/5/25 1:03 PM
+      Site Name: Sunflower Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 114 LAKE HAVASU AVE, LAKE HAVASU CITY, MOHAVE, AZ 86403]]></description>
+        <Point><coordinates>-114.345694111111,34.4777215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NE10996-A</name>
+        <description><![CDATA[Date: 8/5/25 1:06 PM
+      Site Name: Capehart West
+      AGL: 192
+      Tower Type: Monopole
+      Address: 11699 S. 60th Street, Papillion, Sarpy, NE 68133]]></description>
+        <Point><coordinates>-96.0041222222222,41.1347941111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

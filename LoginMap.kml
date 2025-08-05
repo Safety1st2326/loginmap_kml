@@ -64,5 +64,50 @@
       Address: 1332 N. Post Road, Shelby, Cleveland, NC 28150]]></description>
         <Point><coordinates>-81.4926385555556,35.3239437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10187-A</name>
+        <description><![CDATA[Date: 8/5/25 6:19 AM
+      Site Name: Mountain Home E
+      AGL: 251
+      Tower Type: Self Support
+      Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
+        <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 8/5/25 6:19 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14139-A</name>
+        <description><![CDATA[Date: 8/5/25 6:39 AM
+      Site Name: Lake Holiday
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
+        <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 8/5/25 6:39 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08398-A</name>
+        <description><![CDATA[Date: 8/5/25 6:39 AM
+      Site Name: Saunders 2 TX
+      AGL: 141
+      Tower Type: Monopole
+      Address: 1820 Pappas Street, Laredo, Webb, TX 78041-5410]]></description>
+        <Point><coordinates>-99.4722326666667,27.5364691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

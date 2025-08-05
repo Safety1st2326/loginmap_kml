@@ -2215,5 +2215,14 @@
       Address: 7048 E. Hwy 176, Andrews, Andrews, TX 79714]]></description>
         <Point><coordinates>-102.395013555556,32.3245215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN20136-A</name>
+        <description><![CDATA[Date: 8/5/25 3:33 PM
+      Site Name: Zimmerman Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 12420 249th Avenue NW, Zimmerman, SHERBURNE, MN 55398]]></description>
+        <Point><coordinates>-93.5822993333333,45.4265882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

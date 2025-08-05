@@ -352,5 +352,95 @@
       Address: 1055 NORTH 200 EAST, RUSHVILLE, RUSH, IN 46173]]></description>
         <Point><coordinates>-85.4075,39.6269437777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL00032-S</name>
+        <description><![CDATA[Date: 8/5/25 7:35 AM
+      Site Name: Ocala Airport
+      AGL: 230
+      Tower Type: Self Support
+      Address: 5127 SW 40th Avenue, Ocala, Marion, FL 34474-5727]]></description>
+        <Point><coordinates>-82.1869691111111,29.1356718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28462-A</name>
+        <description><![CDATA[Date: 8/5/25 7:40 AM
+      Site Name: UCF Com
+      AGL: 157
+      Tower Type: Monopole
+      Address: 6818 Laureate Blvd, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.2820743333333,28.3659972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28462-A</name>
+        <description><![CDATA[Date: 8/5/25 7:40 AM
+      Site Name: UCF Com
+      AGL: 157
+      Tower Type: Monopole
+      Address: 6818 Laureate Blvd, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.2820743333333,28.3659972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA16512-A</name>
+        <description><![CDATA[Date: 8/5/25 7:40 AM
+      Site Name: West Stockbridge 2 MA
+      AGL: 122
+      Tower Type: Self Support
+      Address: 250 Great Barrington Road, West Stockbridge, Berkshire, MA 01266]]></description>
+        <Point><coordinates>-73.3837024444444,42.2833941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/5/25 7:40 AM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/5/25 7:36 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.4991552222222,34.01315,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/5/25 7:36 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5005583333333,34.0141222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/5/25 7:36 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 
+      Tower Type: COW
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5000472222222,34.013975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA06640-A</name>
+        <description><![CDATA[Date: 8/5/25 7:44 AM
+      Site Name: South Main
+      AGL: 285
+      Tower Type: Self Support
+      Address: 746 DR H J Kaufman Ave, Cottonport, Avoyelles, LA 71327]]></description>
+        <Point><coordinates>-92.0567055555556,30.9841107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT11559-A</name>
+        <description><![CDATA[Date: 8/5/25 7:44 AM
+      Site Name: Thompson 1 CT
+      AGL: 150
+      Tower Type: Monopole
+      Address: 39 Rich Road, North Grosvenordale, Windham/Thompson, CT 06255]]></description>
+        <Point><coordinates>-71.8519083333333,42.01155,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

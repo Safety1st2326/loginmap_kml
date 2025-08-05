@@ -2152,5 +2152,14 @@
       Address: 247 North Montgomery Road, Cadiz, Trigg, KY 42211]]></description>
         <Point><coordinates>-87.7394218888889,36.8744715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY15407-A</name>
+        <description><![CDATA[Date: 8/5/25 2:47 PM
+      Site Name: Brookhaven Landfill
+      AGL: 125
+      Tower Type: Stealth Monopole
+      Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
+        <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

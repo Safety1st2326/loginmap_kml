@@ -2314,5 +2314,32 @@
       Address: 3020 N. Delta Highway, Eugene, Lane, OR 97408]]></description>
         <Point><coordinates>-123.098219111111,44.0966691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47625-A</name>
+        <description><![CDATA[Date: 8/5/25 4:30 PM
+      Site Name: Santa Clara - Public Works
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3020 N. Delta Highway, Eugene, Lane, OR 97408]]></description>
+        <Point><coordinates>-123.098219111111,44.0966691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21675-A</name>
+        <description><![CDATA[Date: 8/5/25 4:24 PM
+      Site Name: Hillsboro - I-24 Exit 117
+      AGL: 330
+      Tower Type: Guyed
+      Address: 1709 Bains Road, Hillsboro, Coffee, TN 37342]]></description>
+        <Point><coordinates>-86.0060194444444,35.3964246666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10264-A</name>
+        <description><![CDATA[Date: 8/5/25 4:24 PM
+      Site Name: Krebb Station
+      AGL: 195
+      Tower Type: Monopole
+      Address: 4735 Old Highway 45, Paducah, McCracken, KY 42003]]></description>
+        <Point><coordinates>-88.6738993333333,37.0035416666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

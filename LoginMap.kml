@@ -1729,5 +1729,32 @@
       Address: N1306 PINE HOLLOW ROAD, ARLINGTON, COLUMBIA, WI 53911]]></description>
         <Point><coordinates>-89.4405024444444,43.3222021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX12472-A</name>
+        <description><![CDATA[Date: 8/5/25 12:37 PM
+      Site Name: Midland-Rankin Rd
+      AGL: 281
+      Tower Type: Guyed
+      Address: 5805 South County Rd 1185 #A, Midland, Midland, TX 79706-7629]]></description>
+        <Point><coordinates>-102.050255555556,31.9239132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 8/5/25 12:37 PM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA46010-A</name>
+        <description><![CDATA[Date: 8/5/25 12:37 PM
+      Site Name: Ti M Song
+      AGL: 44
+      Tower Type: Monopine
+      Address: 4068 Avalon Blvd , Los Angeles, Los Angeles, CA 90011-5645]]></description>
+        <Point><coordinates>-118.264627777778,34.0093166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

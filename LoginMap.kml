@@ -478,5 +478,122 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC47124-A</name>
+        <description><![CDATA[Date: 8/5/25 7:55 AM
+      Site Name: Knight's Play
+      AGL: 196
+      Tower Type: Monopole
+      Address: 11301 Penny Road, Cary, Wake, NC 27518]]></description>
+        <Point><coordinates>-78.80895,35.7138638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 8/5/25 7:56 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13207-A</name>
+        <description><![CDATA[Date: 8/5/25 8:02 AM
+      Site Name: Otis 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
+        <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09534-A</name>
+        <description><![CDATA[Date: 8/5/25 7:48 AM
+      Site Name: Faulkner Lake
+      AGL: 146
+      Tower Type: Monopole
+      Address: 430 Lake Lane, North Little Rock, Pulaski, AR 72117]]></description>
+        <Point><coordinates>-92.1633194444445,34.7519805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/5/25 8:02 AM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05988-A</name>
+        <description><![CDATA[Date: 8/5/25 8:03 AM
+      Site Name: Nelson Rd
+      AGL: 160
+      Tower Type: Self Support
+      Address: 1810 Nelson Road, Shreveport, Caddo, LA 71107-6346]]></description>
+        <Point><coordinates>-93.7799993333333,32.5437218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 8/5/25 7:48 AM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 8/5/25 8:03 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopole
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722460444444,38.5328104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA12917-A</name>
+        <description><![CDATA[Date: 8/5/25 8:03 AM
+      Site Name: P Circle
+      AGL: 84
+      Tower Type: Monopine
+      Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
+        <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PR04697-B</name>
+        <description><![CDATA[Date: 8/5/25 8:05 AM
+      Site Name: Lajas
+      AGL: 235
+      Tower Type: Self Support
+      Address: Finca Morales, Lajas, Lajas, PR 00667]]></description>
+        <Point><coordinates>-67.0634055555555,18.035383,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10403-B</name>
+        <description><![CDATA[Date: 8/5/25 8:06 AM
+      Site Name: Bolton Brownsville Rd
+      AGL: 330
+      Tower Type: Self Support
+      Address: 15158 Highway 22, Bolton, Hinds, MS 39041]]></description>
+        <Point><coordinates>-90.4169132222222,32.4535,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS41152-T</name>
+        <description><![CDATA[Date: 8/5/25 8:06 AM
+      Site Name: Tyler 2 KS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 7360 West Newell, Wichita, Sedgwick, KS 67212]]></description>
+        <Point><coordinates>-97.428416,37.6922302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/5/25 7:55 AM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

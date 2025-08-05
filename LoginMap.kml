@@ -217,5 +217,86 @@
       Address: 13000 Narcoossee Road, Orlando, Orange, FL 32832]]></description>
         <Point><coordinates>-81.245283,28.3760604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA12208-A</name>
+        <description><![CDATA[Date: 8/5/25 7:25 AM
+      Site Name: Dennisport
+      AGL: 99
+      Tower Type: Flagpole
+      Address: 27 Candlewood Lane, Dennisport, Barnstable, MA 02639]]></description>
+        <Point><coordinates>-70.1315826666667,41.668066,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 8/5/25 7:25 AM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14173-A</name>
+        <description><![CDATA[Date: 8/5/25 7:25 AM
+      Site Name: Barrington
+      AGL: 140
+      Tower Type: Self Support
+      Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
+        <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09897-A</name>
+        <description><![CDATA[Date: 8/5/25 7:26 AM
+      Site Name: Hollywood 2 GA
+      AGL: 246
+      Tower Type: Guyed
+      Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
+        <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14119-A</name>
+        <description><![CDATA[Date: 8/5/25 7:26 AM
+      Site Name: Culpeper
+      AGL: 195
+      Tower Type: Monopole
+      Address: 18250 Germanna Highway, Culpeper, Culpeper, VA 22701]]></description>
+        <Point><coordinates>-77.9121388888889,38.4375552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME07325-A</name>
+        <description><![CDATA[Date: 8/5/25 7:26 AM
+      Site Name: Blackcap Mountain
+      AGL: 115
+      Tower Type: Self Support
+      Address: Blackcap Road, Eddington, Penobscot, ME 04428]]></description>
+        <Point><coordinates>-68.5650444444444,44.7589861111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL01296-A</name>
+        <description><![CDATA[Date: 8/5/25 7:29 AM
+      Site Name: Martinez
+      AGL: 197
+      Tower Type: Self Support
+      Address: 4040 1/2 West Waters Ave, Tampa, Hillsborough, FL 33614-1984]]></description>
+        <Point><coordinates>-82.5116777777778,28.0246882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL46552-A</name>
+        <description><![CDATA[Date: 8/5/25 7:29 AM
+      Site Name: Central Sod Raw Land
+      AGL: 71
+      Tower Type: Monopole
+      Address: 26W258 Lake St, Bartlett (Uninc.), DuPage, IL 60133]]></description>
+        <Point><coordinates>-88.135883,41.9815632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15158-A</name>
+        <description><![CDATA[Date: 8/5/25 7:29 AM
+      Site Name: Holy Trinity Church
+      AGL: 125
+      Tower Type: Flagpole
+      Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
+        <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

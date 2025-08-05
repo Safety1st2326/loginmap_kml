@@ -1891,5 +1891,23 @@
       Address: 1127 N. San Antonio, Ontario, San Bernardino, CA 91762]]></description>
         <Point><coordinates>-117.661725,34.0786854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MO09258-A</name>
+        <description><![CDATA[Date: 8/5/25 1:25 PM
+      Site Name: Turney
+      AGL: 321
+      Tower Type: Guyed
+      Address: 3975 NE Estep Road, Turney, Clinton, MO 64493]]></description>
+        <Point><coordinates>-94.2525166666667,39.6101972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41124-T</name>
+        <description><![CDATA[Date: 8/5/25 1:27 PM
+      Site Name: Hartman Park
+      AGL: 130
+      Tower Type: Monopole
+      Address: 700 South 9th Street, Beech Grove, Marion, IN 46107]]></description>
+        <Point><coordinates>-86.094283,39.7106027777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

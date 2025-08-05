@@ -298,5 +298,59 @@
       Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
         <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN20311-A</name>
+        <description><![CDATA[Date: 8/5/25 7:25 AM
+      Site Name: RUSHVILLE TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1055 NORTH 200 EAST, RUSHVILLE, RUSH, IN 46173]]></description>
+        <Point><coordinates>-85.4075,39.6269437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 8/5/25 7:31 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/5/25 7:19 AM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 8/5/25 7:32 AM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA12208-A</name>
+        <description><![CDATA[Date: 8/5/25 7:32 AM
+      Site Name: Dennisport
+      AGL: 99
+      Tower Type: Flagpole
+      Address: 27 Candlewood Lane, Dennisport, Barnstable, MA 02639]]></description>
+        <Point><coordinates>-70.1315826666667,41.668066,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN20311-A</name>
+        <description><![CDATA[Date: 8/5/25 7:32 AM
+      Site Name: RUSHVILLE TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1055 NORTH 200 EAST, RUSHVILLE, RUSH, IN 46173]]></description>
+        <Point><coordinates>-85.4075,39.6269437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

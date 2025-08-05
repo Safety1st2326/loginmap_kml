@@ -2476,5 +2476,14 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR20920-A</name>
+        <description><![CDATA[Date: 8/5/25 6:12 PM
+      Site Name: WALTERVILLE
+      AGL: 195
+      Tower Type: Self Support
+      Address: 38251 MCkenzie Hwy, Springfield, Lane, OR 97478]]></description>
+        <Point><coordinates>-122.852105555556,44.0524277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

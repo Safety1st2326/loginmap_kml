@@ -37,5 +37,32 @@
       Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
         <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 8/5/25 6:10 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46807-A</name>
+        <description><![CDATA[Date: 8/5/25 6:10 AM
+      Site Name: Galien 2 MI
+      AGL: 188
+      Tower Type: Monopole
+      Address: 207 W. Southeastern , Galien, Berrien, MI 49113]]></description>
+        <Point><coordinates>-86.5033333333333,41.8013888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47137-A</name>
+        <description><![CDATA[Date: 8/5/25 6:12 AM
+      Site Name: Goat Pasture
+      AGL: 220
+      Tower Type: Self Support
+      Address: 1332 N. Post Road, Shelby, Cleveland, NC 28150]]></description>
+        <Point><coordinates>-81.4926385555556,35.3239437777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

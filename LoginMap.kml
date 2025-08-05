@@ -1441,5 +1441,86 @@
       Address: 821 N. Garland Road, Enid, Garfield, OK 73703]]></description>
         <Point><coordinates>-97.9429496666667,36.4047777777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/5/25 11:02 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY07250-A</name>
+        <description><![CDATA[Date: 8/5/25 11:02 AM
+      Site Name: Wingo
+      AGL: 310
+      Tower Type: Guyed
+      Address: 255 Magness Rd., Wingo, Graves, KY 42088]]></description>
+        <Point><coordinates>-88.7559527777778,36.6412885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15393-A</name>
+        <description><![CDATA[Date: 8/5/25 11:02 AM
+      Site Name: West Gilgo Beach
+      AGL: 125
+      Tower Type: Flagpole
+      Address: West Gilgo Beach, Babylon, Suffolk, NY 11702]]></description>
+        <Point><coordinates>-73.4238493333333,40.613075,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20991-A</name>
+        <description><![CDATA[Date: 8/5/25 11:02 AM
+      Site Name: MIDLAND 2 TX
+      AGL: 644
+      Tower Type: Guyed
+      Address: 8308 Craddick Hwy, Midland, Midland, TX 79706]]></description>
+        <Point><coordinates>-102.231363222222,32.0680437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 8/5/25 11:02 AM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 8/5/25 11:03 AM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21674-A</name>
+        <description><![CDATA[Date: 8/5/25 11:07 AM
+      Site Name: Martin Springs - I-24 Exit 143
+      AGL: 300
+      Tower Type: Self Support
+      Address: 1120 Martin Springs Road, South Pittsburgh, Marion, TN 37380]]></description>
+        <Point><coordinates>-85.7844246666667,35.1553055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13405-A</name>
+        <description><![CDATA[Date: 8/5/25 11:07 AM
+      Site Name: Springville 3 TN
+      AGL: 282
+      Tower Type: Self Support
+      Address: 147 Bob Richardson Road, Springville, Henry, TN 38256]]></description>
+        <Point><coordinates>-88.2050277777778,36.2224993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15393-A</name>
+        <description><![CDATA[Date: 8/5/25 11:08 AM
+      Site Name: West Gilgo Beach
+      AGL: 125
+      Tower Type: Flagpole
+      Address: West Gilgo Beach, Babylon, Suffolk, NY 11702]]></description>
+        <Point><coordinates>-73.4238493333333,40.613075,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

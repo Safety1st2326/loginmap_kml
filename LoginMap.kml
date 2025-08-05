@@ -595,5 +595,23 @@
       Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
         <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT07824-S</name>
+        <description><![CDATA[Date: 8/5/25 8:11 AM
+      Site Name: South Windsor
+      AGL: 199
+      Tower Type: Monopole
+      Address: 151 Sand Hill Road, South Windsor, Hartford/South Windsor, CT 06074-2026]]></description>
+        <Point><coordinates>-72.552,41.8359996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL28460-A</name>
+        <description><![CDATA[Date: 8/5/25 8:19 AM
+      Site Name: Lake Nona Gateway
+      AGL: 124
+      Tower Type: Monopole
+      Address: 12385 Lake Nona Gateway Road, Orlando, Orange, FL 32827]]></description>
+        <Point><coordinates>-81.2822132222222,28.3893635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

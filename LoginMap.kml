@@ -856,5 +856,95 @@
       Address: 1000 West Dallas Street, Kermit, Winkler, TX 79745]]></description>
         <Point><coordinates>-103.108922222222,31.8572,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL22607-A</name>
+        <description><![CDATA[Date: 8/5/25 8:38 AM
+      Site Name: East Villages
+      AGL: 151
+      Tower Type: Monopole
+      Address: 395 Emory Dr., Fruitland Park, Lake, FL 34731]]></description>
+        <Point><coordinates>-81.9465774444444,28.8685548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR41699-T</name>
+        <description><![CDATA[Date: 8/5/25 8:38 AM
+      Site Name: Sandy River-Cherry Pk Ch
+      AGL: 100
+      Tower Type: Monopole
+      Address: 348 SW Cherry Park Rd., Troutdale, Multnomah, OR 97060]]></description>
+        <Point><coordinates>-122.391471666667,45.5328323333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48057-A</name>
+        <description><![CDATA[Date: 8/5/25 8:38 AM
+      Site Name: Missouri Flats
+      AGL: 150
+      Tower Type: Self Support
+      Address: Sec. 25, Township 24 South, Range 7 West, Kanosh, Millard, UT 84637]]></description>
+        <Point><coordinates>-112.595251222222,38.6880774166667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13651-A</name>
+        <description><![CDATA[Date: 8/5/25 8:52 AM
+      Site Name: St Johns
+      AGL: 250
+      Tower Type: Self Support
+      Address: 131-2 Poor Farm Road, Palatka, Putnam, FL 32177]]></description>
+        <Point><coordinates>-81.6691382222222,29.7042222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16592-S</name>
+        <description><![CDATA[Date: 8/5/25 8:52 AM
+      Site Name: River View South
+      AGL: 195
+      Tower Type: Self Support
+      Address: 40540 TR 41B, Warsaw, Coshocton, OH 43844]]></description>
+        <Point><coordinates>-82.0018027777778,40.3251187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY02726-B</name>
+        <description><![CDATA[Date: 8/5/25 8:52 AM
+      Site Name: Weedsport
+      AGL: 186
+      Tower Type: Self Support
+      Address: 2710 Rude Street, Weedsport, Cayuga, NY 13166]]></description>
+        <Point><coordinates>-76.5608416666667,43.0370635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46998-A</name>
+        <description><![CDATA[Date: 8/5/25 8:57 AM
+      Site Name: Big Lake S
+      AGL: 190
+      Tower Type: Self Support
+      Address: 18999 County Road 14, Big Lake, Sherburne, MN 55309]]></description>
+        <Point><coordinates>-93.7499635555556,45.3024,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN46998-A</name>
+        <description><![CDATA[Date: 8/5/25 8:57 AM
+      Site Name: Big Lake S
+      AGL: 190
+      Tower Type: Self Support
+      Address: 18999 County Road 14, Big Lake, Sherburne, MN 55309]]></description>
+        <Point><coordinates>-93.7499635555556,45.3024,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC09089-B</name>
+        <description><![CDATA[Date: 8/5/25 8:57 AM
+      Site Name: Stephen Creek
+      AGL: 170
+      Tower Type: Monopole
+      Address: 1123 Dendy Orchard Rd, Highlands, Macon, NC 28741]]></description>
+        <Point><coordinates>-83.2766187777778,35.0945913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME14812-A</name>
+        <description><![CDATA[Date: 8/5/25 8:57 AM
+      Site Name: Lewiston 4 ME
+      AGL: 180
+      Tower Type: Self Support
+      Address: 532 East Street, Lewiston, Androscoggin, ME 04240]]></description>
+        <Point><coordinates>-70.1807632222222,44.1159527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

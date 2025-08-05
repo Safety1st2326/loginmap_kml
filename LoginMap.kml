@@ -2485,5 +2485,14 @@
       Address: 38251 MCkenzie Hwy, Springfield, Lane, OR 97478]]></description>
         <Point><coordinates>-122.852105555556,44.0524277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45949-A</name>
+        <description><![CDATA[Date: 8/5/25 6:36 PM
+      Site Name: Buddhist Youth Center
+      AGL: 70
+      Tower Type: Tree
+      Address: 1838 W Baseline Street, San Bernardino, San Bernardino, CA 92411]]></description>
+        <Point><coordinates>-117.327932666667,34.1226604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

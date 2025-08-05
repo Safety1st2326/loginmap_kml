@@ -1324,5 +1324,14 @@
       Address: 430 Stonehill Lane, Talladega, Talladega, AL 35160]]></description>
         <Point><coordinates>-86.1239521111111,33.4623527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48083-A</name>
+        <description><![CDATA[Date: 8/5/25 10:37 AM
+      Site Name: Scipio Pass
+      AGL: 75
+      Tower Type: Self Support
+      Address: Nwsw Sec 36, T18s, R3w   Fishlake National Forest, Scipio, Millard, UT 84656]]></description>
+        <Point><coordinates>-112.143805222222,39.2022777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

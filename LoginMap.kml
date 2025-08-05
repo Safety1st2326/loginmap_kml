@@ -1261,5 +1261,14 @@
       Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
         <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC05472-S</name>
+        <description><![CDATA[Date: 8/5/25 10:10 AM
+      Site Name: Forge Mountain
+      AGL: 190
+      Tower Type: Self Support
+      Address: 254 N. Foothills Drive, Mills River, Henderson, NC 28742]]></description>
+        <Point><coordinates>-82.6069027777778,35.3651527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

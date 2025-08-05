@@ -1594,5 +1594,50 @@
       Address: 7950 Hwy 80, Ruston, East Baton Rouge Parish, LA 71270-1081]]></description>
         <Point><coordinates>-92.7288326666667,32.5136388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX41989-T</name>
+        <description><![CDATA[Date: 8/5/25 11:30 AM
+      Site Name: Criswell RL
+      AGL: 350
+      Tower Type: Guyed
+      Address: 257 FM 2731, Rising Star, Eastland, TX 76471]]></description>
+        <Point><coordinates>-98.9671104444444,32.1700548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41123-T</name>
+        <description><![CDATA[Date: 8/5/25 11:30 AM
+      Site Name: Garfield Christian Church
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1751 Walker Avenue, Indianapolis, Marion, IN 46203]]></description>
+        <Point><coordinates>-86.1276771111111,39.7307326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02881-B</name>
+        <description><![CDATA[Date: 8/5/25 11:31 AM
+      Site Name: Route 27
+      AGL: 250
+      Tower Type: Self Support
+      Address: 292 Industrial Blvd. S.E., Lindale, Floyd, GA 30147]]></description>
+        <Point><coordinates>-85.2036611111111,34.1775826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02881-B</name>
+        <description><![CDATA[Date: 8/5/25 11:36 AM
+      Site Name: Route 27
+      AGL: 250
+      Tower Type: Self Support
+      Address: 292 Industrial Blvd. S.E., Lindale, Floyd, GA 30147]]></description>
+        <Point><coordinates>-85.2036611111111,34.1775826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02881-B</name>
+        <description><![CDATA[Date: 8/5/25 11:37 AM
+      Site Name: Route 27
+      AGL: 250
+      Tower Type: Self Support
+      Address: 292 Industrial Blvd. S.E., Lindale, Floyd, GA 30147]]></description>
+        <Point><coordinates>-85.2036611111111,34.1775826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2341,5 +2341,14 @@
       Address: 4735 Old Highway 45, Paducah, McCracken, KY 42003]]></description>
         <Point><coordinates>-88.6738993333333,37.0035416666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA23878-A</name>
+        <description><![CDATA[Date: 8/5/25 4:48 PM
+      Site Name: Kirkland
+      AGL: 188
+      Tower Type: Monopole
+      Address: 1113 Kirkland Road, Covington, Newton, GA 30016]]></description>
+        <Point><coordinates>-83.9453302222222,33.5938246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

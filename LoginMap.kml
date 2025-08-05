@@ -163,5 +163,59 @@
       Address: 7922 Opossumtown Pike, Frederick, Frederick, MD 21702]]></description>
         <Point><coordinates>-77.4174021111111,39.4498468888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL17451-A</name>
+        <description><![CDATA[Date: 8/5/25 7:10 AM
+      Site Name: Lake Nona Tower
+      AGL: 185
+      Tower Type: Monopole
+      Address: 13000 Narcoossee Road, Orlando, Orange, FL 32832]]></description>
+        <Point><coordinates>-81.245283,28.3760604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS41154-T</name>
+        <description><![CDATA[Date: 8/5/25 7:07 AM
+      Site Name: Westwind
+      AGL: 149
+      Tower Type: Monopole
+      Address: 3191 N. Ridge Road, Wichita, Sedgwick, KS 67205]]></description>
+        <Point><coordinates>-97.4273993333333,37.7413996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17291-A</name>
+        <description><![CDATA[Date: 8/5/25 7:04 AM
+      Site Name: Brentwood Lake Elyria 2 OH
+      AGL: 151
+      Tower Type: Self Support
+      Address: 11909 Grafton Road, Grafton, Lorain, OH 44044]]></description>
+        <Point><coordinates>-82.0686604444444,41.3191271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN01230-B</name>
+        <description><![CDATA[Date: 8/5/25 7:13 AM
+      Site Name: Maynardville
+      AGL: 275
+      Tower Type: Self Support
+      Address: 4940 Maynardville Hwy, Maynardville, Union, TN 37807]]></description>
+        <Point><coordinates>-83.7735854444444,36.2655055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47837-A</name>
+        <description><![CDATA[Date: 8/5/25 7:13 AM
+      Site Name: Riverbend Lane
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1200 Riverbend Ln , Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7474718888889,31.4214715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL17451-A</name>
+        <description><![CDATA[Date: 8/5/25 7:13 AM
+      Site Name: Lake Nona Tower
+      AGL: 185
+      Tower Type: Monopole
+      Address: 13000 Narcoossee Road, Orlando, Orange, FL 32832]]></description>
+        <Point><coordinates>-81.245283,28.3760604444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

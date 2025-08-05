@@ -1909,5 +1909,23 @@
       Address: 700 South 9th Street, Beech Grove, Marion, IN 46107]]></description>
         <Point><coordinates>-86.094283,39.7106027777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY15404-A</name>
+        <description><![CDATA[Date: 8/5/25 1:37 PM
+      Site Name: Highway Yard
+      AGL: 160
+      Tower Type: Monopole
+      Address: 758 Smithtown By Pass, Nesconset, Suffolk, NY 11767]]></description>
+        <Point><coordinates>-73.1628916666667,40.8521,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11024-A</name>
+        <description><![CDATA[Date: 8/5/25 1:39 PM
+      Site Name: Crane
+      AGL: 301
+      Tower Type: Guyed
+      Address: 954 North Cheveron Road, Crane, Crane, TX 79731]]></description>
+        <Point><coordinates>-102.394721888889,31.4581666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

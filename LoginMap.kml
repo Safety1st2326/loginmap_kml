@@ -1180,5 +1180,50 @@
       Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
         <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL28461-A</name>
+        <description><![CDATA[Date: 8/5/25 9:40 AM
+      Site Name: Boggy Creek 3 FL
+      AGL: 129
+      Tower Type: Monopole
+      Address: 13313 Boggy Creek Road, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.3050722222222,28.3739076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY14513-A</name>
+        <description><![CDATA[Date: 8/5/25 9:52 AM
+      Site Name: Water Valley 2 KY
+      AGL: 320
+      Tower Type: Guyed
+      Address: 210 John Road, Water Valley, Hickman, KY 42085]]></description>
+        <Point><coordinates>-88.8370135555556,36.5694437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY14513-A</name>
+        <description><![CDATA[Date: 8/5/25 9:55 AM
+      Site Name: Water Valley 2 KY
+      AGL: 320
+      Tower Type: Guyed
+      Address: 210 John Road, Water Valley, Hickman, KY 42085]]></description>
+        <Point><coordinates>-88.8370135555556,36.5694437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04585-B</name>
+        <description><![CDATA[Date: 8/5/25 9:57 AM
+      Site Name: Sanatorium
+      AGL: 250
+      Tower Type: Guyed
+      Address: 122 Agnes Windham Road, Mendenhall, Simpson, MS 39114]]></description>
+        <Point><coordinates>-89.7758493333333,31.8992441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13765-A</name>
+        <description><![CDATA[Date: 8/5/25 9:57 AM
+      Site Name: Rolla
+      AGL: 150
+      Tower Type: Monopole
+      Address: 706 Oaklane Drive, Rolla, Phelps, MO 65401]]></description>
+        <Point><coordinates>-91.7763326666667,37.9367774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

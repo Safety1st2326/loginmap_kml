@@ -442,5 +442,41 @@
       Address: 39 Rich Road, North Grosvenordale, Windham/Thompson, CT 06255]]></description>
         <Point><coordinates>-71.8519083333333,42.01155,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 8/5/25 7:56 AM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/5/25 7:57 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL12510-B</name>
+        <description><![CDATA[Date: 8/5/25 7:52 AM
+      Site Name: Starved Rock
+      AGL: 195
+      Tower Type: Self Support
+      Address: 2527 E 1251st Road, Ottawa, LaSalle, IL 61350]]></description>
+        <Point><coordinates>-88.9320521111111,41.30225,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/5/25 7:57 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

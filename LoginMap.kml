@@ -2350,5 +2350,14 @@
       Address: 1113 Kirkland Road, Covington, Newton, GA 30016]]></description>
         <Point><coordinates>-83.9453302222222,33.5938246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY10266-A</name>
+        <description><![CDATA[Date: 8/5/25 4:51 PM
+      Site Name: Lone Oak
+      AGL: 150
+      Tower Type: Monopole
+      Address: 129 Cave Thomas Drive, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.671966,37.0313798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

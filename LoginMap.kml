@@ -721,5 +721,140 @@
       Address: 35 West County Rd 200 South, Centerpoint, Clay, IN 47840]]></description>
         <Point><coordinates>-87.1111388888889,39.3565277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI21102-A</name>
+        <description><![CDATA[Date: 8/5/25 8:40 AM
+      Site Name: Osseo 2 WI
+      AGL: 300
+      Tower Type: Guyed
+      Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
+        <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/5/25 8:37 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04909-A</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Dunedin
+      AGL: 185
+      Tower Type: Monopole
+      Address: 1396 Main Street, Dunedin, Pinellas, FL 34698-6242]]></description>
+        <Point><coordinates>-82.767916,28.0198604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK17369-A</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Idabel 2 OK
+      AGL: 322
+      Tower Type: Guyed
+      Address: 801 SE Avenue G, Idabel, McCurtain, OK 74745]]></description>
+        <Point><coordinates>-94.8219798888889,33.8850302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO15864-B</name>
+        <description><![CDATA[Date: 8/5/25 8:33 AM
+      Site Name: Troy North MO
+      AGL: 135
+      Tower Type: Monopole
+      Address: 101 St. Stephen Lane, Troy, Lincoln, MO 63379]]></description>
+        <Point><coordinates>-90.9947285555556,38.9823996111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04909-A</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Dunedin
+      AGL: 185
+      Tower Type: Monopole
+      Address: 1396 Main Street, Dunedin, Pinellas, FL 34698-6242]]></description>
+        <Point><coordinates>-82.767916,28.0198604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45670-A</name>
+        <description><![CDATA[Date: 8/5/25 8:46 AM
+      Site Name: Erin
+      AGL: 75
+      Tower Type: Tree
+      Address: 23302 Olivewood Plaza Drive, Moreno Valley, Riverside, CA 92553]]></description>
+        <Point><coordinates>-117.254888888889,33.9405274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI46780-A</name>
+        <description><![CDATA[Date: 8/5/25 8:46 AM
+      Site Name: Contractors
+      AGL: 140
+      Tower Type: Flagless Flagpole
+      Address: 23231 Lahser Rd, Southfield, Oakland, MI 48034]]></description>
+        <Point><coordinates>-83.2611972222222,42.4588333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL04909-A</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Dunedin
+      AGL: 185
+      Tower Type: Monopole
+      Address: 1396 Main Street, Dunedin, Pinellas, FL 34698-6242]]></description>
+        <Point><coordinates>-82.767916,28.0198604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/5/25 8:48 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR22810-A</name>
+        <description><![CDATA[Date: 8/5/25 8:43 AM
+      Site Name: Cooper Lane
+      AGL: 195
+      Tower Type: Monopole
+      Address: 934 Forest Hills Blvd., Bella Vista, Benton, AR 72714]]></description>
+        <Point><coordinates>-94.2784187777778,36.4826104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16592-S</name>
+        <description><![CDATA[Date: 8/5/25 8:43 AM
+      Site Name: River View South
+      AGL: 195
+      Tower Type: Self Support
+      Address: 40540 TR 41B, Warsaw, Coshocton, OH 43844]]></description>
+        <Point><coordinates>-82.0018027777778,40.3251187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 8/5/25 8:34 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11149-A</name>
+        <description><![CDATA[Date: 8/5/25 8:49 AM
+      Site Name: Kermit
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1000 West Dallas Street, Kermit, Winkler, TX 79745]]></description>
+        <Point><coordinates>-103.108922222222,31.8572,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -613,5 +613,113 @@
       Address: 12385 Lake Nona Gateway Road, Orlando, Orange, FL 32827]]></description>
         <Point><coordinates>-81.2822132222222,28.3893635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL28460-A</name>
+        <description><![CDATA[Date: 8/5/25 8:15 AM
+      Site Name: Lake Nona Gateway
+      AGL: 124
+      Tower Type: Monopole
+      Address: 12385 Lake Nona Gateway Road, Orlando, Orange, FL 32827]]></description>
+        <Point><coordinates>-81.2822132222222,28.3893635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14110-A</name>
+        <description><![CDATA[Date: 8/5/25 8:10 AM
+      Site Name: Rt 711
+      AGL: 195
+      Tower Type: Monopole
+      Address: 3139 Monte Road, Powhatan, Powhatan, VA 23139]]></description>
+        <Point><coordinates>-77.8645,37.6163444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI08511-A</name>
+        <description><![CDATA[Date: 8/5/25 8:09 AM
+      Site Name: Grand Rapids 2 MI
+      AGL: 185
+      Tower Type: Monopole
+      Address: 4283 Timpson Road, Grand Rapids, Kent, MI 48034]]></description>
+        <Point><coordinates>-85.3916163333333,42.8892663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10677-A</name>
+        <description><![CDATA[Date: 8/5/25 8:23 AM
+      Site Name: Middlebourne
+      AGL: 350
+      Tower Type: Guyed
+      Address: 536 Wick Road, Middlebourne, Tyler, WV 26149]]></description>
+        <Point><coordinates>-80.9049361111111,39.4832132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16471-S</name>
+        <description><![CDATA[Date: 8/5/25 8:11 AM
+      Site Name: Osceola 4 FL
+      AGL: 145
+      Tower Type: Stealth
+      Address: 1151 Robinson Ave., St. Cloud, Osceola, FL 34769]]></description>
+        <Point><coordinates>-81.3028575,28.2474818888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI16416-B</name>
+        <description><![CDATA[Date: 8/5/25 8:13 AM
+      Site Name: Escanaba 2 MI
+      AGL: 195
+      Tower Type: Monopole
+      Address: 4689 K Road, Bark River, Delta, MI 49807]]></description>
+        <Point><coordinates>-87.1944635555556,45.7163,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KS41152-T</name>
+        <description><![CDATA[Date: 8/5/25 8:10 AM
+      Site Name: Tyler 2 KS
+      AGL: 120
+      Tower Type: Monopole
+      Address: 7360 West Newell, Wichita, Sedgwick, KS 67212]]></description>
+        <Point><coordinates>-97.428416,37.6922302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20996-A</name>
+        <description><![CDATA[Date: 8/5/25 8:13 AM
+      Site Name: WINK
+      AGL: 430
+      Tower Type: Guyed
+      Address: 5491 S. State Hwy 115, Wink, Winkler, TX 79789]]></description>
+        <Point><coordinates>-103.148033,31.7807854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/5/25 8:27 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR41699-T</name>
+        <description><![CDATA[Date: 8/5/25 8:28 AM
+      Site Name: Sandy River-Cherry Pk Ch
+      AGL: 100
+      Tower Type: Monopole
+      Address: 348 SW Cherry Park Rd., Troutdale, Multnomah, OR 97060]]></description>
+        <Point><coordinates>-122.391471666667,45.5328323333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17282-B</name>
+        <description><![CDATA[Date: 8/5/25 8:28 AM
+      Site Name: Neillsville East
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
+        <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN11023-A</name>
+        <description><![CDATA[Date: 8/5/25 8:28 AM
+      Site Name: Cory
+      AGL: 251
+      Tower Type: Guyed
+      Address: 35 West County Rd 200 South, Centerpoint, Clay, IN 47840]]></description>
+        <Point><coordinates>-87.1111388888889,39.3565277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

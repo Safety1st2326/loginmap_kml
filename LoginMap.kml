@@ -1036,5 +1036,68 @@
       Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
         <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46173-A</name>
+        <description><![CDATA[Date: 8/5/25 9:22 AM
+      Site Name: Lakeland-northeast
+      AGL: 180
+      Tower Type: Monopole
+      Address: 6735 Lake Luther Road, Lakeland, Polk, FL 33805]]></description>
+        <Point><coordinates>-81.9201076666667,28.1291243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 8/5/25 9:22 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12615-A</name>
+        <description><![CDATA[Date: 8/5/25 9:13 AM
+      Site Name: Terril
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3099 240th Street, Terril, Dickinson, IA 51364]]></description>
+        <Point><coordinates>-94.9738048888889,43.298283,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12615-A</name>
+        <description><![CDATA[Date: 8/5/25 9:13 AM
+      Site Name: Terril
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3099 240th Street, Terril, Dickinson, IA 51364]]></description>
+        <Point><coordinates>-94.9738048888889,43.298283,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT15944-A</name>
+        <description><![CDATA[Date: 8/5/25 9:13 AM
+      Site Name: Shorey
+      AGL: 161
+      Tower Type: Guyed
+      Address: Junction of Molt Road & Popelka Road, Billings, Yellowstone, MT 59106]]></description>
+        <Point><coordinates>-108.764291666667,45.8533277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT15944-A</name>
+        <description><![CDATA[Date: 8/5/25 9:13 AM
+      Site Name: Shorey
+      AGL: 60
+      Tower Type: Self Support
+      Address: Junction of Molt Road & Popelka Road, Billings, Yellowstone, MT 59106]]></description>
+        <Point><coordinates>-108.764375,45.8533111111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VT13927-A</name>
+        <description><![CDATA[Date: 8/5/25 9:28 AM
+      Site Name: Fairlee - Pratt(1)
+      AGL: 110
+      Tower Type: Monopine
+      Address: 434 Sawyer Mountain Road, Fairlee, Orange, VT 05045]]></description>
+        <Point><coordinates>-72.127666,43.9462774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

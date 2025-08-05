@@ -109,5 +109,23 @@
       Address: 1820 Pappas Street, Laredo, Webb, TX 78041-5410]]></description>
         <Point><coordinates>-99.4722326666667,27.5364691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02637-A</name>
+        <description><![CDATA[Date: 8/5/25 6:45 AM
+      Site Name: St Mary's 3 GA
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
+        <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46251-A</name>
+        <description><![CDATA[Date: 8/5/25 6:46 AM
+      Site Name: Redlands 2 FL
+      AGL: 126
+      Tower Type: Monopole
+      Address: 15901 Sw 177th Ave.  orm, Miami, Miami-Dade, FL 33187]]></description>
+        <Point><coordinates>-80.471766,25.6175243333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

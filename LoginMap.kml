@@ -1225,5 +1225,41 @@
       Address: 706 Oaklane Drive, Rolla, Phelps, MO 65401]]></description>
         <Point><coordinates>-91.7763326666667,37.9367774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 8/5/25 9:55 AM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX05944-A</name>
+        <description><![CDATA[Date: 8/5/25 10:07 AM
+      Site Name: Kilgore 2 TX
+      AGL: 250
+      Tower Type: Guyed
+      Address: 982 Whittington Road, Kilgore, Gregg, TX 75662-9802]]></description>
+        <Point><coordinates>-94.7659416666667,32.3829882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04201-B</name>
+        <description><![CDATA[Date: 8/5/25 10:07 AM
+      Site Name: Albion
+      AGL: 195
+      Tower Type: Guyed
+      Address: 114 Towne Road, Pulaski, Oswego, NY 13142-2588]]></description>
+        <Point><coordinates>-76.1091305555556,43.4844357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/5/25 10:07 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

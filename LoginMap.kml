@@ -127,5 +127,41 @@
       Address: 15901 Sw 177th Ave.  orm, Miami, Miami-Dade, FL 33187]]></description>
         <Point><coordinates>-80.471766,25.6175243333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 8/5/25 6:53 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08398-A</name>
+        <description><![CDATA[Date: 8/5/25 6:50 AM
+      Site Name: Saunders 2 TX
+      AGL: 141
+      Tower Type: Monopole
+      Address: 1820 Pappas Street, Laredo, Webb, TX 78041-5410]]></description>
+        <Point><coordinates>-99.4722326666667,27.5364691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 8/5/25 6:58 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23591-A</name>
+        <description><![CDATA[Date: 8/5/25 6:58 AM
+      Site Name: Votech
+      AGL: 132
+      Tower Type: Monopine
+      Address: 7922 Opossumtown Pike, Frederick, Frederick, MD 21702]]></description>
+        <Point><coordinates>-77.4174021111111,39.4498468888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

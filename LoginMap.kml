@@ -1099,5 +1099,68 @@
       Address: 434 Sawyer Mountain Road, Fairlee, Orange, VT 05045]]></description>
         <Point><coordinates>-72.127666,43.9462774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS41148-T</name>
+        <description><![CDATA[Date: 8/5/25 9:25 AM
+      Site Name: Towne West
+      AGL: 150
+      Tower Type: Monopole
+      Address: 660 South Westdale Drive, Wichita, Sedgwick, KS 67209]]></description>
+        <Point><coordinates>-97.3992746666667,37.6753465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06741-B</name>
+        <description><![CDATA[Date: 8/5/25 9:19 AM
+      Site Name: Jim Thorpe
+      AGL: 199
+      Tower Type: Flagpole
+      Address: 1 Adventure Lane, Jim Thorpe, Carbon, PA 18229-1519]]></description>
+        <Point><coordinates>-75.7407191111111,40.8759215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR22304-A</name>
+        <description><![CDATA[Date: 8/5/25 9:31 AM
+      Site Name: Arkhola
+      AGL: 200
+      Tower Type: Monopole
+      Address: 2202 Arkhola Drive, Springdale, Washington, AR 72764]]></description>
+        <Point><coordinates>-94.1370524444444,36.1653166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15407-A</name>
+        <description><![CDATA[Date: 8/5/25 9:37 AM
+      Site Name: Brookhaven Landfill
+      AGL: 125
+      Tower Type: Stealth Monopole
+      Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
+        <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11310-A</name>
+        <description><![CDATA[Date: 8/5/25 9:37 AM
+      Site Name: Southwest Andrews
+      AGL: 301
+      Tower Type: Guyed
+      Address: 7340 W. Hwy 115, Andrews, Andrews, TX 79714]]></description>
+        <Point><coordinates>-102.775007666667,32.1713354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 8/5/25 9:37 AM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15407-A</name>
+        <description><![CDATA[Date: 8/5/25 9:37 AM
+      Site Name: Brookhaven Landfill
+      AGL: 125
+      Tower Type: Stealth Monopole
+      Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
+        <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

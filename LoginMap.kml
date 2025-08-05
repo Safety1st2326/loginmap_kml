@@ -1756,5 +1756,23 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/4/25 6:39 PM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT15633-A</name>
+        <description><![CDATA[Date: 8/4/25 6:52 PM
+      Site Name: Mud Flats
+      AGL: 181
+      Tower Type: Self Support
+      Address: 1241 S. North Cedars Rd., Sevier, Sevier, UT 84766]]></description>
+        <Point><coordinates>-112.377999333333,38.568416,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

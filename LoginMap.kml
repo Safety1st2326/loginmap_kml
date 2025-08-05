@@ -1756,5 +1756,86 @@
       Address: 4068 Avalon Blvd , Los Angeles, Los Angeles, CA 90011-5645]]></description>
         <Point><coordinates>-118.264627777778,34.0093166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL02414-S</name>
+        <description><![CDATA[Date: 8/5/25 12:45 PM
+      Site Name: West Holopaw
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
+        <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41523-T</name>
+        <description><![CDATA[Date: 8/5/25 12:39 PM
+      Site Name: Farmingville Fire Station
+      AGL: 100
+      Tower Type: Monopole
+      Address: 780 Horseblock Road, Farmingville, Suffolk, NY 11738]]></description>
+        <Point><coordinates>-73.0302382222222,40.830541,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL02414-S</name>
+        <description><![CDATA[Date: 8/5/25 12:46 PM
+      Site Name: West Holopaw
+      AGL: 280
+      Tower Type: Self Support
+      Address: 7350 E Irlo Bronson Mem Hwy, St. Cloud, Osceola, FL 34771]]></description>
+        <Point><coordinates>-81.1421802222222,28.1847663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR11448-A</name>
+        <description><![CDATA[Date: 8/5/25 12:55 PM
+      Site Name: N Springdale
+      AGL: 150
+      Tower Type: Monopole
+      Address: 339 E County Line Road, Springdale, Washington, AR 72764]]></description>
+        <Point><coordinates>-94.1320632222222,36.2086527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/5/25 12:44 PM
+      Site Name: Green Peter
+      AGL: 150
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582924333333,44.4828604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/5/25 12:44 PM
+      Site Name: Green Peter
+      AGL: 20
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/5/25 12:44 PM
+      Site Name: Green Peter
+      AGL: 150
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582924333333,44.4828604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/5/25 12:44 PM
+      Site Name: Green Peter
+      AGL: 20
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48056-A</name>
+        <description><![CDATA[Date: 8/5/25 12:58 PM
+      Site Name: Santaquin
+      AGL: 95
+      Tower Type: Monopole
+      Address: 150 South 400 West, Santaquin, Utah, UT 84655]]></description>
+        <Point><coordinates>-111.792638555556,39.9734993333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

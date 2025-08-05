@@ -946,5 +946,68 @@
       Address: 532 East Street, Lewiston, Androscoggin, ME 04240]]></description>
         <Point><coordinates>-70.1807632222222,44.1159527777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 8/5/25 9:01 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00620-B</name>
+        <description><![CDATA[Date: 8/5/25 9:07 AM
+      Site Name: Erie Lane
+      AGL: 180
+      Tower Type: Monopole
+      Address: 10308 North US 301, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.4578083333333,27.5536138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00620-B</name>
+        <description><![CDATA[Date: 8/5/25 9:07 AM
+      Site Name: Erie Lane
+      AGL: 180
+      Tower Type: Monopole
+      Address: 10308 North US 301, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.4578083333333,27.5536138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22618-A</name>
+        <description><![CDATA[Date: 8/5/25 9:07 AM
+      Site Name: Boggy Creek 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12401 Boggy Creek Road, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.3107027777778,28.3853218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PR05189-A</name>
+        <description><![CDATA[Date: 8/5/25 9:07 AM
+      Site Name: Rexville
+      AGL: 200
+      Tower Type: Self Support
+      Address: Carretera via Rexville DD56, Bayamon, Bayam?n, PR 00956]]></description>
+        <Point><coordinates>-66.1949996666667,18.3594444444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL22618-A</name>
+        <description><![CDATA[Date: 8/5/25 9:07 AM
+      Site Name: Boggy Creek 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 12401 Boggy Creek Road, Orlando, Orange, FL 32824]]></description>
+        <Point><coordinates>-81.3107027777778,28.3853218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16724-A</name>
+        <description><![CDATA[Date: 8/5/25 9:04 AM
+      Site Name: Augusta
+      AGL: 250
+      Tower Type: Guyed
+      Address: 7214 Kensington Road NE, Carrollton, Carroll, OH 44615]]></description>
+        <Point><coordinates>-81.0256021111111,40.6783715555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

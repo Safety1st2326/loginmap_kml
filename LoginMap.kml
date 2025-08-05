@@ -1009,5 +1009,32 @@
       Address: 7214 Kensington Road NE, Carrollton, Carroll, OH 44615]]></description>
         <Point><coordinates>-81.0256021111111,40.6783715555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13161-A</name>
+        <description><![CDATA[Date: 8/5/25 9:10 AM
+      Site Name: Orangeburg
+      AGL: 299
+      Tower Type: Guyed
+      Address: 1503 Fleming Road, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.7633472222222,38.6129277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/5/25 9:15 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WA48273-B</name>
+        <description><![CDATA[Date: 8/5/25 9:16 AM
+      Site Name: Point Roberts
+      AGL: 149
+      Tower Type: Monopole
+      Address: 2050 Benson Road, Point Roberts, Whatcom, WA 98281]]></description>
+        <Point><coordinates>-123.044799666667,48.9917718888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2359,5 +2359,50 @@
       Address: 129 Cave Thomas Drive, Paducah, McCracken, KY 42001]]></description>
         <Point><coordinates>-88.671966,37.0313798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41110-T</name>
+        <description><![CDATA[Date: 8/5/25 5:18 PM
+      Site Name: Baumgartner Trucking
+      AGL: 150
+      Tower Type: Monopole
+      Address: 600 Hamman Street, Lafayette, Tippecanoe, IN 47905]]></description>
+        <Point><coordinates>-86.8552,40.4134305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08608-A</name>
+        <description><![CDATA[Date: 8/5/25 5:12 PM
+      Site Name: Orange City
+      AGL: 370
+      Tower Type: Guyed
+      Address: 115 East Minnesota Avenue, Deland, Volusia, FL 32720-3422]]></description>
+        <Point><coordinates>-81.2744437777778,28.9705548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40760-T</name>
+        <description><![CDATA[Date: 8/5/25 5:12 PM
+      Site Name: IE876 BloomingtonCongregat UCC
+      AGL: 53
+      Tower Type: Stealth
+      Address: 18450 Santa Ana Ave., San Bernardino, San Bernardino, CA 92316]]></description>
+        <Point><coordinates>-117.401016666667,34.0562472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12159-A</name>
+        <description><![CDATA[Date: 8/5/25 5:27 PM
+      Site Name: Massac Church KY
+      AGL: 231
+      Tower Type: Self Support
+      Address: 2136 Mayfield Metropolis Road, Paducah, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.7304854444445,37.0157138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS20457-A</name>
+        <description><![CDATA[Date: 8/5/25 5:27 PM
+      Site Name: Woodville MS Tower
+      AGL: 483
+      Tower Type: Guyed
+      Address: 3199 US Highway 61 North, Woodville, Wilkinson, MS 39669]]></description>
+        <Point><coordinates>-91.2814576666667,31.1440524444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2431,5 +2431,14 @@
       Address: 2115 W Highland Ave, San Bernardino, San Bernardino, CA 92407]]></description>
         <Point><coordinates>-117.336177444444,34.1356274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/5/25 5:45 PM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

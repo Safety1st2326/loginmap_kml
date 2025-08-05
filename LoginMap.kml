@@ -2242,5 +2242,32 @@
       Address: 7048 E. Hwy 176, Andrews, Andrews, TX 79714]]></description>
         <Point><coordinates>-102.395013555556,32.3245215555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL23609-S</name>
+        <description><![CDATA[Date: 8/5/25 3:52 PM
+      Site Name: Pleasant Hill FL
+      AGL: 160
+      Tower Type: Unipole
+      Address: 2373 Pleasant Hill Road, Kissimmee, Osceola, FL 34746]]></description>
+        <Point><coordinates>-81.4319671111111,28.2320668333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL23609-S</name>
+        <description><![CDATA[Date: 8/5/25 3:52 PM
+      Site Name: Pleasant Hill FL
+      AGL: 160
+      Tower Type: Unipole
+      Address: 2373 Pleasant Hill Road, Kissimmee, Osceola, FL 34746]]></description>
+        <Point><coordinates>-81.4319671111111,28.2320668333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC24208-A</name>
+        <description><![CDATA[Date: 8/5/25 3:59 PM
+      Site Name: Smoaks Tower
+      AGL: 301
+      Tower Type: Guyed
+      Address: 30162 Lowcountry Highway, Smoaks, Colleton, SC 29481]]></description>
+        <Point><coordinates>-80.8092361111111,33.123041,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

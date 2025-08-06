@@ -2557,5 +2557,14 @@
       Address: 8036 Slayback Ranch Road, Davis, Solano, CA 95616]]></description>
         <Point><coordinates>-121.722471555556,38.5328048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45850-A</name>
+        <description><![CDATA[Date: 8/6/25 6:01 PM
+      Site Name: Brethren Church
+      AGL: 60
+      Tower Type: Tree
+      Address: 875 W ORANGE GROVE AVE , POMONA, LOS ANGELES, CA 917680000]]></description>
+        <Point><coordinates>-117.767027111111,34.0681104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

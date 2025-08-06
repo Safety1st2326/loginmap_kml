@@ -2287,5 +2287,32 @@
       Address: SECTION LINE ROADS N3960&E1150, Henryetta, McIntosh, OK 74437]]></description>
         <Point><coordinates>-95.9648222222222,35.3416246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ47197-A</name>
+        <description><![CDATA[Date: 8/6/25 3:43 PM
+      Site Name: Flemington
+      AGL: 125
+      Tower Type: Monopole
+      Address: 495 Highway 202, Flemington, Hunterdon, NJ 08822]]></description>
+        <Point><coordinates>-74.8158805555556,40.518416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13173-A</name>
+        <description><![CDATA[Date: 8/6/25 3:44 PM
+      Site Name: Font Hill
+      AGL: 349
+      Tower Type: Guyed
+      Address: 1101 Pine Top Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-84.9131388888889,37.0888274444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX15172-S</name>
+        <description><![CDATA[Date: 8/6/25 3:49 PM
+      Site Name: Cobbs Cavern 2 TX
+      AGL: 320
+      Tower Type: Self Support
+      Address: 240 Beaver Lane, Florence, Williamson, TX 76527]]></description>
+        <Point><coordinates>-97.7570252777778,30.773016,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

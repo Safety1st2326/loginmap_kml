@@ -2521,5 +2521,14 @@
       Address: 9447 S. 39000 W, Fruitland, Duchesne, UT 84027]]></description>
         <Point><coordinates>-110.726638222222,40.1623611111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT21740-A</name>
+        <description><![CDATA[Date: 8/5/25 7:34 PM
+      Site Name: FRUITLAND TOWER
+      AGL: 100
+      Tower Type: Monopole
+      Address: 9447 S. 39000 W, Fruitland, Duchesne, UT 84027]]></description>
+        <Point><coordinates>-110.726638222222,40.1623611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1441,5 +1441,32 @@
       Address: 5645 STATE STREET, SAGINAW, SAGINAW, MI 48603]]></description>
         <Point><coordinates>-84.0261937777778,43.4356968888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL40484-T</name>
+        <description><![CDATA[Date: 8/6/25 11:45 AM
+      Site Name: Fayette
+      AGL: 150
+      Tower Type: Stealth
+      Address: 93 Tiger Drive, Fayette, Fayette, AL 35555]]></description>
+        <Point><coordinates>-87.8234312777778,33.7043605555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21144-A</name>
+        <description><![CDATA[Date: 8/6/25 11:34 AM
+      Site Name: Maul Farm
+      AGL: 165
+      Tower Type: Self Support
+      Address: 6985 Farm Lane, Allenton, Washington, WI 53002]]></description>
+        <Point><coordinates>-88.3763493333333,43.5291132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO13765-A</name>
+        <description><![CDATA[Date: 8/6/25 11:46 AM
+      Site Name: Rolla
+      AGL: 150
+      Tower Type: Monopole
+      Address: 706 Oaklane Drive, Rolla, Phelps, MO 65401]]></description>
+        <Point><coordinates>-91.7763326666667,37.9367774444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

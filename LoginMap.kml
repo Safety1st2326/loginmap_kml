@@ -2359,5 +2359,32 @@
       Address: 4640 South 900 East , Salt Lake City, Salt Lake, UT 84117]]></description>
         <Point><coordinates>-111.866,40.669966,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40799-T</name>
+        <description><![CDATA[Date: 8/6/25 4:15 PM
+      Site Name: Ted Greene Park
+      AGL: 75
+      Tower Type: Monopole Tree
+      Address: 2105 N. Orange Grove, Pomona, Los Angeles, CA 91769]]></description>
+        <Point><coordinates>-117.746671888889,34.0829937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT04384-S</name>
+        <description><![CDATA[Date: 8/6/25 4:19 PM
+      Site Name: Lebanon Southwest
+      AGL: 157
+      Tower Type: Flagpole
+      Address: 859 Goshen Hill Road, Lebanon, New London/Lebanon, CT 06249-2413]]></description>
+        <Point><coordinates>-72.272016,41.6036638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/6/25 4:19 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

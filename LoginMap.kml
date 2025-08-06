@@ -2386,5 +2386,41 @@
       Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
         <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/6/25 4:21 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/6/25 4:22 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT04384-S</name>
+        <description><![CDATA[Date: 8/6/25 4:29 PM
+      Site Name: Lebanon Southwest
+      AGL: 157
+      Tower Type: Flagpole
+      Address: 859 Goshen Hill Road, Lebanon, New London/Lebanon, CT 06249-2413]]></description>
+        <Point><coordinates>-72.272016,41.6036638888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15842-A</name>
+        <description><![CDATA[Date: 8/6/25 4:29 PM
+      Site Name: Sam's LP Gas
+      AGL: 248
+      Tower Type: Self Support
+      Address: 8222 South Orange Avenue, Orlando, Orange (unincorporated), FL 32809]]></description>
+        <Point><coordinates>-81.3653344444444,28.4481160555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1036,5 +1036,41 @@
       Address: 895 W. State St., Ontario, San Bernardino, CA 91761]]></description>
         <Point><coordinates>-117.666575,34.0587916666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY16507-A</name>
+        <description><![CDATA[Date: 8/6/25 10:10 AM
+      Site Name: Shandaken
+      AGL: 181
+      Tower Type: Self Support
+      Address: 131 Rudy Frank Rd Ext, Shandaken, Ulster, NY 12480]]></description>
+        <Point><coordinates>-74.3990107777778,42.1258604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10666-A</name>
+        <description><![CDATA[Date: 8/6/25 10:11 AM
+      Site Name: Horntown
+      AGL: 251
+      Tower Type: Guyed
+      Address: 227 Horn Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-84.9998635555556,37.0720882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16507-A</name>
+        <description><![CDATA[Date: 8/6/25 10:11 AM
+      Site Name: Shandaken
+      AGL: 181
+      Tower Type: Self Support
+      Address: 131 Rudy Frank Rd Ext, Shandaken, Ulster, NY 12480]]></description>
+        <Point><coordinates>-74.3990107777778,42.1258604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/6/25 10:11 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

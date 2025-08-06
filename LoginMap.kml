@@ -172,5 +172,14 @@
       Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
         <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA11602-A</name>
+        <description><![CDATA[Date: 8/6/25 7:10 AM
+      Site Name: Rolling Hills 2 VA
+      AGL: 276
+      Tower Type: Self Support
+      Address: 120 Rolling Hills Lane, Burgess, Northumberland, VA 22432]]></description>
+        <Point><coordinates>-76.3551138888889,37.8718215555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2206,5 +2206,41 @@
       Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
         <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 8/6/25 3:22 PM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA21332-A</name>
+        <description><![CDATA[Date: 8/6/25 3:22 PM
+      Site Name: Tifton Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2099 Old Ocilla Road, Tifton, TIFT, GA 31794]]></description>
+        <Point><coordinates>-83.4760585,31.4860649444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 8/6/25 3:23 PM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47863-A</name>
+        <description><![CDATA[Date: 8/6/25 3:23 PM
+      Site Name: Newton Business Park
+      AGL: 150
+      Tower Type: Monopole
+      Address: 11891 Katy Road, Keller, Tarrant, TX 76248]]></description>
+        <Point><coordinates>-97.2578027777778,32.947033,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

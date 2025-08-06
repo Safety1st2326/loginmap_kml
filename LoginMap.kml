@@ -1792,5 +1792,41 @@
       Address: 8390 Forest Oaks Blvd, Spring Hill, Hernando, FL 34606]]></description>
         <Point><coordinates>-82.5805548888889,28.486358,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45940-A</name>
+        <description><![CDATA[Date: 8/6/25 1:01 PM
+      Site Name: Sce-Wimbledon Sub-station
+      AGL: 47
+      Tower Type: Stealth
+      Address: 1330 S. Etiwanda Ave , ONTARIO, SAN BERNARDINO, CA 91761]]></description>
+        <Point><coordinates>-117.525413222222,34.0482385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA07137-S</name>
+        <description><![CDATA[Date: 8/6/25 1:04 PM
+      Site Name: Walnut Hill PA
+      AGL: 250
+      Tower Type: Self Support
+      Address: RD 1, Box 40, Dilliner, Greene, PA 15327-9602]]></description>
+        <Point><coordinates>-79.9114166666667,39.7362941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40488-T</name>
+        <description><![CDATA[Date: 8/6/25 1:03 PM
+      Site Name: Beaverton 3 AL
+      AGL: 275
+      Tower Type: Self Support
+      Address: 31703 C.R. 49, Beaverton, Lamar, AL 35544]]></description>
+        <Point><coordinates>-88.0162422222222,33.9222293333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ20002-A</name>
+        <description><![CDATA[Date: 8/6/25 1:03 PM
+      Site Name: CHERRYVILLE-FLEMINGTON TOWER
+      AGL: 150
+      Tower Type: Self Support
+      Address: 184 Klinesville Road, Flemington, HUNTERDON, NJ 08822]]></description>
+        <Point><coordinates>-74.9002361111111,40.5523055555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

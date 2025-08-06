@@ -1351,5 +1351,14 @@
       Address: N5721 County Road T, Princeton, Green Lake, WI 54968]]></description>
         <Point><coordinates>-89.1315687777778,43.8364496666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45364-A</name>
+        <description><![CDATA[Date: 8/6/25 11:24 AM
+      Site Name: Montclair
+      AGL: 63
+      Tower Type: Stealth
+      Address: 4755 Holt Boulevard, Montclair, San Bernardino, CA 91763]]></description>
+        <Point><coordinates>-117.701444444444,34.0625083333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

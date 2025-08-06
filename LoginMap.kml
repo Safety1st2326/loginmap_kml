@@ -316,5 +316,95 @@
       Address: 5495 Hillandale Drive, Lithonia, Dekalb, GA 30058]]></description>
         <Point><coordinates>-84.1671937777778,33.7044166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WV10671-A</name>
+        <description><![CDATA[Date: 8/6/25 7:31 AM
+      Site Name: Kanes Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 104 Percy Lane, Reedsville, Preston, WV 26547]]></description>
+        <Point><coordinates>-79.7639333333333,39.5072277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS17821-A</name>
+        <description><![CDATA[Date: 8/6/25 7:43 AM
+      Site Name: Meridian 3 MS
+      AGL: 450
+      Tower Type: Guyed
+      Address: 2.5 mi SW of Int. of US I59 & MS Hwy 19, Meridian, Lauderdale, MS 39301]]></description>
+        <Point><coordinates>-88.6326993333333,32.354125,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 8/6/25 7:43 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI16143-S</name>
+        <description><![CDATA[Date: 8/6/25 7:44 AM
+      Site Name: Cottage Grove 2 WI
+      AGL: 134
+      Tower Type: Monopole
+      Address: 284 S. Grove Street, Cottage Grove, Dane, WI 53527]]></description>
+        <Point><coordinates>-89.202,43.0738048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10671-A</name>
+        <description><![CDATA[Date: 8/6/25 7:31 AM
+      Site Name: Kanes Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 104 Percy Lane, Reedsville, Preston, WV 26547]]></description>
+        <Point><coordinates>-79.7639333333333,39.5072277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10187-A</name>
+        <description><![CDATA[Date: 8/6/25 7:31 AM
+      Site Name: Mountain Home E
+      AGL: 251
+      Tower Type: Self Support
+      Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
+        <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15407-A</name>
+        <description><![CDATA[Date: 8/6/25 7:46 AM
+      Site Name: Brookhaven Landfill
+      AGL: 125
+      Tower Type: Stealth Monopole
+      Address: 48 Yaphank Avenue, Brookhaven, Suffolk, NY 11719]]></description>
+        <Point><coordinates>-72.9167826666667,40.7956524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 8/6/25 7:31 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/6/25 7:37 AM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01571-B</name>
+        <description><![CDATA[Date: 8/6/25 7:48 AM
+      Site Name: Lower Makefield
+      AGL: 190
+      Tower Type: Self Support
+      Address: 1100 Edgewood Rd., Yardley, Bucks, PA 19067-1689]]></description>
+        <Point><coordinates>-74.8418496666667,40.2262493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

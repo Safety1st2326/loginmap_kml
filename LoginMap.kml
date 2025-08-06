@@ -442,5 +442,32 @@
       Address: 737 Godsey Road, Crab Orchard, Cumberland, TN 37723]]></description>
         <Point><coordinates>-84.8591555555555,35.8949635555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/6/25 8:01 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/6/25 8:11 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA09666-S</name>
+        <description><![CDATA[Date: 8/6/25 8:05 AM
+      Site Name: Lancaster VA
+      AGL: 261
+      Tower Type: Self Support
+      Address: 8301 Mary Ball Road, Lancaster, Lancaster, VA 22503]]></description>
+        <Point><coordinates>-76.46535,37.7719798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

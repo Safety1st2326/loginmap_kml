@@ -1972,5 +1972,32 @@
       Address: 2263 US Highway 2 NW, Cass Lake, Cass, MN 56633]]></description>
         <Point><coordinates>-94.4151555555556,47.3712021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT22095-A</name>
+        <description><![CDATA[Date: 8/6/25 2:04 PM
+      Site Name: Redding (Dittmar)
+      AGL: 120
+      Tower Type: Monopine
+      Address: 4 Ditmar Rd, Redding, Fairfield, CT 06875]]></description>
+        <Point><coordinates>-73.3919357777778,41.3398718888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20997-A</name>
+        <description><![CDATA[Date: 8/6/25 2:04 PM
+      Site Name: Brownfield
+      AGL: 500
+      Tower Type: Guyed
+      Address: 2006 La Mesa Highway, Brownfield, Terry, TX 79316]]></description>
+        <Point><coordinates>-102.281696555556,33.1550222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16568-A</name>
+        <description><![CDATA[Date: 8/6/25 2:04 PM
+      Site Name: Paradise 3 TX
+      AGL: 195
+      Tower Type: Self Support
+      Address: 234 North Mesquite, Paradise, Wise, TX 76073]]></description>
+        <Point><coordinates>-97.6896552222222,33.1567166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

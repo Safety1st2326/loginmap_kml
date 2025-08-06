@@ -2503,5 +2503,23 @@
       Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
         <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR20918-A</name>
+        <description><![CDATA[Date: 8/5/25 7:28 PM
+      Site Name: Jasper 2 OR
+      AGL: 199
+      Tower Type: Self Support
+      Address: 84849 Edenvale Road, Pleasant Hill, Lane, OR 97455]]></description>
+        <Point><coordinates>-122.934549666667,43.9690104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT21740-A</name>
+        <description><![CDATA[Date: 8/5/25 7:24 PM
+      Site Name: FRUITLAND TOWER
+      AGL: 100
+      Tower Type: Monopole
+      Address: 9447 S. 39000 W, Fruitland, Duchesne, UT 84027]]></description>
+        <Point><coordinates>-110.726638222222,40.1623611111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -37,5 +37,23 @@
       Address: 5131 North Florida Avenue, Tampa, Hillsborough, FL 33603-2137]]></description>
         <Point><coordinates>-82.4591055555556,27.993783,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02881-B</name>
+        <description><![CDATA[Date: 8/6/25 5:54 AM
+      Site Name: Route 27
+      AGL: 250
+      Tower Type: Self Support
+      Address: 292 Industrial Blvd. S.E., Lindale, Floyd, GA 30147]]></description>
+        <Point><coordinates>-85.2036611111111,34.1775826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 8/6/25 6:09 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

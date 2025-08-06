@@ -91,5 +91,50 @@
       Address: 4101 Maple Ave, Pennsauken, Camden, NJ 08109]]></description>
         <Point><coordinates>-75.0649777777778,39.9492691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR10187-A</name>
+        <description><![CDATA[Date: 8/6/25 6:51 AM
+      Site Name: Mountain Home E
+      AGL: 251
+      Tower Type: Self Support
+      Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
+        <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 8/6/25 6:51 AM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05988-A</name>
+        <description><![CDATA[Date: 8/6/25 6:51 AM
+      Site Name: Nelson Rd
+      AGL: 160
+      Tower Type: Self Support
+      Address: 1810 Nelson Road, Shreveport, Caddo, LA 71107-6346]]></description>
+        <Point><coordinates>-93.7799993333333,32.5437218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14119-A</name>
+        <description><![CDATA[Date: 8/6/25 6:54 AM
+      Site Name: Culpeper
+      AGL: 195
+      Tower Type: Monopole
+      Address: 18250 Germanna Highway, Culpeper, Culpeper, VA 22701]]></description>
+        <Point><coordinates>-77.9121388888889,38.4375552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02637-A</name>
+        <description><![CDATA[Date: 8/6/25 6:54 AM
+      Site Name: St Mary's 3 GA
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
+        <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

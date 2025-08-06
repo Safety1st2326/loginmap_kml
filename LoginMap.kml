@@ -865,5 +865,104 @@
       Address: 1250 E. Highway 91, LITTLEFIELD, MOHAVE, AZ 86432]]></description>
         <Point><coordinates>-114.009494444444,36.8280271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA04351-S</name>
+        <description><![CDATA[Date: 8/6/25 9:41 AM
+      Site Name: Evergreen 2 VA
+      AGL: 250
+      Tower Type: Guyed
+      Address: 458 Broken Sun Road, Evergreen, Appomattox, VA 24522]]></description>
+        <Point><coordinates>-78.7442496666667,37.2930691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/6/25 9:41 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12568-A</name>
+        <description><![CDATA[Date: 8/6/25 9:28 AM
+      Site Name: Aurelia
+      AGL: 241
+      Tower Type: Self Support
+      Address: 314 E 9th Street, Aurelia, Cherokee, IA 51005]]></description>
+        <Point><coordinates>-95.4342357777778,42.7199965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN22222-A</name>
+        <description><![CDATA[Date: 8/6/25 9:27 AM
+      Site Name: Sabin-Moorhead
+      AGL: 704
+      Tower Type: Guyed
+      Address: 9143 90th Avenue South, Sabin, Clay, MN 56580]]></description>
+        <Point><coordinates>-96.6074916666667,46.7595944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46381-A</name>
+        <description><![CDATA[Date: 8/6/25 9:42 AM
+      Site Name: Country Cove
+      AGL: 196
+      Tower Type: Monopole
+      Address: 5470 Technology Parkway, Braselton, Hall, GA 30517]]></description>
+        <Point><coordinates>-83.8046944444444,34.1487218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA04351-S</name>
+        <description><![CDATA[Date: 8/6/25 9:31 AM
+      Site Name: Evergreen 2 VA
+      AGL: 250
+      Tower Type: Guyed
+      Address: 458 Broken Sun Road, Evergreen, Appomattox, VA 24522]]></description>
+        <Point><coordinates>-78.7442496666667,37.2930691111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40886-T</name>
+        <description><![CDATA[Date: 8/6/25 9:31 AM
+      Site Name: Connor's Lake
+      AGL: 100
+      Tower Type: Monopole
+      Address: 100 THORNHILL ROAD, AUBURNDALE, Polk, FL 33825]]></description>
+        <Point><coordinates>-81.815581,28.051378,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS20457-A</name>
+        <description><![CDATA[Date: 8/6/25 9:46 AM
+      Site Name: Woodville MS Tower
+      AGL: 483
+      Tower Type: Guyed
+      Address: 3199 US Highway 61 North, Woodville, Wilkinson, MS 39669]]></description>
+        <Point><coordinates>-91.2814576666667,31.1440524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 8/6/25 9:46 AM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20770-A</name>
+        <description><![CDATA[Date: 8/6/25 9:48 AM
+      Site Name: Cable
+      AGL: 211
+      Tower Type: Guyed
+      Address: 4551 45th Avenue SE, St. Cloud, Sherburne, MN 56304]]></description>
+        <Point><coordinates>-94.0670604444444,45.5037194444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17282-B</name>
+        <description><![CDATA[Date: 8/6/25 9:36 AM
+      Site Name: Neillsville East
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
+        <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

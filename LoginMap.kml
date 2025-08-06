@@ -1225,5 +1225,68 @@
       Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
         <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48058-A</name>
+        <description><![CDATA[Date: 8/6/25 10:51 AM
+      Site Name: Golf Course Orchard
+      AGL: 100
+      Tower Type: Monopole
+      Address: 920 North 1200 East, Orem, Utah, UT 84057]]></description>
+        <Point><coordinates>-111.666147222222,40.3133,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21753-A</name>
+        <description><![CDATA[Date: 8/6/25 10:49 AM
+      Site Name: Claremont
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2193 SE 34th Avenue, Owatonna, Steele, MN 55060]]></description>
+        <Point><coordinates>-93.1647222222222,44.0607222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21753-A</name>
+        <description><![CDATA[Date: 8/6/25 10:48 AM
+      Site Name: Claremont
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2193 SE 34th Avenue, Owatonna, Steele, MN 55060]]></description>
+        <Point><coordinates>-93.1647222222222,44.0607222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR05008-A</name>
+        <description><![CDATA[Date: 8/6/25 10:49 AM
+      Site Name: Quitman
+      AGL: 300
+      Tower Type: Self Support
+      Address: 150 Harold Bartlett Drive, Quitman, Cleburne, AR 72131-9052]]></description>
+        <Point><coordinates>-92.234708,35.3785298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21753-A</name>
+        <description><![CDATA[Date: 8/6/25 10:49 AM
+      Site Name: Claremont
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2193 SE 34th Avenue, Owatonna, Steele, MN 55060]]></description>
+        <Point><coordinates>-93.1647222222222,44.0607222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41514-T</name>
+        <description><![CDATA[Date: 8/6/25 10:55 AM
+      Site Name: Ralph Ave and Tilden Ave
+      AGL: 53
+      Tower Type: Stealth
+      Address: 1595 Canarsie Road, Brooklyn, Kings, NY 11236]]></description>
+        <Point><coordinates>-73.8946941111111,40.6336385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA07888-A</name>
+        <description><![CDATA[Date: 8/6/25 10:55 AM
+      Site Name: Kolin 2 LA
+      AGL: 329
+      Tower Type: Guyed
+      Address: 145 Stuchlik Rd., Deville, Rapides, LA 71328]]></description>
+        <Point><coordinates>-92.3044972222222,31.275466,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

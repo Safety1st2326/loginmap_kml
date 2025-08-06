@@ -2494,5 +2494,14 @@
       Address: 1838 W Baseline Street, San Bernardino, San Bernardino, CA 92411]]></description>
         <Point><coordinates>-117.327932666667,34.1226604444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI21126-A</name>
+        <description><![CDATA[Date: 8/5/25 6:54 PM
+      Site Name: Pennfield Tower
+      AGL: 180
+      Tower Type: Self Support
+      Address: 19800 Capital Avenue NE, Battle Creek, Calhoun, MI 49017]]></description>
+        <Point><coordinates>-85.1449968888889,42.3597666666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

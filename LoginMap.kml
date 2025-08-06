@@ -2314,5 +2314,14 @@
       Address: 240 Beaver Lane, Florence, Williamson, TX 76527]]></description>
         <Point><coordinates>-97.7570252777778,30.773016,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ41466-T</name>
+        <description><![CDATA[Date: 8/6/25 3:51 PM
+      Site Name: LMU UMTS PREAKNESS & OLD
+      AGL: 87
+      Tower Type: Monopole
+      Address: 714 Preakness Ave-Hindu Ctr., Wayne, Passaic, NJ 07470]]></description>
+        <Point><coordinates>-74.2058805555556,40.9270104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

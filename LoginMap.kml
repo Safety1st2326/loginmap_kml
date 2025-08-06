@@ -199,5 +199,122 @@
       Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
         <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR21840-A</name>
+        <description><![CDATA[Date: 8/6/25 7:33 AM
+      Site Name: BELLA VISTA SOUTH TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 13342 PUNKIN HOLLOW RD., BENTONVILLE, BENTON, AR 72712]]></description>
+        <Point><coordinates>-94.2709798888889,36.4293076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47837-A</name>
+        <description><![CDATA[Date: 8/6/25 7:34 AM
+      Site Name: Riverbend Lane
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1200 Riverbend Ln , Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7474718888889,31.4214715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02435-S</name>
+        <description><![CDATA[Date: 8/6/25 7:34 AM
+      Site Name: Baker Road
+      AGL: 250
+      Tower Type: Self Support
+      Address: 3302 Roy Parks Road, Gainesville, Hall, GA 30501]]></description>
+        <Point><coordinates>-83.7634722222222,34.2258993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14328-A</name>
+        <description><![CDATA[Date: 8/6/25 7:34 AM
+      Site Name: Vest
+      AGL: 150
+      Tower Type: Monopole
+      Address: 532 Sycamore Valley Drive, Lexington, Rockbridge, VA 24450]]></description>
+        <Point><coordinates>-79.4938941111111,37.8658666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02897-B</name>
+        <description><![CDATA[Date: 8/6/25 7:22 AM
+      Site Name: Stockton 2 GA
+      AGL: 300
+      Tower Type: Guyed
+      Address: Rt. 1, Box 652 Withers Rd., Stockton, Lanier, GA 31649-9700]]></description>
+        <Point><coordinates>-83.0003055555556,30.9364163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10767-S</name>
+        <description><![CDATA[Date: 8/6/25 7:37 AM
+      Site Name: Wooster AR
+      AGL: 300
+      Tower Type: Self Support
+      Address: 5 North Hills Acres Road, Greenbrier, Faulkner, AR 72058]]></description>
+        <Point><coordinates>-92.4583583333333,35.2146333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13207-A</name>
+        <description><![CDATA[Date: 8/6/25 7:37 AM
+      Site Name: Otis 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
+        <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI11087-A</name>
+        <description><![CDATA[Date: 8/6/25 7:37 AM
+      Site Name: Fritz
+      AGL: 252
+      Tower Type: Self Support
+      Address: 13766 S. 38th Street, Fulton, Kalamazoo, MI 49052]]></description>
+        <Point><coordinates>-85.3965607777778,42.1182298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/6/25 7:22 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5005583333333,34.0141222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/6/25 7:22 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 
+      Tower Type: COW
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5000472222222,34.013975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 8/6/25 7:25 AM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41525-T</name>
+        <description><![CDATA[Date: 8/6/25 7:39 AM
+      Site Name: Woodvale Av-Kenneth Pl
+      AGL: 58
+      Tower Type: Monopole
+      Address: 6264 Amboy Road, Staten Island, Richmond, NY 10309]]></description>
+        <Point><coordinates>-74.2146944444444,40.5236937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA46348-A</name>
+        <description><![CDATA[Date: 8/6/25 7:39 AM
+      Site Name: Meadwood
+      AGL: 147
+      Tower Type: Monopole
+      Address: 5495 Hillandale Drive, Lithonia, Dekalb, GA 30058]]></description>
+        <Point><coordinates>-84.1671937777778,33.7044166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

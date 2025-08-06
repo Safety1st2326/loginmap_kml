@@ -136,5 +136,41 @@
       Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
         <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY15158-A</name>
+        <description><![CDATA[Date: 8/6/25 7:06 AM
+      Site Name: Holy Trinity Church
+      AGL: 125
+      Tower Type: Flagpole
+      Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
+        <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00567-A</name>
+        <description><![CDATA[Date: 8/6/25 7:07 AM
+      Site Name: Buckley Road
+      AGL: 142
+      Tower Type: Self Support
+      Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
+        <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NH14173-A</name>
+        <description><![CDATA[Date: 8/6/25 7:02 AM
+      Site Name: Barrington
+      AGL: 140
+      Tower Type: Self Support
+      Address: 264 Calef Highway, Barrington, Strafford, NH 03825]]></description>
+        <Point><coordinates>-70.9923802222222,43.227566,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09897-A</name>
+        <description><![CDATA[Date: 8/6/25 7:02 AM
+      Site Name: Hollywood 2 GA
+      AGL: 246
+      Tower Type: Guyed
+      Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
+        <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

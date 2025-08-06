@@ -2035,5 +2035,23 @@
       Address: 35345 Highway 228, Brownsville, Linn, OR 97327]]></description>
         <Point><coordinates>-122.975416,44.3871107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT10478-A</name>
+        <description><![CDATA[Date: 8/6/25 2:43 PM
+      Site Name: Leaving Moab
+      AGL: 142
+      Tower Type: Monopole
+      Address: 1655 N Hwy 191, Moab, Grand, UT 84532]]></description>
+        <Point><coordinates>-109.614133333333,38.6094305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX22429-A</name>
+        <description><![CDATA[Date: 8/6/25 2:47 PM
+      Site Name: Ropesville
+      AGL: 301
+      Tower Type: Guyed
+      Address: CR200 and Kite Road, Ropesville, Hockley, TX 79345]]></description>
+        <Point><coordinates>-102.186044111111,33.3848274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -559,5 +559,113 @@
       Address: 750 Bell Fork Road, Jacksonville, Onslow, NC 28540]]></description>
         <Point><coordinates>-77.390833,34.7494135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY13172-A</name>
+        <description><![CDATA[Date: 8/6/25 8:46 AM
+      Site Name: Jamestown 2 KY
+      AGL: 250
+      Tower Type: Self Support
+      Address: 96 Harris Lane, Jamestown, Russell, KY 42629]]></description>
+        <Point><coordinates>-85.0674965555556,36.987483,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 8/6/25 8:37 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41526-T</name>
+        <description><![CDATA[Date: 8/6/25 8:38 AM
+      Site Name: Richmond Terr-Simonson Av
+      AGL: 90
+      Tower Type: Stealth
+      Address: 2699 Richmond Terrace, Staten Island, Richmond, NY 10303]]></description>
+        <Point><coordinates>-74.1506083333333,40.6379941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH16592-S</name>
+        <description><![CDATA[Date: 8/6/25 8:40 AM
+      Site Name: River View South
+      AGL: 195
+      Tower Type: Self Support
+      Address: 40540 TR 41B, Warsaw, Coshocton, OH 43844]]></description>
+        <Point><coordinates>-82.0018027777778,40.3251187777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40645-T</name>
+        <description><![CDATA[Date: 8/6/25 8:54 AM
+      Site Name: Silveira -P
+      AGL: 35
+      Tower Type: Stealth
+      Address: 3696 Norwood Ave, San Jose, Santa Clara, CA 95148]]></description>
+        <Point><coordinates>-121.771674333333,37.3323965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/6/25 8:44 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20458-A</name>
+        <description><![CDATA[Date: 8/6/25 8:49 AM
+      Site Name: West Branch Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 10925 WEST BRANCH, SAINT HELEN, ROSCOMMON, MI 48656]]></description>
+        <Point><coordinates>-84.3905552222222,44.290833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09926-A</name>
+        <description><![CDATA[Date: 8/6/25 8:44 AM
+      Site Name: Tree
+      AGL: 197
+      Tower Type: Monopole
+      Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11439-A</name>
+        <description><![CDATA[Date: 8/6/25 8:44 AM
+      Site Name: Reunion
+      AGL: 188
+      Tower Type: Monopole
+      Address: 721 S Old Lake Wilson Road, Kissimmee, Osceola, FL 34747]]></description>
+        <Point><coordinates>-81.5877413333333,28.283608,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16121-B</name>
+        <description><![CDATA[Date: 8/6/25 8:58 AM
+      Site Name: East Pekin
+      AGL: 195
+      Tower Type: Self Support
+      Address: 3101 Sheridan Road, Pekin, Tazewell, IL 61554]]></description>
+        <Point><coordinates>-89.5971413333333,40.5819271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11439-A</name>
+        <description><![CDATA[Date: 8/6/25 8:44 AM
+      Site Name: Reunion
+      AGL: 188
+      Tower Type: Monopole
+      Address: 721 S Old Lake Wilson Road, Kissimmee, Osceola, FL 34747]]></description>
+        <Point><coordinates>-81.5877413333333,28.283608,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX11971-A</name>
+        <description><![CDATA[Date: 8/6/25 8:44 AM
+      Site Name: Headend
+      AGL: 680
+      Tower Type: Guyed
+      Address: 2155 County Road 214, Seminole, Gaines, TX 79360]]></description>
+        <Point><coordinates>-102.990883,32.826441,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -2494,5 +2494,14 @@
       Address: 410-450 SW Wake Robbin Ave, Corvallis, Benton, OR 973330000]]></description>
         <Point><coordinates>-123.271374333333,44.5367413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/6/25 5:16 PM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -964,5 +964,41 @@
       Address: 1121 East Division Street, Neillsville, Clark, WI 54456]]></description>
         <Point><coordinates>-90.5836052222222,44.5503166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16142-B</name>
+        <description><![CDATA[Date: 8/6/25 9:52 AM
+      Site Name: North Pekin
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1801 Sheridan Road, Pekin, Tazewell, IL 61554]]></description>
+        <Point><coordinates>-89.6258493333333,40.5825743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21753-A</name>
+        <description><![CDATA[Date: 8/6/25 9:52 AM
+      Site Name: Claremont
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2193 SE 34th Avenue, Owatonna, Steele, MN 55060]]></description>
+        <Point><coordinates>-93.1647222222222,44.0607222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN21753-A</name>
+        <description><![CDATA[Date: 8/6/25 9:55 AM
+      Site Name: Claremont
+      AGL: 300
+      Tower Type: Guyed
+      Address: 2193 SE 34th Avenue, Owatonna, Steele, MN 55060]]></description>
+        <Point><coordinates>-93.1647222222222,44.0607222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO14400-A</name>
+        <description><![CDATA[Date: 8/6/25 9:57 AM
+      Site Name: McKelvey
+      AGL: 71
+      Tower Type: Flagpole
+      Address: 3740 McKelvey Road, Bridgeton, St. Louis, MO 63044]]></description>
+        <Point><coordinates>-90.4248493333333,38.751025,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

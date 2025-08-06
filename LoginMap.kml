@@ -1765,5 +1765,32 @@
       Address: 1338 FM 400 #B, Tahoka, Lynn, TX 79373]]></description>
         <Point><coordinates>-101.787369111111,33.2068972222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT02049-S</name>
+        <description><![CDATA[Date: 8/6/25 12:52 PM
+      Site Name: Beacon Falls
+      AGL: 162
+      Tower Type: Monopole
+      Address: 60 Rice Lane, Beacon Falls, New Haven/Beacon Falls, CT 06403-1241]]></description>
+        <Point><coordinates>-73.0398663333333,41.4556888888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT24369-A</name>
+        <description><![CDATA[Date: 8/6/25 12:55 PM
+      Site Name: Union 4 CT
+      AGL: 173
+      Tower Type: Self Support
+      Address: 1050 Buckley Highway, Union, Tolland, CT 06076]]></description>
+        <Point><coordinates>-72.1523694444444,41.9991663333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40899-T</name>
+        <description><![CDATA[Date: 8/6/25 12:57 PM
+      Site Name: Stage West Inc
+      AGL: 147
+      Tower Type: Monopole
+      Address: 8390 Forest Oaks Blvd, Spring Hill, Hernando, FL 34606]]></description>
+        <Point><coordinates>-82.5805548888889,28.486358,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

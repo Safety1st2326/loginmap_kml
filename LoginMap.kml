@@ -1072,5 +1072,50 @@
       Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
         <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA00913-B</name>
+        <description><![CDATA[Date: 8/6/25 10:15 AM
+      Site Name: Marion
+      AGL: 275
+      Tower Type: Self Support
+      Address: 955 Matson Drive, Marion, Smyth, VA 24354]]></description>
+        <Point><coordinates>-81.5069027777778,36.8239326666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 8/6/25 10:28 AM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL03001-A</name>
+        <description><![CDATA[Date: 8/6/25 10:28 AM
+      Site Name: Arcadia 6 FL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 17 East Oak Street, Arcadia, DeSoto, FL 34266-4422]]></description>
+        <Point><coordinates>-81.8593583333333,27.2156222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY16505-A</name>
+        <description><![CDATA[Date: 8/6/25 10:28 AM
+      Site Name: North Lafayette - Taconic Parkway
+      AGL: 121
+      Tower Type: Monopole
+      Address: 115 Ten Neighbors Road, Gallatin, Columbia, NY 12571]]></description>
+        <Point><coordinates>-73.7385774444444,42.0319632222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00620-B</name>
+        <description><![CDATA[Date: 8/6/25 10:28 AM
+      Site Name: Erie Lane
+      AGL: 180
+      Tower Type: Monopole
+      Address: 10308 North US 301, Parrish, Manatee, FL 34219]]></description>
+        <Point><coordinates>-82.4578083333333,27.5536138888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

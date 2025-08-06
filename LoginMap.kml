@@ -1945,5 +1945,32 @@
       Address: 5311 S Harlem Ave, Chicago, Cook, IL 60638]]></description>
         <Point><coordinates>-87.8012222222222,41.7956385555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK12801-A</name>
+        <description><![CDATA[Date: 8/6/25 1:52 PM
+      Site Name: Blair 3 OK
+      AGL: 301
+      Tower Type: Self Support
+      Address: 15294 US Highway 283, Blair, Jackson, OK 73549]]></description>
+        <Point><coordinates>-99.3344246666667,34.7986635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02899-B</name>
+        <description><![CDATA[Date: 8/6/25 1:52 PM
+      Site Name: Perimeter
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2160 Dasher Johnson Rd., Valdosta, Lowndes, GA 31606]]></description>
+        <Point><coordinates>-83.2255965555556,30.8491024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN20294-A</name>
+        <description><![CDATA[Date: 8/6/25 1:53 PM
+      Site Name: Schley Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 2263 US Highway 2 NW, Cass Lake, Cass, MN 56633]]></description>
+        <Point><coordinates>-94.4151555555556,47.3712021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

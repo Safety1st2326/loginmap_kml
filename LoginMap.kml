@@ -1864,5 +1864,23 @@
       Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
         <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13435-A</name>
+        <description><![CDATA[Date: 8/6/25 1:23 PM
+      Site Name: Harper-Equilon
+      AGL: 361
+      Tower Type: Guyed
+      Address: 18548 Ranch Road 479, Harper, Kimble, TX 78631]]></description>
+        <Point><coordinates>-99.3394885555555,30.3328937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/6/25 1:24 PM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

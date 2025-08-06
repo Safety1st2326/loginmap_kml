@@ -1702,5 +1702,32 @@
       Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
         <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL40078-A</name>
+        <description><![CDATA[Date: 8/6/25 12:37 PM
+      Site Name: Lake Gibson
+      AGL: 80
+      Tower Type: Monopole
+      Address: 4400 Hwy 98 N., Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-81.9749854444444,28.099433,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40078-A</name>
+        <description><![CDATA[Date: 8/6/25 12:37 PM
+      Site Name: Lake Gibson
+      AGL: 80
+      Tower Type: Monopole
+      Address: 4400 Hwy 98 N., Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-81.9749854444444,28.099433,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05999-A</name>
+        <description><![CDATA[Date: 8/6/25 12:24 PM
+      Site Name: Ruston
+      AGL: 250
+      Tower Type: Guyed
+      Address: 7950 Hwy 80, Ruston, East Baton Rouge Parish, LA 71270-1081]]></description>
+        <Point><coordinates>-92.7288326666667,32.5136388888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

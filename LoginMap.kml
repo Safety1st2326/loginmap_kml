@@ -1513,5 +1513,68 @@
       Address: 47020 Leesburg Pike, Sterling, Loudoun, VA 20164]]></description>
         <Point><coordinates>-77.3726104444444,39.0160277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>DE02206-B</name>
+        <description><![CDATA[Date: 8/6/25 12:04 PM
+      Site Name: Newcastle 2 DE
+      AGL: 131
+      Tower Type: Monopole
+      Address: 250 E. Chestnut Hill Road, Newark, New Castle, DE 19713]]></description>
+        <Point><coordinates>-75.7372218888889,39.6623333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40717-T</name>
+        <description><![CDATA[Date: 8/6/25 12:04 PM
+      Site Name: IE824 Alma Hofman Park
+      AGL: 65
+      Tower Type: Monopole Tree
+      Address: 5201 Benito Street, Montclair, San Bernardino, CA 91763]]></description>
+        <Point><coordinates>-117.692113555556,34.0735993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MT18382-A</name>
+        <description><![CDATA[Date: 8/6/25 12:04 PM
+      Site Name: Moon Creek
+      AGL: 195
+      Tower Type: Self Support
+      Address: 70 County Road 619, Miles City, Custer, MT 59351]]></description>
+        <Point><coordinates>-106.024574333333,46.3071694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09547-A</name>
+        <description><![CDATA[Date: 8/6/25 12:07 PM
+      Site Name: Higden
+      AGL: 299
+      Tower Type: Guyed
+      Address: 206 Crossroads West, Quitman, Cleburne, AR 72131]]></description>
+        <Point><coordinates>-92.2244076666667,35.4640611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:07 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:07 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41969-T</name>
+        <description><![CDATA[Date: 8/6/25 12:08 PM
+      Site Name: Collision Country
+      AGL: 150
+      Tower Type: Monopole
+      Address: 4280 IH-10 E., San Antonio, Bexar, TX 78219]]></description>
+        <Point><coordinates>-98.4095055555556,29.4298326666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

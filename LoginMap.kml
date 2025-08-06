@@ -2323,5 +2323,41 @@
       Address: 714 Preakness Ave-Hindu Ctr., Wayne, Passaic, NJ 07470]]></description>
         <Point><coordinates>-74.2058805555556,40.9270104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI15475-B</name>
+        <description><![CDATA[Date: 8/6/25 4:07 PM
+      Site Name: Baronett WI
+      AGL: 245
+      Tower Type: Self Support
+      Address: 20801 Odden Road, Barronett, Burnett, WI 54813]]></description>
+        <Point><coordinates>-92.1161305555555,45.6712715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05791-B</name>
+        <description><![CDATA[Date: 8/6/25 4:07 PM
+      Site Name: Lyncourt
+      AGL: 120
+      Tower Type: Monopole
+      Address: 3401 Court Street, Salina, Onondaga, NY 13206]]></description>
+        <Point><coordinates>-76.1186493333333,43.0840524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN17589-A</name>
+        <description><![CDATA[Date: 8/6/25 4:07 PM
+      Site Name: Kokomo NW
+      AGL: 195
+      Tower Type: Self Support
+      Address: 423 North Co. Rd. 300 West, Kokomo, Howard, IN 46901]]></description>
+        <Point><coordinates>-86.1848885555556,40.482416,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48079-A</name>
+        <description><![CDATA[Date: 8/6/25 4:09 PM
+      Site Name: North Van Winkle
+      AGL: 50
+      Tower Type: Monopole
+      Address: 4640 South 900 East , Salt Lake City, Salt Lake, UT 84117]]></description>
+        <Point><coordinates>-111.866,40.669966,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

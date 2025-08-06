@@ -1288,5 +1288,32 @@
       Address: 145 Stuchlik Rd., Deville, Rapides, LA 71328]]></description>
         <Point><coordinates>-92.3044972222222,31.275466,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16461-B</name>
+        <description><![CDATA[Date: 8/6/25 11:04 AM
+      Site Name: Brimfield 3 IL
+      AGL: 195
+      Tower Type: Self Support
+      Address: 3622 N. Murphy Road, Hanna City, Peoria, IL 61536]]></description>
+        <Point><coordinates>-89.774016,40.7326576666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15818-B</name>
+        <description><![CDATA[Date: 8/6/25 11:04 AM
+      Site Name: I4 & 10th Street
+      AGL: 185
+      Tower Type: Monopole
+      Address: 3075 10th Street, West Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-82.0018819444444,28.0627488888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48064-A</name>
+        <description><![CDATA[Date: 8/6/25 11:01 AM
+      Site Name: Orem
+      AGL: 100
+      Tower Type: Monopole
+      Address: 701 South State Street, Orem, Utah, UT 84058]]></description>
+        <Point><coordinates>-111.687355222222,40.2847691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

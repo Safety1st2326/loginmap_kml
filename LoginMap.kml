@@ -2242,5 +2242,50 @@
       Address: 11891 Katy Road, Keller, Tarrant, TX 76248]]></description>
         <Point><coordinates>-97.2578027777778,32.947033,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX40314-A</name>
+        <description><![CDATA[Date: 8/6/25 3:34 PM
+      Site Name: GREENE
+      AGL: 190
+      Tower Type: Monopole
+      Address: 3706 Valley View Lane, Granite Shoals, Burnet, TX 78654]]></description>
+        <Point><coordinates>-98.3492326666667,30.5978716666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45415-A</name>
+        <description><![CDATA[Date: 8/6/25 3:31 PM
+      Site Name: Guasti
+      AGL: 49
+      Tower Type: Monopalm
+      Address: 410 N. Sequoia Avenue, Ontario, San Bernardino, CA 91761]]></description>
+        <Point><coordinates>-117.566871555556,34.06575,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48080-A</name>
+        <description><![CDATA[Date: 8/6/25 3:36 PM
+      Site Name: Salt Lake Community College
+      AGL: 60
+      Tower Type: Monopole
+      Address: 4351 South Redwood Road Eisenhower Jr. High - GSD, Salt Lake City, Salt Lake, UT 84123]]></description>
+        <Point><coordinates>-111.936838555556,40.6750965555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL13009-A</name>
+        <description><![CDATA[Date: 8/6/25 3:36 PM
+      Site Name: Five Points 2 AL
+      AGL: 252
+      Tower Type: Self Support
+      Address: 28219 US Hwy 431, Five Points, Chambers, AL 36855]]></description>
+        <Point><coordinates>-85.348508,33.0381357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK20887-A</name>
+        <description><![CDATA[Date: 8/6/25 3:39 PM
+      Site Name: Salem
+      AGL: 400
+      Tower Type: Guyed
+      Address: SECTION LINE ROADS N3960&E1150, Henryetta, McIntosh, OK 74437]]></description>
+        <Point><coordinates>-95.9648222222222,35.3416246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

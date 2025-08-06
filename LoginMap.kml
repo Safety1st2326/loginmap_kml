@@ -1729,5 +1729,41 @@
       Address: 7950 Hwy 80, Ruston, East Baton Rouge Parish, LA 71270-1081]]></description>
         <Point><coordinates>-92.7288326666667,32.5136388888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA01262-B</name>
+        <description><![CDATA[Date: 8/6/25 12:45 PM
+      Site Name: Millen
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1261 Hwy. 25 North, Millen, Jenkins, GA 30442-6711]]></description>
+        <Point><coordinates>-81.9510027777778,32.8172604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40078-A</name>
+        <description><![CDATA[Date: 8/6/25 12:47 PM
+      Site Name: Lake Gibson
+      AGL: 80
+      Tower Type: Monopole
+      Address: 4400 Hwy 98 N., Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-81.9749854444444,28.099433,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO10481-A</name>
+        <description><![CDATA[Date: 8/6/25 12:43 PM
+      Site Name: Mesa Pawn
+      AGL: 130
+      Tower Type: Monopole
+      Address: 3201 ? Hwy 6 & 24, Clifton, Mesa, CO 81520]]></description>
+        <Point><coordinates>-108.457983333333,39.0863857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13918-A</name>
+        <description><![CDATA[Date: 8/6/25 12:49 PM
+      Site Name: Tahoka
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1338 FM 400 #B, Tahoka, Lynn, TX 79373]]></description>
+        <Point><coordinates>-101.787369111111,33.2068972222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

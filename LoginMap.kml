@@ -1315,5 +1315,41 @@
       Address: 701 South State Street, Orem, Utah, UT 84058]]></description>
         <Point><coordinates>-111.687355222222,40.2847691111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL08608-A</name>
+        <description><![CDATA[Date: 8/6/25 11:13 AM
+      Site Name: Orange City
+      AGL: 370
+      Tower Type: Guyed
+      Address: 115 East Minnesota Avenue, Deland, Volusia, FL 32720-3422]]></description>
+        <Point><coordinates>-81.2744437777778,28.9705548888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL11280-A</name>
+        <description><![CDATA[Date: 8/6/25 11:01 AM
+      Site Name: Route 46-C Alderman
+      AGL: 184
+      Tower Type: Monopole
+      Address: 100 Morgan Alderman Rd, Mims, Volusia, FL 32754]]></description>
+        <Point><coordinates>-81.0201771111111,28.7126722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40718-T</name>
+        <description><![CDATA[Date: 8/6/25 11:09 AM
+      Site Name: Southside Bethel
+      AGL: 44
+      Tower Type: Monopalm
+      Address: 10400 San Pedro Street, Los Angeles, Los Angeles, CA 90003]]></description>
+        <Point><coordinates>-118.269238222222,33.9412802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI15214-B</name>
+        <description><![CDATA[Date: 8/6/25 11:01 AM
+      Site Name: Princeton 4 WI
+      AGL: 250
+      Tower Type: Self Support
+      Address: N5721 County Road T, Princeton, Green Lake, WI 54968]]></description>
+        <Point><coordinates>-89.1315687777778,43.8364496666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

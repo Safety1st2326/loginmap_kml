@@ -1576,5 +1576,86 @@
       Address: 4280 IH-10 E., San Antonio, Bexar, TX 78219]]></description>
         <Point><coordinates>-98.4095055555556,29.4298326666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN04741-S</name>
+        <description><![CDATA[Date: 8/6/25 12:01 PM
+      Site Name: Kentland North
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2192 W. 1400 S., Kentland, Newton, IN 47951-8533]]></description>
+        <Point><coordinates>-87.4345274444445,40.7956385555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:07 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13871-A</name>
+        <description><![CDATA[Date: 8/6/25 12:07 PM
+      Site Name: Arvana
+      AGL: 230
+      Tower Type: Guyed
+      Address: 1308 CR 0, Lamesa, Dawson, TX 79331]]></description>
+        <Point><coordinates>-101.916138888889,32.814,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY41499-A</name>
+        <description><![CDATA[Date: 8/6/25 12:12 PM
+      Site Name: Stanford 3 NY
+      AGL: 140
+      Tower Type: Monopole
+      Address: 199 Ohland Rd, Stanford, Dutchess, NY 12581]]></description>
+        <Point><coordinates>-73.6724243333333,41.9040055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA46655-A</name>
+        <description><![CDATA[Date: 8/6/25 12:15 PM
+      Site Name: Killona-la
+      AGL: 301
+      Tower Type: Guyed
+      Address: 5071 Hwy 3127, Killona, St. Charles, LA 70066]]></description>
+        <Point><coordinates>-90.5052333333333,29.990458,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL40485-T</name>
+        <description><![CDATA[Date: 8/6/25 12:16 PM
+      Site Name: Stewart 3 AL
+      AGL: 250
+      Tower Type: Self Support
+      Address: 9965 Highway 171-N, Russell, Fayette, AL 35555]]></description>
+        <Point><coordinates>-87.8075686111111,33.8231246111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT21086-A</name>
+        <description><![CDATA[Date: 8/6/25 12:01 PM
+      Site Name: Provo
+      AGL: 135
+      Tower Type: Self Support
+      Address: 1105 W 100 South, Provo, Utah, UT 84601]]></description>
+        <Point><coordinates>-111.678066,40.2318993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:17 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:17 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

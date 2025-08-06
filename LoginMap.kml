@@ -1468,5 +1468,50 @@
       Address: 706 Oaklane Drive, Rolla, Phelps, MO 65401]]></description>
         <Point><coordinates>-91.7763326666667,37.9367774444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02922-B</name>
+        <description><![CDATA[Date: 8/6/25 11:53 AM
+      Site Name: Ruskin
+      AGL: 340
+      Tower Type: Guyed
+      Address: 1670 Smith Rd., Waycross, Ware, GA 31503-0346]]></description>
+        <Point><coordinates>-82.4213493333333,31.1765298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40069-A</name>
+        <description><![CDATA[Date: 8/6/25 11:49 AM
+      Site Name: Rhodes
+      AGL: 180
+      Tower Type: Stealth
+      Address: 2440 Jim Galloway Rd., Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-81.996883,28.0872635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47729-A</name>
+        <description><![CDATA[Date: 8/6/25 11:50 AM
+      Site Name: Crystal Lake Driving Range
+      AGL: 150
+      Tower Type: Monopole
+      Address: 100 Broncos Highway, Burrillville, Providence, RI 02859]]></description>
+        <Point><coordinates>-71.6654638888889,41.9402107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL40069-A</name>
+        <description><![CDATA[Date: 8/6/25 11:50 AM
+      Site Name: Rhodes
+      AGL: 180
+      Tower Type: Stealth
+      Address: 2440 Jim Galloway Rd., Lakeland, Polk, FL 33810]]></description>
+        <Point><coordinates>-81.996883,28.0872635555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48116-A</name>
+        <description><![CDATA[Date: 8/6/25 11:57 AM
+      Site Name: Sugarland Run
+      AGL: 105
+      Tower Type: Stealth
+      Address: 47020 Leesburg Pike, Sterling, Loudoun, VA 20164]]></description>
+        <Point><coordinates>-77.3726104444444,39.0160277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

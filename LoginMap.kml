@@ -2566,5 +2566,14 @@
       Address: 875 W ORANGE GROVE AVE , POMONA, LOS ANGELES, CA 917680000]]></description>
         <Point><coordinates>-117.767027111111,34.0681104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45923-A</name>
+        <description><![CDATA[Date: 8/6/25 6:25 PM
+      Site Name: Truck Center
+      AGL: 67
+      Tower Type: Tree
+      Address: 3777 De Forest Ct , MIRA LOMA, RIVERSIDE, CA 91752]]></description>
+        <Point><coordinates>-117.518118777778,34.0195298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

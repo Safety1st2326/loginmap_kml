@@ -667,5 +667,32 @@
       Address: 2155 County Road 214, Seminole, Gaines, TX 79360]]></description>
         <Point><coordinates>-102.990883,32.826441,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL23833-S</name>
+        <description><![CDATA[Date: 8/6/25 9:07 AM
+      Site Name: Old Lake Wilson
+      AGL: 176
+      Tower Type: Monopole
+      Address: 7129 Old Lake Wilson Road, Davenport, Polk, FL 33896]]></description>
+        <Point><coordinates>-81.5782271111111,28.2545325,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY41190-T</name>
+        <description><![CDATA[Date: 8/6/25 9:07 AM
+      Site Name: Massac Creek
+      AGL: 180
+      Tower Type: Monopole
+      Address: 150 Marshall Court, McCracken Northwest, McCracken, KY 42001]]></description>
+        <Point><coordinates>-88.7259493333333,37.0394746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL23833-S</name>
+        <description><![CDATA[Date: 8/6/25 9:07 AM
+      Site Name: Old Lake Wilson
+      AGL: 176
+      Tower Type: Monopole
+      Address: 7129 Old Lake Wilson Road, Davenport, Polk, FL 33896]]></description>
+        <Point><coordinates>-81.5782271111111,28.2545325,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

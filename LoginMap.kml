@@ -406,5 +406,41 @@
       Address: 1100 Edgewood Rd., Yardley, Bucks, PA 19067-1689]]></description>
         <Point><coordinates>-74.8418496666667,40.2262493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI16143-S</name>
+        <description><![CDATA[Date: 8/6/25 7:53 AM
+      Site Name: Cottage Grove 2 WI
+      AGL: 134
+      Tower Type: Monopole
+      Address: 284 S. Grove Street, Cottage Grove, Dane, WI 53527]]></description>
+        <Point><coordinates>-89.202,43.0738048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/6/25 7:55 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL13636-A</name>
+        <description><![CDATA[Date: 8/6/25 7:55 AM
+      Site Name: Lithia Springs 2 FL
+      AGL: 199
+      Tower Type: Monopole
+      Address: 4842 Bell Shoals Road, Valrico, Hillsborough, FL 33596]]></description>
+        <Point><coordinates>-82.2648333333333,27.867916,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN00412-B</name>
+        <description><![CDATA[Date: 8/6/25 7:55 AM
+      Site Name: Crab Orchard Alternate
+      AGL: 271
+      Tower Type: Self Support
+      Address: 737 Godsey Road, Crab Orchard, Cumberland, TN 37723]]></description>
+        <Point><coordinates>-84.8591555555555,35.8949635555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

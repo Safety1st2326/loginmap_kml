@@ -2548,5 +2548,23 @@
       Address: 84849 Edenvale Road, Pleasant Hill, Lane, OR 97455]]></description>
         <Point><coordinates>-122.934549666667,43.9690104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX13446-A</name>
+        <description><![CDATA[Date: 8/5/25 8:15 PM
+      Site Name: Hunt 2 TX
+      AGL: 354
+      Tower Type: Guyed
+      Address: 4765 Shelby Avenue, Greenville, Hunt, TX 75402]]></description>
+        <Point><coordinates>-96.1274076666667,33.1124777777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR20937-A</name>
+        <description><![CDATA[Date: 8/5/25 8:07 PM
+      Site Name: Lowell 2 OR
+      AGL: 125
+      Tower Type: Guyed
+      Address: 40761 W. Boundary Road, Lowell, Lane, OR 97452]]></description>
+        <Point><coordinates>-122.760194444444,43.9272771111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

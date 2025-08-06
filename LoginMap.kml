@@ -2503,5 +2503,32 @@
       Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
         <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45525-A</name>
+        <description><![CDATA[Date: 8/6/25 5:33 PM
+      Site Name: Chicago
+      AGL: 72
+      Tower Type: Tree
+      Address: 5801 Chicago Avenue, Riverside, Riverside, CA 92506]]></description>
+        <Point><coordinates>-117.347499666667,33.9488885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT21084-A</name>
+        <description><![CDATA[Date: 8/6/25 5:34 PM
+      Site Name: Sweet Simon
+      AGL: 99
+      Tower Type: Monopole
+      Address: 5114 West 2400 South, West Valley City, Salt Lake, UT 84120]]></description>
+        <Point><coordinates>-112.013044444444,40.719366,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL20639-A</name>
+        <description><![CDATA[Date: 8/6/25 5:31 PM
+      Site Name: McPhearson
+      AGL: 300
+      Tower Type: Self Support
+      Address: 19221 E LYNCHBURG RD., OPDYKE, JEFFERSON, IL 62872]]></description>
+        <Point><coordinates>-88.7909385555556,38.284683,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

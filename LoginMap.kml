@@ -1828,5 +1828,41 @@
       Address: 184 Klinesville Road, Flemington, HUNTERDON, NJ 08822]]></description>
         <Point><coordinates>-74.9002361111111,40.5523055555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NM21759-A</name>
+        <description><![CDATA[Date: 8/6/25 1:16 PM
+      Site Name: White Rock NM Tower
+      AGL: 190
+      Tower Type: Guyed
+      Address: 1 Pajarito Road, Los Alamos, Los Alamos, NM 87544]]></description>
+        <Point><coordinates>-106.222407666667,35.8243521111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45496-A</name>
+        <description><![CDATA[Date: 8/6/25 1:19 PM
+      Site Name: Montclair Plaza
+      AGL: 80
+      Tower Type: Stealth
+      Address: 4936 Palo Verde , Montclair, San Bernardino, CA 91763]]></description>
+        <Point><coordinates>-117.697333,34.0819715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/6/25 1:19 PM
+      Site Name: Green Peter
+      AGL: 150
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582924333333,44.4828604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/6/25 1:19 PM
+      Site Name: Green Peter
+      AGL: 20
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

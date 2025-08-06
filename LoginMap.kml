@@ -2449,5 +2449,41 @@
       Address: 3601 Jurupa Street, Ontario, SAN BERNARDINO, CA 91761]]></description>
         <Point><coordinates>-117.574443777778,34.0513888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48065-A</name>
+        <description><![CDATA[Date: 8/6/25 4:51 PM
+      Site Name: International Center
+      AGL: 76
+      Tower Type: Monopole
+      Address: 4910 West Amelia Earhart Drive, Salt Lake City, Salt Lake, UT 84116]]></description>
+        <Point><coordinates>-112.006861111111,40.7781104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09549-A</name>
+        <description><![CDATA[Date: 8/6/25 4:39 PM
+      Site Name: Cabot 2 AR
+      AGL: 300
+      Tower Type: Guyed
+      Address: Hwy 38 at Clay Hill Road, Ward, Lonoke, AR 72176]]></description>
+        <Point><coordinates>-91.8383941111111,34.9741076666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY13702-A</name>
+        <description><![CDATA[Date: 8/6/25 4:54 PM
+      Site Name: London
+      AGL: 200
+      Tower Type: Self Support
+      Address: 609 West 13th Street, London, Laurel, KY 40744]]></description>
+        <Point><coordinates>-84.0946746666667,37.1291132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA46020-A</name>
+        <description><![CDATA[Date: 8/6/25 4:54 PM
+      Site Name: Mancilla Property
+      AGL: 65
+      Tower Type: Monopine
+      Address: 1361 Dodson Way, Riverside, Riverside, CA 92507]]></description>
+        <Point><coordinates>-117.347327444444,33.9988441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

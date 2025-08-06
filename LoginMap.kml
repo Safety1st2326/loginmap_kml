@@ -532,5 +532,32 @@
       Address: 902 Caisson Hill Road, Ft. Riley, Riley, KS 66531]]></description>
         <Point><coordinates>-96.7875607777778,39.0940441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46283-A</name>
+        <description><![CDATA[Date: 8/6/25 8:35 AM
+      Site Name: St Pete-Clw Airport
+      AGL: 82
+      Tower Type: Monopole
+      Address: 5100 150 Ave N, CLEARWATER, PINELLAS, FL 33755]]></description>
+        <Point><coordinates>-82.7052194444445,27.9060694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00152-B</name>
+        <description><![CDATA[Date: 8/6/25 8:34 AM
+      Site Name: Bucknell
+      AGL: 250
+      Tower Type: Self Support
+      Address: 190 Bucknell Ct., Atlanta, Fulton, GA 30336-2504]]></description>
+        <Point><coordinates>-84.5673354444444,33.7410941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC10632-A</name>
+        <description><![CDATA[Date: 8/6/25 8:40 AM
+      Site Name: Jacksonville 5 NC
+      AGL: 247
+      Tower Type: Guyed
+      Address: 750 Bell Fork Road, Jacksonville, Onslow, NC 28540]]></description>
+        <Point><coordinates>-77.390833,34.7494135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

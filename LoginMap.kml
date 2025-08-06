@@ -2485,5 +2485,14 @@
       Address: 1361 Dodson Way, Riverside, Riverside, CA 92507]]></description>
         <Point><coordinates>-117.347327444444,33.9988441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47641-A</name>
+        <description><![CDATA[Date: 8/6/25 5:13 PM
+      Site Name: Keebler-EUG189
+      AGL: 119
+      Tower Type: Monopole
+      Address: 410-450 SW Wake Robbin Ave, Corvallis, Benton, OR 973330000]]></description>
+        <Point><coordinates>-123.271374333333,44.5367413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

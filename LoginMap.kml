@@ -2431,5 +2431,23 @@
       Address: 27171 HIGHWAY 99W, MONROE, BENTON, OR 97456]]></description>
         <Point><coordinates>-123.254316666667,44.3771687777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45989-A</name>
+        <description><![CDATA[Date: 8/6/25 4:42 PM
+      Site Name: Manor Baptist
+      AGL: 56
+      Tower Type: Monopine
+      Address: 1845 Lewelling Blvd., San Leandro, Alameda, CA 94579]]></description>
+        <Point><coordinates>-122.154583333333,37.6805854444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45939-A</name>
+        <description><![CDATA[Date: 8/6/25 4:48 PM
+      Site Name: California Hardware
+      AGL: 46
+      Tower Type: Tree
+      Address: 3601 Jurupa Street, Ontario, SAN BERNARDINO, CA 91761]]></description>
+        <Point><coordinates>-117.574443777778,34.0513888888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

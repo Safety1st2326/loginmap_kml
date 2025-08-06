@@ -1180,5 +1180,50 @@
       Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
         <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 8/6/25 10:37 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 8/6/25 10:36 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46148-A</name>
+        <description><![CDATA[Date: 8/6/25 10:36 AM
+      Site Name: Russo Property- Ssusa
+      AGL: 118
+      Tower Type: Monopole
+      Address: 51 Stony Lane, Stafford Springs, Tolland/Stafford, CT 06076]]></description>
+        <Point><coordinates>-72.3099722222222,42.0164166666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/6/25 10:44 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 8/6/25 10:39 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

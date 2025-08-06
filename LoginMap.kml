@@ -1657,5 +1657,50 @@
       Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
         <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA45636-A</name>
+        <description><![CDATA[Date: 8/6/25 12:09 PM
+      Site Name: Walmac
+      AGL: 63
+      Tower Type: Monopole
+      Address: 14001 Valley  Blvd, Fontana, San Bernardino, CA 92335]]></description>
+        <Point><coordinates>-117.500747222222,34.0683687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17691-A</name>
+        <description><![CDATA[Date: 8/6/25 12:22 PM
+      Site Name: Wautoma 2 WI
+      AGL: 196
+      Tower Type: Self Support
+      Address: W9407 County Highway O, Wautoma, Waushara, WI 55982]]></description>
+        <Point><coordinates>-89.3536688888889,44.1553005555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21716-A</name>
+        <description><![CDATA[Date: 8/6/25 12:22 PM
+      Site Name: Pickett
+      AGL: 300
+      Tower Type: Guyed
+      Address: 497 Pepper Lane, Pickett, Winnebago, WI 54964]]></description>
+        <Point><coordinates>-88.7207076666667,43.908925,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:27 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IA12582-A</name>
+        <description><![CDATA[Date: 8/6/25 12:27 PM
+      Site Name: Graettinger
+      AGL: 322
+      Tower Type: Guyed
+      Address: 602-1/2 Wilson Avenue, Graettinger, Palo Alto, IA 51342]]></description>
+        <Point><coordinates>-94.7457774444444,43.2314021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

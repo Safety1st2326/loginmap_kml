@@ -2080,5 +2080,23 @@
       Address: 1455 S. Doubleday Ave, ONTARIO, SAN BERNARDINO, CA 91761]]></description>
         <Point><coordinates>-117.563383333333,34.0509,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR22037-A</name>
+        <description><![CDATA[Date: 8/6/25 3:07 PM
+      Site Name: Osage
+      AGL: 300
+      Tower Type: Guyed
+      Address: 709 CR 9731, Osage, Carroll, AR 72601]]></description>
+        <Point><coordinates>-93.3404635555556,36.183733,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45495-A</name>
+        <description><![CDATA[Date: 8/6/25 3:04 PM
+      Site Name: Wildrose
+      AGL: 52
+      Tower Type: Tree
+      Address: 500 Vinton Ave , Pomona, Los Angeles, CA 91767]]></description>
+        <Point><coordinates>-117.744608,34.0774521111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

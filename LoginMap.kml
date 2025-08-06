@@ -694,5 +694,104 @@
       Address: 7129 Old Lake Wilson Road, Davenport, Polk, FL 33896]]></description>
         <Point><coordinates>-81.5782271111111,28.2545325,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 8/6/25 9:10 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL22485-A</name>
+        <description><![CDATA[Date: 8/6/25 9:07 AM
+      Site Name: W Teutopolis
+      AGL: 196
+      Tower Type: Self Support
+      Address: 18861 US Hwy 40, Teutopolis, Effingham, IL 62467]]></description>
+        <Point><coordinates>-88.4537222222222,39.134958,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02529-S</name>
+        <description><![CDATA[Date: 8/6/25 9:13 AM
+      Site Name: West Brunswick
+      AGL: 210
+      Tower Type: Self Support
+      Address: 303 Butler Drive, Brunswick, Glynn, GA 31523-1509]]></description>
+        <Point><coordinates>-81.5253326666667,31.2198243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME14812-A</name>
+        <description><![CDATA[Date: 8/6/25 9:13 AM
+      Site Name: Lewiston 4 ME
+      AGL: 180
+      Tower Type: Self Support
+      Address: 532 East Street, Lewiston, Androscoggin, ME 04240]]></description>
+        <Point><coordinates>-70.1807632222222,44.1159527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL08416-A</name>
+        <description><![CDATA[Date: 8/6/25 9:02 AM
+      Site Name: Port Tampa
+      AGL: 162
+      Tower Type: Monopole
+      Address: 7208 Elliott Street, Tampa, Hillsborough, FL 33616-1906]]></description>
+        <Point><coordinates>-82.533166,27.8615583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/6/25 9:13 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN22470-A</name>
+        <description><![CDATA[Date: 8/6/25 9:14 AM
+      Site Name: WS Plattsburg
+      AGL: 356
+      Tower Type: Guyed
+      Address: 45 W. Cornett LN., Salem, Washington, IN 47167]]></description>
+        <Point><coordinates>-86.0958135555556,38.7133611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13110-A</name>
+        <description><![CDATA[Date: 8/6/25 9:15 AM
+      Site Name: Double Branches
+      AGL: 280
+      Tower Type: Self Support
+      Address: 2402 Bass Road, Lincolnton, Lincoln, GA 30817]]></description>
+        <Point><coordinates>-82.3413635555555,33.7384885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41280-T</name>
+        <description><![CDATA[Date: 8/6/25 9:15 AM
+      Site Name: McKinley Park
+      AGL: 120
+      Tower Type: Monopole
+      Address: 16001 Hanover Street, Fraser, Macomb, MI 48026]]></description>
+        <Point><coordinates>-82.959325,42.5277715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04960-A</name>
+        <description><![CDATA[Date: 8/6/25 9:02 AM
+      Site Name: Guy
+      AGL: 300
+      Tower Type: Guyed
+      Address: 14 Oak Lane, Guy, Faulkner, AR 72061]]></description>
+        <Point><coordinates>-92.3284576666667,35.3209354444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI21102-A</name>
+        <description><![CDATA[Date: 8/6/25 9:18 AM
+      Site Name: Osseo 2 WI
+      AGL: 300
+      Tower Type: Guyed
+      Address: S 14475 Tower Road, OSSEO, Eau Claire, WI 54758]]></description>
+        <Point><coordinates>-91.2289132222222,44.6142527777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

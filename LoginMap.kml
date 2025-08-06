@@ -1999,5 +1999,23 @@
       Address: 234 North Mesquite, Paradise, Wise, TX 76073]]></description>
         <Point><coordinates>-97.6896552222222,33.1567166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY06900-B</name>
+        <description><![CDATA[Date: 8/6/25 2:16 PM
+      Site Name: Spencer Street
+      AGL: 124
+      Tower Type: Monopole
+      Address: 411 Spencer Street, Syracuse, Onondaga, NY 13204-1351]]></description>
+        <Point><coordinates>-76.1646194444445,43.0566055555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48059-A</name>
+        <description><![CDATA[Date: 8/6/25 2:18 PM
+      Site Name: Towne Storage
+      AGL: 49
+      Tower Type: Monopole
+      Address: 1547 North Redwood Road , Lehi, Utah, UT 84043]]></description>
+        <Point><coordinates>-111.920443777778,40.3905552222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1000,5 +1000,41 @@
       Address: 3740 McKelvey Road, Bridgeton, St. Louis, MO 63044]]></description>
         <Point><coordinates>-90.4248493333333,38.751025,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN21677-A</name>
+        <description><![CDATA[Date: 8/6/25 10:01 AM
+      Site Name: Manchester - I-24 Exit 111
+      AGL: 330
+      Tower Type: Guyed
+      Address: 263 Powers Road, Manchester, Coffee, TN 37355]]></description>
+        <Point><coordinates>-86.0619111111111,35.4772465555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/6/25 10:01 AM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY10666-A</name>
+        <description><![CDATA[Date: 8/6/25 10:01 AM
+      Site Name: Horntown
+      AGL: 251
+      Tower Type: Guyed
+      Address: 227 Horn Road, Russell Springs, Russell, KY 42642]]></description>
+        <Point><coordinates>-84.9998635555556,37.0720882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45950-A</name>
+        <description><![CDATA[Date: 8/6/25 10:06 AM
+      Site Name: Destination Moving
+      AGL: 65
+      Tower Type: Tree
+      Address: 895 W. State St., Ontario, San Bernardino, CA 91761]]></description>
+        <Point><coordinates>-117.666575,34.0587916666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

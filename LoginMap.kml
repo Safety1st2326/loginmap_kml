@@ -64,5 +64,32 @@
       Address: 35920 County Road 437, Eustis, Lake, FL 32726]]></description>
         <Point><coordinates>-81.5498285555555,28.8722657222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MA16512-A</name>
+        <description><![CDATA[Date: 8/6/25 6:38 AM
+      Site Name: West Stockbridge 2 MA
+      AGL: 122
+      Tower Type: Self Support
+      Address: 250 Great Barrington Road, West Stockbridge, Berkshire, MA 01266]]></description>
+        <Point><coordinates>-73.3837024444444,42.2833941111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 8/6/25 6:38 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ08473-B</name>
+        <description><![CDATA[Date: 8/6/25 6:39 AM
+      Site Name: Myrtle
+      AGL: 121
+      Tower Type: Monopole
+      Address: 4101 Maple Ave, Pennsauken, Camden, NJ 08109]]></description>
+        <Point><coordinates>-75.0649777777778,39.9492691111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

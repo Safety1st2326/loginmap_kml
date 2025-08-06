@@ -820,5 +820,50 @@
       Address: 2310 NE Insco Road, Bentonville, Benton, AR 72713]]></description>
         <Point><coordinates>-94.2825215555556,36.2715854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 8/6/25 9:36 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA15083-S</name>
+        <description><![CDATA[Date: 8/6/25 9:36 AM
+      Site Name: Eckenrode Mill
+      AGL: 300
+      Tower Type: Guyed
+      Address: 270 Eckenrode Mill Rd, Chest Springs, Cambria, PA 16624]]></description>
+        <Point><coordinates>-78.622416,40.5766937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09848-A</name>
+        <description><![CDATA[Date: 8/6/25 9:37 AM
+      Site Name: Cairo 2 GA
+      AGL: 291
+      Tower Type: Guyed
+      Address: 1124 Meadow Brook Drive, Cairo, Grady, GA 39828]]></description>
+        <Point><coordinates>-84.1895468888889,30.8715104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS04585-B</name>
+        <description><![CDATA[Date: 8/6/25 9:28 AM
+      Site Name: Sanatorium
+      AGL: 250
+      Tower Type: Guyed
+      Address: 122 Agnes Windham Road, Mendenhall, Simpson, MS 39114]]></description>
+        <Point><coordinates>-89.7758493333333,31.8992441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AZ45003-A</name>
+        <description><![CDATA[Date: 8/6/25 9:39 AM
+      Site Name: Highway 91
+      AGL: 150
+      Tower Type: Self Support
+      Address: 1250 E. Highway 91, LITTLEFIELD, MOHAVE, AZ 86432]]></description>
+        <Point><coordinates>-114.009494444444,36.8280271111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

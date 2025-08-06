@@ -1882,5 +1882,32 @@
       Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
         <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AL00763-B</name>
+        <description><![CDATA[Date: 8/6/25 1:31 PM
+      Site Name: Vaughn Plaza
+      AGL: 186
+      Tower Type: Monopole
+      Address: 2882 Vaughn Plaza Road, Montgomery, Montgomery, AL 36116-1149]]></description>
+        <Point><coordinates>-86.2216187777778,32.3420163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN22181-A</name>
+        <description><![CDATA[Date: 8/6/25 1:37 PM
+      Site Name: UTC South
+      AGL: 180
+      Tower Type: Monopole
+      Address: 1008 Baldwin Street, Chattanooga, Hamilton, TN 37402]]></description>
+        <Point><coordinates>-85.3005611111111,35.0413191111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ND16746-A</name>
+        <description><![CDATA[Date: 8/6/25 1:37 PM
+      Site Name: Little Missouri Bay
+      AGL: 399
+      Tower Type: Guyed
+      Address: 836 Highway 22N, Killdeer, Dunn, ND 58640]]></description>
+        <Point><coordinates>-102.842333,47.5363607777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

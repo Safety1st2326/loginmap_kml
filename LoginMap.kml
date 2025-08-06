@@ -19,5 +19,14 @@
       Address: 1702 S. Euclid, Tucson, Pima, AZ 85713]]></description>
         <Point><coordinates>-110.9595,32.2004722222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL01225-A</name>
+        <description><![CDATA[Date: 8/6/25 5:03 AM
+      Site Name: Tampa
+      AGL: 185
+      Tower Type: Self Support
+      Address: 5131 North Florida Avenue, Tampa, Hillsborough, FL 33603-2137]]></description>
+        <Point><coordinates>-82.4591055555556,27.993783,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -10,5 +10,14 @@
       Address: 26033 Pelican Drive, Lebanon, Laclede, MO 65536]]></description>
         <Point><coordinates>-92.6599583333333,37.7185798888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ40523-T</name>
+        <description><![CDATA[Date: 8/6/25 3:25 AM
+      Site Name: SW Commodity Warehouse
+      AGL: 62
+      Tower Type: Monopole
+      Address: 1702 S. Euclid, Tucson, Pima, AZ 85713]]></description>
+        <Point><coordinates>-110.9595,32.2004722222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

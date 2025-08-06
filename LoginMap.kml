@@ -1117,5 +1117,68 @@
       Address: 10308 North US 301, Parrish, Manatee, FL 34219]]></description>
         <Point><coordinates>-82.4578083333333,27.5536138888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AR04334-S</name>
+        <description><![CDATA[Date: 8/6/25 10:19 AM
+      Site Name: Old Alabam
+      AGL: 300
+      Tower Type: Guyed
+      Address: 569 Madison 2149, Huntsville, Madison, AR 72740]]></description>
+        <Point><coordinates>-93.6428524444444,36.133016,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02891-B</name>
+        <description><![CDATA[Date: 8/6/25 10:25 AM
+      Site Name: Monk Crossing
+      AGL: 250
+      Tower Type: Self Support
+      Address: 6430 Old Naylor Rd., Naylor, Lowndes, GA 31641-2912]]></description>
+        <Point><coordinates>-83.100475,30.8955357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/6/25 10:31 AM
+      Site Name: Green Peter
+      AGL: 150
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582924333333,44.4828604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR24275-A</name>
+        <description><![CDATA[Date: 8/6/25 10:31 AM
+      Site Name: Green Peter
+      AGL: 20
+      Tower Type: Self Support
+      Address: Green Peter Mountain, Foster, Linn, OR 97345]]></description>
+        <Point><coordinates>-122.582929888889,44.4831215555555,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13453-A</name>
+        <description><![CDATA[Date: 8/6/25 10:33 AM
+      Site Name: Kennedy Coast Guard
+      AGL: 753
+      Tower Type: Guyed
+      Address: 488 San Pedro Camp Road, Armstrong, Kenedy, TX 78336]]></description>
+        <Point><coordinates>-97.6628333333333,26.9899996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA05329-B</name>
+        <description><![CDATA[Date: 8/6/25 10:33 AM
+      Site Name: Hazleton
+      AGL: 190
+      Tower Type: Self Support
+      Address: 648 N. Old Turnpike Road, Drums, Luzerne, PA 18222]]></description>
+        <Point><coordinates>-75.9701382222222,41.0572694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO21303-A</name>
+        <description><![CDATA[Date: 8/6/25 10:34 AM
+      Site Name: Pueblo South
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
+        <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

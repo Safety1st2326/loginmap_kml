@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>MO17961-A</name>
+        <description><![CDATA[Date: 8/6/25 12:15 AM
+      Site Name: Pelican 4 MO
+      AGL: 252
+      Tower Type: Self Support
+      Address: 26033 Pelican Drive, Lebanon, Laclede, MO 65536]]></description>
+        <Point><coordinates>-92.6599583333333,37.7185798888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

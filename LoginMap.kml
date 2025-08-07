@@ -19,5 +19,59 @@
       Address: 35920 County Road 437, Eustis, Lake, FL 32726]]></description>
         <Point><coordinates>-81.5498285555555,28.8722657222222,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14114-A</name>
+        <description><![CDATA[Date: 8/7/25 6:02 AM
+      Site Name: Storck
+      AGL: 212
+      Tower Type: Self Support
+      Address: 128 Storck Road, Fredericksburg, Stafford, VA 22406]]></description>
+        <Point><coordinates>-77.6057222222222,38.4261937777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 8/7/25 6:09 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC05467-S</name>
+        <description><![CDATA[Date: 8/7/25 6:09 AM
+      Site Name: Dan Road
+      AGL: 225
+      Tower Type: Self Support
+      Address: 145 Dan Street, Salisbury, Rowan, NC 28147]]></description>
+        <Point><coordinates>-80.5122777777778,35.6871857777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI41265-A</name>
+        <description><![CDATA[Date: 8/7/25 6:09 AM
+      Site Name: Tashakor
+      AGL: 120
+      Tower Type: Monopole
+      Address: 1497 Shirley Street, Flint Township, Genesee, MI 48532]]></description>
+        <Point><coordinates>-83.7853635555555,43.0028805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC47137-A</name>
+        <description><![CDATA[Date: 8/7/25 6:09 AM
+      Site Name: Goat Pasture
+      AGL: 220
+      Tower Type: Self Support
+      Address: 1332 N. Post Road, Shelby, Cleveland, NC 28150]]></description>
+        <Point><coordinates>-81.4926385555556,35.3239437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR10187-A</name>
+        <description><![CDATA[Date: 8/7/25 6:09 AM
+      Site Name: Mountain Home E
+      AGL: 251
+      Tower Type: Self Support
+      Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
+        <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -190,5 +190,59 @@
       Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
         <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL21436-A</name>
+        <description><![CDATA[Date: 8/7/25 7:02 AM
+      Site Name: Nine Mile 2 FL
+      AGL: 150
+      Tower Type: Monopole
+      Address: 8861 JERNIGAN ROAD, PENSACOLA, ESCAMBIA, FL 32514]]></description>
+        <Point><coordinates>-87.2381135555556,30.5314743333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA01262-B</name>
+        <description><![CDATA[Date: 8/7/25 7:07 AM
+      Site Name: Millen
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1261 Hwy. 25 North, Millen, Jenkins, GA 30442-6711]]></description>
+        <Point><coordinates>-81.9510027777778,32.8172604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME13751-A</name>
+        <description><![CDATA[Date: 8/7/25 7:08 AM
+      Site Name: Fryeburg
+      AGL: 158
+      Tower Type: Monopole
+      Address: 98 Leach Road, Fryeburg, Oxford, ME 04037]]></description>
+        <Point><coordinates>-70.9580833333333,44.0314437777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02881-B</name>
+        <description><![CDATA[Date: 8/7/25 6:55 AM
+      Site Name: Route 27
+      AGL: 250
+      Tower Type: Self Support
+      Address: 292 Industrial Blvd. S.E., Lindale, Floyd, GA 30147]]></description>
+        <Point><coordinates>-85.2036611111111,34.1775826666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11602-A</name>
+        <description><![CDATA[Date: 8/7/25 7:04 AM
+      Site Name: Rolling Hills 2 VA
+      AGL: 276
+      Tower Type: Self Support
+      Address: 120 Rolling Hills Lane, Burgess, Northumberland, VA 22432]]></description>
+        <Point><coordinates>-76.3551138888889,37.8718215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>RI47734-A</name>
+        <description><![CDATA[Date: 8/7/25 6:55 AM
+      Site Name: Slocum West - Fieldstone Property
+      AGL: 99
+      Tower Type: Stealth
+      Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
+        <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

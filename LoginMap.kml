@@ -541,5 +541,104 @@
       Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
         <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA00926-B</name>
+        <description><![CDATA[Date: 8/7/25 8:11 AM
+      Site Name: McBean
+      AGL: 285
+      Tower Type: Guyed
+      Address: 1064 Crenshaw Road, Hephzibah, Richmond, GA 30815]]></description>
+        <Point><coordinates>-81.9649722222222,33.3125555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00029-A</name>
+        <description><![CDATA[Date: 8/7/25 8:06 AM
+      Site Name: Silver Springs
+      AGL: 550
+      Tower Type: Guyed
+      Address: 121 SE 68th Court, Ocala, Marion, FL 34472]]></description>
+        <Point><coordinates>-82.0380885555556,29.1832021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL00029-A</name>
+        <description><![CDATA[Date: 8/7/25 8:06 AM
+      Site Name: Silver Springs
+      AGL: 400
+      Tower Type: Guyed
+      Address: 121 SE 68th Court, Ocala, Marion, FL 34472]]></description>
+        <Point><coordinates>-82.0379607777778,29.1833048888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>SC08658-A</name>
+        <description><![CDATA[Date: 8/7/25 8:06 AM
+      Site Name: Jenkins 2 SC
+      AGL: 302
+      Tower Type: Self Support
+      Address: 1011 Hwy 418, Simpsonville, Greenville, SC 29680-6910]]></description>
+        <Point><coordinates>-82.3101472222222,34.6476885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD23528-A</name>
+        <description><![CDATA[Date: 8/7/25 8:18 AM
+      Site Name: Bennett HS
+      AGL: 195
+      Tower Type: Self Support
+      Address: 300 E. College Ave., Salisbury, Wicomico, MD 21804]]></description>
+        <Point><coordinates>-75.5955107777778,38.3449802222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47219-A</name>
+        <description><![CDATA[Date: 8/7/25 8:18 AM
+      Site Name: Butler 6 NJ
+      AGL: 145
+      Tower Type: Flagpole
+      Address: 1 Ace Road, Butler, Morris, NJ 07405]]></description>
+        <Point><coordinates>-74.3423718888889,41.0030666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA13110-A</name>
+        <description><![CDATA[Date: 8/7/25 8:18 AM
+      Site Name: Double Branches
+      AGL: 280
+      Tower Type: Self Support
+      Address: 2402 Bass Road, Lincolnton, Lincoln, GA 30817]]></description>
+        <Point><coordinates>-82.3413635555555,33.7384885555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NV20109-A</name>
+        <description><![CDATA[Date: 8/7/25 8:18 AM
+      Site Name: Storage One - S Jones Blvd
+      AGL: 100
+      Tower Type: Monopole
+      Address: 4349 South Jones, Las Vegas, Clark, NV 89103]]></description>
+        <Point><coordinates>-115.225304888889,36.1091388888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09674-A</name>
+        <description><![CDATA[Date: 8/7/25 8:18 AM
+      Site Name: Draketown GA
+      AGL: 252
+      Tower Type: Self Support
+      Address: 97 Bear Creek Road, Buchanan, Haralson, GA 30113]]></description>
+        <Point><coordinates>-85.0614305555555,33.8324021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX16594-S</name>
+        <description><![CDATA[Date: 8/7/25 8:07 AM
+      Site Name: 635 Seagoville
+      AGL: 150
+      Tower Type: Monopole
+      Address: 11916 Seagoville Road, Balch Springs, Dallas, TX 75210]]></description>
+        <Point><coordinates>-96.6214704444444,32.7039477777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41946-T</name>
+        <description><![CDATA[Date: 8/7/25 8:19 AM
+      Site Name: Faith Tabernacle Church
+      AGL: 86
+      Tower Type: Stealth
+      Address: 1101 Audra Lane, Denton, Denton, TX 76209]]></description>
+        <Point><coordinates>-97.1083055555555,33.2246104444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

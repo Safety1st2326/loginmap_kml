@@ -2647,5 +2647,14 @@
       Address: 2725 River Road South, Salem, Marion, OR 97302]]></description>
         <Point><coordinates>-123.066361111111,44.9155,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KS41140-T</name>
+        <description><![CDATA[Date: 8/6/25 8:45 PM
+      Site Name: Haynes Farm Groundbuild
+      AGL: 250
+      Tower Type: Self Support
+      Address: 1501 Old Highway 40, Junction City, Geary, KS 66441]]></description>
+        <Point><coordinates>-96.8574443888889,38.9971246666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

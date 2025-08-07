@@ -694,5 +694,140 @@
       Address: 206 County Road 928, Carroll/Eastern District, Carroll/Eastern District, AR 72638]]></description>
         <Point><coordinates>-93.4494524444444,36.1940413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>AZ21252-A</name>
+        <description><![CDATA[Date: 8/7/25 8:40 AM
+      Site Name: Bahia Hermosa Road
+      AGL: 105
+      Tower Type: Monopole
+      Address: 2700 JAMAICA, LAKE HAVASU CITY, MOHAVE, AZ 86404]]></description>
+        <Point><coordinates>-114.301555555556,34.4638055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN14139-A</name>
+        <description><![CDATA[Date: 8/7/25 8:40 AM
+      Site Name: Lake Holiday
+      AGL: 240
+      Tower Type: Self Support
+      Address: 3296 W. 600 S., Crawfordsville, Montgomery, IN 47933]]></description>
+        <Point><coordinates>-86.9644166666667,39.9553333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK11903-A</name>
+        <description><![CDATA[Date: 8/7/25 8:27 AM
+      Site Name: Shamrock
+      AGL: 300
+      Tower Type: Guyed
+      Address: 18025 South 513th West Avenue, Depew, Creek, OK 74044]]></description>
+        <Point><coordinates>-96.5810382222222,35.9021944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY05432-S</name>
+        <description><![CDATA[Date: 8/7/25 8:28 AM
+      Site Name: Highland 3 NY
+      AGL: 245
+      Tower Type: Self Support
+      Address: 61 Proctor Rd, Eldred, Sullivan, NY 12732]]></description>
+        <Point><coordinates>-74.8684465555556,41.5243132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09536-A</name>
+        <description><![CDATA[Date: 8/7/25 8:42 AM
+      Site Name: Calmer
+      AGL: 250
+      Tower Type: Self Support
+      Address: 9650 Highway 114, Rison, Cleveland, AR 71665]]></description>
+        <Point><coordinates>-92.0263326666667,33.9377913333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA01114-A</name>
+        <description><![CDATA[Date: 8/7/25 8:42 AM
+      Site Name: Springhill
+      AGL: 440
+      Tower Type: Guyed
+      Address: 170 15th Street N. W., Springhill, Webster, LA 71075]]></description>
+        <Point><coordinates>-93.4919357777778,33.0137222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA01114-A</name>
+        <description><![CDATA[Date: 8/7/25 8:42 AM
+      Site Name: Springhill
+      AGL: 440
+      Tower Type: Guyed
+      Address: 170 15th Street N. W., Springhill, Webster, LA 71075]]></description>
+        <Point><coordinates>-93.4922218888889,33.0138611111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NJ47198-A</name>
+        <description><![CDATA[Date: 8/7/25 8:38 AM
+      Site Name: Laurence Harbor
+      AGL: 122
+      Tower Type: Monopole
+      Address: 15 Industrial Drive, Old Bridge Township, Middlesex, NJ 08857]]></description>
+        <Point><coordinates>-74.239908,40.4479302222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK21737-A</name>
+        <description><![CDATA[Date: 8/7/25 8:38 AM
+      Site Name: Chambers
+      AGL: 220
+      Tower Type: Self Support
+      Address: 264 S. Chambers Rd., McAlester, Pittsburg, OK 74501]]></description>
+        <Point><coordinates>-95.8099722222222,34.8643083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17304-A</name>
+        <description><![CDATA[Date: 8/7/25 8:30 AM
+      Site Name: Pandora 3 OH
+      AGL: 176
+      Tower Type: Self Support
+      Address: 207 Basinger Road, Pandora, Putnam, OH 45877]]></description>
+        <Point><coordinates>-83.9558361111111,40.9471135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX12849-A</name>
+        <description><![CDATA[Date: 8/7/25 8:45 AM
+      Site Name: Brooks TX
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7707 E Hwy 79, Henderson, Rusk, TX 75652]]></description>
+        <Point><coordinates>-94.668191,32.1544694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA46020-A</name>
+        <description><![CDATA[Date: 8/7/25 8:45 AM
+      Site Name: Mancilla Property
+      AGL: 65
+      Tower Type: Monopine
+      Address: 1361 Dodson Way, Riverside, Riverside, CA 92507]]></description>
+        <Point><coordinates>-117.347327444444,33.9988441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OK14828-S</name>
+        <description><![CDATA[Date: 8/7/25 8:46 AM
+      Site Name: Beaver 5 OK
+      AGL: 230
+      Tower Type: Self Support
+      Address: 407 Drive 7 th, Beaver, Beaver, OK 73932]]></description>
+        <Point><coordinates>-100.513308333333,36.8116555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT04709-S</name>
+        <description><![CDATA[Date: 8/7/25 8:47 AM
+      Site Name: Stonington 3 CT
+      AGL: 180
+      Tower Type: Flagpole
+      Address: 421 Al Harvey Road, Stonington, New London/Stonington, CT 06378-1701]]></description>
+        <Point><coordinates>-71.9270298888889,41.4056083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD15584-A</name>
+        <description><![CDATA[Date: 8/7/25 8:47 AM
+      Site Name: Chesapeake Beach-Anderson
+      AGL: 194
+      Tower Type: Monopole
+      Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
+        <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

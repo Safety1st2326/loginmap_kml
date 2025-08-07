@@ -244,5 +244,104 @@
       Address: 567 SOUTH COUNTY TRAIL, Exeter, Washington/Exeter, RI 02822]]></description>
         <Point><coordinates>-71.552,41.5273048888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>VA14119-A</name>
+        <description><![CDATA[Date: 8/7/25 7:10 AM
+      Site Name: Culpeper
+      AGL: 195
+      Tower Type: Monopole
+      Address: 18250 Germanna Highway, Culpeper, Culpeper, VA 22701]]></description>
+        <Point><coordinates>-77.9121388888889,38.4375552222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA09926-A</name>
+        <description><![CDATA[Date: 8/7/25 7:09 AM
+      Site Name: Tree
+      AGL: 197
+      Tower Type: Monopole
+      Address: 3700 Schatulga Road, Columbus, Muscogee, GA 31907]]></description>
+        <Point><coordinates>-84.867666,32.5005666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20458-A</name>
+        <description><![CDATA[Date: 8/7/25 7:09 AM
+      Site Name: West Branch Tower
+      AGL: 400
+      Tower Type: Guyed
+      Address: 10925 WEST BRANCH, SAINT HELEN, ROSCOMMON, MI 48656]]></description>
+        <Point><coordinates>-84.3905552222222,44.290833,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA01897-B</name>
+        <description><![CDATA[Date: 8/7/25 7:24 AM
+      Site Name: Hartfield
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7866 General Puller Hwy, Topping, Middlesex, VA 23169]]></description>
+        <Point><coordinates>-76.4890663333333,37.5770215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NC01042-B</name>
+        <description><![CDATA[Date: 8/7/25 7:24 AM
+      Site Name: Green Creek
+      AGL: 183
+      Tower Type: Guyed
+      Address: 260 Jim Page Road, Columbus, Polk, NC 28722]]></description>
+        <Point><coordinates>-82.0573111111111,35.2015722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15158-A</name>
+        <description><![CDATA[Date: 8/7/25 7:10 AM
+      Site Name: Holy Trinity Church
+      AGL: 125
+      Tower Type: Flagpole
+      Address: 182 Yaphank Middle Island Rd, Middle Island, Suffolk, NY 11953]]></description>
+        <Point><coordinates>-72.9337663333333,40.8681882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/7/25 7:22 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.4991552222222,34.01315,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/7/25 7:22 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5005583333333,34.0141222222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02625-A</name>
+        <description><![CDATA[Date: 8/7/25 7:22 AM
+      Site Name: Sandy Plains 2 GA
+      AGL: 
+      Tower Type: COW
+      Address: 2525 Sandy Plains Rd NE Cell Tower 800, Marietta, Cobb, GA 30066]]></description>
+        <Point><coordinates>-84.5000472222222,34.013975,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20420-A</name>
+        <description><![CDATA[Date: 8/7/25 7:22 AM
+      Site Name: Pompeii Tower
+      AGL: 300
+      Tower Type: Guyed
+      Address: 1500 East Cleveland Rd, Hwy M57, Pompeii, Gratiot, MI 48874]]></description>
+        <Point><coordinates>-84.5747215555556,43.1711104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01179-B</name>
+        <description><![CDATA[Date: 8/7/25 7:16 AM
+      Site Name: Snyder Door
+      AGL: 120
+      Tower Type: Monopole
+      Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
+        <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

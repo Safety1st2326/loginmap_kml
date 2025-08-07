@@ -1396,5 +1396,41 @@
       Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
         <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>KY01837-B</name>
+        <description><![CDATA[Date: 8/7/25 11:47 AM
+      Site Name: Crittenden
+      AGL: 300
+      Tower Type: Self Support
+      Address: 220 Mount Zion-Crittenden Road, Dry Ridge, Grant, KY 41035]]></description>
+        <Point><coordinates>-84.6069777777778,38.7629555555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR09529-A</name>
+        <description><![CDATA[Date: 8/7/25 11:43 AM
+      Site Name: Lumberjack
+      AGL: 250
+      Tower Type: Self Support
+      Address: 286 Bradley CR 68, Warren, Bradley, AR 71671]]></description>
+        <Point><coordinates>-92.0799326666667,33.5127138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO20086-A</name>
+        <description><![CDATA[Date: 8/7/25 11:49 AM
+      Site Name: HARRISONVILLE TOWER
+      AGL: 300
+      Tower Type: Guyed
+      Address: 19500 E. 236TH STREET, HARRISONVILLE, CASS, MO 64701]]></description>
+        <Point><coordinates>-94.3713965555555,38.6857607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA41205-T</name>
+        <description><![CDATA[Date: 8/7/25 11:49 AM
+      Site Name: BN268-Sorli Farm
+      AGL: 80
+      Tower Type: Monopole
+      Address: 1022 Westford Street, Carlisle, Middlesex, MA 01741]]></description>
+        <Point><coordinates>-71.3845218888889,42.5360968888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

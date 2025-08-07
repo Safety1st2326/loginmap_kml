@@ -1189,5 +1189,41 @@
       Address: 11337 United Way, Orlando, Orange, FL 32824]]></description>
         <Point><coordinates>-81.3825271111111,28.4064888888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IN41110-T</name>
+        <description><![CDATA[Date: 8/7/25 10:45 AM
+      Site Name: Baumgartner Trucking
+      AGL: 150
+      Tower Type: Monopole
+      Address: 600 Hamman Street, Lafayette, Tippecanoe, IN 47905]]></description>
+        <Point><coordinates>-86.8552,40.4134305555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY04060-S</name>
+        <description><![CDATA[Date: 8/7/25 10:55 AM
+      Site Name: Charlton 3 NY
+      AGL: 182
+      Tower Type: Self Support
+      Address: 4296 Jockey Street, Charlton, Saratoga, NY 12019-2924]]></description>
+        <Point><coordinates>-73.9732354444444,42.9797021111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17647-A</name>
+        <description><![CDATA[Date: 8/7/25 10:55 AM
+      Site Name: Draper
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3803 West WI State Highway 70, Draper, Sawyer, WI 54896]]></description>
+        <Point><coordinates>-90.868341,45.8821132222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL09058-S</name>
+        <description><![CDATA[Date: 8/7/25 10:58 AM
+      Site Name: Waylonzo
+      AGL: 250
+      Tower Type: Self Support
+      Address: 11921 W US 98, Perry, Taylor, FL 32348]]></description>
+        <Point><coordinates>-83.7724743333333,30.1394274444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

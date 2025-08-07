@@ -2656,5 +2656,23 @@
       Address: 1501 Old Highway 40, Junction City, Geary, KS 66441]]></description>
         <Point><coordinates>-96.8574443888889,38.9971246666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA40778-T</name>
+        <description><![CDATA[Date: 8/6/25 9:36 PM
+      Site Name: St Lawrence Academy
+      AGL: 45
+      Tower Type: Stealth Monopole
+      Address: 2000 Lawrence Court, San Jose, Santa Clara, CA 95051]]></description>
+        <Point><coordinates>-121.995602444444,37.358525,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OR47622-A</name>
+        <description><![CDATA[Date: 8/6/25 9:39 PM
+      Site Name: Oak Park 3 OR
+      AGL: 100
+      Tower Type: Monopole
+      Address: 1200 Hawthorne Avenue, NE, Salem, Marion, OR 97301]]></description>
+        <Point><coordinates>-122.990860777778,44.9457441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

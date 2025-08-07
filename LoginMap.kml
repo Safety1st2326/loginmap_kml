@@ -991,5 +991,23 @@
       Address: 865 S. Indian Hill Boulevard, Claremont, Los Angeles, CA 91711]]></description>
         <Point><coordinates>-117.720541,34.0797021111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MN22227-A</name>
+        <description><![CDATA[Date: 8/7/25 9:40 AM
+      Site Name: Chandler 2 MN
+      AGL: 702
+      Tower Type: Guyed
+      Address: 239 70th Avenue, Chandler, Murray, MN 56122]]></description>
+        <Point><coordinates>-95.9294937777778,43.884308,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MN22227-A</name>
+        <description><![CDATA[Date: 8/7/25 9:40 AM
+      Site Name: Chandler 2 MN
+      AGL: 199
+      Tower Type: Guyed
+      Address: 239 70th Avenue, Chandler, Murray, MN 56122]]></description>
+        <Point><coordinates>-95.929366,43.8839857777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -442,5 +442,68 @@
       Address: 104 Percy Lane, Reedsville, Preston, WV 26547]]></description>
         <Point><coordinates>-79.7639333333333,39.5072277777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL46283-A</name>
+        <description><![CDATA[Date: 8/7/25 7:45 AM
+      Site Name: St Pete-Clw Airport
+      AGL: 82
+      Tower Type: Monopole
+      Address: 5100 150 Ave N, CLEARWATER, PINELLAS, FL 33755]]></description>
+        <Point><coordinates>-82.7052194444445,27.9060694444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/7/25 7:40 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX47837-A</name>
+        <description><![CDATA[Date: 8/7/25 7:40 AM
+      Site Name: Riverbend Lane
+      AGL: 189
+      Tower Type: Monopole
+      Address: 1200 Riverbend Ln , Gatesville, Coryell, TX 76528]]></description>
+        <Point><coordinates>-97.7474718888889,31.4214715555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/7/25 7:40 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17304-A</name>
+        <description><![CDATA[Date: 8/7/25 7:59 AM
+      Site Name: Pandora 3 OH
+      AGL: 176
+      Tower Type: Self Support
+      Address: 207 Basinger Road, Pandora, Putnam, OH 45877]]></description>
+        <Point><coordinates>-83.9558361111111,40.9471135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH17304-A</name>
+        <description><![CDATA[Date: 8/7/25 7:59 AM
+      Site Name: Pandora 3 OH
+      AGL: 176
+      Tower Type: Self Support
+      Address: 207 Basinger Road, Pandora, Putnam, OH 45877]]></description>
+        <Point><coordinates>-83.9558361111111,40.9471135555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>OH40202-A</name>
+        <description><![CDATA[Date: 8/7/25 7:59 AM
+      Site Name: McConnelsville
+      AGL: 300
+      Tower Type: Self Support
+      Address: 3190 W Poplar Ridge Rd NW, Malta, Morgan, OH 43758]]></description>
+        <Point><coordinates>-81.8809687777778,39.6671465555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

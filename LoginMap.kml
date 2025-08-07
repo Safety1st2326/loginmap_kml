@@ -1333,5 +1333,68 @@
       Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
         <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MD13220-A</name>
+        <description><![CDATA[Date: 8/7/25 11:24 AM
+      Site Name: Shady Side
+      AGL: 173
+      Tower Type: Monopole
+      Address: 5100 Chalk Point Road, West River, Anne Arundel, MD 20778]]></description>
+        <Point><coordinates>-76.5400746666667,38.8287243333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT11709-S</name>
+        <description><![CDATA[Date: 8/7/25 11:24 AM
+      Site Name: Barkhamsted CT
+      AGL: 172
+      Tower Type: Monopole
+      Address: 44 Gavitt Road, Barkhamsted, Litchfield/Barkhamsted, CT 06063]]></description>
+        <Point><coordinates>-72.9114722222222,41.946083,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 8/7/25 11:37 AM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV14253-A</name>
+        <description><![CDATA[Date: 8/7/25 11:37 AM
+      Site Name: Tunnelton
+      AGL: 280
+      Tower Type: Guyed
+      Address: 7428 S Preston Hwy., Tunnelton, Preston, WV 26444]]></description>
+        <Point><coordinates>-79.7440607777778,39.3987107777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40829-T</name>
+        <description><![CDATA[Date: 8/7/25 11:37 AM
+      Site Name: Presbytery San Fernando
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 14225 and 14255 Roscoe Blvd., Los Angeles, Los Angeles, CA 91402]]></description>
+        <Point><coordinates>-118.442999666667,34.2218215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45342-A</name>
+        <description><![CDATA[Date: 8/7/25 11:37 AM
+      Site Name: Pedley Square
+      AGL: 61
+      Tower Type: Monopalm
+      Address: 8910 Limonite Ave., RIVERSIDE, RIVERSIDE, CA 92501]]></description>
+        <Point><coordinates>-117.477221555556,33.974166,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CO21303-A</name>
+        <description><![CDATA[Date: 8/7/25 11:39 AM
+      Site Name: Pueblo South
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2200 S. Freeway, Pueblo, Pueblo, CO 81002]]></description>
+        <Point><coordinates>-104.611888888889,38.2327493333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

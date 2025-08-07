@@ -73,5 +73,59 @@
       Address: 223 Oels Road, Mountain Home, Baxter, AR 72653]]></description>
         <Point><coordinates>-92.320166,36.368116,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17223-A</name>
+        <description><![CDATA[Date: 8/7/25 6:44 AM
+      Site Name: Wautoma
+      AGL: 193
+      Tower Type: Self Support
+      Address: 1001 E. Main Street, Wautoma, Waushara, WI 54982]]></description>
+        <Point><coordinates>-89.2710604444444,44.0682493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI20749-A</name>
+        <description><![CDATA[Date: 8/7/25 6:39 AM
+      Site Name: Leslie
+      AGL: 358
+      Tower Type: Guyed
+      Address: 3597 Hull Road, Leslie, Ingham, MI 49251]]></description>
+        <Point><coordinates>-84.4391607777778,42.4775298888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10676-A</name>
+        <description><![CDATA[Date: 8/7/25 6:49 AM
+      Site Name: McGuire Park
+      AGL: 250
+      Tower Type: Guyed
+      Address: 112 Right Hoffman Avenue, Weston, Lewis, WV 26452]]></description>
+        <Point><coordinates>-80.4227743333333,39.0346996666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL12109-A</name>
+        <description><![CDATA[Date: 8/7/25 6:49 AM
+      Site Name: Leesburg 3 FL
+      AGL: 147
+      Tower Type: Monopole
+      Address: 1504 South Street, Leesburg, Lake, FL 34748]]></description>
+        <Point><coordinates>-81.8905552222222,28.8032666666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02637-A</name>
+        <description><![CDATA[Date: 8/7/25 6:49 AM
+      Site Name: St Mary's 3 GA
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1002 Wheeler Street, St. Marys, Camden, GA 31558-8465]]></description>
+        <Point><coordinates>-81.546833,30.7330271111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46717-A</name>
+        <description><![CDATA[Date: 8/7/25 6:49 AM
+      Site Name: Glenelg
+      AGL: 156
+      Tower Type: Monopole
+      Address: 4105 Ten Oaks Rd, Dayton, Howard, MD 21036]]></description>
+        <Point><coordinates>-76.9842774444444,39.2600833333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

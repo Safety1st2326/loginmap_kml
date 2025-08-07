@@ -505,5 +505,41 @@
       Address: 3190 W Poplar Ridge Rd NW, Malta, Morgan, OH 43758]]></description>
         <Point><coordinates>-81.8809687777778,39.6671465555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>WI17654-A</name>
+        <description><![CDATA[Date: 8/7/25 7:55 AM
+      Site Name: Hansen
+      AGL: 276
+      Tower Type: Self Support
+      Address: +/-5183 Jefferson Road, Vesper, Wood, WI 54489]]></description>
+        <Point><coordinates>-89.9767187777778,44.4603277777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY09970-B</name>
+        <description><![CDATA[Date: 8/7/25 8:03 AM
+      Site Name: Burlington East
+      AGL: 192
+      Tower Type: Monopole
+      Address: 3619 State Highway 80, Burlington, Otsego, NY 13315]]></description>
+        <Point><coordinates>-75.0814743333333,42.7291882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>LA05988-A</name>
+        <description><![CDATA[Date: 8/7/25 8:04 AM
+      Site Name: Nelson Rd
+      AGL: 160
+      Tower Type: Self Support
+      Address: 1810 Nelson Road, Shreveport, Caddo, LA 71107-6346]]></description>
+        <Point><coordinates>-93.7799993333333,32.5437218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MA13207-A</name>
+        <description><![CDATA[Date: 8/7/25 8:04 AM
+      Site Name: Otis 2 MA
+      AGL: 150
+      Tower Type: Monopole
+      Address: 159 Monterey Road, Otis, Berkshire, MA 01253]]></description>
+        <Point><coordinates>-73.100475,42.1928107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

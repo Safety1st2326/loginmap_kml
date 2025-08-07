@@ -2638,5 +2638,14 @@
       Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
         <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>OR47621-A</name>
+        <description><![CDATA[Date: 8/6/25 8:27 PM
+      Site Name: Illahee - Safe Stor
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2725 River Road South, Salem, Marion, OR 97302]]></description>
+        <Point><coordinates>-123.066361111111,44.9155,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

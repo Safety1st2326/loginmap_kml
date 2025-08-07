@@ -964,5 +964,14 @@
       Address: Warner Mine Road, .5 mi So. of Old US 141 N., Amasa, Iron, MI 49903]]></description>
         <Point><coordinates>-88.4371413333333,46.2206854444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>FL13652-A</name>
+        <description><![CDATA[Date: 8/7/25 9:20 AM
+      Site Name: Tatum
+      AGL: 281
+      Tower Type: Self Support
+      Address: 14570 Norris Bishop Loop, Brooksville, Hernando, FL 34613]]></description>
+        <Point><coordinates>-82.4833885555556,28.6663333333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

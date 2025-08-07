@@ -658,5 +658,41 @@
       Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
         <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NY16507-A</name>
+        <description><![CDATA[Date: 8/7/25 8:27 AM
+      Site Name: Shandaken
+      AGL: 181
+      Tower Type: Self Support
+      Address: 131 Rudy Frank Rd Ext, Shandaken, Ulster, NY 12480]]></description>
+        <Point><coordinates>-74.3990107777778,42.1258604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN21643-A</name>
+        <description><![CDATA[Date: 8/7/25 8:34 AM
+      Site Name: Summitville
+      AGL: 250
+      Tower Type: Self Support
+      Address: 7907 MCMINNVILLE HWY, MORRISON, Coffee, TN 37357]]></description>
+        <Point><coordinates>-85.9815271111111,35.5532722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV13528-A</name>
+        <description><![CDATA[Date: 8/7/25 8:34 AM
+      Site Name: Camp Dawson
+      AGL: 251
+      Tower Type: Guyed
+      Address: 416 Rich Wolfe Drive, Kingwood, Preston, WV 26537]]></description>
+        <Point><coordinates>-79.6696771111111,39.4609805555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AR04332-S</name>
+        <description><![CDATA[Date: 8/7/25 8:34 AM
+      Site Name: Gobbler
+      AGL: 261
+      Tower Type: Guyed
+      Address: 206 County Road 928, Carroll/Eastern District, Carroll/Eastern District, AR 72638]]></description>
+        <Point><coordinates>-93.4494524444444,36.1940413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

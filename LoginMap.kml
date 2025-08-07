@@ -1009,5 +1009,104 @@
       Address: 239 70th Avenue, Chandler, Murray, MN 56122]]></description>
         <Point><coordinates>-95.929366,43.8839857777778,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>NC13322-A</name>
+        <description><![CDATA[Date: 8/7/25 9:40 AM
+      Site Name: Willow Creek
+      AGL: 163
+      Tower Type: Monopole
+      Address: 422 Cecil Farm Road, High Point, Davidson, NC 27265]]></description>
+        <Point><coordinates>-80.0702715555555,35.974616,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 8/7/25 9:52 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 8/7/25 9:53 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL13009-A</name>
+        <description><![CDATA[Date: 8/7/25 9:53 AM
+      Site Name: Five Points 2 AL
+      AGL: 252
+      Tower Type: Self Support
+      Address: 28219 US Hwy 431, Five Points, Chambers, AL 36855]]></description>
+        <Point><coordinates>-85.348508,33.0381357777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MO14400-A</name>
+        <description><![CDATA[Date: 8/7/25 9:53 AM
+      Site Name: McKelvey
+      AGL: 71
+      Tower Type: Flagpole
+      Address: 3740 McKelvey Road, Bridgeton, St. Louis, MO 63044]]></description>
+        <Point><coordinates>-90.4248493333333,38.751025,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL16129-B</name>
+        <description><![CDATA[Date: 8/7/25 9:42 AM
+      Site Name: South Pekin
+      AGL: 150
+      Tower Type: Monopole
+      Address: 1650 Frontage Road, Pekin, Tazewell, IL 61554]]></description>
+        <Point><coordinates>-89.6620222222222,40.5502972222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13421-A</name>
+        <description><![CDATA[Date: 8/7/25 9:49 AM
+      Site Name: Buchanan Dam
+      AGL: 481
+      Tower Type: Guyed
+      Address: 10515 W. Texas - 29, Burnet, Burnet, TX 78611]]></description>
+        <Point><coordinates>-98.3897718888889,30.7522944444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX20966-A</name>
+        <description><![CDATA[Date: 8/7/25 9:49 AM
+      Site Name: PEACH CREEK
+      AGL: 245
+      Tower Type: Self Support
+      Address: 500 Peachcreek Cutoff, College Station, BRAZOS, TX 77845]]></description>
+        <Point><coordinates>-96.2202215555556,30.5280882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX41922-T</name>
+        <description><![CDATA[Date: 8/7/25 9:49 AM
+      Site Name: Hays Hills Baptist Church
+      AGL: 150
+      Tower Type: Monopole
+      Address: 401 Hardin Loop, Buda, Hays, TX 78610]]></description>
+        <Point><coordinates>-97.8750965555555,30.1185604444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL16957-A</name>
+        <description><![CDATA[Date: 8/7/25 9:49 AM
+      Site Name: Honest Johns
+      AGL: 177
+      Tower Type: Monopole
+      Address: 715 Old Florida Trail, Cell Tower Unit, Melbourne Beach, Brevard, FL 32951]]></description>
+        <Point><coordinates>-80.5019166666667,27.9366607777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX21267-A</name>
+        <description><![CDATA[Date: 8/7/25 9:49 AM
+      Site Name: Cleveland 2 TX
+      AGL: 401
+      Tower Type: Guyed
+      Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
+        <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

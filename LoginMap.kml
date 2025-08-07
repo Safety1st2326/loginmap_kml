@@ -1234,5 +1234,68 @@
       Address: 1150 Koch St., Pekin, Tazewell, IL 61554]]></description>
         <Point><coordinates>-89.6338107777778,40.55035,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21842-A</name>
+        <description><![CDATA[Date: 8/7/25 11:12 AM
+      Site Name: Pontotoc MS Tower
+      AGL: 140
+      Tower Type: Guyed
+      Address: 416 HWY 6 W, PONTOTOC, PONTOTOC, MS 38863]]></description>
+        <Point><coordinates>-89.0278354444444,34.2522055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02899-B</name>
+        <description><![CDATA[Date: 8/7/25 11:18 AM
+      Site Name: Perimeter
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2160 Dasher Johnson Rd., Valdosta, Lowndes, GA 31606]]></description>
+        <Point><coordinates>-83.2255965555556,30.8491024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MS10295-A</name>
+        <description><![CDATA[Date: 8/7/25 11:18 AM
+      Site Name: Springville 2 MS
+      AGL: 221
+      Tower Type: Guyed
+      Address: 440 Gilmer Road, Pontotoc, Pontotoc, MS 38863]]></description>
+        <Point><coordinates>-89.0789521111111,34.2738104444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00895-A</name>
+        <description><![CDATA[Date: 8/7/25 11:18 AM
+      Site Name: Babylon
+      AGL: 243
+      Tower Type: Self Support
+      Address: 1290 Peconic Avenue, Babylon, Suffolk, NY 11704]]></description>
+        <Point><coordinates>-73.334308,40.7175771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00895-A</name>
+        <description><![CDATA[Date: 8/7/25 11:18 AM
+      Site Name: Babylon
+      AGL: 182
+      Tower Type: Monopole
+      Address: 1290 Peconic Avenue, Babylon, Suffolk, NY 11704]]></description>
+        <Point><coordinates>-73.3341246666667,40.717291,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN00929-B</name>
+        <description><![CDATA[Date: 8/7/25 11:19 AM
+      Site Name: Jellico
+      AGL: 275
+      Tower Type: Self Support
+      Address: 373 Sunset Trail, Jellico, Campbell, TN 37762]]></description>
+        <Point><coordinates>-84.1213104444444,36.5738382222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA00091-B</name>
+        <description><![CDATA[Date: 8/7/25 11:19 AM
+      Site Name: Buffington
+      AGL: 250
+      Tower Type: Self Support
+      Address: 711 Harmony Drive, Canton, Cherokee, GA 30115]]></description>
+        <Point><coordinates>-84.4101972222222,34.2451135555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

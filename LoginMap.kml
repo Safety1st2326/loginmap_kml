@@ -2575,5 +2575,14 @@
       Address: 3777 De Forest Ct , MIRA LOMA, RIVERSIDE, CA 91752]]></description>
         <Point><coordinates>-117.518118777778,34.0195298888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA02351-S</name>
+        <description><![CDATA[Date: 8/6/25 6:52 PM
+      Site Name: Mayo
+      AGL: 180
+      Tower Type: Monopole
+      Address: 2225 Highway 81 East, McDonough, Henry, GA 30252]]></description>
+        <Point><coordinates>-84.0768187777778,33.4276298888889,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

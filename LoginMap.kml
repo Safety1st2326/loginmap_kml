@@ -343,5 +343,104 @@
       Address: 501 East price Street, Philadelphia, Philadelphia, PA 19144]]></description>
         <Point><coordinates>-75.1693048888889,40.0433663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>GA09897-A</name>
+        <description><![CDATA[Date: 8/7/25 7:42 AM
+      Site Name: Hollywood 2 GA
+      AGL: 246
+      Tower Type: Guyed
+      Address: 475 Hollywood Church Road, Clarkesville, Habersham, GA 30523]]></description>
+        <Point><coordinates>-83.4592358333333,34.6485299444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY15394-A</name>
+        <description><![CDATA[Date: 8/7/25 7:38 AM
+      Site Name: Carmans Road
+      AGL: 124
+      Tower Type: Flagpole
+      Address: 40 Camans Road, Massapequa, Town of Oyster Bay, Nassau, NY 11758]]></description>
+        <Point><coordinates>-73.4314993333333,40.684208,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02899-B</name>
+        <description><![CDATA[Date: 8/7/25 7:38 AM
+      Site Name: Perimeter
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2160 Dasher Johnson Rd., Valdosta, Lowndes, GA 31606]]></description>
+        <Point><coordinates>-83.2255965555556,30.8491024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CT46140-A</name>
+        <description><![CDATA[Date: 8/7/25 7:45 AM
+      Site Name: S Durham-rt 17- Lawson
+      AGL: 99
+      Tower Type: Monopole
+      Address: 128 R Creamery Road, Durham, Middlesex, CT 06422]]></description>
+        <Point><coordinates>-72.6961466111111,41.4413524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA48124-A</name>
+        <description><![CDATA[Date: 8/7/25 7:45 AM
+      Site Name: Caret
+      AGL: 250
+      Tower Type: Self Support
+      Address: 10353 Tidewater Trail , Champlain, ESSEX, VA 22438]]></description>
+        <Point><coordinates>-76.9957855555556,38.0245661944444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00005-A</name>
+        <description><![CDATA[Date: 8/7/25 7:45 AM
+      Site Name: Napoli
+      AGL: 279
+      Tower Type: Guyed
+      Address: 9885 Sawmill Run Road, Little Valley, Cattaraugus, NY 14755]]></description>
+        <Point><coordinates>-78.8809298888889,42.1764687777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02899-B</name>
+        <description><![CDATA[Date: 8/7/25 7:35 AM
+      Site Name: Perimeter
+      AGL: 195
+      Tower Type: Monopole
+      Address: 2160 Dasher Johnson Rd., Valdosta, Lowndes, GA 31606]]></description>
+        <Point><coordinates>-83.2255965555556,30.8491024444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN47787-A</name>
+        <description><![CDATA[Date: 8/7/25 7:35 AM
+      Site Name: Summitville 2 TN
+      AGL: 400
+      Tower Type: Self Support
+      Address: 7917  Mcminnville Highway, Summitville, Coffee, TN 37382]]></description>
+        <Point><coordinates>-85.9797048888889,35.5527583333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>AL00763-B</name>
+        <description><![CDATA[Date: 8/7/25 7:35 AM
+      Site Name: Vaughn Plaza
+      AGL: 186
+      Tower Type: Monopole
+      Address: 2882 Vaughn Plaza Road, Montgomery, Montgomery, AL 36116-1149]]></description>
+        <Point><coordinates>-86.2216187777778,32.3420163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX13459-A</name>
+        <description><![CDATA[Date: 8/7/25 7:48 AM
+      Site Name: London-Equilon
+      AGL: 350
+      Tower Type: Guyed
+      Address: 311 K.C. 340, London, Kimble, TX 76854]]></description>
+        <Point><coordinates>-99.5924191111111,30.645708,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WV10671-A</name>
+        <description><![CDATA[Date: 8/7/25 7:49 AM
+      Site Name: Kanes Creek
+      AGL: 251
+      Tower Type: Guyed
+      Address: 104 Percy Lane, Reedsville, Preston, WV 26547]]></description>
+        <Point><coordinates>-79.7639333333333,39.5072277777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

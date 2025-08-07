@@ -883,5 +883,23 @@
       Address: 902 Howard Street East, Live Oak , Suwannee, FL 32064]]></description>
         <Point><coordinates>-82.9750687777778,30.2911441111111,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CA24311-A</name>
+        <description><![CDATA[Date: 8/7/25 9:08 AM
+      Site Name: Tesla
+      AGL: 140
+      Tower Type: Self Support
+      Address: 18045 S. Kelso Road, Mountain House, San Joaquin, CA 95391]]></description>
+        <Point><coordinates>-121.55235,37.7982218888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA14618-A</name>
+        <description><![CDATA[Date: 8/7/25 9:09 AM
+      Site Name: Ashburn 2 VA
+      AGL: 192
+      Tower Type: Monopole
+      Address: 21881 Ashburn Village Blvd, Ashburn, Loudoun, VA 20147]]></description>
+        <Point><coordinates>-77.4960302222222,39.0113694444444,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

@@ -1225,5 +1225,14 @@
       Address: 11921 W US 98, Perry, Taylor, FL 32348]]></description>
         <Point><coordinates>-83.7724743333333,30.1394274444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>IL16126-B</name>
+        <description><![CDATA[Date: 8/7/25 11:07 AM
+      Site Name: Pekin IL
+      AGL: 195
+      Tower Type: Monopole
+      Address: 1150 Koch St., Pekin, Tazewell, IL 61554]]></description>
+        <Point><coordinates>-89.6338107777778,40.55035,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

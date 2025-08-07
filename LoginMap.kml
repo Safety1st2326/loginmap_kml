@@ -1108,5 +1108,59 @@
       Address: 1275 FM1725, Cleveland, LIBERTY, TX 77328]]></description>
         <Point><coordinates>-95.125491,30.3429413333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TX20128-A</name>
+        <description><![CDATA[Date: 8/7/25 10:09 AM
+      Site Name: Rockwall Tower
+      AGL: 140
+      Tower Type: Monopole
+      Address: 15 TABER ROAD, ROCKWALL, ROCKWALL, TX 75087]]></description>
+        <Point><coordinates>-96.4397218888889,32.9508333333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TX08403-A</name>
+        <description><![CDATA[Date: 8/7/25 10:21 AM
+      Site Name: McAllen 2 TX
+      AGL: 122
+      Tower Type: Monopole
+      Address: 1017 N. Ware Road, McAllen, Hidalgo, TX 78501-3540]]></description>
+        <Point><coordinates>-98.2617055555556,26.2178215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45612-A</name>
+        <description><![CDATA[Date: 8/7/25 10:23 AM
+      Site Name: Holt 2 CA
+      AGL: 57
+      Tower Type: Tree
+      Address: 222 Hershey, Pomona, Los Angeles, CA 91767]]></description>
+        <Point><coordinates>-117.726277111111,34.0604722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA11004-A</name>
+        <description><![CDATA[Date: 8/7/25 10:24 AM
+      Site Name: Chamblissburg
+      AGL: 99
+      Tower Type: Monopole
+      Address: 6094 Saunders Road, Vinton, Bedford, VA 24179]]></description>
+        <Point><coordinates>-79.7057194444444,37.263425,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>TN13867-A</name>
+        <description><![CDATA[Date: 8/7/25 10:24 AM
+      Site Name: Weighing Station
+      AGL: 281
+      Tower Type: Guyed
+      Address: 46 Ballard Road, Manchester, Coffee, TN 37355]]></description>
+        <Point><coordinates>-86.1150277777778,35.5153138888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>VA21351-A</name>
+        <description><![CDATA[Date: 8/7/25 10:28 AM
+      Site Name: Mary Immaculate
+      AGL: 136
+      Tower Type: Stealth
+      Address: 12920 Jefferson Avenue, Newport News, Newport News City, VA 23608]]></description>
+        <Point><coordinates>-76.5297573888889,37.1530730555556,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

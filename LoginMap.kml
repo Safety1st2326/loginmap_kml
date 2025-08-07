@@ -973,5 +973,23 @@
       Address: 14570 Norris Bishop Loop, Brooksville, Hernando, FL 34613]]></description>
         <Point><coordinates>-82.4833885555556,28.6663333333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>CT22102-A</name>
+        <description><![CDATA[Date: 8/7/25 9:30 AM
+      Site Name: Town of Norfolk DPW site
+      AGL: 180
+      Tower Type: Monopole
+      Address: Greenwoods Road East, Norfolk, Litchfield, CT 06067]]></description>
+        <Point><coordinates>-73.1538083333333,41.9831882222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA40547-T</name>
+        <description><![CDATA[Date: 8/7/25 9:30 AM
+      Site Name: Montvue Park
+      AGL: 50
+      Tower Type: Monopole Tree
+      Address: 865 S. Indian Hill Boulevard, Claremont, Los Angeles, CA 91711]]></description>
+        <Point><coordinates>-117.720541,34.0797021111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

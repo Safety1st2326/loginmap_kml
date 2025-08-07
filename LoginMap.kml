@@ -2593,5 +2593,14 @@
       Address: 2900 Stiles Road, Dallas, Polk, OR 97338]]></description>
         <Point><coordinates>-123.352572222222,44.8881663333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48062-A</name>
+        <description><![CDATA[Date: 8/6/25 7:22 PM
+      Site Name: North Star Coatings
+      AGL: 80
+      Tower Type: Monopole
+      Address: 5195 W 4700 South, Salt Lake City, Salt Lake, UT 84101]]></description>
+        <Point><coordinates>-112.013416666667,40.6637777777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

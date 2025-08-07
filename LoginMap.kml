@@ -640,5 +640,23 @@
       Address: 1101 Audra Lane, Denton, Denton, TX 76209]]></description>
         <Point><coordinates>-97.1083055555555,33.2246104444444,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS13300-A</name>
+        <description><![CDATA[Date: 8/7/25 8:06 AM
+      Site Name: Alderson 2 MS
+      AGL: 301
+      Tower Type: Guyed
+      Address: 539 Hwy 334, Oxford, Lafayette, MS 38655]]></description>
+        <Point><coordinates>-89.4477607777778,34.2930774444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IL15187-B</name>
+        <description><![CDATA[Date: 8/7/25 8:16 AM
+      Site Name: Sailor Springs IL
+      AGL: 251
+      Tower Type: Self Support
+      Address: 3777 Ivory Lane, Louisville, Clay, IL 62858]]></description>
+        <Point><coordinates>-88.3858135555555,38.8017166666667,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

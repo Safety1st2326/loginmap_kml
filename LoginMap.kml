@@ -829,5 +829,59 @@
       Address: 7241 Old Bayside Rd., Chesapeake Beach, Calvert, MD 20732]]></description>
         <Point><coordinates>-76.55,38.6727826666667,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>TN01818-B</name>
+        <description><![CDATA[Date: 8/7/25 8:38 AM
+      Site Name: Columbia South
+      AGL: 150
+      Tower Type: Monopole
+      Address: 2989 Campbellsville Pike, Columbia, Maury, TN 38401-5923]]></description>
+        <Point><coordinates>-87.0483607777778,35.5807771111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>KY12380-A</name>
+        <description><![CDATA[Date: 8/7/25 8:52 AM
+      Site Name: Weedonia
+      AGL: 190
+      Tower Type: Guyed
+      Address: 6007 KY 419, Maysville, Mason, KY 41056]]></description>
+        <Point><coordinates>-83.7792826666667,38.5742993333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>ME14812-A</name>
+        <description><![CDATA[Date: 8/7/25 8:52 AM
+      Site Name: Lewiston 4 ME
+      AGL: 180
+      Tower Type: Self Support
+      Address: 532 East Street, Lewiston, Androscoggin, ME 04240]]></description>
+        <Point><coordinates>-70.1807632222222,44.1159527777778,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA06741-B</name>
+        <description><![CDATA[Date: 8/7/25 8:52 AM
+      Site Name: Jim Thorpe
+      AGL: 199
+      Tower Type: Flagpole
+      Address: 1 Adventure Lane, Jim Thorpe, Carbon, PA 18229-1519]]></description>
+        <Point><coordinates>-75.7407191111111,40.8759215555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46167-A</name>
+        <description><![CDATA[Date: 8/7/25 8:58 AM
+      Site Name: DT Live Oak
+      AGL: 195
+      Tower Type: Self Support
+      Address: 902 Howard Street East, Live Oak , Suwannee, FL 32064]]></description>
+        <Point><coordinates>-82.9750687777778,30.2911441111111,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46167-A</name>
+        <description><![CDATA[Date: 8/7/25 8:58 AM
+      Site Name: DT Live Oak
+      AGL: 195
+      Tower Type: Self Support
+      Address: 902 Howard Street East, Live Oak , Suwannee, FL 32064]]></description>
+        <Point><coordinates>-82.9750687777778,30.2911441111111,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

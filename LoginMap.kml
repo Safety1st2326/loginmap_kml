@@ -2611,5 +2611,32 @@
       Address: 3950 Van Well Road, Dallas, Polk, OR 97338]]></description>
         <Point><coordinates>-123.327138222222,44.9920718888889,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>UT48081-A</name>
+        <description><![CDATA[Date: 8/6/25 7:39 PM
+      Site Name: West Kearns
+      AGL: 80
+      Tower Type: Monopole
+      Address: 5706 S. Woodview Drive, Salt Lake City, Salt Lake, UT 84119]]></description>
+        <Point><coordinates>-112.042394111111,40.6475163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>UT48081-A</name>
+        <description><![CDATA[Date: 8/6/25 7:40 PM
+      Site Name: West Kearns
+      AGL: 80
+      Tower Type: Monopole
+      Address: 5706 S. Woodview Drive, Salt Lake City, Salt Lake, UT 84119]]></description>
+        <Point><coordinates>-112.042394111111,40.6475163333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL46255-A</name>
+        <description><![CDATA[Date: 8/6/25 7:57 PM
+      Site Name: Bartow West
+      AGL: 140
+      Tower Type: Monopole
+      Address: 1555 W. Main St. , BARTOW, POLK, FL 33830]]></description>
+        <Point><coordinates>-81.8607722222222,27.8954413333333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

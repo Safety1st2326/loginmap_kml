@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
+<Placemark>
+        <name>MD23591-A</name>
+        <description><![CDATA[Date: 8/7/25 5:55 AM
+      Site Name: Votech
+      AGL: 132
+      Tower Type: Monopine
+      Address: 7922 Opossumtown Pike, Frederick, Frederick, MD 21702]]></description>
+        <Point><coordinates>-77.4174021111111,39.4498468888889,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>FL15747-A</name>
+        <description><![CDATA[Date: 8/7/25 5:58 AM
+      Site Name: CR 44 & CR 437
+      AGL: 180
+      Tower Type: Stealth
+      Address: 35920 County Road 437, Eustis, Lake, FL 32726]]></description>
+        <Point><coordinates>-81.5498285555555,28.8722657222222,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

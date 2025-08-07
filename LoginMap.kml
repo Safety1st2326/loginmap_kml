@@ -1297,5 +1297,41 @@
       Address: 711 Harmony Drive, Canton, Cherokee, GA 30115]]></description>
         <Point><coordinates>-84.4101972222222,34.2451135555556,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>MS21842-A</name>
+        <description><![CDATA[Date: 8/7/25 11:22 AM
+      Site Name: Pontotoc MS Tower
+      AGL: 140
+      Tower Type: Guyed
+      Address: 416 HWY 6 W, PONTOTOC, PONTOTOC, MS 38863]]></description>
+        <Point><coordinates>-89.0278354444444,34.2522055555556,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>GA02904-B</name>
+        <description><![CDATA[Date: 8/7/25 11:22 AM
+      Site Name: Hickory 3 GA
+      AGL: 250
+      Tower Type: Self Support
+      Address: 2707 US 41 S., Valdosta, Lowndes, GA 31606-1419]]></description>
+        <Point><coordinates>-83.2331215555556,30.7883746666667,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>CA45925-A</name>
+        <description><![CDATA[Date: 8/7/25 11:28 AM
+      Site Name: Dominguez Pharmacy
+      AGL: 60
+      Tower Type: Tree
+      Address: 2055 N. Perris Blvd, Perris, Riverside, CA 92571]]></description>
+        <Point><coordinates>-117.224824333333,33.8100472222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>NY00567-A</name>
+        <description><![CDATA[Date: 8/7/25 11:24 AM
+      Site Name: Buckley Road
+      AGL: 142
+      Tower Type: Self Support
+      Address: 4785 Buckley Road, Clay, Onondaga, NY 13041]]></description>
+        <Point><coordinates>-76.1836107777778,43.143333,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>

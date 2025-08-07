@@ -127,5 +127,68 @@
       Address: 4105 Ten Oaks Rd, Dayton, Howard, MD 21036]]></description>
         <Point><coordinates>-76.9842774444444,39.2600833333333,0</coordinates></Point>
       </Placemark>
+<Placemark>
+        <name>RI22082-A</name>
+        <description><![CDATA[Date: 8/7/25 6:37 AM
+      Site Name: Foster (Cucumber Hill)
+      AGL: 150
+      Tower Type: Self Support
+      Address: 195 Danielson Pike, Foster, Providence, RI 02825]]></description>
+        <Point><coordinates>-71.7910107777778,41.7942524444444,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>WI17223-A</name>
+        <description><![CDATA[Date: 8/7/25 6:53 AM
+      Site Name: Wautoma
+      AGL: 193
+      Tower Type: Self Support
+      Address: 1001 E. Main Street, Wautoma, Waushara, WI 54982]]></description>
+        <Point><coordinates>-89.2710604444444,44.0682493333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA11844-B</name>
+        <description><![CDATA[Date: 8/7/25 6:55 AM
+      Site Name: Pine Mountain 2 PA
+      AGL: 195
+      Tower Type: Monopole Tree
+      Address: Route 447, East Stroudsburg, Monroe, PA 18301]]></description>
+        <Point><coordinates>-75.2135888888889,41.1031083333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>IN41119-T</name>
+        <description><![CDATA[Date: 8/7/25 6:55 AM
+      Site Name: Meyer CR 500 South
+      AGL: 189
+      Tower Type: Monopole
+      Address: 879 East 510 South, Lafayette, Tippecanoe, IN 47909]]></description>
+        <Point><coordinates>-86.887458,40.342258,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MD46717-A</name>
+        <description><![CDATA[Date: 8/7/25 6:56 AM
+      Site Name: Glenelg
+      AGL: 156
+      Tower Type: Monopole
+      Address: 4105 Ten Oaks Rd, Dayton, Howard, MD 21036]]></description>
+        <Point><coordinates>-76.9842774444444,39.2600833333333,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>MI15925-A</name>
+        <description><![CDATA[Date: 8/7/25 6:51 AM
+      Site Name: Backache Bend
+      AGL: 110
+      Tower Type: Monopole
+      Address: 9710 W. Monroe Road, Elwell, Gratiot, MI 48832]]></description>
+        <Point><coordinates>-84.8008888888889,43.4096722222222,0</coordinates></Point>
+      </Placemark>
+<Placemark>
+        <name>PA01240-B</name>
+        <description><![CDATA[Date: 8/7/25 6:52 AM
+      Site Name: NE Philadelphia
+      AGL: 140
+      Tower Type: Monopole
+      Address: 4300 Holmesburg Avenue, Philadelphia, Philadelphia, PA 19136-4404]]></description>
+        <Point><coordinates>-75.0222493333333,40.0411107777778,0</coordinates></Point>
+      </Placemark>
 </Document>
 </kml>
